@@ -1,0 +1,666 @@
+{
+ "aguilar de la frontera|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.5147,
+  "lon": -4.6567
+ },
+ "albolote|granada": {
+  "provincia": "Granada",
+  "lat": 37.3052,
+  "lon": -3.6615
+ },
+ "albunol|granada": {
+  "provincia": "Granada",
+  "lat": 36.7895,
+  "lon": -3.1883
+ },
+ "albunuelas|granada": {
+  "provincia": "Granada",
+  "lat": 36.9286,
+  "lon": -3.6235
+ },
+ "alcaudete|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.5881,
+  "lon": -4.0813
+ },
+ "algarrobo|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7732,
+  "lon": -4.0399
+ },
+ "algeciras|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.1312,
+  "lon": -5.4474
+ },
+ "algodonales|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.8797,
+  "lon": -5.4048
+ },
+ "alhaurin de la torre|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6628,
+  "lon": -4.5628
+ },
+ "alhaurin el grande|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6421,
+  "lon": -4.6867
+ },
+ "alhendin|granada": {
+  "provincia": "Granada",
+  "lat": 37.0608,
+  "lon": -3.709
+ },
+ "aljaraque|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.2665,
+  "lon": -7.0247
+ },
+ "almaden de la plata|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.8736,
+  "lon": -6.0805
+ },
+ "almeria|almeria": {
+  "provincia": "Almería",
+  "lat": 36.8686,
+  "lon": -2.312
+ },
+ "alora|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8239,
+  "lon": -4.7063
+ },
+ "antas|almeria": {
+  "provincia": "Almería",
+  "lat": 37.2452,
+  "lon": -1.9182
+ },
+ "antequera|malaga": {
+  "provincia": "Málaga",
+  "lat": 37.0184,
+  "lon": -4.5597
+ },
+ "aparcamientos del instituto agave de huercal de almeria|almeria": null,
+ "aracena|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.8949,
+  "lon": -6.5624
+ },
+ "archidona|malaga": {
+  "provincia": "Málaga",
+  "lat": 37.0946,
+  "lon": -4.3907
+ },
+ "ardales|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8782,
+  "lon": -4.8468
+ },
+ "armilla|granada": {
+  "provincia": "Granada",
+  "lat": 37.1475,
+  "lon": -3.6185
+ },
+ "ayamonte|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.2158,
+  "lon": -7.406
+ },
+ "aznalcollar|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.5193,
+  "lon": -6.2717
+ },
+ "baena|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.6173,
+  "lon": -4.3244
+ },
+ "bellavista|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3215,
+  "lon": -5.9642
+ },
+ "benahadux|almeria": {
+  "provincia": "Almería",
+  "lat": 36.9252,
+  "lon": -2.4602
+ },
+ "benahavis|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5223,
+  "lon": -5.0441
+ },
+ "benalmadena|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5945,
+  "lon": -4.5723
+ },
+ "benamargosa|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8353,
+  "lon": -4.1936
+ },
+ "benameji|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.2672,
+  "lon": -4.5404
+ },
+ "berrocal|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.6088,
+  "lon": -6.5422
+ },
+ "bollullos del condado|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.3248,
+  "lon": -6.5274
+ },
+ "cadiz|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.5297,
+  "lon": -6.2929
+ },
+ "camas|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.402,
+  "lon": -6.0332
+ },
+ "cantoria|almeria": {
+  "provincia": "Almería",
+  "lat": 37.3525,
+  "lon": -2.1935
+ },
+ "cartama|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7101,
+  "lon": -4.6315
+ },
+ "cartaya|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.2829,
+  "lon": -7.1546
+ },
+ "casabermeja|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8935,
+  "lon": -4.4288
+ },
+ "castellar|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.2868,
+  "lon": -5.4197
+ },
+ "castilblanco de los arroyos|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.675,
+  "lon": -5.9889
+ },
+ "castildecampo|cordoba": null,
+ "chiclana de la frontera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.4191,
+  "lon": -6.1461
+ },
+ "chipiona|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.7355,
+  "lon": -6.4348
+ },
+ "competa|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8328,
+  "lon": -3.9747
+ },
+ "cordoba|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.8846,
+  "lon": -4.776
+ },
+ "cuervo de sevilla el|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.0617,
+  "lon": -5.8021
+ },
+ "cuevas del almanzora|almeria": {
+  "provincia": "Almería",
+  "lat": 37.2961,
+  "lon": -1.8807
+ },
+ "dalias|almeria": {
+  "provincia": "Almería",
+  "lat": 36.8215,
+  "lon": -2.8702
+ },
+ "ecija|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.5406,
+  "lon": -5.0796
+ },
+ "el alquian|almeria": {
+  "provincia": "Almería",
+  "lat": 36.8536,
+  "lon": -2.3541
+ },
+ "el bosque|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.7573,
+  "lon": -5.5067
+ },
+ "el gaston|cadiz": null,
+ "el gastor|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.8552,
+  "lon": -5.3236
+ },
+ "el puerto de santa maria|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6004,
+  "lon": -6.2253
+ },
+ "el rubio|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3541,
+  "lon": -4.9899
+ },
+ "escuzar|granada": {
+  "provincia": "Granada",
+  "lat": 37.0622,
+  "lon": -3.7612
+ },
+ "estepona|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.4268,
+  "lon": -5.1468
+ },
+ "farajan|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6162,
+  "lon": -5.1882
+ },
+ "faranjan|malaga": null,
+ "fuengirola|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5388,
+  "lon": -4.6234
+ },
+ "fuentes de andalucia|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.4645,
+  "lon": -5.3444
+ },
+ "garrucha|almeria": {
+  "provincia": "Almería",
+  "lat": 37.1854,
+  "lon": -1.8203
+ },
+ "gaucin|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5192,
+  "lon": -5.3178
+ },
+ "gibraleon|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.3746,
+  "lon": -6.9691
+ },
+ "granada|granada": {
+  "provincia": "Granada",
+  "lat": 37.1735,
+  "lon": -3.5995
+ },
+ "guadajoz carmona|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.5816,
+  "lon": -5.6698
+ },
+ "guaro|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6561,
+  "lon": -4.8344
+ },
+ "guejar sierra|": {
+  "provincia": "Granada",
+  "lat": 37.1419,
+  "lon": -3.3707
+ },
+ "herrera|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3653,
+  "lon": -4.8502
+ },
+ "huelva|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.2576,
+  "lon": -6.9485
+ },
+ "huercal overa|almeria": {
+  "provincia": "Almería",
+  "lat": 37.3896,
+  "lon": -1.9451
+ },
+ "huesa|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.7643,
+  "lon": -3.0773
+ },
+ "huevar del aljarafe|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3559,
+  "lon": -6.278
+ },
+ "jerez de la frontera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6817,
+  "lon": -6.1377
+ },
+ "jimena de la frontera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.4327,
+  "lon": -5.4527
+ },
+ "juzcar|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6256,
+  "lon": -5.1708
+ },
+ "la alqueria adra|almeria": {
+  "provincia": "Almería",
+  "lat": 36.7788,
+  "lon": -3.0049
+ },
+ "la linea de la concepcion|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.1678,
+  "lon": -5.3482
+ },
+ "la rinconada|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.4867,
+  "lon": -5.9815
+ },
+ "lanjaron|granada": {
+  "provincia": "Granada",
+  "lat": 36.9181,
+  "lon": -3.4802
+ },
+ "las gabias|granada": {
+  "provincia": "Granada",
+  "lat": 37.1326,
+  "lon": -3.6944
+ },
+ "loja|granada": {
+  "provincia": "Granada",
+  "lat": 37.1524,
+  "lon": -4.2057
+ },
+ "los corrales|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.0992,
+  "lon": -4.9831
+ },
+ "los palacios y villafranca|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.1582,
+  "lon": -5.9245
+ },
+ "lucena|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.4091,
+  "lon": -4.486
+ },
+ "lujar|granada": {
+  "provincia": "Granada",
+  "lat": 36.7755,
+  "lon": -3.3959
+ },
+ "malaga|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7648,
+  "lon": -4.4422
+ },
+ "manilva|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.377,
+  "lon": -5.249
+ },
+ "marbella|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5075,
+  "lon": -4.8047
+ },
+ "mesas de asta|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.7877,
+  "lon": -6.1708
+ },
+ "mijas|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5558,
+  "lon": -4.695
+ },
+ "monachil|granada": {
+  "provincia": "Granada",
+  "lat": 37.102,
+  "lon": -3.4694
+ },
+ "nijar|almeria": {
+  "provincia": "Almería",
+  "lat": 36.9629,
+  "lon": -2.2064
+ },
+ "ojen|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.5645,
+  "lon": -4.8565
+ },
+ "pabellon cubierto de atarfe avenida diputacion s n|granada": null,
+ "pabellon infanta cristina roquetas de mar|almeria": {
+  "provincia": "Almería",
+  "lat": 36.7684,
+  "lon": -2.613
+ },
+ "padul|granada": {
+  "provincia": "Granada",
+  "lat": 37.0223,
+  "lon": -3.6275
+ },
+ "palacios y villafranca los|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.1597,
+  "lon": -5.9276
+ },
+ "parque de los bajos|almeria": null,
+ "paseo de las palmeras de bailen jaen|jaen": {
+  "provincia": "Jaén",
+  "lat": 38.093,
+  "lon": -3.7807
+ },
+ "peligros|granada": {
+  "provincia": "Granada",
+  "lat": 37.2307,
+  "lon": -3.628
+ },
+ "pizarra|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7668,
+  "lon": -4.7077
+ },
+ "plaza de guajar fondon|granada": {
+  "provincia": "Granada",
+  "lat": 36.8405,
+  "lon": -3.5849
+ },
+ "plaza de la coronacion motril|granada": {
+  "provincia": "Granada",
+  "lat": 36.7423,
+  "lon": -3.5215
+ },
+ "plaza de la iglesia de alcutar|granada": null,
+ "porcuna|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.871,
+  "lon": -4.1843
+ },
+ "prado del rey|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.7879,
+  "lon": -5.5572
+ },
+ "puebla del rio la|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3761,
+  "lon": -5.9414
+ },
+ "puente genil|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.3874,
+  "lon": -4.7716
+ },
+ "puerto serrano|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.9213,
+  "lon": -5.5421
+ },
+ "rincon de la victoria|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7162,
+  "lon": -4.2794
+ },
+ "ronda|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7421,
+  "lon": -5.1666
+ },
+ "rota chipiona|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6138,
+  "lon": -6.2106
+ },
+ "rota|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6229,
+  "lon": -6.36
+ },
+ "rubio el|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3557,
+  "lon": -4.9893
+ },
+ "rute|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.3253,
+  "lon": -4.37
+ },
+ "san fernando|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.4647,
+  "lon": -6.1983
+ },
+ "san jose del valle monte de la cruz|cadiz": null,
+ "san jose del valle|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6063,
+  "lon": -5.7997
+ },
+ "san roque|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.2101,
+  "lon": -5.3868
+ },
+ "sanlucar la mayor|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3864,
+  "lon": -6.2024
+ },
+ "santiponce|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.4356,
+  "lon": -6.0399
+ },
+ "sevilla|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3886,
+  "lon": -5.9953
+ },
+ "tarifa|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.0129,
+  "lon": -5.605
+ },
+ "teba|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.9835,
+  "lon": -4.9203
+ },
+ "torrecera el torno|cadiz": null,
+ "torremolinos|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.6243,
+  "lon": -4.4995
+ },
+ "torrenueva|granada": {
+  "provincia": "Granada",
+  "lat": 36.7088,
+  "lon": -3.4806
+ },
+ "torreperogil|jaen": {
+  "provincia": "Jaén",
+  "lat": 38.0354,
+  "lon": -3.2883
+ },
+ "trasmulas|granada": {
+  "provincia": "Granada",
+  "lat": 37.1982,
+  "lon": -3.8715
+ },
+ "valle de abdalajis|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.9312,
+  "lon": -4.6826
+ },
+ "vegas del genil|granada": {
+  "provincia": "Granada",
+  "lat": 37.1687,
+  "lon": -3.6891
+ },
+ "vejer de la frontera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.2519,
+  "lon": -5.967
+ },
+ "velez malaga|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7818,
+  "lon": -4.0988
+ },
+ "villaluenga del rosario|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6966,
+  "lon": -5.386
+ },
+ "villanueva del ariscal|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3966,
+  "lon": -6.1445
+ },
+ "villanueva del trabuco|malaga": {
+  "provincia": "Málaga",
+  "lat": 37.0284,
+  "lon": -4.338
+ },
+ "villarrubia|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.848,
+  "lon": -4.9138
+ },
+ "villaverde del rio|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.5919,
+  "lon": -5.8759
+ }
+}

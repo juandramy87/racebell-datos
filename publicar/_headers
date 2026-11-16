@@ -1,0 +1,4 @@
+/carreras.json
+  Cache-Control: public, max-age=1800
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8

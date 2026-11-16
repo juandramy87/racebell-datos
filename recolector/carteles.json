@@ -1,0 +1,312 @@
+{
+ "_leeme": "Datos leídos por Claude en los carteles (FAA y otras fuentes que solo dan cartel). Clave = URL del cartel. Solo datos de hecho y previos cortos; nada de copiar el cartel. Fecha de lectura en «leido».",
+ "https://atletismofaa.es/wp-content/uploads/2026/10/estponaencuentro26.webp": {
+  "leido": "2026-11-16",
+  "nombre": "Encuentro de Atletismo de Estepona (34º Circuito Provincial)",
+  "poblacion": "Estepona",
+  "provincia": "Málaga",
+  "hora": "10:30",
+  "modalidad": "pista",
+  "precios": [
+   {
+    "nombre": "General",
+    "euros": 1.5
+   }
+  ],
+  "inscripcion_hasta": "2026-11-16T23:59",
+  "previos": [
+   "Cierre el lunes anterior a la prueba",
+   "No se admiten inscripciones el día de la prueba",
+   "Estadio de atletismo"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/10/archidonacross26-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XXXI Campo a Través de Archidona",
+  "poblacion": "Archidona",
+  "provincia": "Málaga",
+  "hora": "10:30",
+  "modalidad": "cross",
+  "previos": [
+   "Inscripción en el calendario de atletismofaa.es"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/Cartel-I-Carrera-Cruz-de-Velasco.webp": {
+  "leido": "2026-11-16",
+  "nombre": "I Carrera Popular Cruz de Velasco",
+  "poblacion": "Villanueva del Ariscal",
+  "provincia": "Sevilla",
+  "distancias_km": [
+   5
+  ],
+  "modalidad": "asfalto",
+  "estado_fuente": "no_abierta",
+  "previos": [
+   "Inscripciones «próximamente» según el cartel",
+   "Adultos y categorías inferiores"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/09/velezesperanza26-1200x2097.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XLIII Carrera Urbana de Vélez-Málaga",
+  "poblacion": "Vélez-Málaga",
+  "provincia": "Málaga",
+  "hora": "11:15",
+  "distancias_km": [
+   5,
+   10
+  ],
+  "modalidad": "asfalto",
+  "precios": [
+   {
+    "nombre": "5K",
+    "euros": 8
+   },
+   {
+    "nombre": "10K",
+    "euros": 10
+   },
+   {
+    "nombre": "Hasta Sub16",
+    "euros": 6
+   }
+  ],
+  "url_inscripcion": "https://www.atletismovelez.es",
+  "previos": [
+   "Camiseta solo para inscritos hasta el 10/11",
+   "Categorías inferiores desde las 10:30",
+   "Salida: Paseo de Andalucía"
+  ],
+  "dudoso": "El cartel pone «10 de noviembre de 2025» para la camiseta: probablemente es 2026"
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/cartayapinares262.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XXXIX Cross Pinares Cartaya",
+  "poblacion": "Cartaya",
+  "provincia": "Huelva",
+  "hora": "10:00",
+  "modalidad": "cross",
+  "precios": [
+   {
+    "nombre": "General",
+    "euros": 0
+   }
+  ],
+  "inscripcion_hasta": "2026-11-19T14:00",
+  "previos": [
+   "Inscripción gratuita",
+   "Salida en la Pradera San Isidro"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/10/IMG-20261015-WA0006.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XIII Inmaculada Alcaldesa Perpetua 5K",
+  "poblacion": "La Línea de la Concepción",
+  "provincia": "Cádiz",
+  "hora": "19:30",
+  "distancias_km": [
+   5
+  ],
+  "modalidad": "pista",
+  "previos": [
+   "Pista de atletismo",
+   "Menores a las 17:30",
+   "De Sub16 a Máster E"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/10/Cartel-Trail-Race-2026-v02-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "Antequera Trail Race",
+  "poblacion": "Antequera",
+  "provincia": "Málaga",
+  "distancias_km": [
+   10,
+   14,
+   24
+  ],
+  "modalidad": "trail",
+  "previos": [
+   "24 km (+1300 m), 14 km (+700 m) y 10 km de promoción",
+   "Carreras de menores"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/benameji26.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XIV Carrera Kilo de Benamejí",
+  "poblacion": "Benamejí",
+  "provincia": "Córdoba",
+  "hora": "11:30",
+  "distancias_km": [
+   5
+  ],
+  "modalidad": "asfalto",
+  "precios": [
+   {
+    "nombre": "Prueba reina",
+    "euros": 5
+   },
+   {
+    "nombre": "Categorías base",
+    "euros": 0
+   }
+  ],
+  "previos": [
+   "Camiseta para las primeras 170 personas inscritas",
+   "Categorías base a las 10:00",
+   "Salida: Plaza de la Constitución"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/CARTEL-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "VII Garzón Trail",
+  "poblacion": "Ardales",
+  "provincia": "Málaga",
+  "modalidad": "trail",
+  "previos": [
+   "Nuevo recorrido"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/10/rute26.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XVI Carrera Popular Rute en Navidad",
+  "poblacion": "Rute",
+  "provincia": "Córdoba",
+  "hora": "10:00",
+  "distancias_km": [
+   5.5
+  ],
+  "modalidad": "asfalto",
+  "precios": [
+   {
+    "nombre": "Categoría reina",
+    "euros": 7
+   },
+   {
+    "nombre": "Categorías inferiores",
+    "euros": 2
+   }
+  ],
+  "previos": [
+   "1 € de cada inscripción para la Asociación Española Contra el Cáncer",
+   "Categorías inferiores desde las 11:00",
+   "Circuito urbano"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/Carreraelpavo.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XXX Carrera del Pavo",
+  "poblacion": "Ayamonte",
+  "provincia": "Huelva",
+  "hora": "11:00",
+  "modalidad": "cross",
+  "precios": [
+   {
+    "nombre": "General",
+    "euros": 0
+   }
+  ],
+  "previos": [
+   "Inscripción gratuita",
+   "En Isla Canela Links (Costa Esuri)"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/valleabdalajis26.webp": {
+  "leido": "2026-11-16",
+  "nombre": "VI Carrera Popular Villa Nescania",
+  "poblacion": "Valle de Abdalajís",
+  "provincia": "Málaga",
+  "modalidad": "asfalto"
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/trabucocross26.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XIV Campo a Través Villanueva del Trabuco",
+  "poblacion": "Villanueva del Trabuco",
+  "provincia": "Málaga",
+  "hora": "10:30",
+  "modalidad": "cross",
+  "previos": [
+   "Salida desde el Parque Periurbano Los Villares"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/algarrobocross26-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XXXII Campo a Través Villa de Algarrobo",
+  "poblacion": "Algarrobo",
+  "provincia": "Málaga",
+  "hora": "10:30",
+  "modalidad": "cross",
+  "previos": [
+   "En el Parque de la Vega (Algarrobo Costa)"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/10/cartamanavidad262.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XXI Carrera de Navidad de Cártama",
+  "poblacion": "Cártama",
+  "provincia": "Málaga",
+  "hora": "10:30",
+  "distancias_km": [
+   4,
+   10
+  ],
+  "modalidad": "asfalto",
+  "previos": [
+   "10K «la tradicional», 4K «la mini» y 4K de disfraces",
+   "Carreras infantiles",
+   "Salida en la Ciudad Deportiva"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/09/velezss26-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XVII San Silvestre Vélez-Málaga",
+  "poblacion": "Vélez-Málaga",
+  "provincia": "Málaga",
+  "hora": "18:00",
+  "modalidad": "asfalto",
+  "precios": [
+   {
+    "nombre": "Hasta Sub16",
+    "euros": 6
+   },
+   {
+    "nombre": "Desde Sub18",
+    "euros": 8
+   }
+  ],
+  "url_inscripcion": "https://www.atletismovelez.es",
+  "previos": [
+   "Camiseta para los inscritos hasta el 10/12",
+   "Salida: Romero Pozo / Plaza Carmelitas; llegada: Plaza del Carmen",
+   "Salidas a las 18:00 y 18:30"
+  ]
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/08/competa262.webp": {
+  "leido": "2026-11-16",
+  "nombre": "X Carrera San Silvestre Cómpeta",
+  "poblacion": "Cómpeta",
+  "provincia": "Málaga",
+  "modalidad": "asfalto"
+ },
+ "https://atletismofaa.es/wp-content/uploads/2026/11/amoalla26-scaled.webp": {
+  "leido": "2026-11-16",
+  "nombre": "XI San Silvestre Aguilarense Solidaria",
+  "poblacion": "Aguilar de la Frontera",
+  "provincia": "Córdoba",
+  "hora": "18:00",
+  "distancias_km": [
+   3.5
+  ],
+  "modalidad": "asfalto",
+  "precios": [
+   {
+    "nombre": "General (+1 kg de alimentos)",
+    "euros": 10
+   }
+  ],
+  "previos": [
+   "Inscripciones desde el 13/11 a las 21:00",
+   "Dorsal y camiseta en la Plaza de Abastos el 28 y 29/12 (18–20 h) y el día de la carrera",
+   "Salida en la Plaza de Abastos"
+  ]
+ }
+}

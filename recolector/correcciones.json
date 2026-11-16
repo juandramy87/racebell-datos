@@ -1,0 +1,7 @@
+{
+ "_leeme": "Correcciones a mano que el recolector aplica después de leer las fuentes. Clave = URL de la ficha en la fuente. Anotar siempre el motivo y la fecha.",
+ "canceladas": {
+  "https://deportime.es/events/xiii-carrera-por-la-no-violencia-de-genero-y-por-la-igualdad/": "Cancelada: el Patronato de Jaén suspendió las carreras de noviembre por falta de Policía Local (CSIF, 10/11/2026)"
+ },
+ "cambios": {}
+}

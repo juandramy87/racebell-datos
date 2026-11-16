@@ -1,0 +1,263 @@
+{
+ "fuentes": {
+  "dorsalchip": {
+   "leidas": 51,
+   "en_plazo": 50
+  },
+  "tecnocrono": {
+   "leidas": 22,
+   "en_plazo": 22
+  },
+  "sesca": {
+   "leidas": 12,
+   "en_plazo": 5
+  },
+  "globaltempo": {
+   "leidas": 18,
+   "en_plazo": 18
+  },
+  "faa": {
+   "leidas": 26,
+   "en_plazo": 26
+  },
+  "gesconchip": {
+   "leidas": 21,
+   "en_plazo": 21
+  },
+  "corredorespopulares": {
+   "leidas": 12,
+   "en_plazo": 12
+  },
+  "cronius": {
+   "leidas": 12,
+   "en_plazo": 9
+  },
+  "inscrik": {
+   "leidas": 13,
+   "en_plazo": 10
+  },
+  "deportime": {
+   "leidas": 10,
+   "en_plazo": 10
+  },
+  "todofondo": {
+   "leidas": 5,
+   "en_plazo": 5
+  },
+  "runnink": {
+   "leidas": 0,
+   "en_plazo": 0
+  },
+  "alcanzatumeta": {
+   "leidas": 4,
+   "en_plazo": 4
+  },
+  "rockthesport": {
+   "leidas": 8,
+   "en_plazo": 8
+  },
+  "olarivers": {
+   "leidas": 24,
+   "en_plazo": 24
+  },
+  "tucarrera": {
+   "leidas": 6,
+   "en_plazo": 3
+  },
+  "ruta091": {
+   "leidas": 2,
+   "en_plazo": 2
+  },
+  "cronofinisher": {
+   "leidas": 7,
+   "en_plazo": 7
+  },
+  "time2run": {
+   "leidas": 3,
+   "en_plazo": 3
+  },
+  "sportmaniacs": {
+   "leidas": 12,
+   "en_plazo": 12
+  },
+  "anunciadas": {
+   "leidas": 16,
+   "en_plazo": 16
+  }
+ },
+ "descartes": {
+  "dorsalchip": [
+   "no es a pie: KDD Mountainbike Jubrique 2026",
+   "no es a pie: X Marcha Solidaria contra la Violencia Machista",
+   "no es a pie: Bokeron Bike 2026",
+   "no es a pie: IX Marcha urbana solidaria CONTRA EL CANCER Y ENFERMEDADES RARAS",
+   "no es a pie: XXVI Triatlon Indoor Torremolinos",
+   "no es a pie: 1 Copa Andalucía VI Linares Nordic Walking",
+   "no es a pie: Entradas Espectadores ME Hybrid Marbella",
+   "no es a pie: ME Hybrid Marbella"
+  ],
+  "tecnocrono": [
+   "circuito o temporada, no una carrera: Copa/liga Sevillana CxM 2026",
+   "circuito o temporada, no una carrera: VI Copa de Carreras por Montaña en Edad Escolar Sevilla 2026",
+   "circuito o temporada, no una carrera: Huelva y Senda 2026",
+   "circuito o temporada, no una carrera: Circuito Diputación de Cádiz de Senderismo 2026",
+   "circuito o temporada, no una carrera: VIII Copa Gaditana CxM",
+   "circuito o temporada, no una carrera: Toruños Running Series 2027",
+   "no es a pie: Renovación y Captación de Socios Club Deportivo Turdetania (Otro)"
+  ],
+  "sesca": [
+   "no es a pie: XV Ruta Ciclista Mtb Ciudad de Vejer 2026",
+   "no es a pie: X Cicloturista Villa de Conil"
+  ],
+  "globaltempo": [
+   "fecha por defecto 01-01 (circuito o sin fecha real): Circuito de Carreras por Montaña - Diputación de Granada",
+   "fecha por defecto 01-01 (circuito o sin fecha real): Circuito de Travesías a Nado 2026 - Diputación de Granada",
+   "fecha por defecto 01-01 (circuito o sin fecha real): Circuito Provincial de Triatlón Diputación de Granada 2026",
+   "no es a pie: Senderos de Granada - Jornada 21. Benamaurel",
+   "no es a pie: Senderos de Granada - Jornada 22. Zafarraya",
+   "no es a pie: I Mushing Entre Olivos - Lopera",
+   "no es a pie: Carrera Cicloturística - la Picanta Bike",
+   "no es a pie: I Encuentro Andaluz de Mujeres Marchadoras"
+  ],
+  "faa": [],
+  "gesconchip": [
+   "no es a pie: I Media Maratón MTB SAN ROQUE 2026 ()",
+   "no es a pie: XX Travesia Invernal Pedro Machuca ()",
+   "no es a pie: I Carrera Híbrida de Alhaurín el Grande (Otros)",
+   "fuera de Andalucía: XI Carrera Cívico-militar Cuna de la Legión (Ceuta)",
+   "no es a pie: II Ipolca Race (Otros)",
+   "no es a pie: III Marcha a Favor del Autismo Cadena 100 ()",
+   "fuera de Andalucía: X Desafío de los 300 (Ceuta)",
+   "no es a pie: XVI Triatlón cros supersprint de Herrera ()",
+   "no es a pie: XIV Acuatlón por Relevos Villa de Rota ()",
+   "no es a pie: XXX Triatlón Villa de Rota ()"
+  ],
+  "corredorespopulares": [
+   "sin fecha: XII Carrera Solidaria Memorial Javier Pozo Pozo",
+   "sin fecha: XXX Carrera los Chamuscaos",
+   "sin fecha: 27ª Media Maratón Marchena-paradas",
+   "no es a pie: II Marcha Solidaria Afavi"
+  ],
+  "cronius": [],
+  "inscrik": [
+   "fuera de Andalucía o sin provincia: VI San Silvestrail Villa de Fines ()",
+   "fuera de Andalucía o sin provincia: Medio Maratón Almería 2027 ()",
+   "fuera de Andalucía o sin provincia: CxM Sierro 2027 ()",
+   "fuera de Andalucía o sin provincia: IX Cross Solidario LICEO MEDITERRANEO ()",
+   "fuera de Andalucía o sin provincia: V Clasica Rincon de la Victoria Lleno de Vida ()",
+   "fuera de Andalucía o sin provincia: 24 Horas Backgreen #contralaleucemiainfantil 2026 ()",
+   "fuera de Andalucía o sin provincia: X Edición CxM Castillo de Tahal ()",
+   "fuera de Andalucía o sin provincia: CONFIRMACIÓN - Campeonato de Andalucía de Media Maratón (Motril) ()",
+   "fuera de Andalucía o sin provincia: VII Edición Minidesértica ''el Mar Empieza en Casa'' ()",
+   "no es a pie: senderismo del jamon de maria 2026",
+   "fuera de Andalucía o sin provincia: IV Carrera por la Prevención de Riesgos Laborales de la Comunidad de Madrid (Madrid)",
+   "no es a pie: vi travesia a nado puertos de roquetas",
+   "fuera de Andalucía o sin provincia: Desafío Nocturno la Cumbre Subida Al Agüica Verano ()",
+   "no es a pie: travesia santa ana roquetas"
+  ],
+  "deportime": [
+   "no es a pie: i rally de escalada sierras subbeticas luque",
+   "no es a pie: ii caminata solidaria divino pastorcillo"
+  ],
+  "todofondo": [
+   "no es a pie: Encuentro Interprovincial Senderismo Abrucena (SENDERISMO)"
+  ],
+  "runnink": [],
+  "alcanzatumeta": [],
+  "rockthesport": [],
+  "olarivers": [
+   "no es a pie: Bokeron Bike 2026 (MTB)"
+  ],
+  "tucarrera": [
+   "no es a pie: Calar Alto Ride 2027",
+   "no es a pie: Volcanica Mtb 2026",
+   "no es a pie: Triatlon Cabo de Gata Nijar",
+   "no es a pie: Calar Alto Ride 2026",
+   "no es a pie: V Mozarabe Bike Race"
+  ],
+  "ruta091": [],
+  "cronofinisher": [],
+  "time2run": [
+   "no es a pie: Hyrox Viding (ocr)",
+   "no es a pie: The Hybrid Run (fitness)",
+   "no es a pie: L.H.A. Sevilla (fitness)",
+   "no es a pie: L.S.A. Sevilla (fitness)"
+  ],
+  "sportmaniacs": [
+   "no es a pie: F45 Hyrox Simulation",
+   "no es a pie: VI Ruta BTT – Cadalso 2026",
+   "sin datos de evento: https://sportmaniacs.com/es/races/cursafosca-2026-middot-la-seminocturna-del-penedes",
+   "sin datos de evento: https://sportmaniacs.com/es/races/i-pujada-als-plans",
+   "no es a pie: X Carrera Popular XI Marcha Solidaria por la Diabetes",
+   "sin datos de evento: https://sportmaniacs.com/es/races/cronoserio-filters",
+   "sin datos de evento: https://sportmaniacs.com/es/races/open-maxxis-marathon-sant-vicenc-dels-horts-2026",
+   "no es a pie: II Marcha Atlética Ciudad de Llerena y II 5k en Ruta Ciudad de Llerena",
+   "no es a pie: Campeonato Nacional de Triatlón Gran Jaguar 70.3 2026",
+   "no es a pie: X Carrera Amafi Run, IX Canicross Amafi y V Marcha Senderista Amafi de Yepes.",
+   "no es a pie: Natural Greatness Wild Race Campeonato Autonomico Mushing Tierra Comunidad Valenciana 2026",
+   "circuito o temporada, no una carrera: Nationale-Nederlanden San Silvestre Vallecana Virtual 2026",
+   "no es a pie: XVI Marcha do Cocido",
+   "no es a pie: Marcha Solidaria Aquí Nadie Lucha Solo – por Manti",
+   "no es a pie: LA TERRETA Bike Marathon 2027",
+   "no es a pie: Hibox Hybrid Race 2027",
+   "no es a pie: Cruce a Nado Al Petén Itza 2027",
+   "no es a pie: Pulse Hybrid Challenge 27",
+   "circuito o temporada, no una carrera: Escuela Verano Azul Ibiza 2027",
+   "no es a pie: Soy LEYENDA Gravel Btt 2027"
+  ],
+  "anunciadas": [
+   "sin web oficial: Carrera Urbana Internacional Noche de San Antón 2027",
+   "sin web oficial: XXXVII Media Maratón Internacional de Torremolinos",
+   "sin web oficial: Media Maratón Camino Mozárabe 2027",
+   "sin web oficial: Medio Maratón Álora Valle del Sol 2027",
+   "sin web oficial: Trail Guzmán el Bueno 2027",
+   "sin web oficial: Grazalema Trail Nature 2027",
+   "sin web oficial: Saltamontes Backyard Ultra Córdoba 2027",
+   "sin web oficial: 101 km de La Legión Ronda 2027",
+   "sin web oficial: Ultra Trail Bosques del Sur 2027",
+   "sin web oficial: Al Andalus Ultimate Trail 2027"
+  ],
+  "correcciones": [
+   "XIII Carrera por la No Violencia de Género y por la Igualdad: Cancelada: el Patronato de Jaén suspendió las carreras de noviembre por falta de Policía Local (CSIF, 10/11/2026)"
+  ]
+ },
+ "avisos": [
+  "runnink: 0 carreras. ¿Ha cambiado la web?"
+ ],
+ "carteles_aplicados": 18,
+ "municipios_completados": 207,
+ "uniones": [
+  "2026-11-21 · 7 Ecomaratón La Donaira [dorsalchip] = 7ª Ecomaratón la Donaira [olarivers]",
+  "2026-11-22 · III Carrera El Cerebro no es Gris [dorsalchip] = III Carrera el Cerebro No Es Gris [olarivers]",
+  "2026-12-05 · VI Solidaria de Guaro UCS [dorsalchip] = VI Solidaria de Guaro UCS [olarivers]",
+  "2026-12-06 · XIII CxM Faraján [dorsalchip] = XIII CxM Faraján [olarivers]",
+  "2026-12-13 · CxM Alhaurín El Grande Homenaje al Mori [dorsalchip] = CxM Alhaurín el Grande Homenaje Al Mori [olarivers]",
+  "2026-12-19 · CxM Corrillón Trail [dorsalchip] = CxM Corrillón Trail [olarivers]",
+  "2026-12-20 · XIII Carrera Solidaria de Navidad de Algeciras [dorsalchip] = XIII Carrera Solidaria de Navidad de Algeciras [olarivers]",
+  "2026-12-26 · II San Silvestre De Ojén [dorsalchip] = II San Silvestre de Ojén [olarivers]",
+  "2026-12-30 · VIII San Silvestre Real Club Mediterraneo 2026 [dorsalchip] = VIII San Silvestre Real Club Mediterraneo 2026 [olarivers]",
+  "2027-01-03 · I Carrera San Silvestre de Écija [dorsalchip] = I Carrera San Silvestre de Écija [olarivers]",
+  "2027-01-10 · XIII CxM Alhaurín de la Torre La Conquista del Paraíso [dorsalchip] = XIII CxM Alhaurín de la Torre la Conquista del Paraíso [olarivers]",
+  "2027-01-16 · VIII Trail Manilva [dorsalchip] = VIII Trail Manilva [olarivers]",
+  "2027-01-17 · XXXIV Carrera Popular Ruta Carlos III [dorsalchip] = XXXIV Carrera Popular Ruta Carlos III [olarivers]",
+  "2027-01-30 · XI Trail Álora Monte Hacho [dorsalchip] = XI Trail Álora Monte Hacho [olarivers]",
+  "2027-01-31 · VIII CxM La Pólvora [dorsalchip] = VIII CxM la Pólvora [olarivers]",
+  "2027-02-07 · XXXVII Media Maratón Torremolinos [dorsalchip] = 37ª Media Maraton Torremolinos [tecnocrono] = XXXVII Media Maraton de Torremolinos [rockthesport] = XXXVII Media Maratón Torremolinos 2027 [olarivers]",
+  "2027-04-24 · XII Trail Los Alcornocales [dorsalchip] = XII Trail los Alcornocales [olarivers]",
+  "2027-04-24 · XII Cross Trail Villa de Teba [dorsalchip] = XII Cross Trail Villa de Teba [olarivers]",
+  "2026-12-06 · XIV Carrera Popular Villa de Villaverde [tecnocrono] = XIV Carrera Popular Villa de Villaverde [corredorespopulares]",
+  "2026-12-20 · XIII Carrera la Cordobaria Navidad 2026 [tecnocrono] = 13 Carrera la Cordobaria en Navidad [corredorespopulares] = XIII Carrera la Cordobaria Navidad 2026 [olarivers]",
+  "2026-12-27 · XIX Carrera Popular Clásica de Castilblanco [tecnocrono] = XIX Carrera Popular Clásica de Castilblanco [corredorespopulares]",
+  "2026-12-27 · Carrera Navideña de Bellavista [tecnocrono] = Carrera Navideña de Bellavista [corredorespopulares]",
+  "2027-01-16 · III Carrera Infantil Trail Villa de el Bosque [tecnocrono] = III Carrera Infantil Trail Villa de el Bosque [olarivers]",
+  "2027-01-17 · Trail de el Bosque 2027 [tecnocrono] = III Trail Villa de el Bosque 2027 [olarivers]",
+  "2027-01-24 · VIII Media Maratón Entreparques la Rinconada [tecnocrono] = VIII Media Maratón Entreparques la Rinconada [corredorespopulares]",
+  "2027-03-07 · X Muro de Filípides [tecnocrono] = X Muro de Filípides [corredorespopulares]",
+  "2027-04-11 · IV Viamed Media Maratón Ciudad de Chiclana [gesconchip] = IV Media Maratón Ciudad de Chiclana [anunciadas]",
+  "2026-11-22 · Cross de Puente Genil [corredorespopulares] = XVI Circuito Cross Epa Miguel Ríos [olarivers]",
+  "2026-12-20 · 3ª Carrera Popular de Navidad el Rubio [corredorespopulares] = Carrera Popular de Navidad de El Rubio 2026 [sportmaniacs]",
+  "2027-10-10 · Maratón de Estepona Jardin de la Costa del Sol [rockthesport] = Maratón Costa del Sol Estepona 2027 [anunciadas]",
+  "2027-04-02 · Unicaja Ultra Sierra Nevada 2027 [rockthesport] = Unicaja Ultra Sierra Nevada 2027 [anunciadas]",
+  "2026-12-13 · 32 Medio Maratón de Sevilla [sportmaniacs] = Medio Maratón de Sevilla 2026 [anunciadas]"
+ ]
+}

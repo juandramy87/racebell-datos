@@ -1,0 +1,500 @@
+{
+ "_leeme": "Carreras grandes con fecha anunciada en su web OFICIAL que aún no están en ninguna plataforma de inscripción. Las apunta Claude; «comprobado» = día en que se miró la web. Si la fecha solo sale en un agregador: fecha_provisional = true.",
+ "carreras": [
+  {
+   "nombre": "Medio Maratón de Sevilla 2026",
+   "fecha": "2026-12-13",
+   "hora": "09:00",
+   "poblacion": "Sevilla",
+   "provincia": "Sevilla",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://imd.sevilla.org/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Aplazada del 29/11 al 13/12/2026 por las elecciones generales; la fecha y hora figuran en la agenda del IMD de Sevilla. Dorsales de la fecha original siguen válidos.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "40 Media Maratón de Córdoba",
+   "fecha": "2026-12-13",
+   "hora": "10:00",
+   "poblacion": "Córdoba",
+   "provincia": "Córdoba",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://mediamaratoncordoba.es/",
+   "url_inscripcion": "https://mmcordoba.cruzandolameta.es/lista-espera",
+   "estado_inscripcion": "cerrada",
+   "nota": "Web oficial: 13/12/2026 a las 10:00 (agregadores aún dicen 29/11). Inscripciones agotadas, hay lista de espera. Salida Av. Conde de Vallellano.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Media Maratón Sevilla - Los Palacios 2026",
+   "fecha": "2026-12-20",
+   "hora": "11:00",
+   "poblacion": "Los Palacios y Villafranca",
+   "provincia": "Sevilla",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.cruzandolameta.es/pruebas/media-maraton-sevilla-los-palacios-2026/",
+   "url_inscripcion": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2026---2559/",
+   "estado_inscripcion": "abierta",
+   "nota": "Ficha en la plataforma de inscripción (Cruzando la Meta): 20/12/2026 11:00; los agregadores aún dicen 13/12. Inscripción hasta 01/12/2026 23:59.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Carrera Urbana Internacional Noche de San Antón 2027",
+   "fecha": "2027-01-16",
+   "poblacion": "Jaén",
+   "provincia": "Jaén",
+   "distancias_km": [
+    10
+   ],
+   "modalidad": "asfalto",
+   "estado_inscripcion": "no_abierta",
+   "fecha_provisional": true,
+   "nota": "No es media. Fecha en running.life, que enlaza la ficha de la FAA (web.faalive.com/ch/2027/14537, no cargó). En 2026 la inscripción abrió en diciembre por RockTheSport.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Media Maratón & 10K El Puerto 2027",
+   "fecha": "2027-01-31",
+   "hora": "09:00",
+   "poblacion": "El Puerto de Santa María",
+   "provincia": "Cádiz",
+   "distancias_km": [
+    21.097,
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.mediamaratonelpuerto.com/",
+   "url_inscripcion": "https://www.runnink.com/evento/media-maraton-el-puerto/114",
+   "estado_inscripcion": "abierta",
+   "nota": "Inscripción en Runnink hasta el 17/01/2027 o fin de dorsales. Salida junto al C.C. El Paseo.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "XXXVII Media Maratón Internacional de Torremolinos",
+   "fecha": "2027-02-07",
+   "hora": "09:30",
+   "poblacion": "Torremolinos",
+   "provincia": "Málaga",
+   "distancias_km": [
+    21.097,
+    5
+   ],
+   "modalidad": "asfalto",
+   "estado_inscripcion": "abierta",
+   "fecha_provisional": true,
+   "nota": "Fecha y hora según prensa (Euro Weekly News, Vivir Ediciones) y agregadores; inscripción en RockTheSport, cierre 23 o 31/01/2027 según fuente. No pude abrir la web del Ayuntamiento.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Marbella Epic Trail IV edición",
+   "fecha": "2027-02-20",
+   "hora": "05:00",
+   "poblacion": "Marbella",
+   "provincia": "Málaga",
+   "distancias_km": [
+    65.89,
+    41.5,
+    35.3
+   ],
+   "modalidad": "trail",
+   "url_oficial": "https://www.marbellaepictrail.com/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Web oficial: 20/02/2027. Hora de la distancia larga (Epic 65,89 km); Destroyer 08:00, Tragapiedras 09:00. Dorsales limitados.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Zurich Maratón de Sevilla 2027",
+   "fecha": "2027-02-21",
+   "hora": "08:30",
+   "poblacion": "Sevilla",
+   "provincia": "Sevilla",
+   "distancias_km": [
+    42.195,
+    5
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.zurichmaratonsevilla.es/",
+   "url_inscripcion": "https://in.njuko.com/zurich-maraton-de-sevilla-20271775207620156?currentPage=select-competition",
+   "estado_inscripcion": "cerrada",
+   "nota": "Web oficial: 21/02/2027, dorsales agotados (20.000), solo lista de espera. La 5K Breakfast Run tiene inscripción aparte. La hora (08:30) es de Finishers.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Media Maratón Camino Mozárabe 2027",
+   "fecha": "2027-02-28",
+   "poblacion": "Hinojosa del Duque",
+   "provincia": "Córdoba",
+   "distancias_km": [
+    22.15,
+    13,
+    18.2
+   ],
+   "modalidad": "asfalto",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha solo en marathons.com (Finishers: 'fin de febrero 2027'). Recorrido Alcaracejos-Hinojosa del Duque; en 2026 se corrió en sábado (21/02). Mezcla de camino y carretera.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "100 Millas Sierras del Bandolero 2027",
+   "fecha": "2027-03-05",
+   "poblacion": "Prado del Rey",
+   "provincia": "Cádiz",
+   "distancias_km": [
+    160,
+    81,
+    40
+   ],
+   "modalidad": "trail",
+   "url_oficial": "https://www.clubtriton.es/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Web del Club de Montaña Tritón: 5-7/03/2027. Distancias según GoTrail/Mayayo (Bandolerita 81 km, Maratón Bandolero 40 km).",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "TotalEnergies Media Maratón Ciudad de Málaga 2027",
+   "fecha": "2027-03-07",
+   "hora": "08:15",
+   "poblacion": "Málaga",
+   "provincia": "Málaga",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.mediamaratonmalaga.com/",
+   "url_inscripcion": "https://www.mediamaratonmalaga.com/web-evento/13023-xxxvi-totalenergies-media-maraton-ciudad-de-malaga",
+   "estado_inscripcion": "abierta",
+   "nota": "Web oficial: 07/03/2027 a las 8:15. 14.000 dorsales; último tramo de tarifa hasta 01/03/2027.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Medio Maratón Álora Valle del Sol 2027",
+   "fecha": "2027-03-07",
+   "poblacion": "Álora",
+   "provincia": "Málaga",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha solo en agregador (haid.app) y reglamento 2027 alojado en andaluciarunning.com; sin web oficial consultada.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Trail Guzmán el Bueno 2027",
+   "fecha": "2027-03-13",
+   "poblacion": "Córdoba",
+   "provincia": "Córdoba",
+   "distancias_km": [
+    65
+   ],
+   "modalidad": "trail",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha solo en calendario Mayayo.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "XIII Media Maratón Ciudad de Lucena & 10K",
+   "fecha": "2027-03-14",
+   "hora": "09:30",
+   "poblacion": "Lucena",
+   "provincia": "Córdoba",
+   "distancias_km": [
+    21.097,
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.mediamaratonlucena.com/",
+   "url_inscripcion": "https://www.deporticket.com/web-evento/13683-xiii-media-maraton-10k-ciudad-de-lucena",
+   "estado_inscripcion": "abierta",
+   "nota": "Web oficial: 14/03/2027 9:30. Cupo 1.700 entre ambas pruebas; plazo hasta 04/03/2027. Estado abierto deducido de tarifas vigentes (no confirmado).",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Grazalema Trail Nature 2027",
+   "fecha": "2027-03-20",
+   "poblacion": "Grazalema",
+   "provincia": "Cádiz",
+   "distancias_km": [
+    47.4,
+    23.4,
+    9.5
+   ],
+   "modalidad": "trail",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha en calendario Mayayo (carrerasdemontana.com) y GoTrail; distancias de 2026. Confirmada en el calendario de trail 2027 de la FAA (Campeonato de Andalucía de Trail).",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Unicaja Ultra Sierra Nevada 2027",
+   "fecha": "2027-04-02",
+   "poblacion": "Granada",
+   "provincia": "Granada",
+   "distancias_km": [
+    100,
+    60,
+    40,
+    25
+   ],
+   "modalidad": "montaña",
+   "url_oficial": "https://www.ultrasierranevada.com/",
+   "url_inscripcion": "https://www.ultrasierranevada.com/en/registration",
+   "estado_inscripcion": "abierta",
+   "nota": "Web oficial: 2-4/04/2027, inscripciones abiertas (precio sube el 31/12/2026). Pruebas Ultra, Trail, Maratón, Media y Relevos; km según calendario Mayayo.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Gaucín Backyard Ultra 2027",
+   "fecha": "2027-04-10",
+   "hora": "08:00",
+   "poblacion": "Gaucín",
+   "provincia": "Málaga",
+   "distancias_km": [
+    6.706
+   ],
+   "modalidad": "trail",
+   "url_oficial": "https://bigsbackyardultra.com/races/gaucin-backyard-ultra",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha en la ficha de la red Big's Backyard Ultra y en GoTrail; organizador sin web propia (solo Facebook gaucintrail). Bucle de 6,706 km cada hora, 250 plazas.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "IV Media Maratón Ciudad de Chiclana",
+   "fecha": "2027-04-11",
+   "hora": "09:00",
+   "poblacion": "Chiclana de la Frontera",
+   "provincia": "Cádiz",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://mediamaratonciudaddechiclana.com/",
+   "url_inscripcion": "https://gesconchip.es/app/prueba/informacion/iv-media-maratn-ciudad-de-chiclana",
+   "estado_inscripcion": "abierta",
+   "nota": "Web oficial: 11/04/2027 9:00, salida en el C.D.U. Costa Sancti Petri. Inscripciones abiertas en Gesconchip.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Saltamontes Backyard Ultra Córdoba 2027",
+   "fecha": "2027-04-17",
+   "poblacion": "Córdoba",
+   "provincia": "Córdoba",
+   "distancias_km": [
+    6.7
+   ],
+   "modalidad": "trail",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha solo en calendario Mayayo; bucle de 6,7 km.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "JJP Sherry Maratón 2027",
+   "fecha": "2027-04-18",
+   "poblacion": "Jerez de la Frontera",
+   "provincia": "Cádiz",
+   "distancias_km": [
+    42.195,
+    21.097,
+    14
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.sherrymaraton.com/",
+   "estado_inscripcion": "abierta",
+   "nota": "Web oficial: fin de semana 17-18/04/2027 (con la Sherry Bike); el maratón es el domingo 18 según el calendario Mayayo. Inscripciones abiertas.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Medio Maratón Almería 2027",
+   "fecha": "2027-04-18",
+   "hora": "08:30",
+   "poblacion": "Almería",
+   "provincia": "Almería",
+   "distancias_km": [
+    21.097,
+    11
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.cruzandolameta.es/pruebas/medio-maraton-almeria-2027/",
+   "url_inscripcion": "https://inscrik.com/evento/medio-maraton-almeria-2027/inscribirse/140/",
+   "estado_inscripcion": "abierta",
+   "abre": "2026-11-04",
+   "nota": "Plataforma de inscripción oficial: 18/04/2027 8:30. Abrió el 04/11/2026 y cierra el 05/04/2027 13:00. Carrera Saludable 11K.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Media Maratón Ciudad de Granada 2027",
+   "fecha": "2027-04-24",
+   "poblacion": "Granada",
+   "provincia": "Granada",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://mediamaraton.granada.org/",
+   "estado_inscripcion": "no_abierta",
+   "fecha_provisional": true,
+   "nota": "Solo agregadores: marathons.com da 24/04/2027 (sábado, como en 2026) y TrainerDay 30/04/2027. La web oficial aún muestra la edición 2026.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "101 km de La Legión Ronda 2027",
+   "fecha": "2027-05-08",
+   "poblacion": "Ronda",
+   "provincia": "Málaga",
+   "distancias_km": [
+    101
+   ],
+   "modalidad": "trail",
+   "estado_inscripcion": "no_abierta",
+   "abre": "2026-12-14",
+   "fecha_provisional": true,
+   "nota": "Fecha 8-9/05/2027 según carrerasdemontana.com (cita la web oficial) y GoTrail. Preinscripción 14/12/2026-11/01/2027; inscripción efectiva en enero 2027.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Ultra Trail Bosques del Sur 2027",
+   "fecha": "2027-05-29",
+   "poblacion": "Cazorla",
+   "provincia": "Jaén",
+   "distancias_km": [
+    67,
+    42,
+    21,
+    10
+   ],
+   "modalidad": "montaña",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Fecha solo en calendario Mayayo (Finishers dice 'principios de junio'). No pude abrir la web oficial.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Al Andalus Ultimate Trail 2027",
+   "fecha": "2027-07-05",
+   "poblacion": "Loja",
+   "provincia": "Granada",
+   "distancias_km": [
+    230
+   ],
+   "modalidad": "trail",
+   "estado_inscripcion": "desconocido",
+   "fecha_provisional": true,
+   "nota": "Por etapas. Mayayo da 5-9/07/2027 y GoTrail la semana del 3 al 10/07/2027; no confirmado en fuente oficial.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Maratón Costa del Sol Estepona 2027",
+   "fecha": "2027-10-10",
+   "hora": "08:30",
+   "poblacion": "Estepona",
+   "provincia": "Málaga",
+   "distancias_km": [
+    42.195,
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.maratoncostadelsol.com/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Web oficial: 10/10/2027 8:30, salida en el Estadio Municipal de Atletismo. Inscripción en RockTheSport; 2.000 plazas.",
+   "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Almijara Trail 2027 (Campeonato de Andalucía de Clubes de Trail)",
+   "fecha": "2027-11-01",
+   "hora": null,
+   "poblacion": "Nerja",
+   "provincia": "Málaga",
+   "distancias_km": [],
+   "modalidad": "trail",
+   "url_oficial": "https://atletismofaa.es/wp-content/uploads/2026/10/calendario_prueba_trail_FAA_RFEA_2027.webp",
+   "estado_inscripcion": "desconocido",
+   "nota": "Fecha del calendario de trail running 2027 de la FAA (cartel publicado en octubre de 2026).",
+   "comprobado": "2026-11-16"
+  }
+ ],
+ "sin_fecha": [
+  {
+   "nombre": "Generali Maratón de Málaga 2027",
+   "nota": "La edición 2026 fue el 8/11/2026. La web oficial dice 'Inscripciones 2027 próximamente', sin fecha."
+  },
+  {
+   "nombre": "Maratón de Granada",
+   "nota": "Sin web oficial encontrada; una página no oficial habla de su vuelta en noviembre y running.life da 24/10/2027 con datos incoherentes."
+  },
+  {
+   "nombre": "Maratón de Córdoba",
+   "nota": "No encontré ningún maratón de 42 km en Córdoba capital; las grandes son la Media (13/12/2026) y la Córdoba-Almodóvar (septiembre)."
+  },
+  {
+   "nombre": "Medio Maratón Villa de Puente Genil 2027",
+   "nota": "La 36ª fue el 01/02/2026; la 37ª se espera a principios de 2027, pero no hay fecha publicada (Ayuntamiento de Puente Genil)."
+  },
+  {
+   "nombre": "Media Maratón / 21K Ciudad de Huelva",
+   "nota": "La edición 2026 fue el 1/11/2026; sin fecha para 2027."
+  },
+  {
+   "nombre": "Media Maratón Ciudad de Cádiz / Bahía de Cádiz",
+   "nota": "La Ciudad de Cádiz 2026 fue a principios de noviembre; la Bahía de Cádiz se solía correr en marzo. Sin fecha 2027."
+  },
+  {
+   "nombre": "Media Maratón Costa de la Luz (Chipiona-Rota) 2027",
+   "nota": "La XXXIX fue el 15/03/2026; la XL se espera en marzo-abril de 2027, sin anuncio."
+  },
+  {
+   "nombre": "Sierra Blanca Estates Marbella Media Maratón 2027",
+   "nota": "La 39ª fue el 27/09/2026; sin fecha 2027."
+  },
+  {
+   "nombre": "Maratón de Marbella",
+   "nota": "No encontré ninguna edición de maratón en Marbella en 2026-2027."
+  },
+  {
+   "nombre": "Media Maratón Ciudad de Motril 2027",
+   "nota": "La 42ª fue el 18/10/2026; se espera en octubre de 2027, sin fecha."
+  },
+  {
+   "nombre": "Medio Maratón de Almuñécar",
+   "nota": "No encontré media en Almuñécar en 2026-2027; solo la Prueba de Fondo Trópico de Europa (10 km, septiembre)."
+  },
+  {
+   "nombre": "Media Maratón de Ronda",
+   "nota": "Sin datos de ninguna edición reciente ni de 2027."
+  },
+  {
+   "nombre": "Desafío Doñana",
+   "nota": "Es un triatlón, no una carrera a pie (2026: octubre, Sanlúcar). Sin fecha 2027."
+  },
+  {
+   "nombre": "Medio Maratón de Jerez 2027",
+   "nota": "La XXX fue el 18/10/2026; se espera en octubre de 2027, sin fecha."
+  },
+  {
+   "nombre": "Media Maratón Ciudad de Dos Hermanas 'Tierra y Olivo' 2027",
+   "nota": "La XXVII fue el 25/10/2026; sin fecha 2027."
+  },
+  {
+   "nombre": "Media Maratón Ciudad de Fuengirola 2027",
+   "nota": "La de 2026 fue el 8/11/2026; sin fecha 2027."
+  },
+  {
+   "nombre": "Medio Maratón de Sevilla y Media Maratón de Córdoba (ediciones 2027)",
+   "nota": "Las próximas ediciones son del 13/12/2026 (ya en la lista); las de 2027 no tienen fecha."
+  }
+ ]
+}
