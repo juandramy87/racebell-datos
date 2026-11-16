@@ -24,11 +24,12 @@ def _guardar(tabla: dict) -> None:
 
 
 def buscar(poblacion: str, provincia: Optional[str], descargar: Callable[[str], bytes], tabla: dict) -> Optional[dict]:
-    """{"provincia": …, "lat": …, "lon": …} o None si no se encuentra en Andalucía."""
+    """{"provincia": …, "lat": …, "lon": …} o None si no se encuentra. Con provincia se busca en toda España; sin
+    ella, solo en Andalucía (las fuentes andaluzas a veces no la dan y así no se confunde con otro pueblo igual)."""
     clave = nz.clave(poblacion) + "|" + nz.clave(provincia or "")
     if clave in tabla:
         return tabla[clave]
-    consulta = f"{poblacion}, {provincia + ', ' if provincia else ''}Andalucía, España"
+    consulta = f"{poblacion}, {provincia}, España" if provincia else f"{poblacion}, Andalucía, España"
     url = URL + urlencode({"q": consulta, "format": "jsonv2", "addressdetails": 1, "limit": 3, "countrycodes": "es"})
     try:
         resultados = json.loads(descargar(url))
@@ -37,8 +38,9 @@ def buscar(poblacion: str, provincia: Optional[str], descargar: Callable[[str], 
     hallado = None
     for r in resultados:
         direccion = r.get("address", {})
-        prov = nz.provincia(direccion.get("province") or direccion.get("county") or "")
-        if direccion.get("state") != "Andalucía" or not prov or (provincia and prov != provincia):
+        # En las comunidades de una sola provincia (Madrid, Asturias…) Nominatim no da «province».
+        prov = nz.provincia(direccion.get("province") or direccion.get("county") or direccion.get("state") or "")
+        if not prov or (provincia and prov != provincia) or (not provincia and not nz.es_andaluza(prov)):
             continue
         hallado = {"provincia": prov, "lat": round(float(r["lat"]), 4), "lon": round(float(r["lon"]), 4)}
         break

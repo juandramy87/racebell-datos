@@ -43,7 +43,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
         ml = _LUGAR.search(texto_plano)
         poblacion, provincia = (ml.group(1), nz.provincia(ml.group(2))) if ml else (None, None)
         if not provincia:
-            descartes.append(f"fuera de Andalucía: {nombre} ({ml.group(2).strip() if ml else '¿?'})")
+            descartes.append(f"fuera de España o sin provincia: {nombre} ({ml.group(2).strip() if ml else '¿?'})")
             continue
         a_pie, modalidad = nz.clasificar(nombre)
         if not a_pie:

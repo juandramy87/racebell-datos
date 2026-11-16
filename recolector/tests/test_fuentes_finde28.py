@@ -33,11 +33,12 @@ def test_sportmaniacs_ficha_recortada():
     assert c.precios[0]["euros"] == 10.0
 
 
-def test_cronofinisher_solo_andalucia():
+def test_cronofinisher_toda_espana():
     pagina = muestra("cronofinisher.html")
     assert cronofinisher.otras_paginas(pagina) == ["https://www.cronofinisher.com/calendario//pg=2/"]
     carreras, _ = cronofinisher.leer([pagina, muestra("cronofinisher-2.html")])
-    assert carreras and all(nz.es_andaluza(c.provincia) for c in carreras)
+    assert carreras and all(nz.comunidad(c.provincia) for c in carreras)
+    assert any(nz.comunidad(c.provincia) == "extremadura" for c in carreras)  # ya no se quedan fuera
     c = buscar(carreras, "Violencia Contra las Mujeres")
     assert (c.fecha, c.poblacion, c.provincia) == (date(2026, 11, 22), "Cádiz", "Cádiz")
     assert c.inscripcion_hasta == datetime(2026, 11, 20, 23, 59) and c.cartel is None
@@ -45,7 +46,7 @@ def test_cronofinisher_solo_andalucia():
 
 def test_ruta091():
     carreras, _ = ruta091.leer(muestra("ruta091.html"))
-    assert {c.poblacion for c in carreras} == {"Córdoba", "Écija"}  # Elche, Pamplona y Melilla fuera
+    assert {"Córdoba", "Écija", "Melilla"} <= {c.poblacion for c in carreras}  # ahora toda España
     ecija = buscar(carreras, "Écija")
     assert (ecija.fecha, ecija.hora, ecija.provincia) == (date(2026, 11, 22), "10:00", "Sevilla")
     assert buscar(carreras, "Córdoba").distancias_km == [6.3]

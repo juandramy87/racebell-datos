@@ -40,7 +40,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
             continue
         provincia = nz.provincia(lugar.group(2)) if lugar else None
         if not provincia:
-            descartes.append(f"fuera de Andalucía: {nombre}")
+            descartes.append(f"fuera de España o sin provincia: {nombre}")
             continue
         url = urljoin(URL, enlace["href"])
         img = caja.find_previous("img")

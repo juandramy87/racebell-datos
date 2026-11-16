@@ -35,7 +35,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
             continue
         provincia = nz.provincia(e.get("provincia"))
         if not provincia:
-            descartes.append(f"fuera de Andalucía: {nombre} ({e.get('provincia')})")
+            descartes.append(f"fuera de España o sin provincia: {nombre} ({e.get('provincia')})")
             continue
         c = Carrera(
             nombre=nombre,

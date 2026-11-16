@@ -12,7 +12,7 @@ DATOS = {"carreras": [
      "url_oficial": "https://ejemplo.es/media", "estado_inscripcion": "no_abierta", "abre": "2027-01-10",
      "fecha_provisional": True},
     {"nombre": "Pasada", "fecha": "2026-01-01", "provincia": "Málaga", "url_oficial": "https://x.es"},
-    {"nombre": "De fuera", "fecha": "2027-03-01", "provincia": "Madrid", "url_oficial": "https://x.es"},
+    {"nombre": "De fuera", "fecha": "2027-03-01", "provincia": "Francia", "url_oficial": "https://x.es"},
 ]}
 
 

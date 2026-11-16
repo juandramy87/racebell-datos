@@ -41,7 +41,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
             continue
         poblacion, _, provincia = prueba.select_one(".lugar").get_text(" ", strip=True).rpartition(" - ")
         if not nz.provincia(provincia):
-            descartes.append(f"fuera de Andalucía: {nombre} ({provincia})")
+            descartes.append(f"fuera de España o sin provincia: {nombre} ({provincia})")
             continue
         c = Carrera(
             nombre=nombre,

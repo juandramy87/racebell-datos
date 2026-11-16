@@ -1,6 +1,6 @@
 """Ola! Rivers (organizador y cronometrador: Málaga, Cádiz, Córdoba, Almería…). La página
 `proximas-pruebas/` lista cada prueba con fecha, comunidad, provincia, tipo, lugar y la fecha de
-fin de inscripción del contador (`data-date`). Solo se guardan las de Andalucía."""
+fin de inscripción del contador (`data-date`). Se guardan las de cualquier provincia española."""
 from __future__ import annotations
 
 import re

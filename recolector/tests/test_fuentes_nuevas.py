@@ -9,14 +9,15 @@ from tests.test_lectores import buscar, muestra
 
 def test_gesconchip():
     carreras, descartes = gesconchip.leer(muestra("gesconchip.html"))
-    assert len(carreras) == 22
+    assert len(carreras) == 24  # 22 andaluzas y 2 de Ceuta
     c = buscar(carreras, "Cross Pinar del Rey")
     assert (c.fecha, c.poblacion, c.provincia) == (date(2026, 11, 22), "San Roque", "Cádiz")
     assert c.inscripcion_hasta == datetime(2026, 11, 18, 12, 0)
     chiclana = buscar(carreras, "Urbana Ciudad de Chiclana")
     assert chiclana.inscripcion_hasta is None and "Cambio de precio el 20/11" in chiclana.previos[0]
     assert buscar(carreras, "Trail Benahavís")  # icono «Carrera Montaña/Trail»: sí es a pie
-    assert any("Triatlón" in d for d in descartes) and any("Ceuta" in d for d in descartes)
+    assert any("Triatlón" in d for d in descartes)
+    assert any(c.provincia == "Ceuta" for c in carreras)  # antes se descartaba
 
 
 def test_corredores_populares():
@@ -64,9 +65,9 @@ def test_runnink():
     assert any("Híbrida" in d for d in descartes)
 
 
-def test_alcanza_tu_meta_solo_andalucia():
+def test_alcanza_tu_meta_almeria_y_murcia():
     carreras, _ = alcanzatumeta.leer(muestra("alcanzatumeta.html"))
-    assert carreras and all(c.provincia == "Almería" for c in carreras)
+    assert {c.provincia for c in carreras} >= {"Almería", "Murcia"}
     c = buscar(carreras, "Bajo Almanz")
     assert (c.fecha, c.hora, c.inscripcion_hasta) == (date(2026, 11, 22), "08:30", datetime(2026, 11, 21, 0, 0))
 

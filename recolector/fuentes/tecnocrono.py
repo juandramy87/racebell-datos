@@ -52,7 +52,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
         if lugar and (m := _LUGAR.match(lugar.get_text(" ", strip=True))):
             poblacion, provincia = nz.poblacion(m.group(1)), nz.provincia(m.group(2))
         if not provincia:
-            descartes.append(f"fuera de Andalucía o sin provincia: {nombre}")
+            descartes.append(f"fuera de España o sin provincia: {nombre}")
             continue
         coords = None
         lat, lon = _prop(ev, "latitude"), _prop(ev, "longitude")

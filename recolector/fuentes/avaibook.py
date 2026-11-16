@@ -52,7 +52,7 @@ def leer_ficha(contenido: bytes | str, url: str, fuente_id: str) -> tuple[Option
     direccion = (evento.get("location") or {}).get("address") or {}
     provincia = nz.provincia_por_cp(direccion.get("postalCode")) or nz.provincia(direccion.get("addressRegion"))
     if not provincia:
-        return None, f"fuera de Andalucía o sin provincia: {nombre} ({direccion.get('postalCode')})"
+        return None, f"fuera de España o sin provincia: {nombre} ({direccion.get('postalCode')})"
     c = Carrera(
         nombre=nombre,
         fecha=inicio.date(),

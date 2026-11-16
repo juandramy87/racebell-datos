@@ -1,5 +1,7 @@
 # Fuentes de carreras (investigación del 16/11/2026)
 
+> **Desde el 16/11/2026 Racebell es de toda España:** las 52 provincias (`nucleo/normalizar.py`) y la comunidad de cada carrera. Las fuentes andaluzas siguen igual; RockTheSport, Sportmaniacs, Cronofinisher, Gesconchip, Alcanza tu Meta y Ruta 091 ya no descartan lo de fuera de Andalucía.
+
 Sacado de buscar dónde se inscribe cada carrera que nos faltaba los findes 21–22/11 y 28–29/11 frente a running.life. «Hecho» = ya tiene lector.
 
 | Fuente | Zona | Listado | Cierre de inscripción | Andaluzas próximas | Estado |

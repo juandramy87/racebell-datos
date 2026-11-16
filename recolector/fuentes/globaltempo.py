@@ -127,7 +127,7 @@ def leer(contenido: bytes | str, *, descargar_ficha: Callable[[str], bytes], des
         ficha = fichas.get(ident) or leer_ficha(descargar_ficha(url))
         provincia = nz.provincia(ficha.get("provincia"))
         if not provincia:
-            descartes.append(f"fuera de Andalucía o sin provincia: {nombre} ({ficha.get('provincia')})")
+            descartes.append(f"fuera de España o sin provincia: {nombre} ({ficha.get('provincia')})")
             continue
         c = Carrera(
             nombre=nombre,

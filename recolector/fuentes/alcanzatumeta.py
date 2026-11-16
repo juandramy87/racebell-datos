@@ -1,5 +1,5 @@
 """Alcanza tu Meta (Murcia y Levante almeriense): calendario con fecha, hora, «Localidad, Provincia»,
-estado y cierre de inscripción («hasta el 17 nov · 14:00»). Solo se guardan las de Andalucía."""
+estado y cierre de inscripción («hasta el 17 nov · 14:00»). Se guardan las de cualquier provincia española."""
 from __future__ import annotations
 
 import re

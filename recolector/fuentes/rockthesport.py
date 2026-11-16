@@ -1,13 +1,10 @@
 """RockTheSport (plataforma nacional). Su listado se carga por /api/, que robots.txt prohíbe, así que:
 1. se lee el sitemap público de eventos (`/sitemap/events-es.xml`, ~3.300 fichas sin fecha ni región);
-2. solo se abren las fichas cuyo nombre contiene un municipio andaluz (datos/municipios-andalucia.json)
-   y que parecen carreras a pie;
-3. de cada ficha se guarda solo el JSON-LD (jsonld.recortar). Las que no son andaluzas o ya pasaron se
-   recuerdan en datos/rockthesport-vistos.json para no volver a abrirlas.
-La provincia sale del municipio del nombre (las fichas no la dan) y se comprueba con las coordenadas.
-4. Las fichas cuyo nombre no lleva municipio («xviii-calamorro-skyrace») también se abren, una sola vez cada una y
-   como mucho NUEVAS_POR_PASADA por ejecución: si su JSON-LD da una provincia andaluza (región o código postal),
-   entran; si no, se recuerdan como no andaluzas."""
+2. se abren las fichas que parecen carreras a pie (las marchas, bici o senderismo ni se abren), como mucho
+   NUEVAS_POR_PASADA fichas nunca vistas por ejecución;
+3. de cada ficha se guarda solo el JSON-LD (jsonld.recortar). La provincia sale de su región o código postal; si no
+   los trae, del municipio andaluz del nombre (datos/municipios-andalucia.json), comprobado con las coordenadas.
+   Lo que no es de España o ya pasó se recuerda en datos/rockthesport-vistos.json para no volver a abrirlo."""
 from __future__ import annotations
 
 import json
@@ -23,7 +20,7 @@ from nucleo.modelo import Carrera
 ID = "rockthesport"
 URL = "https://web.rockthesport.com/sitemap/events-es.xml"
 _FICHA = "https://web.rockthesport.com/es/event/"
-NUEVAS_POR_PASADA = 300  # fichas sin municipio en el nombre que se abren por primera vez en cada ejecución
+NUEVAS_POR_PASADA = 800  # fichas nunca vistas que se abren por ejecución (~15 min a 1 por segundo)
 DATOS = Path(__file__).resolve().parents[1] / "datos"
 
 
@@ -64,30 +61,33 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
     carreras, descartes = [], []
     nuevas = 0
     for slug in slugs:
-        lugar = municipio_del_slug(slug, indice)
         if not nz.clasificar(slug.replace("-", " "))[0]:
             continue  # marchas, bici, senderismo…: ni se abre
         recuerdo = vistos.get(slug)
-        if recuerdo and (not recuerdo.get("andaluza") or recuerdo.get("fecha", "9999") < desde.isoformat()):
-            continue
-        if not lugar and not recuerdo:
+        # «espana» = False: no es de España (o no se pudo ubicar). Las fichas recordadas con el formato antiguo
+        # («andaluza»: False, de cuando solo se buscaba Andalucía) se vuelven a abrir una vez.
+        if recuerdo and ("espana" in recuerdo or recuerdo.get("andaluza")):
+            if recuerdo.get("espana") is False or recuerdo.get("fecha", "9999") < desde.isoformat():
+                continue
+        else:
             if nuevas >= nuevas_por_pasada:
                 continue  # se abrirá en otra pasada
             nuevas += 1
+        lugar = municipio_del_slug(slug, indice)
         url = _FICHA + slug
-        c, motivo = jsonld.leer_ficha(descargar_ficha(url), url, ID, provincia_si_falta=lugar[1] if lugar else None)
-        if not c:
-            vistos[slug] = {"andaluza": False, "motivo": motivo}
-            descartes.append(motivo)
+        ficha = descargar_ficha(url)
+        c, motivo = jsonld.leer_ficha(ficha, url, ID)
+        adivinada = False
+        if not c and lugar:
+            c, motivo = jsonld.leer_ficha(ficha, url, ID, provincia_si_falta=lugar[1])
+            adivinada = c is not None
+        if not c or (adivinada and c.coords and not _en_andalucia(c.coords)):
+            vistos[slug] = {"espana": False, "motivo": motivo or "coordenadas fuera del municipio del nombre"}
+            descartes.append(motivo or f"sin provincia: {slug}")
             continue
-        andaluza = _en_andalucia(c.coords) if c.coords else True
-        vistos[slug] = {"andaluza": andaluza, "fecha": c.fecha.isoformat()}
-        if not andaluza:
-            descartes.append(f"fuera de Andalucía (coordenadas): {c.nombre}")
-            continue
-        if lugar:
+        vistos[slug] = {"espana": True, "provincia": c.provincia, "fecha": c.fecha.isoformat()}
+        if adivinada:
             c.poblacion = lugar[0]  # el nombre oficial del municipio (la ficha trae «Pl. de España, Fonelas»…)
-            c.provincia = lugar[1]
         if desde <= c.fecha <= hasta:
             carreras.append(c)
     ruta_vistos.write_text(json.dumps(dict(sorted(vistos.items())), ensure_ascii=False, indent=1))

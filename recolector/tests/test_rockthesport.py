@@ -46,7 +46,7 @@ def test_rockthesport_abre_una_vez_las_fichas_sin_municipio_en_el_nombre(tmp_pat
     leer = lambda: rockthesport.leer(sitemap, descargar_ficha=descargar_ficha, desde=date(2026, 11, 16),
                                      hasta=date(2027, 12, 31), ruta_vistos=tmp_path / "vistos.json")
     carreras, _ = leer()
-    assert [(c.nombre, c.provincia) for c in carreras] == [("XVIII Calamorro Skyrace", "Málaga")]
+    assert [(c.nombre, c.provincia) for c in carreras] == [("XVIII Calamorro Skyrace", "Málaga"), ("Trail de los Picos", "León")]
     abiertas.clear()
     leer()
-    assert not any("picos" in u for u in abiertas)  # la de León no se vuelve a abrir
+    assert abiertas  # las de España se vuelven a abrir para seguir sus cambios

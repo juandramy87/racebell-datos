@@ -29,7 +29,7 @@ def leer(datos: dict, hoy: date) -> tuple[list[Carrera], list[str]]:
             continue
         provincia = nz.provincia(ev.get("provincia"))
         if not provincia:
-            descartes.append(f"fuera de Andalucía o sin provincia: {nombre}")
+            descartes.append(f"fuera de España o sin provincia: {nombre}")
             continue
         url = ev.get("url_oficial") or ev.get("url_inscripcion")
         if not url:

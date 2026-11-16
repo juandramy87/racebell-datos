@@ -57,7 +57,7 @@ def leer_ficha(contenido: bytes | str, url: str, fuente_id: str, provincia_si_fa
     provincia = (nz.provincia(direccion.get("addressRegion")) or nz.provincia_por_cp(direccion.get("postalCode"))
                  or nz.provincia(direccion.get("addressLocality")) or provincia_si_falta)
     if not provincia:
-        return None, f"fuera de Andalucía o sin provincia: {nombre} ({direccion.get('addressRegion')})"
+        return None, f"fuera de España o sin provincia: {nombre} ({direccion.get('addressRegion')})"
     c = Carrera(
         nombre=nombre,
         fecha=inicio.date(),

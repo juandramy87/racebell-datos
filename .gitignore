@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+recolector/datos/cache/
+recolector/datos/*.sqlite
+recolector/datos/diario.log
+.DS_Store
+sitio/

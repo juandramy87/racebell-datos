@@ -5,16 +5,43 @@ import re
 import unicodedata
 from typing import Optional
 
-PROVINCIAS = {
-    "almeria": "Almería",
-    "cadiz": "Cádiz",
-    "cordoba": "Córdoba",
-    "granada": "Granada",
-    "huelva": "Huelva",
-    "jaen": "Jaén",
-    "malaga": "Málaga",
-    "sevilla": "Sevilla",
+# Las 52 provincias: nombre → (comunidad, prefijo de código postal, otras formas de escribirla).
+_TABLA = {
+    "Almería": ("andalucia", "04", ()), "Cádiz": ("andalucia", "11", ()), "Córdoba": ("andalucia", "14", ()),
+    "Granada": ("andalucia", "18", ()), "Huelva": ("andalucia", "21", ()), "Jaén": ("andalucia", "23", ()),
+    "Málaga": ("andalucia", "29", ()), "Sevilla": ("andalucia", "41", ()),
+    "Huesca": ("aragon", "22", ("osca",)), "Teruel": ("aragon", "44", ()), "Zaragoza": ("aragon", "50", ()),
+    "Asturias": ("asturias", "33", ("principado de asturias",)),
+    "Baleares": ("baleares", "07", ("illes balears", "islas baleares", "balears", "illes balears baleares")),
+    "Las Palmas": ("canarias", "35", ("palmas",)),
+    "Santa Cruz de Tenerife": ("canarias", "38", ("s c tenerife", "sc tenerife", "santa cruz tenerife")),
+    "Cantabria": ("cantabria", "39", ()),
+    "Albacete": ("castilla-la-mancha", "02", ()), "Ciudad Real": ("castilla-la-mancha", "13", ()),
+    "Cuenca": ("castilla-la-mancha", "16", ()), "Guadalajara": ("castilla-la-mancha", "19", ()),
+    "Toledo": ("castilla-la-mancha", "45", ()),
+    "Ávila": ("castilla-y-leon", "05", ()), "Burgos": ("castilla-y-leon", "09", ()), "León": ("castilla-y-leon", "24", ()),
+    "Palencia": ("castilla-y-leon", "34", ()), "Salamanca": ("castilla-y-leon", "37", ()),
+    "Segovia": ("castilla-y-leon", "40", ()), "Soria": ("castilla-y-leon", "42", ()),
+    "Valladolid": ("castilla-y-leon", "47", ()), "Zamora": ("castilla-y-leon", "49", ()),
+    "Barcelona": ("cataluna", "08", ()), "Girona": ("cataluna", "17", ("gerona",)),
+    "Lleida": ("cataluna", "25", ("lerida",)), "Tarragona": ("cataluna", "43", ()),
+    "Alicante": ("valenciana", "03", ("alacant", "alicante alacant", "alacant alicante")),
+    "Castellón": ("valenciana", "12", ("castello", "castellon de la plana", "castello de la plana", "castellon castello")),
+    "Valencia": ("valenciana", "46", ("valencia valencia", "valencia valencia valencia")),
+    "Badajoz": ("extremadura", "06", ()), "Cáceres": ("extremadura", "10", ()),
+    "A Coruña": ("galicia", "15", ("la coruna", "coruna")), "Lugo": ("galicia", "27", ()),
+    "Ourense": ("galicia", "32", ("orense",)), "Pontevedra": ("galicia", "36", ()),
+    "Madrid": ("madrid", "28", ("comunidad de madrid",)),
+    "Murcia": ("murcia", "30", ("region de murcia",)),
+    "Navarra": ("navarra", "31", ("nafarroa", "comunidad foral de navarra")),
+    "Álava": ("pais-vasco", "01", ("araba", "alava araba", "araba alava")),
+    "Gipuzkoa": ("pais-vasco", "20", ("guipuzcoa",)),
+    "Bizkaia": ("pais-vasco", "48", ("vizcaya",)),
+    "La Rioja": ("la-rioja", "26", ("rioja",)),
+    "Ceuta": ("ceuta", "51", ()), "Melilla": ("melilla", "52", ()),
 }
+COMUNIDAD = {p: c for p, (c, _, _) in _TABLA.items()}
+PROVINCIA_POR_CP = {cp: p for p, (_, cp, _) in _TABLA.items()}
 
 
 def sin_tildes(texto: str) -> str:
@@ -30,13 +57,22 @@ def clave(texto: Optional[str]) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
+# clave → provincia (nombre oficial y variantes).
+PROVINCIAS = {clave(v): p for p, (_, _, otras) in _TABLA.items() for v in (p, *otras)}
+
+
 def provincia(texto: Optional[str]) -> Optional[str]:
-    """«MALAGA», «Málaga», «malaga » → «Málaga». Devuelve None si no es andaluza."""
+    """«MALAGA», «Málaga», «Vizcaya», «Illes Balears» → nombre de la provincia. None si no es una provincia española."""
     return PROVINCIAS.get(clave(texto)) if texto else None
 
 
+def comunidad(nombre_provincia: Optional[str]) -> Optional[str]:
+    """Identificador de la comunidad autónoma («andalucia», «cataluna», «valenciana»…) de una provincia."""
+    return COMUNIDAD.get(nombre_provincia or "")
+
+
 def es_andaluza(nombre_provincia: Optional[str]) -> bool:
-    return nombre_provincia in PROVINCIAS.values()
+    return comunidad(nombre_provincia) == "andalucia"
 
 
 def poblacion(texto: Optional[str]) -> Optional[str]:
@@ -127,9 +163,6 @@ def distancias_del_nombre(nombre: str) -> list[float]:
         kms.append(42.195)
     return sorted(set(kms))
 
-
-PROVINCIA_POR_CP = {"04": "Almería", "11": "Cádiz", "14": "Córdoba", "18": "Granada", "21": "Huelva",
-                    "23": "Jaén", "29": "Málaga", "41": "Sevilla"}
 
 
 def provincia_por_cp(cp: Optional[str]) -> Optional[str]:

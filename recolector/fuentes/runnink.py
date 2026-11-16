@@ -37,7 +37,7 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
             continue
         provincia = nz.provincia(m["prov"])
         if not provincia:
-            descartes.append(f"fuera de Andalucía: {nombre}")
+            descartes.append(f"fuera de España o sin provincia: {nombre}")
             continue
         img = tarjeta.find("img")
         c = Carrera(nombre=nombre, fecha=date(int(m["a"]), _MESES[nz.clave(m["m"])], int(m["d"])),

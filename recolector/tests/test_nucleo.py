@@ -28,7 +28,9 @@ def test_clasificar():
 def test_provincia():
     assert nz.provincia("MALAGA") == "Málaga"
     assert nz.provincia("Jaén ") == "Jaén"
-    assert nz.provincia("Madrid") is None
+    assert nz.provincia("Madrid") == "Madrid" and nz.provincia("Vizcaya") == "Bizkaia"
+    assert nz.provincia("Illes Balears") == "Baleares" and nz.provincia("Francia") is None
+    assert nz.comunidad("Lleida") == "cataluna" and nz.provincia_por_cp("48001") == "Bizkaia"
 
 
 def test_une_la_misma_carrera_de_dos_fuentes():

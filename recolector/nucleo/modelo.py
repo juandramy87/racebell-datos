@@ -9,6 +9,8 @@ from dataclasses import asdict, dataclass, field
 from datetime import date, datetime
 from typing import Optional
 
+from nucleo import normalizar as nz
+
 # Estados de la inscripción que ve la app.
 NO_ABIERTA = "no_abierta"
 ABIERTA = "abierta"
@@ -36,7 +38,7 @@ class Carrera:
     hora: Optional[str] = None  # «HH:MM» o None si no se sabe
     poblacion: Optional[str] = None
     provincia: Optional[str] = None
-    comunidad: str = "andalucia"
+    comunidad: Optional[str] = None  # se rellena con la de la provincia al publicar
     coords: Optional[tuple[float, float]] = None  # (latitud, longitud) aproximadas
     modalidad: Optional[str] = None  # asfalto, cross, trail, montaña, pista, duatlón, obstáculos
     distancias_km: list[float] = field(default_factory=list)
@@ -75,6 +77,7 @@ class Carrera:
 
     def a_dict(self, ahora: datetime) -> dict:
         d = asdict(self)
+        d["comunidad"] = nz.comunidad(self.provincia) or self.comunidad
         d["fecha"] = self.fecha.isoformat()
         for clave in ("inscripcion_desde", "inscripcion_hasta"):
             d[clave] = d[clave].isoformat(timespec="minutes") if d[clave] else None

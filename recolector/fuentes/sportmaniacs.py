@@ -2,7 +2,7 @@
 `/es/races?page=N` trae nombre, fechas y localidad, pero no la provincia: esa sale del JSON-LD
 de la ficha (addressRegion). Para no abrir cientos de fichas de fuera de Andalucía:
   - solo se abren las fichas de carreras a pie dentro del plazo pedido;
-  - lo que ya se sabe de cada ficha («fuera de Andalucía» o su provincia) se recuerda en
+  - lo que ya se sabe de cada ficha («fuera de España» o su provincia) se recuerda en
     `datos/sportmaniacs-provincias.json`, así cada día solo se abren las fichas nuevas.
 robots.txt prohíbe /app y las clasificaciones (/results, /rankings): no se usan."""
 from __future__ import annotations
@@ -21,7 +21,7 @@ ID = "sportmaniacs"
 URL = "https://sportmaniacs.com/es/races?page={}"
 WEB = "https://sportmaniacs.com"
 MAX_PAGINAS = 15
-FUERA = ""  # valor del recuerdo para las fichas de fuera de Andalucía
+FUERA = "-"  # valor del recuerdo para las fichas de fuera de España («» era el de fuera de Andalucía: se reabren)
 
 
 def tarjetas(contenido: bytes | str) -> list[dict]:
@@ -74,10 +74,10 @@ def leer(paginas: list[bytes | str], *, descargar_ficha: Callable[[str], bytes],
                 descartes.append(f"no es a pie: {t['nombre']}")
                 continue
             if recuerdo.get(t["slug"]) == FUERA:
-                continue  # ya se sabe que es de fuera de Andalucía: ni se abre la ficha
+                continue  # ya se sabe que es de fuera de España: ni se abre la ficha
             c, motivo = jsonld.leer_ficha(descargar_ficha(t["url"]), t["url"], ID)
             if c is None:
-                if motivo and motivo.startswith("fuera de Andalucía"):
+                if motivo and motivo.startswith("fuera de España"):
                     recuerdo[t["slug"]] = FUERA
                 else:
                     descartes.append(motivo)
