@@ -105,6 +105,11 @@
   "lat": 37.1475,
   "lon": -3.6185
  },
+ "atarfe|granada": {
+  "provincia": "Granada",
+  "lat": 37.2227,
+  "lon": -3.6866
+ },
  "ayamonte|huelva": {
   "provincia": "Huelva",
   "lat": 37.2158,
@@ -119,6 +124,11 @@
   "provincia": "Córdoba",
   "lat": 37.6173,
   "lon": -4.3244
+ },
+ "bailen|jaen": {
+  "provincia": "Jaén",
+  "lat": 38.0968,
+  "lon": -3.7766
  },
  "bellavista|sevilla": {
   "provincia": "Sevilla",
@@ -149,6 +159,11 @@
   "provincia": "Córdoba",
   "lat": 37.2672,
   "lon": -4.5404
+ },
+ "berchules|granada": {
+  "provincia": "Granada",
+  "lat": 37.0211,
+  "lon": -3.1999
  },
  "berrocal|huelva": {
   "provincia": "Huelva",
@@ -283,6 +298,11 @@
   "lon": -5.1882
  },
  "faranjan|malaga": null,
+ "fines|almeria": {
+  "provincia": "Almería",
+  "lat": 37.36,
+  "lon": -2.2633
+ },
  "fuengirola|malaga": {
   "provincia": "Málaga",
   "lat": 36.5388,
@@ -337,6 +357,11 @@
   "provincia": "Huelva",
   "lat": 37.2576,
   "lon": -6.9485
+ },
+ "huercal de almeria|almeria": {
+  "provincia": "Almería",
+  "lat": 36.8836,
+  "lon": -2.4399
  },
  "huercal overa|almeria": {
   "provincia": "Almería",
@@ -418,6 +443,11 @@
   "lat": 36.7755,
   "lon": -3.3959
  },
+ "majarromaque jerez de la frontera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6709,
+  "lon": -5.9067
+ },
  "malaga|malaga": {
   "provincia": "Málaga",
   "lat": 36.7648,
@@ -447,6 +477,16 @@
   "provincia": "Granada",
   "lat": 37.102,
   "lon": -3.4694
+ },
+ "motril|granada": {
+  "provincia": "Granada",
+  "lat": 36.7451,
+  "lon": -3.5208
+ },
+ "nerja|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7469,
+  "lon": -3.879
  },
  "nijar|almeria": {
   "provincia": "Almería",
@@ -536,6 +576,11 @@
   "lat": 36.7421,
   "lon": -5.1666
  },
+ "roquetas de mar|almeria": {
+  "provincia": "Almería",
+  "lat": 36.763,
+  "lon": -2.6116
+ },
  "rota chipiona|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.6138,
@@ -586,6 +631,11 @@
   "provincia": "Sevilla",
   "lat": 37.3886,
   "lon": -5.9953
+ },
+ "sierro|almeria": {
+  "provincia": "Almería",
+  "lat": 37.3214,
+  "lon": -2.3986
  },
  "tarifa|cadiz": {
   "provincia": "Cádiz",

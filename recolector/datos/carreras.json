@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generado": "2026-11-16T22:20",
+ "generado": "2026-11-16T23:23",
  "zona": "Europe/Madrid",
  "desde": "2026-11-16",
  "hasta": "2027-12-21",
@@ -229,26 +229,26 @@
    ]
   },
   {
-   "id": "2026-11-21-pabellon-infanta-cristina-roquetas-de-mar-ix-media-maraton-ciudad-de-roquetas-2",
+   "id": "2026-11-21-roquetas-de-mar-ix-media-maraton-ciudad-de-roquetas-2026",
    "nombre": "IX Media Maratón Ciudad de Roquetas 2026",
    "fecha": "2026-11-21",
    "hora": "16:30",
-   "poblacion": "Pabellón Infanta Cristina Roquetas de Mar",
+   "poblacion": "Roquetas de Mar",
    "provincia": "Almería",
    "comunidad": "andalucia",
    "coords": [
-    36.7684,
-    -2.613
+    36.763,
+    -2.6116
    ],
    "modalidad": "asfalto",
    "distancias_km": [
     21.097
    ],
    "inscripcion_desde": "2026-09-14T12:00",
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscrik.com/evento/ix-media-maraton-ciudad-de-roquetas-2026/",
-   "cartel": "https://inscrik.com/media/banners/MMA_2026.jpg",
+   "inscripcion_hasta": "2026-11-19T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/ix-media-maraton-ciudad-de-roquetas-2026/",
+   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/ix-media-maraton-ciudad-de-roquetas-2026-138c746f1b.webp",
    "precios": [
     {
      "nombre": "Media Maratón",
@@ -274,15 +274,15 @@
     {
      "tipo": "dudoso",
      "texto": "La fuente da inicio (21/11 16:30) y fin (22/11 09:30) en días distintos: confirmar el día de la carrera"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en la ficha"
     }
    ],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "dudoso",
    "fuentes": [
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/ix-media-maraton-ciudad-de-roquetas-2026/"
+    },
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/ix-media-maraton-ciudad-de-roquetas-2026/"
@@ -636,6 +636,42 @@
     {
      "id": "cronius",
      "url": "https://inscripciones.croniussport.es/inscripcion/ix-trail-sierra-de-aznalcollar/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-el-puerto-de-santa-maria-xxx-carrera-popular-puerto-menesteo",
+   "nombre": "XXX Carrera Popular Puerto Menesteo",
+   "fecha": "2026-11-22",
+   "hora": "10:00",
+   "poblacion": "El Puerto de Santa María",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6004,
+    -6.2253
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/xxx-carrera-popular-puerto-menesteo/121",
+   "cartel": "https://www.runnink.com/assets/cartel/cartel-menesteo-2026.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/xxx-carrera-popular-puerto-menesteo/121"
     }
    ]
   },
@@ -1902,6 +1938,42 @@
    ]
   },
   {
+   "id": "2026-12-06-jerez-de-la-frontera-montesierra-trail-la-teja",
+   "nombre": "Montesierra Trail La Teja",
+   "fecha": "2026-12-06",
+   "hora": "09:30",
+   "poblacion": "Jerez de la Frontera",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6817,
+    -6.1377
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/montesierra-trail-la-teja/100",
+   "cartel": "https://www.runnink.com/assets/cartel/TRAIL-LA-TEJA-2026.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/montesierra-trail-la-teja/100"
+    }
+   ]
+  },
+  {
    "id": "2026-12-06-san-jose-del-valle-monte-de-la-cruz-cruz-del-valle-2026-en-edad-escolar",
    "nombre": "Cruz del Valle 2026 en Edad Escolar",
    "fecha": "2026-12-06",
@@ -2263,7 +2335,10 @@
    "poblacion": "Plaza de la Iglesia de Alcútar",
    "provincia": "Granada",
    "comunidad": "andalucia",
-   "coords": null,
+   "coords": [
+    37.0211,
+    -3.1999
+   ],
    "modalidad": "montaña",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -2298,6 +2373,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/iv-cxm-el-vergel-berchules-alcutar-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/iv-cxm-el-vergel-berchules-alcutar-2026/"
     }
    ]
   },
@@ -2806,7 +2885,10 @@
    "poblacion": "Aparcamientos del Instituto Agave de Huércal de Almería",
    "provincia": "Almería",
    "comunidad": "andalucia",
-   "coords": null,
+   "coords": [
+    36.8836,
+    -2.4399
+   ],
    "modalidad": "montaña",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -2841,6 +2923,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/vii-extreme-iberus-cxm/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/vii-extreme-iberus-cxm/"
     }
    ]
   },
@@ -2921,6 +3007,42 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/312"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-13-jerez-de-la-frontera-vi-carrera-infantil-bomberos-de-jerez",
+   "nombre": "VI Carrera Infantil Bomberos de Jerez",
+   "fecha": "2026-12-13",
+   "hora": "11:00",
+   "poblacion": "Jerez de la Frontera",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6817,
+    -6.1377
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/vi-carrera-infantil-bomberos-de-jerez/134",
+   "cartel": "https://www.runnink.com/assets/cartel/vi-carrera-infantil-bomberos-de-jerez.png",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/vi-carrera-infantil-bomberos-de-jerez/134"
     }
    ]
   },
@@ -3164,6 +3286,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/xvi-san-silvestre-subida-al-castillejo/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/xvi-san-silvestre-subida-al-castillejo/"
     }
    ]
   },
@@ -3486,6 +3612,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/xxvii-subida-pedestre-al-conjuro/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/xxvii-subida-pedestre-al-conjuro/"
     }
    ]
   },
@@ -3497,7 +3627,10 @@
    "poblacion": "Pabellón Cubierto de Atarfe, Avenida Diputación S/N",
    "provincia": "Granada",
    "comunidad": "andalucia",
-   "coords": null,
+   "coords": [
+    37.2227,
+    -3.6866
+   ],
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -3536,6 +3669,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/iv-carrera-san-silvestre-atarfe-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/iv-carrera-san-silvestre-atarfe-2026/"
     }
    ]
   },
@@ -3727,16 +3864,16 @@
    ]
   },
   {
-   "id": "2026-12-20-los-palacios-y-villafranca-media-maraton-sevilla-los-palacios-2026",
+   "id": "2026-12-20-sevilla-media-maraton-sevilla-los-palacios-2026",
    "nombre": "Media Maratón Sevilla - Los Palacios 2026",
    "fecha": "2026-12-20",
    "hora": "11:00",
-   "poblacion": "Los Palacios y Villafranca",
+   "poblacion": "Sevilla",
    "provincia": "Sevilla",
    "comunidad": "andalucia",
    "coords": [
-    37.1582,
-    -5.9245
+    37.3886,
+    -5.9953
    ],
    "modalidad": "asfalto",
    "distancias_km": [
@@ -3745,8 +3882,8 @@
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2026---2559/",
-   "cartel": null,
+   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/media-maraton-sevilla-los-palacios-2026/",
+   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/media-maraton-sevilla-los-palacios-2026-31f8e22267.webp",
    "precios": [],
    "previos": [
     "Fecha anunciada en la web oficial (comprobada el 2026-11-16)"
@@ -3755,6 +3892,10 @@
    "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/media-maraton-sevilla-los-palacios-2026/"
+    },
     {
      "id": "anunciadas",
      "url": "https://www.cruzandolameta.es/pruebas/media-maraton-sevilla-los-palacios-2026/"
@@ -4085,7 +4226,10 @@
    "poblacion": "Parque de los Bajos",
    "provincia": "Almería",
    "comunidad": "andalucia",
-   "coords": null,
+   "coords": [
+    36.763,
+    -2.6116
+   ],
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -4112,6 +4256,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/san-silvestre-roquetas-de-mar-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/san-silvestre-roquetas-de-mar-2026/"
     }
    ]
   },
@@ -4155,6 +4303,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/xxx-san-silvestre-bailen/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/xxx-san-silvestre-bailen/"
     }
    ]
   },
@@ -4463,6 +4615,42 @@
     {
      "id": "cronius",
      "url": "https://inscripciones.croniussport.es/inscripcion/iv-san-silvestre-immoderatus/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-el-puerto-de-santa-maria-san-silvestre-el-puerto-de-santa-maria",
+   "nombre": "San Silvestre El Puerto de Santa María",
+   "fecha": "2026-12-27",
+   "hora": "11:00",
+   "poblacion": "El Puerto de Santa María",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6004,
+    -6.2253
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/san-silvestre-el-puerto-de-santa-mar-a/140",
+   "cartel": "https://www.runnink.com/assets/cartel/proximamente.png",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/san-silvestre-el-puerto-de-santa-mar-a/140"
     }
    ]
   },
@@ -4804,6 +4992,42 @@
    ]
   },
   {
+   "id": "2026-12-29-chipiona-xxxiii-san-silvestre-chipionera",
+   "nombre": "XXXIII San Silvestre Chipionera",
+   "fecha": "2026-12-29",
+   "hora": "16:30",
+   "poblacion": "Chipiona",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.7355,
+    -6.4348
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/xxxiii-san-silvestre-chipionera/113",
+   "cartel": "https://www.runnink.com/assets/cartel/xxxiii-san-silvestre-chipionera.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/xxxiii-san-silvestre-chipionera/113"
+    }
+   ]
+  },
+  {
    "id": "2026-12-30-vegas-del-genil-san-silvestre-vegas-del-genil-2026",
    "nombre": "San Silvestre Vegas del Genil 2026",
    "fecha": "2026-12-30",
@@ -4845,6 +5069,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/san-silvestre-vegas-del-genil-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/san-silvestre-vegas-del-genil-2026/"
     }
    ]
   },
@@ -5101,6 +5329,37 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/316"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-fines-vi-san-silvestrail-villa-de-fines",
+   "nombre": "VI San Silvestrail Villa de Fines",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Fines",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    37.36,
+    -2.2633
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/vi-san-silvestrail-villa-de-fines/",
+   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/vi-san-silvestrail-villa-de-fines-87a1c3ece7.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/vi-san-silvestrail-villa-de-fines/"
     }
    ]
   },
@@ -5402,6 +5661,10 @@
     {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/relevos-por-equipos-la-alqueria-2027/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/relevos-por-equipos-la-alqueria-2027/"
     }
    ]
   },
@@ -6033,8 +6296,8 @@
    ]
   },
   {
-   "id": "2027-01-31-el-puerto-de-santa-maria-media-maraton-10k-el-puerto-2027",
-   "nombre": "Media Maratón & 10K El Puerto 2027",
+   "id": "2027-01-31-el-puerto-de-santa-maria-media-maraton-10k-el-puerto",
+   "nombre": "Media Maratón & 10K El Puerto",
    "fecha": "2027-01-31",
    "hora": "09:00",
    "poblacion": "El Puerto de Santa María",
@@ -6046,22 +6309,31 @@
    ],
    "modalidad": "asfalto",
    "distancias_km": [
-    21.097,
-    10.0
+    10.0,
+    21.097
    ],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.runnink.com/evento/media-maraton-el-puerto/114",
-   "cartel": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/media-marat-n-10k-el-puerto/114",
+   "cartel": "https://www.runnink.com/assets/cartel/media-maraton-el-puerto-10k-2027-2.png",
    "precios": [],
    "previos": [
     "Fecha anunciada en la web oficial (comprobada el 2026-11-16)"
    ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/media-marat-n-10k-el-puerto/114"
+    },
     {
      "id": "anunciadas",
      "url": "https://www.mediamaratonelpuerto.com/"
@@ -7032,6 +7304,42 @@
    ]
   },
   {
+   "id": "2027-03-14-el-puerto-de-santa-maria-fungo-race",
+   "nombre": "Fungo Race",
+   "fecha": "2027-03-14",
+   "hora": "09:00",
+   "poblacion": "El Puerto de Santa María",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6004,
+    -6.2253
+   ],
+   "modalidad": "obstáculos",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/fungo-race/130",
+   "cartel": "https://www.runnink.com/assets/cartel/cartel-fungorace-2027.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/fungo-race/130"
+    }
+   ]
+  },
+  {
    "id": "2027-03-14-lucena-xiii-media-maraton-ciudad-de-lucena-10k",
    "nombre": "XIII Media Maratón Ciudad de Lucena & 10K",
    "fecha": "2027-03-14",
@@ -7308,6 +7616,42 @@
    ]
   },
   {
+   "id": "2027-04-04-el-puerto-de-santa-maria-reset-running",
+   "nombre": "Reset Running",
+   "fecha": "2027-04-04",
+   "hora": "10:00",
+   "poblacion": "El Puerto de Santa María",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6004,
+    -6.2253
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/reset-running/138",
+   "cartel": "https://www.runnink.com/assets/cartel/reset_carrera_2026.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/reset-running/138"
+    }
+   ]
+  },
+  {
    "id": "2027-04-04-riders-omega-benamocarra",
    "nombre": "Riders Omega Benamocarra",
    "fecha": "2027-04-04",
@@ -7459,6 +7803,42 @@
    ]
   },
   {
+   "id": "2027-04-11-majarromaque-jerez-de-la-frontera-mkcross-iv-carrera-benefica-por-la-ela",
+   "nombre": "Mkcross IV Carrera Benéfica por la ELA",
+   "fecha": "2027-04-11",
+   "hora": "10:00",
+   "poblacion": "Majarromaque, Jerez de la Frontera",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.6709,
+    -5.9067
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/mkcross-iv-carrera-ben-fica-por-la-ela/142",
+   "cartel": "https://www.runnink.com/assets/cartel/mkcross-2027.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/mkcross-iv-carrera-ben-fica-por-la-ela/142"
+    }
+   ]
+  },
+  {
    "id": "2027-04-17-aracena-v-sierra-de-aracena-trail",
    "nombre": "V Sierra de Aracena Trail",
    "fecha": "2027-04-17",
@@ -7512,14 +7892,13 @@
    ],
    "modalidad": "asfalto",
    "distancias_km": [
-    21.097,
-    11.0
+    42.195
    ],
    "inscripcion_desde": "2026-11-04T00:00",
    "inscripcion_hasta": null,
    "estado_fuente": "abierta",
-   "url_inscripcion": "https://inscrik.com/evento/medio-maraton-almeria-2027/inscribirse/140/",
-   "cartel": null,
+   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/medio-maraton-almeria-2027/",
+   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/medio-maraton-almeria-2027-6bf9f25b6d.webp",
    "precios": [],
    "previos": [
     "Fecha anunciada en la web oficial (comprobada el 2026-11-16)"
@@ -7528,6 +7907,10 @@
    "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/medio-maraton-almeria-2027/"
+    },
     {
      "id": "anunciadas",
      "url": "https://www.cruzandolameta.es/pruebas/medio-maraton-almeria-2027/"
@@ -7857,6 +8240,37 @@
    ]
   },
   {
+   "id": "2027-05-02-sierro-cxm-sierro-2027",
+   "nombre": "CxM Sierro 2027",
+   "fecha": "2027-05-02",
+   "hora": null,
+   "poblacion": "Sierro",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    37.3214,
+    -2.3986
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/cxm-sierro-2027/",
+   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/cxm-sierro-2027-b3c1d54c65.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/cxm-sierro-2027/"
+    }
+   ]
+  },
+  {
    "id": "2027-05-15-nevada-sierra-nevada-limite-2027",
    "nombre": "Sierra Nevada Límite 2027",
    "fecha": "2027-05-15",
@@ -8045,6 +8459,42 @@
     {
      "id": "gesconchip",
      "url": "https://gesconchip.es/prueba/informacion/xxv-c-p-puerto-de-algeciras"
+    }
+   ]
+  },
+  {
+   "id": "2027-06-19-san-fernando-xi-fan-pin",
+   "nombre": "XI Fan-Pin",
+   "fecha": "2027-06-19",
+   "hora": "09:30",
+   "poblacion": "San Fernando",
+   "provincia": "Cádiz",
+   "comunidad": "andalucia",
+   "coords": [
+    36.4647,
+    -6.1983
+   ],
+   "modalidad": "obstáculos",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runnink.com/evento/xi-fan-pin/139",
+   "cartel": "https://www.runnink.com/assets/cartel/fanpin-2026.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runnink",
+     "url": "https://www.runnink.com/evento/xi-fan-pin/139"
     }
    ]
   },
@@ -8350,6 +8800,39 @@
     {
      "id": "dorsalchip",
      "url": "https://www.dorsalchip.es/carrera/2027/10/31/II_Cerrocross_Melkart_Gadeiras.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2027-11-01-nerja-almijara-trail-2027-campeonato-de-andalucia-de-clubes-de-trail",
+   "nombre": "Almijara Trail 2027 (Campeonato de Andalucía de Clubes de Trail)",
+   "fecha": "2027-11-01",
+   "hora": null,
+   "poblacion": "Nerja",
+   "provincia": "Málaga",
+   "comunidad": "andalucia",
+   "coords": [
+    36.7469,
+    -3.879
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-16)"
+   ],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "anunciadas",
+     "url": "https://atletismofaa.es/wp-content/uploads/2026/10/calendario_prueba_trail_FAA_RFEA_2027.webp"
     }
    ]
   },

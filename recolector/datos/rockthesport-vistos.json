@@ -1,4 +1,152 @@
 {
+ "-iv-carrera-y-marcha-nordica-navidena-vuelta-al-cerrao-andosilla-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IV Carrera y Marcha Nordica Navideña Vuelta Al Cerrao Andosilla (None)"
+ },
+ "-la-pica-pedalada-hivernal-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Pica Pedalada Hivernal 2027 (None)"
+ },
+ "-medio-maraton-san-sebastian-rural-kutxa-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Medio Maratón San Sebastián Rural Kutxa 2027 (None)"
+ },
+ "-pirates-race-iv-campeonato-de-espana-aoco-y-iv-edicion-cortes-de-pa": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Pirates Race IV Campeonato de España Aoco y IV Edición Cortes de Pallas (None)"
+ },
+ "-san-silvestre-de-lerin-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre de Lerín 2026 (None)"
+ },
+ "-xxiv-sierra-norte-comunidad-de-madrid-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXIV Sierra Norte Comunidad de Madrid (None)"
+ },
+ "-xxviii-carrera-de-navidad-de-denominaciones-mendavia": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXVIII Carrera de Navidad de Denominaciones (Mendavia) (None)"
+ },
+ "-xxxi-vuelta-pedestre-a-tres-cantos-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXXI Vuelta Pedestre a Tres Cantos (None)"
+ },
+ "10-k-y-iii-maraton-trail-majadahonda": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10 k y III Maraton-Trail Majadahonda (None)"
+ },
+ "10-onil-trails-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10º Onil Trails, 2027 (None)"
+ },
+ "10k-5k-sanchinarro-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K / 5K Sanchinarro 2027 (None)"
+ },
+ "10k-camargo-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K Camargo 2027 (None)"
+ },
+ "10k-gimnastica-ulia": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K Gimnástica Ulía (None)"
+ },
+ "10k-salou-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K Salou 2027 (None)"
+ },
+ "10kcastello": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K Facsa Castelló (None)"
+ },
+ "12-vmll-volta-muntanya-de-llauri-lmvs-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 12ª VMLL Volta Muntanya de Llaurí LMVS. 26/27 (None)"
+ },
+ "15-azkoitiazpeitia-lasterketa-motza-806km": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 15. AzkoitiAzpeitia lasterketa motza 8,06km (None)"
+ },
+ "15k-valencia-abierta-al-mar-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 15K Valencia Abierta al Mar 2027 (None)"
+ },
+ "1770210358": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 42ª Media Maratón de Castelló 2027 (None)"
+ },
+ "1790243532": {
+  "andaluza": false,
+  "motivo": "no es a pie: Huex Mtb 2027"
+ },
+ "1793567473": {
+  "andaluza": false,
+  "motivo": "no es a pie: Half Madrid Triatlon"
+ },
+ "2027-trail-zone-tgc": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 2027 Trail Zone - Tgc (None)"
+ },
+ "23-carrera-de-primavera-donostiarrak-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 23ª Carrera de Primavera Donostiarrak (None)"
+ },
+ "26a-edicio-del-mou-te-per-lesclerosi-multiple-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 26a edición del MUÉVETE POR LA ESCLEROSIS MÚLTIPLE 2026 (None)"
+ },
+ "29a-marxa-del-terme-sant-fruitos-de-bages-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 29a Marxa del Terme Sant Fruitós de Bages 2027 (None)"
+ },
+ "2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 2a Prova de Lliga CxM FEMECV 2027, Banyeres de Mariola (None)"
+ },
+ "3-nacions-by-bwt-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 3 Nacions by BWT 2027 (None)"
+ },
+ "34-media-maraton-internacional-azkoitiazpeitia-memorial-diego-garcia": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 34ª Media Maratón Internacional AzkoitiAzpeitia memorial Diego García (None)"
+ },
+ "34-san-silvestre-de-castellon-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 34ª Sant Silvestre Castelló 2026 (None)"
+ },
+ "3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 3a Prova de Lliga CxM FEMECV + Carrera de la Dona 2027 , La Vall D'Uixó (None)"
+ },
+ "40a-mitja-sant-cugat-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 40a Mitja Sant Cugat 2027 (None)"
+ },
+ "41sd": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XLI San Silvestre Donostiarra (None)"
+ },
+ "42-carrera-popular-caixabank-villa-de-aranjuez": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 42 Carrera Popular Caixabank Villa de Aranjuez (None)"
+ },
+ "45-cross-beach-hondartzako-krosa": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 45º CROSS-BEACH HONDARTZAKO KROSA - Miguel Uriarte oroituz (None)"
+ },
+ "46-idiazabalgo-herri-krosa-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 46. Idiazabalgo Herri Krosa 2027 (None)"
+ },
+ "47-marxa-beret": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 47ª Marxa Beret (None)"
+ },
+ "5k-y-media-maraton-ciudad-de-huesca-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 5K y Media Maratón Ciudad de Huesca 2027 (None)"
+ },
  "5k5v-contra-la-violencia-de-genero-en-comarca-cinco-villas-2025": {
   "andaluza": false,
   "motivo": "circuito o temporada, no una carrera: 5k5v - Contra la Violencia de Género en Comarca Cinco Villas 2025"
@@ -7,9 +155,17 @@
   "andaluza": false,
   "motivo": "circuito o temporada, no una carrera: 5k5v - Contra la Violencia de Género en Comarca Cinco Villas 2026"
  },
+ "6a-cursa-del-gall-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 6a Cursa del Gall 2026 (None)"
+ },
  "a100-carrera-nocturna-laujar-fondon-2026": {
   "andaluza": true,
   "fecha": "2026-08-18"
+ },
+ "aitana-tour": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Aitana Tour (None)"
  },
  "alameda-trail-2026": {
   "andaluza": false,
@@ -19,13 +175,89 @@
   "andaluza": false,
   "fecha": "2027-04-16"
  },
+ "alcasser-contra-el-cancer-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Alcàsser Contra el Cáncer 2026 (None)"
+ },
+ "alpinum-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Alpinum 2027 (None)"
+ },
+ "arantzazuko-sansilbestrail-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Arantzazuko Sansilbestrail 2026 (None)"
+ },
+ "arcedianu": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VII Trail el Arcedianu de Amieva (None)"
+ },
+ "asturiaschallenge2027": {
+  "andaluza": false,
+  "motivo": "circuito o temporada, no una carrera: Asturias Challenge 2027"
+ },
  "autobus-extra-pampaneira": {
   "andaluza": true,
   "fecha": "2026-05-16"
  },
+ "back-yard-mentrida-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Back Yard Méntrida 2027 (None)"
+ },
+ "backyard-valdetorres-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Backyard Valdetorres (2027) (None)"
+ },
+ "break-fast-run-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Break Fast Run (None)"
+ },
+ "brevet-madrid-to-st-coloma-de-queralt-by-pedalma-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Brevet 600km: Madrid To Sta. Coloma de Queralt By Pedalma 2027 (None)"
+ },
+ "cami-bandolers-senija-ctm-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Camí Bandolers, Senija, CTM 26/27 (None)"
+ },
+ "campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Campionat Autonòmic de Quilòmetre Vertical, FEMECV 2027 Benissa. (None)"
+ },
+ "campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Campionat Autonòmic Individual i de Clubs, FEMECV 2027, Crevillent (None)"
+ },
+ "campionat-autonomic-individual-i-per-clubs-femecv-2027-elx": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx (None)"
+ },
+ "canfranc-canfranc-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Canfranc-canfranc 2027 (None)"
+ },
  "carrera-de-la-primavera-comunidad-de-madrid-2027-ano-de-la-cabra-2027": {
   "andaluza": false,
   "fecha": "2027-02-14"
+ },
+ "carrera-de-las-empresas-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Carrera de las empresas 2027 (None)"
+ },
+ "carrera-de-montana-guia-de-isora-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Carrera de Montaña Guía de Isora 2027 (None)"
+ },
+ "carrera-del-roscon-yebes-valdeluz-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Carrera del Roscón Yebes - Valdeluz 2027 (None)"
+ },
+ "carrera-fin-de-ano-lugones-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Carrera Fin de Año Lugones 2026 (None)"
+ },
+ "carrera-maux-xxxiv-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Carrera MAUX XXXIV 2027 (None)"
  },
  "carrera-solidaria-corre-sin-resistencias-ceu-cardenal-herrera-alfara-del-patriarca": {
   "andaluza": false,
@@ -35,9 +267,37 @@
   "andaluza": true,
   "fecha": "2026-10-10"
  },
+ "castaneru-redes-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Castañeru Redes Trail 2027 (None)"
+ },
+ "cbbrfull27": {
+  "andaluza": false,
+  "motivo": "no es a pie: Costa Blanca Bike Race 2027 Full"
+ },
+ "cbbrhalf27": {
+  "andaluza": false,
+  "motivo": "no es a pie: Costa Blanca Bike Race 2027 Half"
+ },
+ "cena-de-gala-clasica-jaen-paraiso-interior-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cena de Gala - Clásica Jaén Paraíso Interior 2027 (None)"
+ },
  "cena-de-gala-malaga": {
   "andaluza": true,
   "fecha": "2026-11-06"
+ },
+ "copa-catalana-internacional-biking-point-sant-fruitos-2027-c2-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Copa Catalana Internacional Biking Point Sant Fruitós 2027 | C2 | (None)"
+ },
+ "copa-de-mn-femecv-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Copa de MN FEMECV 2027 (None)"
+ },
+ "copy-10k-vilafranca-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 10K Vilafranca 2027 (None)"
  },
  "copy-viiiicicloturista-la-rioja-": {
   "andaluza": false,
@@ -55,9 +315,49 @@
   "andaluza": true,
   "fecha": "2026-02-22"
  },
+ "correblau-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Correblau 2027 (None)"
+ },
+ "costa-brava-stage-run-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Costa Brava Stage Run 2027 (None)"
+ },
+ "cp-infantil-26": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Carrera Infantil de la Primavera Año de la Cabra (None)"
+ },
+ "cronoescalada-del-valle-del-malpaso": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cronoescalada del Valle del Malpaso (None)"
+ },
  "cte26-duatlon-escolar-perlas-colmenar-viejo": {
   "andaluza": false,
   "fecha": "2026-04-25"
+ },
+ "ctt-trail-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: C.t.t. Trail - 2027 (None)"
+ },
+ "cursa-del-gall-riudecanyes-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cursa del Gall Riudecanyes - 2026 (None)"
+ },
+ "cursa-hostrailric-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cursa Hostrailric 2027 (None)"
+ },
+ "cursa-mar-i-murtra-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cursa Mar i Murtra 2027 (None)"
+ },
+ "curso-entrenador-nivel-i-15-promocion": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Curso Entrenador Nivel I 15 Promoción (None)"
+ },
+ "deltaloops-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Deltaloops 2027 (None)"
  },
  "dual-run-frailes-jaen": {
   "andaluza": true,
@@ -71,6 +371,30 @@
   "andaluza": true,
   "fecha": "2026-05-31"
  },
+ "ebrox": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ebrox OCR - Logroño (None)"
+ },
+ "el-mito-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: El Mito 2027 (None)"
+ },
+ "entrepobles-girones-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Cursa Entrepobles Gironès 2027 (None)"
+ },
+ "era-san-silvestre-vielha": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Era San Silvestre Vielha 2026 (None)"
+ },
+ "errenteriako-san-silbestrea-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Errenteriako San Silbestrea 2026 (None)"
+ },
+ "escuelas-deportivas-federacion-navarra-deportes-adaptados-oct26-may27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Escuelas Deportivas Federación Navarra Deportes Adaptados (oct26 -may27) (None)"
+ },
  "eurafrica-trail-cadiz-2026": {
   "andaluza": true,
   "fecha": "2026-10-31"
@@ -83,6 +407,10 @@
   "andaluza": true,
   "fecha": "2026-04-09"
  },
+ "faura-contra-el-cancer-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Faura Contra el Cáncer 2026 (None)"
+ },
  "festival-del-viento-tarifa": {
   "andaluza": true,
   "fecha": "2026-06-27"
@@ -90,6 +418,18 @@
  "fortius-sevilla": {
   "andaluza": false,
   "motivo": "no es a pie: Fortius Hybrid Race Sevilla"
+ },
+ "garmin-mountain-festival-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Garmin Mountain Festival 2027 (None)"
+ },
+ "gatza-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gatza trail 2027 (None)"
+ },
+ "gcom2026": {
+  "andaluza": false,
+  "motivo": "circuito o temporada, no una carrera: Gran Canaria O-Meeting (GCOM 2026)"
  },
  "generali-maraton-de-malaga-2025": {
   "andaluza": true,
@@ -103,33 +443,165 @@
   "andaluza": true,
   "fecha": "2026-11-07"
  },
+ "gladiatorsday-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gladiatorsday 2027 (None)"
+ },
+ "good-loop-backyard-ultra-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Good Loop Backyard Ultra 2027 (None)"
+ },
+ "gr322-nafarroa-xtrem-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: GR322 Nafarroa Xtrem 2027 (None)"
+ },
+ "graciowsa-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: GraciOWSa 2027 (None)"
+ },
+ "gran-fondo-calella-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gran fondo Calella 2027 (None)"
+ },
+ "gran-fondo-lloret-costa-brava-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gran fondo Lloret Costa Brava 2027 (None)"
+ },
+ "gran-fondo-pirineus-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gran fondo Pirineus 2027 (None)"
+ },
  "gran-fondo-sierra-cazorla-2026": {
   "andaluza": true,
   "fecha": "2026-09-26"
+ },
+ "gran-fondo-sierra-de-albacete-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gran Fondo Sierra de Albacete 2027 (None)"
  },
  "gran-gala-de-fin-de-circuito-de-carreras-populares-de-la-rioja-y-navarra-2025": {
   "andaluza": false,
   "fecha": "2025-12-12"
  },
+ "gran-trail-sobrarbe-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gran Trail Sobrarbe 2027 (None)"
+ },
+ "granadella-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Granadella Trail 2027 (None)"
+ },
+ "gravel-trail-challenge-costa-brava": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Gravel & Trail Challenge Costa Brava 2027 (None)"
+ },
+ "herri-ametsa-talaia": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Herri Ametsa Talaia (None)"
+ },
+ "hiru-herri-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Hiru Herri Trail 2027 (None)"
+ },
+ "hivernal-del-bages-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Hivernal del Bages 2027 (None)"
+ },
+ "httpscarrerasolidariaamgres": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIII Carrera Solidaria del Ave Maria (None)"
+ },
+ "httpssnowrunninglarrabelaguacom": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Snowrunning Larra Belagua 2027 Elur Lasterketa (None)"
+ },
+ "hyundai-mitja-marato-barcelona-by-brooks-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Hyundai Mitja Marató Barcelona by Brooks 2027 (None)"
+ },
+ "hyundai-mitja-marato-barcelona-by-brooks-2027-circuito-nacional-de-running-platano-de-canarias": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: HYUNDAI MITJA MARATÓ BARCELONA BY BROOKS 2027 - Circuito Nacional de Running Plátano de Canarias (None)"
+ },
+ "i-carrera-solidaria-cofradia-de-los-dolores": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: I Carrera Solidaria Cofradía de Los Dolores (None)"
+ },
+ "i-casti-trail-bailadera-el-baile-de-la-bailadera": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: I CASTI TRAIL BAILADERA El Baile de la Bailadera (None)"
+ },
  "i-duatlon-cros-albaida-del-aljarafe": {
   "andaluza": true,
   "fecha": "2025-12-07"
+ },
+ "i-lagartrail": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: I Lagartrail (None)"
  },
  "i-trail-de-la-picota-de-pezuela-de-las-torres": {
   "andaluza": false,
   "fecha": "2026-09-12"
  },
+ "ibiza-media-maraton-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ibiza Media Maraton 2027 (None)"
+ },
+ "ican-triathlon-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: ICAN Triathlon 2027 (None)"
+ },
+ "ii-carrera-de-navidad-tres-cantos-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Carrera de Navidad Tres Cantos (None)"
+ },
  "ii-carrera-guardia-civil-la-rioja": {
   "andaluza": false,
   "fecha": "2026-11-15"
+ },
+ "ii-etxtrail": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: II. Etxtrail (None)"
  },
  "ii-gtf-geoparque-trail-fonelas": {
   "andaluza": true,
   "fecha": "2026-11-22"
  },
+ "ii-san-silvestre-realena": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: II San Silvestre Realeña (None)"
+ },
+ "ii-vertical-hermano-pedro": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: II Vertical Hermano Pedro (None)"
+ },
+ "iii-carrera-solidaria-mi-princesa-rett-la-pueblanueva": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Carrera Solidaria MI Princesa Rett (la Pueblanueva) (None)"
+ },
  "iii-la-conquista-del-bonal-": {
   "andaluza": false,
   "fecha": "2026-08-29"
+ },
+ "iii-marcha-y-carrera-de-los-almendros-en-flor": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Marcha y Carrera de los Almendros en Flor (None)"
+ },
+ "iii-trail-del-cocido-villareno": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: III Trail del Cocido Villareño (None)"
+ },
+ "inscripcion-lliga-de-clubs-caixa-popular-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Inscripción Lliga de Clubs | Caixa Popular 2027 (None)"
+ },
+ "iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: V ATZAVARES TRAIL, ORBA-VALL LAGUAR, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "iv-domusa-teknik-15-mlk-26km-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IV-Domusa Teknik 15 MLK (26km) (None)"
  },
  "iv-grazalema-trail-nature": {
   "andaluza": true,
@@ -139,9 +611,117 @@
   "andaluza": true,
   "fecha": "2026-05-03"
  },
+ "iv-media-maraton-ciudad-de-chiclana": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IV Viamed Media Maratón Ciudad de Chiclana (None)"
+ },
+ "iv-the-millars-uci-gran-fondo-world-series-castellon": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IV The Millars Uci Gran Fondo World Series Castellón (None)"
+ },
+ "ix-duatlon-invernal-bronchales": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IX Duatlón Invernal Bronchales (None)"
+ },
+ "ix-larrate-trail": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IX Larrate Trail (None)"
+ },
+ "ix-san-sdtxikia": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IX San Silvestre Donostiarra Txikia (None)"
+ },
+ "ix-trail-urrea-de-gaen": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IX Trail Urrea de Gaen (None)"
+ },
+ "jjp-sherry-maraton-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Jjp Sherry Maratón 2027 (None)"
+ },
+ "la-bescanonina-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Bescanonina 2027 (None)"
+ },
  "la-conquista-del-castillo-2026": {
   "andaluza": false,
   "fecha": "2026-05-24"
+ },
+ "la-graco-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Graco 2027 (None)"
+ },
+ "la-mes-freda-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Més Freda 2026 (None)"
+ },
+ "la-paulina-40-cursa-popular-de-polinya": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Paulina - 40ª Cursa Popular de Polinyà (None)"
+ },
+ "la-sant-silvestre-torrenca-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Sant Silvestre Torrenca 2026 (None)"
+ },
+ "laindurain27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: La Indurain 2027 (None)"
+ },
+ "las-2-leguas-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Las 2 Leguas de Leganés 2027 (None)"
+ },
+ "legendaria-gran-fondo-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Legendaria Gran Fondo 2027 (None)"
+ },
+ "li-san-silbestre-beasain": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: LI. San Silbestre Beasain (None)"
+ },
+ "liga-cadete-femenina-2026-27-juegos-deportivos-de-navarra-voleibol": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Liga Cadete Femenina 26-27 (juegos Deportivos de Navarra - Voleibol) (None)"
+ },
+ "liga-cadete-juvenil-mixta-26-27-juegos-deportivos-de-navarra-voleibol": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Liga Cadete-juvenil Mixta 26-27 (juegos Deportivos de Navarra - Voleibol) (None)"
+ },
+ "liga-infantil-mixta-26-27-juegos-deportivos-de-navarra-voleibol": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Liga Infantil Mixta 26-27 (juegos Deportivos de Navarra - Voleibol) (None)"
+ },
+ "liga-juvenil-femenina-26-27-juegos-deportivos-de-navarra-voleibol": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Liga Juvenil Femenina 26-27 (juegos Deportivos de Navarra - Voleibol) (None)"
+ },
+ "liga-navarra-senior-voleibol-26-27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Liga Navarra Senior Voleibol 26-27 (None)"
+ },
+ "llanera-race": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Llanera Race (None)"
+ },
+ "lliga-de-clubs-2026-duatlon-cre-cheste-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Lliga de Clubs 2026 + Duatlón Cre Cheste 2026 (None)"
+ },
+ "lpa-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: LPA Trail 2027 (None)"
+ },
+ "madrid-7-picos-by-decathlon-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Madrid 7 Picos by Decathlon 2027 (None)"
+ },
+ "madrid-to-barcelona-by-pedalma-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Madrid To Barcelona By Pedalma 2027 (None)"
+ },
+ "marato-bp-castello-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Marató Bp Castelló (None)"
  },
  "maraton-de-estepona-jardin-de-la-costa-del-sol-27": {
   "andaluza": true,
@@ -159,25 +739,229 @@
   "andaluza": false,
   "fecha": "2026-04-26"
  },
+ "marimurumendimarathon-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Marimurumendi Marathon 2027 (None)"
+ },
+ "marxa-castells-altafulla-baix-gaia-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Marxa Castells Altafulla - Baix Gaià 2027 (None)"
+ },
+ "media-del-lince-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Media del Lince 2027 (None)"
+ },
  "media-maraton-y-10k-comarca-de-valdejalon-2026": {
   "andaluza": false,
   "fecha": "2026-11-15"
+ },
+ "minivoley-mixto-juegos-deportivos-de-navarra-26-27-voleibol": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Minivoley Mixto (juegos Deportivos de Navarra 26-27 - Voleibol) (None)"
+ },
+ "mitja-delta-del-ebre": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Mitja Delta de l'Ebre (None)"
+ },
+ "mitja-marato-ciutat-de-girona-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Mitja Marató Ciutat de Girona 2027 (None)"
+ },
+ "mitja-marato-internacional-santa-pola-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: 35ª Mitja Marató Internacional Vila de Santa Pola 2027 (None)"
+ },
+ "monte-feliz-powered-by-playitas-desafio-la-titanica-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Monte Feliz Powered by Playitas - Desafío La Titánica 2027 (None)"
+ },
+ "mussara-salou-costa-daurada-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Mussara Salou Costa Daurada 2027 (None)"
+ },
+ "negu-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Negu Trail 2027 (None)"
  },
  "nocturna-de-arenas-de-san-pedro": {
   "andaluza": false,
   "fecha": "2026-07-11"
  },
+ "oceanmancoaches": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Oceanman Coaches (None)"
+ },
+ "openswim2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: IX 100x100 Open Swim | CTOA Alcorcón 2026 (None)"
+ },
+ "ordiziako-mendi-lasterketa-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ordiziako Mendi Lasterketa 2027 (None)"
+ },
+ "orioko-san-silbestrea-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Orioko San Silbestrea 2026 (None)"
+ },
+ "oso-trail-proaza": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Oso Trail Proaza (None)"
+ },
+ "parunda-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Parunda By Brooks 2027 (None)"
+ },
+ "penazuela-trail-ainzon-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Peñazuela Trail Ainzon 2027 (None)"
+ },
+ "perimetrail-arguis-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Perimetrail Arguis 2027 (None)"
+ },
+ "picos-snow-run-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIII Picos Snow Run 2027 (None)"
+ },
  "ponle-freno-malaga-2026": {
   "andaluza": true,
   "fecha": "2026-06-06"
+ },
+ "prades-epic-trail-costa-daurada-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Prades Epic Trail Costa Daurada 2027 (None)"
+ },
+ "preinscripcion-iroman-lanzarote": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Preinscripcion Iroman Lanzarote (None)"
+ },
+ "pruebas-cosmos": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Pruebas Cosmos (None)"
+ },
+ "quarta-i-mitja-marato-paiporta-picanya-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Quarta I Mitja Marató, Paiporta - Picanya, 2026 (None)"
+ },
+ "quebrantabook-2027": {
+  "andaluza": false,
+  "motivo": "no es a pie: Quebrantabook 2027"
+ },
+ "rabiosa-race-2027-v": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Rabiosa Race 2027 (None)"
+ },
+ "riano-trail-run-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Riaño Trail Run 2027 (None)"
+ },
+ "ride-across-girona-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ride Across Girona 2027 (None)"
+ },
+ "run-festival-tossa-de-mar-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Run Festival Tossa de Mar 2027 (None)"
+ },
+ "salmon-trail-cornellana": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Salmon Trail Cornellana (None)"
+ },
+ "salomon-run-barcelona-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Salomon Run Barcelona 2027 (None)"
  },
  "salvaje-race-san-fernando": {
   "andaluza": true,
   "fecha": "2026-09-26"
  },
+ "san-silvestre-burriana-26": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Burriana - 27/12/2026 (None)"
+ },
+ "san-silvestre-de-amieva-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre de Amieva 2026 (None)"
+ },
+ "san-silvestre-de-huesca-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre de Huesca 2026 (None)"
+ },
+ "san-silvestre-ejeana-solidaria-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Ejeana Solidaria 2026 (None)"
+ },
+ "san-silvestre-en-familia-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre en Familia 2026 (None)"
+ },
+ "san-silvestre-gozoniega-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Gozoniega 2026 (None)"
+ },
+ "san-silvestre-majadahonda-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre MAJADAHONDA (None)"
+ },
+ "san-silvestre-salas-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Salas 2026 (None)"
+ },
+ "san-silvestre-trail-agreda-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Trail Ágreda 2026 (None)"
+ },
+ "san-silvestre-trail-mieres-del-camino-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Trail Mieres del Camino 2026 (None)"
+ },
+ "san-silvestre-val-de-san-vicente-unquera-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: San Silvestre Val de San Vicente - Unquera 2026 (None)"
+ },
+ "sant-silvestre-de-lhospitalet-de-linfant-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Sant Silvestre de L'hospitalet de L'infant 2026 (None)"
+ },
+ "sant-silvestre-laleixar-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Sant Silvestre L'aleixar 2026 (None)"
+ },
+ "sant-silvestre-reus-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Sant Silvestre Reus - 2026 (None)"
+ },
+ "santa-vall-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Santa Vall 2027 (None)"
+ },
  "santiago-pontones-trail-weekend-2026": {
   "andaluza": true,
   "fecha": "2026-09-19"
+ },
+ "santkutrail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Santkutrail 2027 (None)"
+ },
+ "sb-hotels-la-garba-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Sb Hotels la Garba 2027 (None)"
+ },
+ "scott-mediterranean-epic-gran-fondo-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Scott Mediterranean Epic Gran Fondo 2027 (None)"
+ },
+ "serralades-de-barxera-mabu-2027-lmvs-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Serralades de Barxeta - Mabu 2027, LMVS. 26/27 (None)"
+ },
+ "shimano-super-cup-massi-banyoles-2027-hc-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: SHIMANO SUPER CUP MASSI BANYOLES 2027 | HC - Continental Series (None)"
+ },
+ "shimano-super-cup-massi-la-nucia-2027-c1-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Shimano Super Cup Massi la Nucía 2027 | C1 | (None)"
  },
  "sierra-cazorla-trails-2026": {
   "andaluza": true,
@@ -199,17 +983,153 @@
   "andaluza": true,
   "fecha": "2026-11-08"
  },
+ "simat-trail-lmvs-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Simat trail, LMVS. 26/27 (None)"
+ },
+ "skull-minihollywood-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Skull MiniHollywood 2027 (None)"
+ },
  "skull-torremolinos-2025": {
   "andaluza": true,
   "fecha": "2025-11-16"
+ },
+ "socio": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Faite Soci@ (None)"
+ },
+ "spring-run-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Spring Run 2027 (None)"
+ },
+ "sps-sella-river-stand-up-paddle-race-2027": {
+  "andaluza": false,
+  "motivo": "no es a pie: Sps Sella River Stand Up Paddle Race 2027"
+ },
+ "st-esteve-run-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: St. Esteve Run 2026 (None)"
+ },
+ "super-cup-youth-banyoles-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Super Cup Youth Banyoles 2027 (None)"
+ },
+ "super-cup-youth-sant-fruitos-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Super Cup Youth Sant Fruitós 2027 (None)"
  },
  "tarifa-de-acrecitacion-de-tecnicos": {
   "andaluza": false,
   "fecha": "2025-12-31"
  },
+ "tenerguera-trail-2027-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tenerguera Trail 2027 (None)"
+ },
+ "the-capitals-by-pedalma-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: The Capitals By Pedalma 2027 (None)"
+ },
+ "thetraka-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: The Traka 2027 (None)"
+ },
  "torres-de-segre-mou-te-contra-el-cancer": {
   "andaluza": false,
   "fecha": "2026-10-04"
+ },
+ "tradeinn-zarauzko-triatloia-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tradeinn Zarauzko Triatloia 2027 (None)"
+ },
+ "tradeinn-zarauzko-triatloia-2027-aurre-izenematea": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: TradeInn Zarauzko Triatloia 2027 (Aurreinskripzioa) (None)"
+ },
+ "trail-albarracin-pinares-del-rodeno-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Albarracin - Pinares del Rodeno 2027 (None)"
+ },
+ "trail-almendros-y-volcanes-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Almendros y volcanes 2027 (None)"
+ },
+ "trail-de-los-torrollones-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail de los Torrollones 2027 (None)"
+ },
+ "trail-de-primavera-confrides-ctm-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail de Primavera, Confrides, CTM 26/27 (None)"
+ },
+ "trail-fuentealta-vilaflor-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Fuentealta Vilaflor 2027 (None)"
+ },
+ "trail-guzman-el-bueno-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Guzmán el Bueno 2027 (None)"
+ },
+ "trail-les-creus-2027-tavernes-de-la-valldigna-lliga-de-muntanya-valencia-sud-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail les Creus 2027, Tavernes de la Valldigna, LLiga de Muntanya València Sud, 26/27 (None)"
+ },
+ "trail-terras-de-buron-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Terras de Burón 2027 (None)"
+ },
+ "trail-umbria-la-plana-enguera": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Umbria la Plana Enguera (None)"
+ },
+ "trail-vielha-molieres-3010-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Trail Vielha Molieres 3010 (None)"
+ },
+ "training-event-trailcat100": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Training Event-trailcat100 (None)"
+ },
+ "travessa-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Travessa Trail 2027 (None)"
+ },
+ "tres-tossals-gata-gorgos-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: TRES TOSSALS ‐ GATA GORGOS, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "tritour-cambrils-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tritour Cambrils 2027 (None)"
+ },
+ "tritour-deltebre-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tritour Deltebre 2027 (None)"
+ },
+ "tritour-el-pont-de-suert-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tritour el Pont de Suert 2027 (None)"
+ },
+ "tritour-salou-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tritour Salou 2027 (None)"
+ },
+ "tritour-tossa-de-mar-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Tritour Tossa de Mar 2027 (None)"
+ },
+ "ultra-trail-moncayo-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ultra Trail Moncayo 2027 (None)"
+ },
+ "ultra-trail-picos-de-europa-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Ultra Trail Picos de Europa 2027 (None)"
+ },
+ "ultra-vimar-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: UltraVimar 2027 (None)"
  },
  "unicaja-ultra-sierra-nevada-2026": {
   "andaluza": true,
@@ -219,6 +1139,22 @@
   "andaluza": true,
   "fecha": "2027-04-02"
  },
+ "urolako-trena-maratoia-21k-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Urolako Trena Maratoia 21K Zumarraga-Azpeitia (None)"
+ },
+ "urolako-trena-maratoia-42k": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Urolako Trena Maratoia 42K Zumarraga-Zumaia (None)"
+ },
+ "urolako-trena-maratoia-7k": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Urolako Trena Maratoia 7K Legazpi-Zumarraga (None)"
+ },
+ "v-cross-del-cordel-de-las-merinas": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: V Cross del Cordel de las Merinas (None)"
+ },
  "v-duatlon-contrarreloj-por-equipos-el-ejido": {
   "andaluza": true,
   "fecha": "2026-11-29"
@@ -227,41 +1163,265 @@
   "andaluza": true,
   "fecha": "2025-11-30"
  },
+ "v-gran-fondo-jaen-paraiso-interior-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: V Gran Fondo Jaén Paraíso Interior 2027 (None)"
+ },
  "v-grazalema-trail-nature": {
   "andaluza": true,
   "fecha": "2027-03-20"
+ },
+ "v-trail-sastago": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: V Trail Sástago (None)"
+ },
+ "v-ultramediterrania-terres-de-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: V Ultramediterrània Terres de Trail 2027 (None)"
+ },
+ "veinte-leguas-alpujarra-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Veinte Leguas Alpujarra 2027 (None)"
+ },
+ "vi-alma-guerrera": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VI Alma Guerrera (None)"
  },
  "vi-carrera-y-marcha-conquista-del-castillo-mejorada": {
   "andaluza": false,
   "fecha": "2026-04-19"
  },
+ "vi-domusa-teknik-40-mlk-65km-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VI-Domusa Teknik 40 MLK (65km) (None)"
+ },
  "vi-duatlon-cros-rincon-de-la-victoria-memorial-jose-martin-solis": {
   "andaluza": true,
   "fecha": "2025-12-21"
+ },
+ "vi-half-gasteiz-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VI Half Gasteiz 2027 (None)"
+ },
+ "vi-infinitri-burriana-triathlon-festival": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VI Infinitri Burriana Triathlon Festival (None)"
+ },
+ "vi-kos-xtreme-triathlon": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VI Kos Xtreme Triathlon (None)"
+ },
+ "vii-edicion-segura-xtreme-triathlon": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VII Edicion Segura Extreme Triathlon (None)"
+ },
+ "viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VIII ALMÈDIA TRAIL ‐ CALLOSA D’EN SARRIÀ, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "viii-pego-trail-pego-ctm-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VIII Pego Trail, Pego, Ctm 26/27 (None)"
+ },
+ "viii-vallacuera-extreme-peralta": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: VIII Vallacuera Extreme Peralta (None)"
+ },
+ "volta-al-terme-aielo-de-malferit-2027-lliga-de-muntanya-valencia-sud-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Volta al Terme, Aielo de Malferit 2027, LLiga de Muntanya València Sud, 26/27 (None)"
+ },
+ "voluntariado-transgrancanaria-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Voluntariado Transgrancanaria 2027 (None)"
  },
  "wildcross-almeria-2027": {
   "andaluza": true,
   "fecha": "2027-05-16"
  },
+ "wildcross-las-rozas-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Wildcross las Rozas 2027 (None)"
+ },
+ "wildcross-pinto-2027-": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Wildcross Pinto 2027 (None)"
+ },
+ "wildcross-valencia-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Wildcross Valencia 2027 (None)"
+ },
  "wine-run-rioja-alavesa-2026": {
   "andaluza": false,
   "fecha": "2026-10-25"
+ },
+ "wop-challenge-bilbao-bizkaia-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: WOP Challenge Bilbao-Bizkaia 2027 (None)"
+ },
+ "x-carrera-por-parejas-el-campello-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: X Carrera por Parejas El Campello 2027 (None)"
+ },
+ "x-media-maraton-y-10k-ciudad-de-trujillo-juan-mateos-broncano": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: X Media Maratón y 10K Ciudad de Trujillo Juan Mateos Broncano (None)"
+ },
+ "x-san-silvestre-ciudad-de-guadalajara": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: X San Silvestre Ciudad de Guadalajara (None)"
+ },
+ "x-trail-da-filloa-de-zas-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: X Trail Da Filloa de Zas 2027 (None)"
+ },
+ "x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "xi-arrasate-udalatx-mendi-lasterketa": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XI. Arrasate-Udalatx mendi lasterketa (None)"
+ },
+ "xi-cross-de-la-ballena": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XI Cross de la ballena (None)"
+ },
+ "xi-cross-solidario-dos-bosco-salesianos-el-campello-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XI Cross Solidario Dos Bosco Salesianos El Campello 2027 (None)"
+ },
+ "xi-tomaca-trail": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XI Tomaca Trail (None)"
+ },
+ "xii-carrera-reyes-el-campello-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XII Carrera Reyes El Campello 2027 (None)"
+ },
+ "xii-carrera-solidaria-central-optica": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XII Carrera Solidaria Central Óptica (None)"
+ },
+ "xii-san-silvestre-el-campello-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XII San Silvestre El Campello 2026 (None)"
+ },
+ "xii-trail-gijon": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XII Trail Gijón (None)"
+ },
+ "xiii-formentera-trail-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIII Formentera Trail 21.1 - 2027 (None)"
+ },
+ "xiii-swim-100x100-villanueva-de-la-canada-26": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIII SWIM 100x100 Villanueva de la Cañada-26 (None)"
+ },
+ "xiii-trail-requena-el-rebollar": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIII Trail Requena, el Rebollar (None)"
  },
  "xiv-donana-trail-marathon-sevilla-el-rocio-2026": {
   "andaluza": true,
   "fecha": "2026-11-07"
  },
+ "xiv-lazkaoko-san-silbestrea": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIV. Lazkaoko San Silbestrea (None)"
+ },
+ "xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIV MITJA MARATÓ OCAIVE – PEDREGUER, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "xiv-san-pintena-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIV San Pinteña 2026 (None)"
+ },
+ "xiv-trail-zoquetes": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIV Trail Zoquetes (None)"
+ },
  "xix-media-maraton-comarca-jadraque": {
   "andaluza": false,
   "fecha": "2026-10-18"
+ },
+ "xtrail-series-run-mataro-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Xtrail Series Run Mataró (None)"
+ },
+ "xtrail-series-run-orrius-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Xtrail Series Run Òrrius 2027 (None)"
+ },
+ "xtrail-series-run-vallgorguina-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Xtrail Series Run Vallgorguina 2027 (None)"
+ },
+ "xtreme-lagos-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Maratón Xtremelagos y Trailxtreme 2027 (None)"
+ },
+ "xv-carrera-solidaria-por-la-salud-mental": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XIV Carrera Solidaria por la Salud Mental (None)"
+ },
+ "xv-international-infinitri-113-triathlon-peniscola": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XV International Infinitri 113 Triathlon Peñíscola (None)"
+ },
+ "xv-trail-de-moixent": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XV Trail de Moixent (None)"
+ },
+ "xv_carreramonumental": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XV Carrera Monumental Innoporc ciudad de Segovia (None)"
  },
  "xvi-duatlon-cross-los-palacios-y-villafranca": {
   "andaluza": true,
   "fecha": "2026-09-20"
  },
+ "xvi-legua-de-perales-de-tajuna": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVI Legua de Perales de Tajuña (None)"
+ },
+ "xvi-san-silvestre-navalcarnero-26": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVI San Silvestre Navalcarnero-26 (None)"
+ },
+ "xvi-san-silvestre-popular-benidorm-2026": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVI San Silvestre Popular Benidorm 2026 (None)"
+ },
+ "xvii-botamarges-forna-ctm-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVII Botamarges, Forna, CTM 26/27 (None)"
+ },
+ "xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVII Gegant de Pedra, Ondara, 9e. Circuit Trail Marina 26/27 (None)"
+ },
+ "xviii-calamorro-skyrace": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XVIII Calamorro Skyrace (None)"
+ },
  "xviii-duatlon-de-menores-ciudad-de-marbella": {
   "andaluza": true,
   "fecha": "2026-02-15"
+ },
+ "xviii-f2r-2027": {
+  "andaluza": false,
+  "motivo": "circuito o temporada, no una carrera: XVIII Formentera to Run 2027"
+ },
+ "xx-carrera-centenaro-brihuega": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XX Carrera del Centenario - Brihuega (None)"
+ },
+ "xxii-la-guzman-el-bueno-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXII la Guzman el Bueno 2027 (None)"
  },
  "xxiii-cross-popular-salvar-el-pinar-de-la-elipa": {
   "andaluza": false,
@@ -271,9 +1431,25 @@
   "andaluza": true,
   "fecha": "2026-02-15"
  },
+ "xxvi-carrera-de-navidad-memorial-antonio-jimenez": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXVI Carrera de Navidad Memorial Antonio Jimenez (None)"
+ },
+ "xxvi-media-maraton-san-sebastian-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXVI Media Maratón San Sebastián 2027 (None)"
+ },
+ "xxvi-trofeo-paris-de-atletismo": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXVI Trofeo Paris de Atletismo (None)"
+ },
  "xxx-carrera-las-arenas-bilbao-": {
   "andaluza": false,
   "fecha": "2026-01-25"
+ },
+ "xxx-juegos-navarros-de-equitacion-adaptada-2026-27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXX Juegos Navarros de Equitación Adaptada 2026-27 (None)"
  },
  "xxxi-carrera-las-arenas-bilbao-": {
   "andaluza": false,
@@ -282,5 +1458,29 @@
  "xxxvi-media-maraton-de-torremolinos": {
   "andaluza": true,
   "fecha": "2027-02-07"
+ },
+ "xxxvi-san-silvestre-monovera": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XXXVI San Silvestre Monovera (None)"
+ },
+ "zegamako-14-san-silbestrea": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Zegamako 14. San Silbestrea (None)"
+ },
+ "zubiripamplona27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: XI Zubiri Pamplona-Iruña 2027 (None)"
+ },
+ "zuia-duatloia-27-duatlon-zuia-27": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Zuia Duatloia 27 / Duatlón Zuia 27 (None)"
+ },
+ "zurich-marato-barcelona-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Zurich Marató Barcelona 2027 (None)"
+ },
+ "zurich-rock-n-roll-running-series-madrid-2027": {
+  "andaluza": false,
+  "motivo": "fuera de Andalucía o sin provincia: Zurich Rock ´n´ Roll Running Series Madrid 2027 (None)"
  }
 }
