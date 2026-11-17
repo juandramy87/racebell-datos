@@ -85,3 +85,12 @@ def test_dorsal21():
     assert buscar(carreras, "Cuatro Santos")  # carrera y marcha: la carrera cuenta
     assert any("Benjamin" in d for d in descartes) and any("senderista" in d for d in descartes)
     assert all(c.estado_fuente in (None, NO_ABIERTA) for c in carreras)
+
+
+def test_cronorunner_api_publica():
+    from fuentes import cronorunner
+    carreras, descartes = cronorunner.leer(muestra("cronorunner.json"))
+    assert len(carreras) == 16 and not descartes
+    c = next(c for c in carreras if "Dinosauris" in c.nombre)
+    assert (c.fecha, c.poblacion, c.provincia, c.distancias_km) == (date(2026, 11, 22), "Moncada", "Valencia", [5.0, 10.0])
+    assert next(c for c in carreras if "Bali" in c.nombre).provincia == "Alicante"  # Benidorm

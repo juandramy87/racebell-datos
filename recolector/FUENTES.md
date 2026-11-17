@@ -70,3 +70,5 @@ Deporticket/Chipserena, Depor Chip. Solo por JS/POST o con token: Cronorunner (V
 de decidir), H&J Crono, Trackingsport (Gran Canaria), Carreiras Galegas (la cubre la FGA), FEEC.
 Pendiente en `nucleo/`: buscar municipio sin provincia en toda España (hoy solo Andalucía); «marcha» no debería
 descartar «carrera y marcha solidaria»; catalán/gallego/euskera en `clasificar`; `avaibook` con `strict=False` y `?lang=es`.
+- **Cronorunner** (17/11, con permiso del usuario): `fuentes/cronorunner.py` lee la API pública de su web
+  (`inscripciones.cronorunner.com/api/public/events`): ~16 carreras de pueblos de Valencia (Horta, Camp de Túria, Ribera).

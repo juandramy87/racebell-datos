@@ -18,7 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
-from fuentes import (atletismoaragon, cronelec, crono4sports, cronosports, cursescat, dipualba, dorsal21, elitechip,
+from fuentes import (atletismoaragon, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
                      facv, faex, faib, fam, fca, fcatle, fdmvalencia, fga, fnaf, gesport, go321, hsports, iter5,
                      kirolprobak, lineadesalida, orycronsport, timingsys, xipgroc, youevent)
 from nucleo import municipios, red
@@ -83,6 +83,7 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (facv.ID, lambda: facv.leer(bajar(facv.URL))),
         (lineadesalida.ID, lambda: lineadesalida.leer(bajar(lineadesalida.URL))),
         (dorsal21.ID, lambda: dorsal21.leer(bajar(dorsal21.URL))),
+        (cronorunner.ID, lambda: cronorunner.leer(bajar(cronorunner.URL))),
         # --- Madrid y las Castillas ---
         (youevent.ID, lambda: youevent.leer(bajar(youevent.URL), descargar_ficha=lambda u: red.descargar(
                                                 u, usar_cache=usar_cache, recortar=youevent.recortar_ficha),
