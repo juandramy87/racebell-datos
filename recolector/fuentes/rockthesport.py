@@ -20,7 +20,7 @@ from nucleo.modelo import Carrera
 ID = "rockthesport"
 URL = "https://web.rockthesport.com/sitemap/events-es.xml"
 _FICHA = "https://web.rockthesport.com/es/event/"
-NUEVAS_POR_PASADA = 500  # fichas nunca vistas que se abren por ejecución; las demás quedan para los días siguientes
+NUEVAS_POR_PASADA = 3000  # fichas nunca vistas por ejecución (1 por segundo); la primera pasada las abre todas, luego solo las nuevas
 DATOS = Path(__file__).resolve().parents[1] / "datos"
 
 
