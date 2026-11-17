@@ -1,4 +1,19 @@
 {
+ "a coruna|a coruna": {
+  "provincia": "A Coruña",
+  "lat": 43.3455,
+  "lon": -8.4139
+ },
+ "abades|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.144,
+  "lon": -16.4421
+ },
+ "adeje|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.1394,
+  "lon": -16.7395
+ },
  "agaete|las palmas": {
   "provincia": "Las Palmas",
   "lat": 28.1008,
@@ -14,10 +29,30 @@
   "lat": 37.41,
   "lon": -1.5805
  },
+ "agullana|girona": {
+  "provincia": "Girona",
+  "lat": 42.3938,
+  "lon": 2.8469
+ },
+ "alaro|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.7062,
+  "lon": 2.7907
+ },
+ "albanchez|almeria": {
+  "provincia": "Almería",
+  "lat": 37.2869,
+  "lon": -2.1814
+ },
  "albolote|granada": {
   "provincia": "Granada",
   "lat": 37.3052,
   "lon": -3.6615
+ },
+ "albox|almeria": {
+  "provincia": "Almería",
+  "lat": 37.388,
+  "lon": -2.1456
  },
  "albuixech|valencia": {
   "provincia": "Valencia",
@@ -59,6 +94,11 @@
   "lat": 40.54,
   "lon": -3.6358
  },
+ "alcudia|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.8532,
+  "lon": 3.1213
+ },
  "algar de palancia|valencia": {
   "provincia": "Valencia",
   "lat": 39.7811,
@@ -78,6 +118,11 @@
   "provincia": "Cádiz",
   "lat": 36.1312,
   "lon": -5.4474
+ },
+ "algete|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.5961,
+  "lon": -3.4974
  },
  "algodonales|cadiz": {
   "provincia": "Cádiz",
@@ -109,6 +154,12 @@
   "lat": 37.8736,
   "lon": -6.0805
  },
+ "almenara de tormes|salamanca": null,
+ "almendralejo|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.6847,
+  "lon": -6.4068
+ },
  "almeria|almeria": {
   "provincia": "Almería",
   "lat": 36.8686,
@@ -124,7 +175,29 @@
   "lat": 36.8239,
   "lon": -4.7063
  },
+ "alqueria de la comtessa|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9354,
+  "lon": -0.1533
+ },
  "alquerias del nino perdido|castellon": null,
+ "alquerias|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0146,
+  "lon": -1.0366
+ },
+ "alsasua|navarra": null,
+ "alumbres|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.5996,
+  "lon": -0.9231
+ },
+ "andosila|navarra": null,
+ "andra mari|bizkaia": {
+  "provincia": "Bizkaia",
+  "lat": 43.168,
+  "lon": -2.6312
+ },
  "antas|almeria": {
   "provincia": "Almería",
   "lat": 37.2452,
@@ -141,6 +214,11 @@
   "lat": 37.8949,
   "lon": -6.5624
  },
+ "aranjuez|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.0322,
+  "lon": -3.604
+ },
  "archena|murcia": {
   "provincia": "Murcia",
   "lat": 38.1178,
@@ -156,10 +234,20 @@
   "lat": 36.8782,
   "lon": -4.8468
  },
+ "arizgoiti|bizkaia": {
+  "provincia": "Bizkaia",
+  "lat": 43.2356,
+  "lon": -2.8905
+ },
  "armilla|granada": {
   "provincia": "Granada",
   "lat": 37.1475,
   "lon": -3.6185
+ },
+ "arona|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.0584,
+  "lon": -16.6873
  },
  "arrecife|las palmas": {
   "provincia": "Las Palmas",
@@ -176,11 +264,22 @@
   "lat": 38.8548,
   "lon": -6.4545
  },
+ "arta|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.695,
+  "lon": 3.3506
+ },
  "atarfe|granada": {
   "provincia": "Granada",
   "lat": 37.2227,
   "lon": -3.6866
  },
+ "avila|avila": {
+  "provincia": "Ávila",
+  "lat": 40.6572,
+  "lon": -4.6627
+ },
+ "aviles|asturias": null,
  "ayamonte|huelva": {
   "provincia": "Huelva",
   "lat": 37.2158,
@@ -191,10 +290,20 @@
   "lat": 37.5193,
   "lon": -6.2717
  },
+ "azpeitia|gipuzkoa": {
+  "provincia": "Gipuzkoa",
+  "lat": 43.1839,
+  "lon": -2.2657
+ },
  "badajoz|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.8782,
   "lon": -6.9701
+ },
+ "badalona|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4494,
+  "lon": 2.2483
  },
  "baena|cordoba": {
   "provincia": "Córdoba",
@@ -211,15 +320,46 @@
   "lat": 41.7896,
   "lon": 0.8051
  },
+ "balconete|guadalajara": null,
+ "banyoles|girona": {
+  "provincia": "Girona",
+  "lat": 42.118,
+  "lon": 2.7654
+ },
  "barbano|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.8747,
   "lon": -6.5868
  },
+ "barbastro|huesca": {
+  "provincia": "Huesca",
+  "lat": 42.0367,
+  "lon": 0.1272
+ },
+ "barcelona|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3826,
+  "lon": 2.1771
+ },
+ "barqueros|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.9458,
+  "lon": -1.3415
+ },
+ "begur|girona": {
+  "provincia": "Girona",
+  "lat": 41.9542,
+  "lon": 3.2088
+ },
  "bellavista|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.3215,
   "lon": -5.9642
+ },
+ "bellcaire d emporda|girona": {
+  "provincia": "Girona",
+  "lat": 42.0811,
+  "lon": 3.0944
  },
  "benahadux|almeria": {
   "provincia": "Almería",
@@ -251,11 +391,31 @@
   "lat": 38.1407,
   "lon": -0.9628
  },
+ "beniarjo|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9325,
+  "lon": -0.187
+ },
  "benicasim|castellon": null,
+ "benidorm|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.5406,
+  "lon": -0.1291
+ },
+ "benifla|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9283,
+  "lon": -0.1885
+ },
  "berchules|granada": {
   "provincia": "Granada",
   "lat": 37.0211,
   "lon": -3.1999
+ },
+ "berga|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 42.1011,
+  "lon": 1.8455
  },
  "berrocal|huelva": {
   "provincia": "Huelva",
@@ -267,21 +427,63 @@
   "lat": 38.0628,
   "lon": -0.8997
  },
+ "bigues i riells del fai|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.6865,
+  "lon": 2.2074
+ },
  "blanca|murcia": {
   "provincia": "Murcia",
   "lat": 38.1788,
   "lon": -1.3742
  },
+ "boadilla del monte|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.4053,
+  "lon": -3.8765
+ },
+ "boiro|a coruna": null,
  "bollullos del condado|huelva": {
   "provincia": "Huelva",
   "lat": 37.3248,
   "lon": -6.5274
  },
+ "bolnuevo|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.5657,
+  "lon": -1.3067
+ },
+ "borja|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.8348,
+  "lon": -1.533
+ },
  "borriol|castellon": null,
+ "brihuega|guadalajara": null,
+ "buitrago del lozoya|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.9953,
+  "lon": -3.6351
+ },
  "burguillos del cerro|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.3799,
   "lon": -6.5907
+ },
+ "cabrera de mar|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5277,
+  "lon": 2.3925
+ },
+ "cabrils|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5262,
+  "lon": 2.3676
+ },
+ "cadaques|girona": {
+  "provincia": "Girona",
+  "lat": 42.2893,
+  "lon": 3.2752
  },
  "cadiz|cadiz": {
   "provincia": "Cádiz",
@@ -293,10 +495,26 @@
   "lat": 38.1252,
   "lon": -0.8779
  },
+ "calvia|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5496,
+  "lon": 2.5184
+ },
  "camas|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.402,
   "lon": -6.0332
+ },
+ "campo de criptana|": null,
+ "campoamor|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.3576,
+  "lon": -0.487
+ },
+ "cantimpalos|segovia": {
+  "provincia": "Segovia",
+  "lat": 41.075,
+  "lon": -4.158
  },
  "cantoria|almeria": {
   "provincia": "Almería",
@@ -307,6 +525,16 @@
   "provincia": "Murcia",
   "lat": 38.1047,
   "lon": -1.8611
+ },
+ "cardedeu|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.6385,
+  "lon": 2.3558
+ },
+ "carinena|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.3382,
+  "lon": -1.2263
  },
  "carrascalejo|caceres": {
   "provincia": "Cáceres",
@@ -343,6 +571,11 @@
   "lat": 40.197,
   "lon": -5.9484
  },
+ "cassa de la selva|girona": {
+  "provincia": "Girona",
+  "lat": 41.8875,
+  "lon": 2.8742
+ },
  "casserres|barcelona": {
   "provincia": "Barcelona",
   "lat": 42.0138,
@@ -358,18 +591,49 @@
   "lat": 41.4765,
   "lon": 1.9833
  },
+ "castello d empuries|girona": {
+  "provincia": "Girona",
+  "lat": 42.2591,
+  "lon": 3.0746
+ },
  "castellon de la plana|castellon": null,
+ "castelltercol|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.7503,
+  "lon": 2.1231
+ },
  "castilblanco de los arroyos|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.675,
   "lon": -5.9889
  },
  "castildecampo|cordoba": null,
+ "castillazuelo|huesca": {
+  "provincia": "Huesca",
+  "lat": 42.0686,
+  "lon": 0.0647
+ },
+ "castrelo de mino|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.2966,
+  "lon": -8.0657
+ },
+ "castrillon|asturias": null,
+ "castro urdiales|cantabria": {
+  "provincia": "Cantabria",
+  "lat": 43.3843,
+  "lon": -3.2163
+ },
  "castropol|asturias": null,
  "cehegin|murcia": {
   "provincia": "Murcia",
   "lat": 38.0925,
   "lon": -1.7988
+ },
+ "cerdanyola del valles|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.491,
+  "lon": 2.1406
  },
  "ceuta|ceuta": null,
  "chiclana de la frontera|cadiz": {
@@ -377,10 +641,25 @@
   "lat": 36.4191,
   "lon": -6.1461
  },
+ "chinchon|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.1408,
+  "lon": -3.4231
+ },
  "chipiona|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.7355,
   "lon": -6.4348
+ },
+ "chirivel|almeria": {
+  "provincia": "Almería",
+  "lat": 37.596,
+  "lon": -2.2679
+ },
+ "ciempozuelos|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.158,
+  "lon": -3.6206
  },
  "cieza|murcia": {
   "provincia": "Murcia",
@@ -392,16 +671,46 @@
   "lat": 38.9854,
   "lon": -3.9285
  },
+ "ciutadella de menorca|baleares": {
+  "provincia": "Baleares",
+  "lat": 40.0004,
+  "lon": 3.8352
+ },
  "coana|asturias": null,
+ "colmenar viejo|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.6621,
+  "lon": -3.7492
+ },
  "competa|malaga": {
   "provincia": "Málaga",
   "lat": 36.8328,
   "lon": -3.9747
  },
+ "corbera de llobregat|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4165,
+  "lon": 1.9278
+ },
  "cordoba|cordoba": {
   "provincia": "Córdoba",
   "lat": 37.8846,
   "lon": -4.776
+ },
+ "cornella de llobregat|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3557,
+  "lon": 2.0706
+ },
+ "creixell|tarragona": {
+  "provincia": "Tarragona",
+  "lat": 41.1677,
+  "lon": 1.4407
+ },
+ "crevillent|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.2493,
+  "lon": -0.8111
  },
  "cuervo de sevilla el|sevilla": {
   "provincia": "Sevilla",
@@ -418,6 +727,16 @@
   "lat": 36.8215,
   "lon": -2.8702
  },
+ "dolores|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.1392,
+  "lon": -0.7693
+ },
+ "don benito|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.954,
+  "lon": -5.8619
+ },
  "donostia san sebastian|gipuzkoa": {
   "provincia": "Gipuzkoa",
   "lat": 43.3224,
@@ -428,21 +747,57 @@
   "lat": 37.5406,
   "lon": -5.0796
  },
+ "ejea de los caballeros|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 42.1333,
+  "lon": -1.1366
+ },
+ "el algar|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.6549,
+  "lon": -0.8635
+ },
  "el alquian|almeria": {
   "provincia": "Almería",
   "lat": 36.8536,
   "lon": -2.3541
+ },
+ "el barco de avila|avila": {
+  "provincia": "Ávila",
+  "lat": 40.3577,
+  "lon": -5.5231
  },
  "el bosque|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.7573,
   "lon": -5.5067
  },
+ "el casar|guadalajara": null,
  "el gaston|cadiz": null,
  "el gastor|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.8552,
   "lon": -5.3236
+ },
+ "el masnou|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4797,
+  "lon": 2.3118
+ },
+ "el molar|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7345,
+  "lon": -3.5832
+ },
+ "el palmar|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.9391,
+  "lon": -1.1635
+ },
+ "el pont de vilomara i rocafort|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.7049,
+  "lon": 1.9071
  },
  "el puerto de santa maria|cadiz": {
   "provincia": "Cádiz",
@@ -453,6 +808,21 @@
   "provincia": "Sevilla",
   "lat": 37.3541,
   "lon": -4.9899
+ },
+ "elche|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.2653,
+  "lon": -0.6988
+ },
+ "epila|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.5985,
+  "lon": -1.2796
+ },
+ "escorca|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.8248,
+  "lon": 2.8422
  },
  "escuzar|granada": {
   "provincia": "Granada",
@@ -469,11 +839,27 @@
   "lat": 38.9442,
   "lon": -6.4362
  },
+ "espinardo|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0084,
+  "lon": -1.1556
+ },
+ "espinosa de henares|guadalajara": null,
  "espluga de francola l 039|tarragona": null,
+ "espolla|girona": {
+  "provincia": "Girona",
+  "lat": 42.3893,
+  "lon": 2.9994
+ },
  "estepona|malaga": {
   "provincia": "Málaga",
   "lat": 36.4268,
   "lon": -5.1468
+ },
+ "estremera|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.1847,
+  "lon": -3.1062
  },
  "etxebarri|bizkaia": {
   "provincia": "Bizkaia",
@@ -491,6 +877,13 @@
   "lat": 39.7262,
   "lon": -0.2611
  },
+ "fene|a coruna": null,
+ "ferreries|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.9833,
+  "lon": 4.0109
+ },
+ "ferrol|a coruna": null,
  "figueres|girona": {
   "provincia": "Girona",
   "lat": 42.2666,
@@ -506,6 +899,21 @@
   "lat": 37.4265,
   "lon": -3.1743
  },
+ "formentera|baleares": {
+  "provincia": "Baleares",
+  "lat": 38.7062,
+  "lon": 1.4334
+ },
+ "fraga|huesca": {
+  "provincia": "Huesca",
+  "lat": 41.4763,
+  "lon": 0.2036
+ },
+ "frescano|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.8743,
+  "lon": -1.4495
+ },
  "fuengirola|malaga": {
   "provincia": "Málaga",
   "lat": 36.5388,
@@ -516,10 +924,35 @@
   "lat": 37.7225,
   "lon": -1.1616
  },
+ "fuente del maestre|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.5269,
+  "lon": -6.4484
+ },
  "fuentes de andalucia|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.4645,
   "lon": -5.3444
+ },
+ "fuentes de ebro|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.5114,
+  "lon": -0.6287
+ },
+ "fuentiduena de tajo|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.1185,
+  "lon": -3.1603
+ },
+ "gandia|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9676,
+  "lon": -0.1803
+ },
+ "garrigas|girona": {
+  "provincia": "Girona",
+  "lat": 42.1929,
+  "lon": 2.9539
  },
  "garrucha|almeria": {
   "provincia": "Almería",
@@ -531,15 +964,45 @@
   "lat": 36.5192,
   "lon": -5.3178
  },
+ "gea y truyols|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.8805,
+  "lon": -1.0231
+ },
+ "getafe|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.3071,
+  "lon": -3.7332
+ },
+ "getxo|bizkaia": {
+  "provincia": "Bizkaia",
+  "lat": 43.3431,
+  "lon": -3.0079
+ },
  "gibraleon|huelva": {
   "provincia": "Huelva",
   "lat": 37.3746,
   "lon": -6.9691
  },
+ "girona|girona": {
+  "provincia": "Girona",
+  "lat": 41.9793,
+  "lon": 2.8199
+ },
  "granada|granada": {
   "provincia": "Granada",
   "lat": 37.1735,
   "lon": -3.5995
+ },
+ "granadilla|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.119,
+  "lon": -16.5772
+ },
+ "granollers|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.608,
+  "lon": 2.2876
  },
  "guadajira|badajoz": {
   "provincia": "Badajoz",
@@ -550,6 +1013,12 @@
   "provincia": "Sevilla",
   "lat": 37.5816,
   "lon": -5.6698
+ },
+ "guadalajara|guadalajara": null,
+ "guadalix de la sierra|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7822,
+  "lon": -3.7008
  },
  "guadalupe|murcia": {
   "provincia": "Murcia",
@@ -581,10 +1050,25 @@
   "lat": 37.3653,
   "lon": -4.8502
  },
+ "hondarribia|gipuzkoa": {
+  "provincia": "Gipuzkoa",
+  "lat": 43.3624,
+  "lon": -1.7914
+ },
+ "hostalric|girona": {
+  "provincia": "Girona",
+  "lat": 41.7452,
+  "lon": 2.6331
+ },
  "hoya la la hoya|murcia": {
   "provincia": "Murcia",
   "lat": 37.7039,
   "lon": -1.5955
+ },
+ "hoyo de manzanares|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.6227,
+  "lon": -3.9072
  },
  "huelva|huelva": {
   "provincia": "Huelva",
@@ -611,6 +1095,31 @@
   "lat": 37.3559,
   "lon": -6.278
  },
+ "icod de los vinos|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.3331,
+  "lon": -16.6916
+ },
+ "inca|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.7211,
+  "lon": 2.9111
+ },
+ "irun|gipuzkoa": {
+  "provincia": "Gipuzkoa",
+  "lat": 43.3383,
+  "lon": -1.7888
+ },
+ "jaen|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.7729,
+  "lon": -3.7883
+ },
+ "jarandilla de la vera|caceres": {
+  "provincia": "Cáceres",
+  "lat": 40.1283,
+  "lon": -5.6587
+ },
  "jerez de la frontera|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.6817,
@@ -631,25 +1140,65 @@
   "lat": 36.6256,
   "lon": -5.1708
  },
+ "l alqueria de la comtessa|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9365,
+  "lon": -0.1536
+ },
+ "l escala|girona": {
+  "provincia": "Girona",
+  "lat": 42.1135,
+  "lon": 3.1387
+ },
+ "la almunia de dona godina|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.4778,
+  "lon": -1.3733
+ },
  "la alqueria adra|almeria": {
   "provincia": "Almería",
   "lat": 36.7788,
   "lon": -3.0049
+ },
+ "la cabrera|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.8652,
+  "lon": -3.6125
  },
  "la garrovilla|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.922,
   "lon": -6.4761
  },
+ "la granja|segovia": {
+  "provincia": "Segovia",
+  "lat": 40.8981,
+  "lon": -4.0054
+ },
+ "la jonquera|girona": {
+  "provincia": "Girona",
+  "lat": 42.434,
+  "lon": 2.8646
+ },
  "la linea de la concepcion|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.1678,
   "lon": -5.3482
  },
+ "la manga|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.2856,
+  "lon": -1.8088
+ },
  "la rinconada|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.4867,
   "lon": -5.9815
+ },
+ "la union|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.6096,
+  "lon": -0.8736
  },
  "lacara|badajoz": {
   "provincia": "Badajoz",
@@ -661,6 +1210,11 @@
   "lat": 36.9181,
   "lon": -3.4802
  },
+ "laredo|cantabria": {
+  "provincia": "Cantabria",
+  "lat": 43.4106,
+  "lon": -3.4173
+ },
  "larrabetzu|bizkaia": {
   "provincia": "Bizkaia",
   "lat": 43.2612,
@@ -671,25 +1225,61 @@
   "lat": 37.1326,
   "lon": -3.6944
  },
+ "laudio|alava": null,
  "leon|leon": {
   "provincia": "León",
   "lat": 42.5935,
   "lon": -5.5616
+ },
+ "les borges blanques|lleida": {
+  "provincia": "Lleida",
+  "lat": 41.5203,
+  "lon": 0.8684
+ },
+ "les franqueses del valles|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.6476,
+  "lon": 2.3092
  },
  "lillo|toledo": {
   "provincia": "Toledo",
   "lat": 39.7231,
   "lon": -3.3049
  },
+ "llagostera|girona": {
+  "provincia": "Girona",
+  "lat": 41.8289,
+  "lon": 2.892
+ },
  "llanos de aridane los|santa cruz de tenerife": {
   "provincia": "Santa Cruz de Tenerife",
   "lat": 28.659,
   "lon": -17.9132
  },
+ "lleida|lleida": {
+  "provincia": "Lleida",
+  "lat": 41.6148,
+  "lon": 0.6268
+ },
  "llerena|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.2373,
   "lon": -6.0158
+ },
+ "llers|girona": {
+  "provincia": "Girona",
+  "lat": 42.2957,
+  "lon": 2.9115
+ },
+ "llica d amunt|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.6086,
+  "lon": 2.2395
+ },
+ "llubi|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.7003,
+  "lon": 3.0042
  },
  "lobon|badajoz": {
   "provincia": "Badajoz",
@@ -701,20 +1291,47 @@
   "lat": 37.1524,
   "lon": -4.2057
  },
+ "loranca de tajuna|guadalajara": null,
  "lorca|murcia": {
   "provincia": "Murcia",
   "lat": 37.6952,
   "lon": -1.7723
+ },
+ "loredo|cantabria": {
+  "provincia": "Cantabria",
+  "lat": 43.4613,
+  "lon": -3.7196
+ },
+ "los canarios|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.4925,
+  "lon": -17.8441
  },
  "los corrales|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.0992,
   "lon": -4.9831
  },
+ "los molinos|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7147,
+  "lon": -4.0734
+ },
  "los palacios y villafranca|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.1582,
   "lon": -5.9245
+ },
+ "los silos|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.3523,
+  "lon": -16.8143
+ },
+ "lousame|a coruna": null,
+ "lozoyuela|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.9263,
+  "lon": -3.6176
  },
  "lucena|cordoba": {
   "provincia": "Córdoba",
@@ -726,6 +1343,11 @@
   "lat": 36.7755,
   "lon": -3.3959
  },
+ "macanet de cabrenys|girona": {
+  "provincia": "Girona",
+  "lat": 42.3861,
+  "lon": 2.7486
+ },
  "madrid|madrid": {
   "provincia": "Madrid",
   "lat": 40.4237,
@@ -736,6 +1358,7 @@
   "lat": 36.6709,
   "lon": -5.9067
  },
+ "malacuera|guadalajara": null,
  "malaga|malaga": {
   "provincia": "Málaga",
   "lat": 36.7648,
@@ -751,6 +1374,11 @@
   "lat": 39.4458,
   "lon": -6.5047
  },
+ "manacor|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5696,
+  "lon": 3.2106
+ },
  "manga del mar menor la|murcia": {
   "provincia": "Murcia",
   "lat": 37.6537,
@@ -761,25 +1389,62 @@
   "lat": 36.377,
   "lon": -5.249
  },
+ "manzanares|ciudad real": {
+  "provincia": "Ciudad Real",
+  "lat": 38.9962,
+  "lon": -3.3722
+ },
+ "mao|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.8895,
+  "lon": 4.2662
+ },
  "marbella|malaga": {
   "provincia": "Málaga",
   "lat": 36.5075,
   "lon": -4.8047
+ },
+ "marratxi|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.6268,
+  "lon": 2.7359
+ },
+ "martorell|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4744,
+  "lon": 1.9307
+ },
+ "mataelpino|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7358,
+  "lon": -3.9456
  },
  "melilla|melilla": {
   "provincia": "Melilla",
   "lat": 35.2919,
   "lon": -2.9409
  },
+ "mendavia|navarra": null,
+ "merida|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.9543,
+  "lon": -6.3505
+ },
  "mesas de asta|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.7877,
   "lon": -6.1708
  },
+ "mieres|asturias": null,
  "mijas|malaga": {
   "provincia": "Málaga",
   "lat": 36.5558,
   "lon": -4.695
+ },
+ "moana|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.2979,
+  "lon": -8.7096
  },
  "molina de segura|murcia": {
   "provincia": "Murcia",
@@ -791,10 +1456,25 @@
   "lat": 38.0817,
   "lon": -0.9082
  },
+ "mollerussa|lleida": {
+  "provincia": "Lleida",
+  "lat": 41.6298,
+  "lon": 0.8938
+ },
+ "mollet del valles|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5393,
+  "lon": 2.2131
+ },
  "monachil|granada": {
   "provincia": "Granada",
   "lat": 37.102,
   "lon": -3.4694
+ },
+ "mondariz balneario|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.2194,
+  "lon": -8.4714
  },
  "montbrio del camp|tarragona": {
   "provincia": "Tarragona",
@@ -812,6 +1492,16 @@
   "lon": -0.7606
  },
  "montijio|badajoz": null,
+ "montijo|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.9099,
+  "lon": -6.6152
+ },
+ "montuiri|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5672,
+  "lon": 2.9813
+ },
  "mora|toledo": {
   "provincia": "Toledo",
   "lat": 39.6832,
@@ -821,6 +1511,22 @@
   "provincia": "Granada",
   "lat": 36.7451,
   "lon": -3.5208
+ },
+ "mozoncillo|segovia": {
+  "provincia": "Segovia",
+  "lat": 41.1463,
+  "lon": -4.1868
+ },
+ "muel|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.4655,
+  "lon": -1.0858
+ },
+ "mugardos|a coruna": null,
+ "murcia|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.9348,
+  "lon": -1.1131
  },
  "navalmoral de la mata|caceres": {
   "provincia": "Cáceres",
@@ -842,6 +1548,24 @@
   "lat": 36.9629,
   "lon": -2.2064
  },
+ "norena|asturias": null,
+ "novelda|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.3842,
+  "lon": -0.7674
+ },
+ "o barco de valdeorras|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.4301,
+  "lon": -6.9801
+ },
+ "o pereiro de aguiar|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.349,
+  "lon": -7.7758
+ },
+ "o pino|a coruna": null,
+ "o porto do son|a coruna": null,
  "ojen|malaga": {
   "provincia": "Málaga",
   "lat": 36.5645,
@@ -852,11 +1576,32 @@
   "lat": 38.1481,
   "lon": -1.3421
  },
+ "olesa de montserrat|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.544,
+  "lon": 1.8914
+ },
+ "oliana|lleida": {
+  "provincia": "Lleida",
+  "lat": 42.0952,
+  "lon": 1.3108
+ },
  "oliva la|las palmas": {
   "provincia": "Las Palmas",
   "lat": 28.6601,
   "lon": -13.9236
  },
+ "olula del rio|almeria": {
+  "provincia": "Almería",
+  "lat": 37.356,
+  "lon": -2.2966
+ },
+ "ondarroa|bizkaia": {
+  "provincia": "Bizkaia",
+  "lat": 43.3221,
+  "lon": -2.4222
+ },
+ "ordes|a coruna": null,
  "orihuela|alicante": {
   "provincia": "Alicante",
   "lat": 38.0276,
@@ -868,6 +1613,7 @@
   "lat": 37.0713,
   "lon": -3.6546
  },
+ "oviedo|asturias": null,
  "pabellon cubierto de atarfe avenida diputacion s n|granada": null,
  "pabellon infanta cristina roquetas de mar|almeria": {
   "provincia": "Almería",
@@ -889,21 +1635,63 @@
   "lat": 37.1597,
   "lon": -5.9276
  },
+ "palafrugell|girona": {
+  "provincia": "Girona",
+  "lat": 41.9184,
+  "lon": 3.162
+ },
+ "palma|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5696,
+  "lon": 2.6501
+ },
+ "paradinas de san juan|salamanca": null,
+ "parets del valles|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5729,
+  "lon": 2.2338
+ },
  "parque de los bajos|almeria": null,
+ "pasaia|gipuzkoa": {
+  "provincia": "Gipuzkoa",
+  "lat": 43.324,
+  "lon": -1.9201
+ },
  "paseo de las palmeras de bailen jaen|jaen": {
   "provincia": "Jaén",
   "lat": 38.093,
   "lon": -3.7807
+ },
+ "pedrezuela|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7451,
+  "lon": -3.603
+ },
+ "pedrola|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.7874,
+  "lon": -1.2142
  },
  "peligros|granada": {
   "provincia": "Granada",
   "lat": 37.2307,
   "lon": -3.628
  },
+ "peniscola|castellon": null,
+ "petra|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.6135,
+  "lon": 3.1128
+ },
  "picassent|valencia": {
   "provincia": "Valencia",
   "lat": 39.3635,
   "lon": -0.4612
+ },
+ "pilar de la horadada|alicante": {
+  "provincia": "Alicante",
+  "lat": 37.8995,
+  "lon": -0.8258
  },
  "pizarra|malaga": {
   "provincia": "Málaga",
@@ -926,15 +1714,40 @@
   "lat": 37.9885,
   "lon": -1.5061
  },
+ "polanco|cantabria": {
+  "provincia": "Cantabria",
+  "lat": 43.3846,
+  "lon": -4.018
+ },
+ "pollenca|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.8792,
+  "lon": 3.0157
+ },
+ "pontevedra|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.4281,
+  "lon": -8.6041
+ },
  "porcuna|jaen": {
   "provincia": "Jaén",
   "lat": 37.871,
   "lon": -4.1843
  },
+ "porreres|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5169,
+  "lon": 3.0228
+ },
  "prado del rey|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.7879,
   "lon": -5.5572
+ },
+ "premia de mar|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4927,
+  "lon": 2.3606
  },
  "pucol|valencia": {
   "provincia": "Valencia",
@@ -961,6 +1774,11 @@
   "lat": 37.3874,
   "lon": -4.7716
  },
+ "puerto de la cruz|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.4159,
+  "lon": -16.5533
+ },
  "puerto del rosario|las palmas": {
   "provincia": "Las Palmas",
   "lat": 28.4993,
@@ -976,10 +1794,25 @@
   "lat": 39.7399,
   "lon": -0.2728
  },
+ "redovan|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.1152,
+  "lon": -0.9069
+ },
+ "renedo de pielagos|cantabria": {
+  "provincia": "Cantabria",
+  "lat": 43.3539,
+  "lon": -3.9519
+ },
  "reus|tarragona": {
   "provincia": "Tarragona",
   "lat": 41.1556,
   "lon": 1.1076
+ },
+ "ribadavia|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.2876,
+  "lon": -8.1427
  },
  "ricote|murcia": {
   "provincia": "Murcia",
@@ -991,6 +1824,12 @@
   "lat": 36.7162,
   "lon": -4.2794
  },
+ "ripollet|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4993,
+  "lon": 2.1573
+ },
+ "romancos|guadalajara": null,
  "ronda|malaga": {
   "provincia": "Málaga",
   "lat": 36.7421,
@@ -1000,6 +1839,11 @@
   "provincia": "Almería",
   "lat": 36.763,
   "lon": -2.6116
+ },
+ "roses|girona": {
+  "provincia": "Girona",
+  "lat": 42.2632,
+  "lon": 3.1755
  },
  "rota chipiona|cadiz": {
   "provincia": "Cádiz",
@@ -1026,15 +1870,52 @@
   "lat": 41.5461,
   "lon": 2.1083
  },
+ "sabinanigo|huesca": {
+  "provincia": "Huesca",
+  "lat": 42.5184,
+  "lon": -0.3648
+ },
+ "sada|a coruna": {
+  "provincia": "A Coruña",
+  "lat": 43.3474,
+  "lon": -8.2771
+ },
  "sagunto sagunt|valencia": {
   "provincia": "Valencia",
   "lat": 39.6793,
   "lon": -0.2786
  },
+ "salamanca|salamanca": null,
+ "san adrian|navarra": null,
+ "san agustin del guadalix|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.6794,
+  "lon": -3.616
+ },
+ "san cibrao das vinas|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.2798,
+  "lon": -7.8468
+ },
+ "san cristobal de la laguna|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.4858,
+  "lon": -16.3159
+ },
  "san fernando|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.4647,
   "lon": -6.1983
+ },
+ "san gines|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.9535,
+  "lon": -1.1763
+ },
+ "san javier|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.806,
+  "lon": -0.8346
  },
  "san jose del valle monte de la cruz|cadiz": null,
  "san jose del valle|cadiz": {
@@ -1062,16 +1943,66 @@
   "lat": 37.3864,
   "lon": -6.2024
  },
+ "sant andreu de la barca|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.45,
+  "lon": 1.972
+ },
+ "sant andreu de llavaneres|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.574,
+  "lon": 2.4828
+ },
  "sant cugat del valles|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.4708,
   "lon": 2.0849
  },
+ "sant josep de sa talaia|baleares": {
+  "provincia": "Baleares",
+  "lat": 38.9221,
+  "lon": 1.294
+ },
+ "sant julia de cerdanyola|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 42.2234,
+  "lon": 1.8921
+ },
+ "sant llorenc de la muga|girona": {
+  "provincia": "Girona",
+  "lat": 42.32,
+  "lon": 2.7889
+ },
+ "sant llorenc des cardassar|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.6107,
+  "lon": 3.2855
+ },
+ "sant lluis|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.8491,
+  "lon": 4.258
+ },
  "sant sadurna d 039 anoia|barcelona": null,
+ "sant vicenc de castellet|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.667,
+  "lon": 1.8626
+ },
+ "sant vicenc dels horts|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3934,
+  "lon": 2.0099
+ },
  "santa coloma de gramenet|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.4519,
   "lon": 2.2081
+ },
+ "santa cruz|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0211,
+  "lon": -1.054
  },
  "santa maraa de cayon|cantabria": null,
  "santa margarida de montbui|barcelona": {
@@ -1079,11 +2010,22 @@
   "lat": 41.5578,
   "lon": 1.5812
  },
+ "santa perpetua de mogoda|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5343,
+  "lon": 2.1836
+ },
  "santander|cantabria": {
   "provincia": "Cantabria",
   "lat": 43.4619,
   "lon": -3.81
  },
+ "santanyi|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.3543,
+  "lon": 3.1295
+ },
+ "santiago de compostela|a coruna": null,
  "santiponce|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.4356,
@@ -1094,6 +2036,11 @@
   "provincia": "Murcia",
   "lat": 37.9417,
   "lon": -1.128
+ },
+ "ses salines|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.3392,
+  "lon": 3.0541
  },
  "sevilla|sevilla": {
   "provincia": "Sevilla",
@@ -1121,6 +2068,17 @@
   "lon": -3.9776
  },
  "sot de ferrer|castellon": null,
+ "soto del real|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7534,
+  "lon": -3.7868
+ },
+ "tacoronte|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.479,
+  "lon": -16.3977
+ },
+ "tafalla|navarra": null,
  "talavera la real|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.8767,
@@ -1132,6 +2090,11 @@
   "lon": -5.6096
  },
  "tarancon|cuenca": null,
+ "tarazona|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.9065,
+  "lon": -1.7216
+ },
  "tarifa|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.0129,
@@ -1147,6 +2110,11 @@
   "lat": 36.9835,
   "lon": -4.9203
  },
+ "tegueste|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.518,
+  "lon": -16.3358
+ },
  "teguise|las palmas": {
   "provincia": "Las Palmas",
   "lat": 29.0589,
@@ -1157,11 +2125,17 @@
   "lat": 27.9985,
   "lon": -15.4167
  },
+ "terrades|girona": {
+  "provincia": "Girona",
+  "lat": 42.3106,
+  "lon": 2.8382
+ },
  "terrassa|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.563,
   "lon": 2.01
  },
+ "teruel|teruel": null,
  "tias|las palmas": {
   "provincia": "Las Palmas",
   "lat": 28.9623,
@@ -1183,10 +2157,20 @@
   "lat": 37.8869,
   "lon": -1.2163
  },
+ "torrelaguna|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.8277,
+  "lon": -3.5383
+ },
  "torremolinos|malaga": {
   "provincia": "Málaga",
   "lat": 36.6243,
   "lon": -4.4995
+ },
+ "torrenueva costa|granada": {
+  "provincia": "Granada",
+  "lat": 36.7088,
+  "lon": -3.4806
  },
  "torrenueva|granada": {
   "provincia": "Granada",
@@ -1203,6 +2187,16 @@
   "lat": 37.9775,
   "lon": -0.6828
  },
+ "torroella de montgri|girona": {
+  "provincia": "Girona",
+  "lat": 42.041,
+  "lon": 3.1262
+ },
+ "tortosa|tarragona": {
+  "provincia": "Tarragona",
+  "lat": 40.811,
+  "lon": 0.5209
+ },
  "totana|murcia": {
   "provincia": "Murcia",
   "lat": 37.7698,
@@ -1217,6 +2211,11 @@
   "provincia": "Granada",
   "lat": 37.1982,
   "lon": -3.8715
+ },
+ "trujillo|caceres": {
+  "provincia": "Cáceres",
+  "lat": 39.4606,
+  "lon": -5.8817
  },
  "ugao miraballes|bizkaia": {
   "provincia": "Bizkaia",
@@ -1239,11 +2238,18 @@
   "lat": 38.89,
   "lon": -6.7012
  },
+ "valdemanco|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.8625,
+  "lon": -3.6622
+ },
+ "valdesanz|guadalajara": null,
  "valencia|valencia": {
   "provincia": "Valencia",
   "lat": 39.4697,
   "lon": -0.3763
  },
+ "valfermoso de tajuna|guadalajara": null,
  "vall d 039 alba|castellon": null,
  "valle de abdalajis|malaga": {
   "provincia": "Málaga",
@@ -1275,16 +2281,58 @@
   "lat": 36.7818,
   "lon": -4.0988
  },
+ "venta de banos|palencia": {
+  "provincia": "Palencia",
+  "lat": 41.9207,
+  "lon": -4.4932
+ },
+ "vidreres|girona": {
+  "provincia": "Girona",
+  "lat": 41.7889,
+  "lon": 2.7793
+ },
+ "vigo|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.1986,
+  "lon": -8.728
+ },
+ "vila seca|tarragona": {
+  "provincia": "Tarragona",
+  "lat": 41.1109,
+  "lon": 1.145
+ },
+ "vilafranca de bonany|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.5691,
+  "lon": 3.0881
+ },
  "vilafranca del penedes|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.3464,
   "lon": 1.6995
  },
+ "vilagarcia de arousa|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.5951,
+  "lon": -8.7431
+ },
+ "vilanova i la geltru|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.2242,
+  "lon": 1.7256
+ },
+ "villalba de la sierra|": null,
  "villaluenga del rosario|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.6966,
   "lon": -5.386
  },
+ "villanueva de gallego|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.786,
+  "lon": -0.8565
+ },
+ "villanueva de la jara|cuenca": null,
  "villanueva del ariscal|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.3966,
@@ -1310,6 +2358,21 @@
   "lat": 41.114,
   "lon": 1.0387
  },
+ "vista alegre|murcia": {
+  "provincia": "Murcia",
+  "lat": 37.6093,
+  "lon": -0.9441
+ },
+ "xativa|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9881,
+  "lon": -0.52
+ },
+ "xeraco|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.0332,
+  "lon": -0.2152
+ },
  "yebenes los|toledo": {
   "provincia": "Toledo",
   "lat": 39.5823,
@@ -1320,6 +2383,11 @@
   "lat": 39.9177,
   "lon": -3.6763
  },
+ "zabaloetxe|bizkaia": {
+  "provincia": "Bizkaia",
+  "lat": 43.3131,
+  "lon": -2.9368
+ },
  "zamora|zamora": {
   "provincia": "Zamora",
   "lat": 41.5163,
@@ -1329,5 +2397,20 @@
   "provincia": "Bizkaia",
   "lat": 43.2828,
   "lon": -2.8624
+ },
+ "zaragoza|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.6916,
+  "lon": -0.9101
+ },
+ "zeneta|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0105,
+  "lon": -0.9979
+ },
+ "zuera|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.8659,
+  "lon": -0.7886
  }
 }
