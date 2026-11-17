@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:muestra recortada fcatle (ronda 4)
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20260606T170000
+LOCATION:Santander\, Cantabria @ Complejo Deportivo Ruth Beitia
+SUMMARY:Campeonato de Cantabria Sub18
+URL:https://www.fcatle.com/evento/06y07062026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20260905T083000
+LOCATION:Santander\, Cantabria @ Complejo Deportivo Ruth Beitia
+SUMMARY:XLVI 100 y 50 Kilómetros + VI 24 Horas en Ruta de Cantabria ‘Ciudad de Santander’ / Campeonato de Cantabria de 100 y 50 Kilómetros en Ruta
+URL:https://www.fcatle.com/evento/05y06092026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20260927T090000
+LOCATION:Panes (Asturias) - Potes (Cantabria)
+SUMMARY:XXXIX Subida Pedestre al Desfiladero de La Hermida
+URL:https://www.fcatle.com/evento/27092026panes-potes/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20260927T104500
+LOCATION:Sámano\, Castro Urdiales
+SUMMARY:III Medio Kilómetro Vertical ‘El Rosario’
+URL:https://www.fcatle.com/evento/27092026vertical/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20261012T093000
+LOCATION:Santander\, Cantabria @ Complejo Deportivo Ruth Beitia
+SUMMARY:XLIV Trofeo Olimpia & XVII Memorial Antonio López Cortés
+URL:https://www.fcatle.com/evento/12102026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20261206T094500
+LOCATION:Laredo\, Cantabria @ Estadio Javier Cortezón
+SUMMARY:LI Cross Costa Esmeralda / Campeonato de Cantabria de Cross Corto y Sub14\, Sub12\, Sub10 y Sub08 de Campo a Través
+URL:https://www.fcatle.com/evento/06122026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20261220T151500
+LOCATION:Renedo de Piélagos\, Cantabria @ Avenida Luis de la Concha (Gasolinera)
+SUMMARY:XXXI Carrera de Navidad de Piélagos
+URL:https://www.fcatle.com/evento/20122026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20261224T101500
+LOCATION:Polanco\, Cantabria @ Ayuntamiento y Polideportivo de Polanco
+SUMMARY:VIII Carrera Popular de Nochebuena Ayuntamiento de Polanco – Memorial Bernardo Ayllón ‘Nardo’
+URL:https://www.fcatle.com/evento/24122026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Madrid:20261227T101500
+SUMMARY:IX San Silvestre Solidaria de El Astillero
+URL:https://www.fcatle.com/evento/27122026/
+END:VEVENT
+END:VCALENDAR

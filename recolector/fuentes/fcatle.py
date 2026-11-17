@@ -19,6 +19,13 @@ _NO_POPULAR = re.compile(r"\b(tecnificacion|pntd|lanzamiento|lanzamientos|pista|
                          r"jornada de menores|juegos escolares|escolar|reunion|asamblea|gala|curso|clinic)")
 
 
+# Pista: reuniones en estadio/complejo deportivo que no se anuncian como carrera (campeonatos por edades,
+# ligas de clubes, trofeos y grandes premios de pista). Se quedan los cross, millas, ruta y populares.
+_INSTALACION = re.compile(r"\b(complejo deportivo|complejo deporitvo|complejos deportivos|estadio)\b")
+_CARRERA = re.compile(r"\b(cross|campo a traves|carrera|milla|legua|san silvestre|kilometros|km|ruta|popular|subida)\b")
+_DE_PUEBLO = re.compile(r"\b(?:de|del)\s+((?:el|la|los|las)\s+)?([A-ZÁÉÍÓÚÑ][\wáéíóúñ]+(?:\s+(?:de\s+)?[A-ZÁÉÍÓÚÑ][\wáéíóúñ]+)*)\s*$")
+
+
 def _campos(bloque: str) -> dict[str, str]:
     campos = {}
     for linea in bloque.split("\n"):
@@ -54,13 +61,25 @@ def leer(contenido: bytes | str) -> tuple[list[Carrera], list[str]]:
         if not a_pie:
             descartes.append(f"no es a pie: {nombre}")
             continue
+        sitio = _texto(e.get("LOCATION", "")).partition("@")[2]
+        if _INSTALACION.search(nz.clave(sitio)) and not _CARRERA.search(nz.clave(nombre)):
+            descartes.append(f"pista (en {sitio.strip()}): {nombre}")
+            continue
         lugar = _texto(e.get("LOCATION", "")).split("@")[0]
         partes = [p.strip() for p in re.split(r"[,()]", lugar) if p.strip()]
         provincias = {nz.provincia(p) for p in partes} - {None}
-        if provincias - {"Cantabria"}:
+        if provincias and "Cantabria" not in provincias:
             descartes.append(f"fuera de Cantabria: {nombre} ({lugar.strip()})")
             continue
-        poblacion = next((p for p in partes if nz.provincia(p) != "Cantabria"), None)
+        if len(provincias) > 1:  # «Panes (Asturias) - Potes (Cantabria)»: llega a Cantabria; el pueblo es el cántabro
+            i = next(i for i, p in enumerate(partes) if nz.provincia(p) == "Cantabria")
+            poblacion = partes[i - 1].lstrip("- ").strip() if i else None
+        else:
+            poblacion = next((p for p in partes if nz.provincia(p) != "Cantabria"), None)
+        if not poblacion and (m_pueblo := _DE_PUEBLO.search(nombre)):  # sin LOCATION: «… de El Astillero»
+            candidato = "".join(g for g in m_pueblo.groups() if g)
+            if (mun := nz.municipio_espana(candidato)) and mun[1] == "Cantabria":
+                poblacion = mun[0]
         c = Carrera(
             nombre=nombre,
             fecha=inicio.date(),

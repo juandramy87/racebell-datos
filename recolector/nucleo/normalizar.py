@@ -128,7 +128,7 @@ _MODALIDADES = [
     ("montaña", re.compile(r"\b(cxm|carrera(s)? (por|de) montana|kv\b|kilometro vertical|skyrace|montana)")),
     ("trail", re.compile(r"\b(trail|ultra|ecomaraton)")),
     ("cross", re.compile(r"\b(cross|campo a traves|pinares)")),
-    ("pista", re.compile(r"\b(pista|encuentro de atletismo|milla)")),
+    ("pista", re.compile(r"\b(pista|encuentro de atletismo|milla)(?! (y|urbana|popular))")),
     ("asfalto", re.compile(r"\b(maraton|media|10 ?k|5 ?k|urbana|popular|san silvestre|carrera|legua)")),
 ]
 
