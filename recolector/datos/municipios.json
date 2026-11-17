@@ -49,6 +49,11 @@
   "lat": 37.3052,
   "lon": -3.6615
  },
+ "alboraia|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.501,
+  "lon": -0.35
+ },
  "albox|almeria": {
   "provincia": "Almería",
   "lat": 37.388,
@@ -169,6 +174,11 @@
   "provincia": "Alicante",
   "lat": 38.1097,
   "lon": -0.7919
+ },
+ "almussafes|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.2924,
+  "lon": -0.4139
  },
  "alora|malaga": {
   "provincia": "Málaga",
@@ -422,6 +432,11 @@
   "lat": 37.6088,
   "lon": -6.5422
  },
+ "betera|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.5917,
+  "lon": -0.4623
+ },
  "bigastro|alicante": {
   "provincia": "Alicante",
   "lat": 38.0628,
@@ -489,6 +504,11 @@
   "provincia": "Cádiz",
   "lat": 36.5297,
   "lon": -6.2929
+ },
+ "calles|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.7254,
+  "lon": -0.9739
  },
  "callosa de segura|alicante": {
   "provincia": "Alicante",
@@ -571,6 +591,11 @@
   "lat": 40.197,
   "lon": -5.9484
  },
+ "casinos|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.6996,
+  "lon": -0.7074
+ },
  "cassa de la selva|girona": {
   "provincia": "Girona",
   "lat": 41.8875,
@@ -625,6 +650,11 @@
   "lon": -3.2163
  },
  "castropol|asturias": null,
+ "catarroja|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.4034,
+  "lon": -0.4029
+ },
  "cehegin|murcia": {
   "provincia": "Murcia",
   "lat": 38.0925,
@@ -894,6 +924,11 @@
   "lat": 37.36,
   "lon": -2.2633
  },
+ "foios|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.5382,
+  "lon": -0.3561
+ },
  "fonelas|granada": {
   "provincia": "Granada",
   "lat": 37.4265,
@@ -903,6 +938,11 @@
   "provincia": "Baleares",
   "lat": 38.7062,
   "lon": 1.4334
+ },
+ "fortaleny|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.1839,
+  "lon": -0.3151
  },
  "fraga|huesca": {
   "provincia": "Huesca",
@@ -1190,6 +1230,11 @@
   "lat": 38.2856,
   "lon": -1.8088
  },
+ "la pobla de farnals|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.5778,
+  "lon": -0.3264
+ },
  "la rinconada|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.4867,
@@ -1471,6 +1516,11 @@
   "lat": 37.102,
   "lon": -3.4694
  },
+ "moncada|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.545,
+  "lon": -0.3941
+ },
  "mondariz balneario|pontevedra": {
   "provincia": "Pontevedra",
   "lat": 42.2194,
@@ -1527,6 +1577,11 @@
   "provincia": "Murcia",
   "lat": 37.9348,
   "lon": -1.1131
+ },
+ "museros|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.5603,
+  "lon": -0.3366
  },
  "navalmoral de la mata|caceres": {
   "provincia": "Cáceres",
@@ -1613,6 +1668,11 @@
   "lat": 37.0713,
   "lon": -3.6546
  },
+ "ourense|ourense": {
+  "provincia": "Ourense",
+  "lat": 42.3439,
+  "lon": -7.8572
+ },
  "oviedo|asturias": null,
  "pabellon cubierto de atarfe avenida diputacion s n|granada": null,
  "pabellon infanta cristina roquetas de mar|almeria": {
@@ -1625,6 +1685,7 @@
   "lat": 42.2737,
   "lon": -7.7463
  },
+ "padron|a coruna": null,
  "padul|granada": {
   "provincia": "Granada",
   "lat": 37.0223,
@@ -2073,6 +2134,11 @@
   "lat": 40.7534,
   "lon": -3.7868
  },
+ "sueca|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.2026,
+  "lon": -0.3112
+ },
  "tacoronte|santa cruz de tenerife": {
   "provincia": "Santa Cruz de Tenerife",
   "lat": 28.479,
@@ -2166,6 +2232,11 @@
   "provincia": "Málaga",
   "lat": 36.6243,
   "lon": -4.4995
+ },
+ "torrent|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.4367,
+  "lon": -0.4656
  },
  "torrenueva costa|granada": {
   "provincia": "Granada",
@@ -2315,6 +2386,11 @@
   "provincia": "Pontevedra",
   "lat": 42.5951,
   "lon": -8.7431
+ },
+ "vilamarxant|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.5681,
+  "lon": -0.6228
  },
  "vilanova i la geltru|barcelona": {
   "provincia": "Barcelona",

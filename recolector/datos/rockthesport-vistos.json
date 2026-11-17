@@ -3604,6 +3604,11 @@
   "v2": true,
   "motivo": "no es a pie: Du Cross Dehesa de Majadahonda26"
  },
+ "du-on": {
+  "espana": true,
+  "provincia": "Lleida",
+  "fecha": "2027-07-17"
+ },
  "du-road-navalcarnero-26": {
   "espana": false,
   "v2": true,
@@ -5318,6 +5323,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-10-24"
+ },
+ "iv-san-silvestre-solidaria-san-leonardo-": {
+  "espana": true,
+  "provincia": "Soria",
+  "fecha": "2026-12-26"
  },
  "iv-the-millars-uci-gran-fondo-world-series-castellon": {
   "espana": true,
