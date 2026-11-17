@@ -26,8 +26,8 @@ URL = "https://running.life/calendario-carreras/espana/{}?page={}"
 COMUNIDADES = {"andalucia": "andalucia", "aragon": "aragon", "asturias": "asturias", "baleares": "baleares",
                "canarias": "canarias", "cantabria": "cantabria", "castilla-la-mancha": "castilla-la-mancha",
                "castilla-y-leon": "castilla-leon", "cataluna": "cataluna", "ceuta": "ceuta",
-               "madrid": "comunidad-de-madrid", "valenciana": "comunidad-valenciana", "extremadura": "extremadura",
-               "galicia": "galicia", "la-rioja": "la-rioja", "melilla": "melilla", "murcia": "region-de-murcia",
+               "madrid": "madrid", "valenciana": "valencia", "extremadura": "extremadura",
+               "galicia": "galicia", "la-rioja": "la-rioja", "melilla": "melilla", "murcia": "murcia",
                "navarra": "navarra", "pais-vasco": "pais-vasco"}
 DATOS = Path(__file__).resolve().parent / "datos"
 
