@@ -57,3 +57,10 @@ def test_soriatletismo():
     assert buscar(carreras, "Villa de Abejar").modalidad == "cross"
     assert buscar(carreras, "Medio Maraton Ciudad de Soria").poblacion == "Soria"  # lugar vacío: sale del nombre
     assert not descartes
+
+
+def test_runvasport_listado_avaibook():
+    from fuentes import runvasport
+    carreras, _ = runvasport.leer(muestra("runvasport.html"))
+    assert len(carreras) >= 10
+    assert any(c.poblacion == "Dueñas" and c.provincia == "Palencia" for c in carreras)

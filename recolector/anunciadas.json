@@ -425,6 +425,101 @@
    "estado_inscripcion": "desconocido",
    "nota": "Fecha del calendario de trail running 2027 de la FAA (cartel publicado en octubre de 2026).",
    "comprobado": "2026-11-16"
+  },
+  {
+   "nombre": "Corre por un Mundo Sostenible 2026",
+   "fecha": "2026-11-22",
+   "hora": "09:30",
+   "poblacion": "Madrid",
+   "provincia": "Madrid",
+   "distancias_km": [
+    3,
+    5,
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://correporunmundosostenible.es/",
+   "estado_inscripcion": "abierta",
+   "nota": "Parque Lineal del Manzanares. Inscripción en ctickets.",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "Barbie Run Alcobendas Madrid 2026",
+   "fecha": "2026-11-22",
+   "hora": "09:00",
+   "poblacion": "Alcobendas",
+   "provincia": "Madrid",
+   "distancias_km": [
+    3,
+    5,
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://barbierun.es/",
+   "url_inscripcion": "https://barbierun.es/inscripcion",
+   "estado_inscripcion": "abierta",
+   "nota": "Inscripción hasta el 21/11/2026 a las 00:00.",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "10K Carabanchel Del Alto al Bajo 2026",
+   "fecha": "2026-11-28",
+   "poblacion": "Madrid",
+   "provincia": "Madrid",
+   "distancias_km": [
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.10kcarabanchel.es/",
+   "url_inscripcion": "https://www.deporticket.com/web-evento/13230-10-km-de-carabanchel-del-alto-al-bajo",
+   "estado_inscripcion": "desconocido",
+   "nota": "PAU de Carabanchel → Puente de Toledo. Campeonato de Madrid de 10 km.",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "XXVII Media Maratón Ciudad de Getafe",
+   "fecha": "2027-01-31",
+   "hora": "10:30",
+   "poblacion": "Getafe",
+   "provincia": "Madrid",
+   "distancias_km": [
+    21.097
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.mediadegetafe.com/",
+   "url_inscripcion": "https://inscripciones.runrunsports.com/eventos/xxvii-medio-maraton-internacional-ciudad-de-getafe",
+   "estado_inscripcion": "abierta",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "VI Backyard Ultra Los Molinos",
+   "fecha": "2027-01-30",
+   "hora": "09:00",
+   "poblacion": "Los Molinos",
+   "provincia": "Madrid",
+   "distancias_km": [
+    6.706
+   ],
+   "modalidad": "trail",
+   "url_oficial": "https://vueltasalacabeza.es/backyard-los-molinos/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Formato backyard: 6,706 km por vuelta cada hora.",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "IV Carrera Popular de los Reyes Magos",
+   "fecha": "2027-01-02",
+   "poblacion": "Madrid",
+   "provincia": "Madrid",
+   "distancias_km": [
+    3
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.esmadrid.com/agenda/carrera-popular-reyes-magos-parque-deportivo-puerta-hierro",
+   "estado_inscripcion": "no_abierta",
+   "fecha_provisional": true,
+   "nota": "Parque Deportivo Puerta de Hierro. Fecha por confirmar (2 o 3 de enero).",
+   "comprobado": "2026-11-17"
   }
  ],
  "sin_fecha": [

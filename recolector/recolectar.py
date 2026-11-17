@@ -18,6 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
+from fuentes import (cancerpancreas, rtsmadrid, runvasport)  # ronda 3: Madrid
 from fuentes import (athleticevents, cronocheck, gesportcat, plaestany)  # ronda 2: Cataluña
 from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
 from fuentes import (chiplevante, fetacyl, runatica, somesport, soriatletismo, timinglap)  # ronda 2 (17/11)
@@ -61,6 +62,11 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (alcanzatumeta.ID, lambda: alcanzatumeta.leer(bajar(alcanzatumeta.URL))),
         (rockthesport.ID, lambda: rockthesport.leer(bajar(rockthesport.URL), desde=desde, hasta=hasta,
                                                   descargar_ficha=lambda u: red.descargar(u, usar_cache=usar_cache, recortar=jsonld.recortar))),
+        # Después de rockthesport: lee las fichas que este descartó y recupera las de barrios de Madrid capital.
+        (rtsmadrid.ID, lambda: rtsmadrid.leer(rtsmadrid.leer_vistos(), desde=desde, hasta=hasta,
+                                              descargar_ficha=lambda u: red.descargar(u, usar_cache=usar_cache, recortar=jsonld.recortar))),
+        (cancerpancreas.ID, lambda: cancerpancreas.leer(bajar(cancerpancreas.URL))),
+        (runvasport.ID, lambda: runvasport.leer(bajar(runvasport.URL))),
         (olarivers.ID, lambda: olarivers.leer(bajar(olarivers.URL))),
         (montur.ID, lambda: montur.leer(bajar(montur.URL))),
         (cruzandolameta.ID, lambda: cruzandolameta.leer(bajar(cruzandolameta.URL))),

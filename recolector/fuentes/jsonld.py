@@ -94,7 +94,8 @@ def leer_ficha(contenido: bytes | str, url: str, fuente_id: str, provincia_si_fa
             hasta.append(datetime.fromisoformat(o["validThrough"]).replace(tzinfo=None))
     c.inscripcion_desde = min(desde) if desde else None
     c.inscripcion_hasta = max(hasta) if hasta else None
-    if ofertas and all("SoldOut" in str(o.get("availability", "")) for o in ofertas):
+    # RockTheSport pone «SoldOut» en TODAS sus fichas, también en las abiertas: ahí no se hace caso.
+    if fuente_id != "rockthesport" and ofertas and all("SoldOut" in str(o.get("availability", "")) for o in ofertas):
         c.previos.append("Inscripciones agotadas")
     if fin.date() != inicio.date():
         c.marcar(f"La fuente da inicio ({inicio:%d/%m %H:%M}) y fin ({fin:%d/%m %H:%M}) en días distintos: "
