@@ -4,7 +4,8 @@ running.life es competencia: aquí SOLO se usa para contar qué carreras nos fal
 Nada de lo que se lee de running.life se guarda en carreras.json.
 
 Uso:
-    .venv/bin/python cobertura.py 2026-11-21     # sábado del finde
+    .venv/bin/python cobertura.py 2026-11-21 --comunidad cataluna     # sábado del finde
+    .venv/bin/python cobertura.py 2026-11-17 --hasta 2026-12-31 --comunidad madrid
 """
 from __future__ import annotations
 
@@ -20,7 +21,14 @@ from nucleo.duplicados import misma_carrera
 from nucleo.modelo import Carrera, Fuente
 from nucleo.normalizar import clave, nombre as limpiar_nombre
 
-URL = "https://running.life/calendario-carreras/espana/andalucia?page={}"
+URL = "https://running.life/calendario-carreras/espana/{}?page={}"
+# Nuestra comunidad → la de running.life.
+COMUNIDADES = {"andalucia": "andalucia", "aragon": "aragon", "asturias": "asturias", "baleares": "baleares",
+               "canarias": "canarias", "cantabria": "cantabria", "castilla-la-mancha": "castilla-la-mancha",
+               "castilla-y-leon": "castilla-leon", "cataluna": "cataluna", "ceuta": "ceuta",
+               "madrid": "comunidad-de-madrid", "valenciana": "comunidad-valenciana", "extremadura": "extremadura",
+               "galicia": "galicia", "la-rioja": "la-rioja", "melilla": "melilla", "murcia": "region-de-murcia",
+               "navarra": "navarra", "pais-vasco": "pais-vasco"}
 DATOS = Path(__file__).resolve().parent / "datos"
 
 
@@ -44,16 +52,16 @@ def leer_pagina(html: str) -> list[dict]:
     return eventos
 
 
-def eventos_finde(sabado: date, max_paginas: int = 15) -> list[dict]:
-    return eventos_rango(sabado, sabado + timedelta(days=1), max_paginas)
+def eventos_finde(sabado: date, max_paginas: int = 15, comunidad: str = "andalucia") -> list[dict]:
+    return eventos_rango(sabado, sabado + timedelta(days=1), max_paginas, comunidad)
 
 
-def eventos_rango(desde: date, hasta: date, max_paginas: int = 15) -> list[dict]:
+def eventos_rango(desde: date, hasta: date, max_paginas: int = 15, comunidad: str = "andalucia") -> list[dict]:
     sabado, domingo = desde, hasta
     encontrados = []
     for pagina in range(1, max_paginas + 1):
         try:
-            eventos = leer_pagina(red.descargar(URL.format(pagina)).decode("utf-8", "replace"))
+            eventos = leer_pagina(red.descargar(URL.format(COMUNIDADES[comunidad], pagina)).decode("utf-8", "replace"))
         except RuntimeError as error:  # pasada la última página, running.life da 404
             if "404" in str(error):
                 break
@@ -68,11 +76,12 @@ def eventos_rango(desde: date, hasta: date, max_paginas: int = 15) -> list[dict]
     return encontrados
 
 
-def medir(sabado: date, hasta: date | None = None) -> str:
+def medir(sabado: date, hasta: date | None = None, comunidad: str = "andalucia") -> str:
     domingo = hasta or sabado + timedelta(days=1)
     nuestras_json = json.loads((DATOS / "carreras.json").read_text())["carreras"]
-    nuestras = [c for c in nuestras_json if sabado.isoformat() <= c["fecha"] <= domingo.isoformat()]
-    suyas = eventos_rango(sabado, domingo, 15 if hasta is None else 120)
+    nuestras = [c for c in nuestras_json if sabado.isoformat() <= c["fecha"] <= domingo.isoformat()
+                and c.get("comunidad") == comunidad]
+    suyas = eventos_rango(sabado, domingo, 15 if hasta is None else 120, comunidad)
 
     def como_carrera(d: dict, fuente: str) -> Carrera:
         return Carrera(nombre=limpiar_nombre(d["nombre"]), fecha=date.fromisoformat(str(d["fecha"])),
@@ -126,7 +135,7 @@ def medir(sabado: date, hasta: date | None = None) -> str:
         *[f"- {c['nombre']} = {s['nombre']}" for c, s in coinciden],
     ]
     texto = "\n".join(lineas) + "\n"
-    nombre = f"cobertura-{sabado.isoformat()}" + (f"-a-{domingo.isoformat()}" if hasta else "")
+    nombre = f"cobertura-{comunidad}-{sabado.isoformat()}" + (f"-a-{domingo.isoformat()}" if hasta else "")
     (DATOS / f"{nombre}.md").write_text(texto)
     return texto
 
@@ -135,7 +144,8 @@ if __name__ == "__main__":
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("sabado", type=date.fromisoformat, help="sábado del finde, o inicio del periodo con --hasta")
     p.add_argument("--hasta", type=date.fromisoformat, help="mide todo el periodo, mes a mes")
+    p.add_argument("--comunidad", default="andalucia", choices=sorted(COMUNIDADES), help="comunidad a medir")
     args = p.parse_args()
     if args.hasta is None and args.sabado.weekday() != 5:
         sys.exit("La fecha tiene que ser un sábado (o usa --hasta).")
-    print(medir(args.sabado, args.hasta))
+    print(medir(args.sabado, args.hasta, args.comunidad))
