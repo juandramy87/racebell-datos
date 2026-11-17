@@ -114,7 +114,8 @@ def nombre(texto: str) -> str:
     return t
 
 
-# Pruebas que no son a pie: se descartan.
+# Pruebas que no son a pie: se descartan. Las de _NUNCA_A_PIE aunque digan «cross» o «trail» (duatlón cross: hay bici).
+_NUNCA_A_PIE = re.compile(r"\b(duatlon|duathlon|triatlon|boulder|escalada)\w*")
 _NO_A_PIE = re.compile(
     r"(mountain ?bike|\bbtt|\bmtb|\bbike|\bbici|\bduatlon cross bike)|\b(ciclis|ciclot|gravel|cicloturis|natacion|nado|travesia|triatlon|acuatlon|"
     r"padel|tenis|futbol|baloncesto|golf|motor|moto|patinaje|piragu|remo|surf|escalada|canicross|"
@@ -122,7 +123,6 @@ _NO_A_PIE = re.compile(
     r"hybrid|hibrid|hyrox)\w*",  # las carreras híbridas (fuerza + correr) no cuentan
 )
 _MODALIDADES = [
-    ("duatlón", re.compile(r"\bduatlon")),
     ("obstáculos", re.compile(r"\b(ocr|obstaculo|obstacle|race\b.*playa|spartan)")),
     ("montaña", re.compile(r"\b(cxm|carrera(s)? (por|de) montana|kv\b|kilometro vertical|skyrace|montana)")),
     ("trail", re.compile(r"\b(trail|ultra|ecomaraton)")),
@@ -135,6 +135,8 @@ _MODALIDADES = [
 def clasificar(*textos: Optional[str]) -> tuple[bool, Optional[str]]:
     """Devuelve (es_a_pie, modalidad). Con «marcha», bici, natación… es_a_pie = False."""
     t = clave(" ".join(x for x in textos if x))
+    if _NUNCA_A_PIE.search(t):
+        return False, None
     if _NO_A_PIE.search(t) and not re.search(r"\b(cross|trail|cxm|carrera a pie|carrera y marcha|marcha y carrera)\b", t):
         return False, None
     for modalidad, patron in _MODALIDADES:

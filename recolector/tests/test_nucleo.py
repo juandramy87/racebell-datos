@@ -19,7 +19,11 @@ def test_clasificar():
     assert nz.clasificar("XXXIX Cross Pinares Cartaya") == (True, "cross")
     assert nz.clasificar("VI CxM Toleta") == (True, "montaña")
     assert nz.clasificar("Media Maratón de Roquetas") == (True, "asfalto")
-    assert nz.clasificar("VII Duatlón Cros Rincón")[1] == "duatlón"
+    # Duatlones (hay bici) y escalada no son carreras a pie, aunque digan «cross».
+    assert nz.clasificar("VII Duatlón Cros Rincón") == (False, None)
+    assert nz.clasificar("II Duatlón Cross Tres Arroyos") == (False, None)
+    assert nz.clasificar("VI Open Boulder Ciudad de Valladolid") == (False, None)
+    assert nz.clasificar("XXXIV Cursa del Club Natació Sabadell")[0] is True
     assert nz.clasificar("III BTT Desierto de Gorafe")[0] is False
     assert nz.clasificar("KDD Mountainbike Jubrique")[0] is False
     assert nz.clasificar("I Encuentro de Mujeres Marchadoras")[0] is False

@@ -9,7 +9,8 @@ from tests.test_lectores import buscar, muestra
 
 def test_gesconchip():
     carreras, descartes = gesconchip.leer(muestra("gesconchip.html"))
-    assert len(carreras) == 24  # 22 andaluzas y 2 de Ceuta
+    assert len(carreras) == 23  # 21 andaluzas y 2 de Ceuta (el Duatlón de Herrera ya no cuenta: hay bici)
+    assert not any("Duatl" in c.nombre for c in carreras)
     c = buscar(carreras, "Cross Pinar del Rey")
     assert (c.fecha, c.poblacion, c.provincia) == (date(2026, 11, 22), "San Roque", "Cádiz")
     assert c.inscripcion_hasta == datetime(2026, 11, 18, 12, 0)

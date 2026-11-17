@@ -40,7 +40,7 @@ class Carrera:
     provincia: Optional[str] = None
     comunidad: Optional[str] = None  # se rellena con la de la provincia al publicar
     coords: Optional[tuple[float, float]] = None  # (latitud, longitud) aproximadas
-    modalidad: Optional[str] = None  # asfalto, cross, trail, montaña, pista, duatlón, obstáculos
+    modalidad: Optional[str] = None  # asfalto, cross, trail, montaña, pista, obstáculos
     distancias_km: list[float] = field(default_factory=list)
     inscripcion_desde: Optional[datetime] = None
     inscripcion_hasta: Optional[datetime] = None
