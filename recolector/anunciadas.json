@@ -520,6 +520,34 @@
    "fecha_provisional": true,
    "nota": "Parque Deportivo Puerta de Hierro. Fecha por confirmar (2 o 3 de enero).",
    "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "XIV San Silvestre de Torrelodones",
+   "fecha": "2026-12-19",
+   "hora": "12:00",
+   "poblacion": "Torrelodones",
+   "provincia": "Madrid",
+   "modalidad": "asfalto",
+   "distancias_km": [
+    5
+   ],
+   "estado_inscripcion": "abierta",
+   "url_oficial": "https://torrelodones.es/la-san-silvestre-de-torrelodones-se-adelanta-al-19-de-diciembre-y-abre-inscripciones/",
+   "url_inscripcion": "https://www.deporticket.com/web-evento/14197-san-silvestre-de-torrelodones-2026",
+   "comprobado": "2026-11-17",
+   "nota": "Popular 5 km a las 12:00; infantiles a las 11:00 y 11:15. Inscripción online hasta el 18/12 a las 23:59."
+  },
+  {
+   "nombre": "San Silvestre Complutense 2026",
+   "fecha": "2026-12-31",
+   "poblacion": "Alcalá de Henares",
+   "provincia": "Madrid",
+   "modalidad": "asfalto",
+   "estado_inscripcion": "abierta",
+   "url_oficial": "https://www.ayto-alcaladehenares.es/la-agrupacion-deportiva-de-bomberos-organiza-la-san-silvestre-complutense-2026-que-tendra-salida-y-meta-en-el-centro-historico/",
+   "url_inscripcion": "https://www.deporticket.com/web-evento/13959-san-silvestre-complutense",
+   "comprobado": "2026-11-17",
+   "nota": "Salida y meta en la calle Colegios; hasta 3.000 corredores; inscripción hasta el 28/12."
   }
  ],
  "sin_fecha": [

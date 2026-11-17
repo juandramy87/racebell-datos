@@ -1,0 +1,762 @@
+{
+ "events": [
+  {
+   "id": 78530,
+   "global_id": "manzanareselreal.es?id=78530",
+   "global_id_lineage": [
+    "manzanareselreal.es?id=78530"
+   ],
+   "status": "publish",
+   "date": "2026-11-17 13:39:55",
+   "date_utc": "2026-11-17 12:39:55",
+   "modified": "2026-11-17 13:44:14",
+   "modified_utc": "2026-11-17 12:44:14",
+   "url": "https://manzanareselreal.es/agenda-municipal/la-nutricion-en-las-distintas-fases-de-la-mujer-deportista/",
+   "rest_url": "https://manzanareselreal.es/wp-json/tribe/events/v1/events/78530",
+   "title": "LA NUTRICIÓN EN LAS DISTINTAS FASES DE LA MUJER DEPORTISTA",
+   "slug": "la-nutricion-en-las-distintas-fases-de-la-mujer-deportista",
+   "image": {
+    "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista.jpg",
+    "id": 78531,
+    "extension": "jpg",
+    "width": 1080,
+    "height": 1350,
+    "filesize": 263841,
+    "sizes": {
+     "medium": {
+      "width": 376,
+      "height": 470,
+      "mime-type": "image/jpeg",
+      "filesize": 56510,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-376x470.jpg"
+     },
+     "large": {
+      "width": 819,
+      "height": 1024,
+      "mime-type": "image/jpeg",
+      "filesize": 181837,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-819x1024.jpg"
+     },
+     "thumbnail": {
+      "width": 120,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 8474,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-120x150.jpg"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 960,
+      "mime-type": "image/jpeg",
+      "filesize": 165022,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-768x960.jpg"
+     },
+     "post-thumbnail": {
+      "width": 220,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 13437,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-220x150.jpg"
+     },
+     "ganesa-single": {
+      "width": 1080,
+      "height": 600,
+      "mime-type": "image/jpeg",
+      "filesize": 132358,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-1080x600.jpg"
+     },
+     "ganesa-blog-list": {
+      "width": 720,
+      "height": 427,
+      "mime-type": "image/jpeg",
+      "filesize": 76308,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-720x427.jpg"
+     },
+     "ganesa-blog-video": {
+      "width": 1000,
+      "height": 489,
+      "mime-type": "image/jpeg",
+      "filesize": 99491,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-1000x489.jpg"
+     },
+     "ganesa-blog-grid": {
+      "width": 640,
+      "height": 400,
+      "mime-type": "image/jpeg",
+      "filesize": 67963,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-640x400.jpg"
+     },
+     "ganesa-blog-grid-vertical": {
+      "width": 530,
+      "height": 698,
+      "mime-type": "image/jpeg",
+      "filesize": 105503,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-530x698.jpg"
+     },
+     "ganesa-blog-vertical": {
+      "width": 467,
+      "height": 550,
+      "mime-type": "image/jpeg",
+      "filesize": 77236,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-467x550.jpg"
+     },
+     "ganesa-sidebar": {
+      "width": 124,
+      "height": 100,
+      "mime-type": "image/jpeg",
+      "filesize": 6201,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/nutricionmujerdeportista-124x100.jpg"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-11-19 19:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "19",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-11-19 21:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "19",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-11-19 18:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "19",
+    "hour": "18",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-11-19 20:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "19",
+    "hour": "20",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "Europe/Madrid",
+   "timezone_abbr": "CET",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "show_map": true,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Deportes",
+     "slug": "deportes",
+     "term_group": 0,
+     "term_taxonomy_id": 192,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 42,
+     "filter": "raw",
+     "id": 192,
+     "urls": {
+      "self": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories/192",
+      "collection": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Sanidad",
+     "slug": "sanidad",
+     "term_group": 0,
+     "term_taxonomy_id": 234,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 8,
+     "filter": "raw",
+     "id": 234,
+     "urls": {
+      "self": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories/234",
+      "collection": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 61416,
+    "author": "777",
+    "status": "publish",
+    "date": "2024-10-14 09:34:26",
+    "date_utc": "2024-10-14 07:34:26",
+    "modified": "2024-10-14 09:34:26",
+    "modified_utc": "2024-10-14 07:34:26",
+    "url": "https://manzanareselreal.es/local/casa-de-la-montana/",
+    "venue": "Casa de la Montaña",
+    "slug": "casa-de-la-montana",
+    "address": "Calle de las Cuatro Peñas, 38",
+    "city": "Manzanares El Real",
+    "country": "España",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "manzanareselreal.es?id=61416",
+    "global_id_lineage": [
+     "manzanareselreal.es?id=61416"
+    ]
+   },
+   "custom_fields": []
+  },
+  {
+   "id": 78366,
+   "global_id": "manzanareselreal.es?id=78366",
+   "global_id_lineage": [
+    "manzanareselreal.es?id=78366"
+   ],
+   "status": "publish",
+   "date": "2026-11-09 10:56:41",
+   "date_utc": "2026-11-09 09:56:41",
+   "modified": "2026-11-09 13:51:15",
+   "modified_utc": "2026-11-09 12:51:15",
+   "url": "https://manzanareselreal.es/agenda-municipal/xi-marcha-solidaria-contra-el-cancer/",
+   "rest_url": "https://manzanareselreal.es/wp-json/tribe/events/v1/events/78366",
+   "title": "XI MARCHA SOLIDARIA CONTRA EL CÁNCER",
+   "slug": "xi-marcha-solidaria-contra-el-cancer",
+   "image": {
+    "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer.jpg",
+    "id": 78392,
+    "extension": "jpg",
+    "width": 1080,
+    "height": 1350,
+    "filesize": 239377,
+    "sizes": {
+     "medium": {
+      "width": 376,
+      "height": 470,
+      "mime-type": "image/jpeg",
+      "filesize": 45102,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-376x470.jpg"
+     },
+     "large": {
+      "width": 819,
+      "height": 1024,
+      "mime-type": "image/jpeg",
+      "filesize": 153238,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-819x1024.jpg"
+     },
+     "thumbnail": {
+      "width": 120,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 7228,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-120x150.jpg"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 960,
+      "mime-type": "image/jpeg",
+      "filesize": 136283,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-768x960.jpg"
+     },
+     "post-thumbnail": {
+      "width": 220,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 11689,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-220x150.jpg"
+     },
+     "ganesa-single": {
+      "width": 1080,
+      "height": 600,
+      "mime-type": "image/jpeg",
+      "filesize": 116080,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-1080x600.jpg"
+     },
+     "ganesa-blog-list": {
+      "width": 720,
+      "height": 427,
+      "mime-type": "image/jpeg",
+      "filesize": 62018,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-720x427.jpg"
+     },
+     "ganesa-blog-video": {
+      "width": 1000,
+      "height": 489,
+      "mime-type": "image/jpeg",
+      "filesize": 84594,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-1000x489.jpg"
+     },
+     "ganesa-blog-grid": {
+      "width": 640,
+      "height": 400,
+      "mime-type": "image/jpeg",
+      "filesize": 54501,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-640x400.jpg"
+     },
+     "ganesa-blog-grid-vertical": {
+      "width": 530,
+      "height": 698,
+      "mime-type": "image/jpeg",
+      "filesize": 81370,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-530x698.jpg"
+     },
+     "ganesa-blog-vertical": {
+      "width": 467,
+      "height": 550,
+      "mime-type": "image/jpeg",
+      "filesize": 60898,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-467x550.jpg"
+     },
+     "ganesa-sidebar": {
+      "width": 124,
+      "height": 100,
+      "mime-type": "image/jpeg",
+      "filesize": 5731,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/11/xi-marhca-contra-el-cancer-124x100.jpg"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-11-28 10:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "10",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-11-28 13:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "13",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-11-28 09:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "09",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-11-28 12:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "12",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "Europe/Madrid",
+   "timezone_abbr": "CET",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "show_map": true,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [],
+   "tags": [],
+   "venue": {
+    "id": 29001,
+    "author": "777",
+    "status": "publish",
+    "date": "2017-03-07 12:42:24",
+    "date_utc": "2017-03-07 11:42:24",
+    "modified": "2023-01-30 10:00:31",
+    "modified_utc": "2023-01-30 09:00:31",
+    "url": "https://manzanareselreal.es/local/plaza-pueblo/",
+    "venue": "Plaza del Pueblo",
+    "slug": "plaza-pueblo",
+    "address": "Plaza del Pueblo, 1",
+    "city": "Manzanares El Real",
+    "country": "España",
+    "province": "Madrid",
+    "zip": "28410",
+    "phone": "918530009",
+    "stateprovince": "Madrid",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "manzanareselreal.es?id=29001",
+    "global_id_lineage": [
+     "manzanareselreal.es?id=29001"
+    ]
+   },
+   "custom_fields": []
+  },
+  {
+   "id": 77539,
+   "global_id": "manzanareselreal.es?id=77539",
+   "global_id_lineage": [
+    "manzanareselreal.es?id=77539"
+   ],
+   "status": "publish",
+   "date": "2026-09-25 11:54:55",
+   "date_utc": "2026-09-25 09:54:55",
+   "modified": "2026-09-25 11:55:12",
+   "modified_utc": "2026-09-25 09:55:12",
+   "url": "https://manzanareselreal.es/agenda-municipal/cuentacuentos-en-familia-cuando-las-ninas-vuela-alto/",
+   "rest_url": "https://manzanareselreal.es/wp-json/tribe/events/v1/events/77539",
+   "title": "CUENTACUENTOS EN FAMILIA: «CUANDO LAS NIÑAS VUELAN ALTO»",
+   "slug": "cuentacuentos-en-familia-cuando-las-ninas-vuela-alto",
+   "image": false,
+   "all_day": false,
+   "start_date": "2026-11-28 12:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "12",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-11-28 13:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "13",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-11-28 11:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "11",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-11-28 12:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "11",
+    "day": "28",
+    "hour": "12",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "Europe/Madrid",
+   "timezone_abbr": "CET",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "show_map": true,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Cultura",
+     "slug": "cultura",
+     "term_group": 0,
+     "term_taxonomy_id": 193,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 283,
+     "filter": "raw",
+     "id": 193,
+     "urls": {
+      "self": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories/193",
+      "collection": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Infancia",
+     "slug": "infancia",
+     "term_group": 0,
+     "term_taxonomy_id": 197,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 108,
+     "filter": "raw",
+     "id": 197,
+     "urls": {
+      "self": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories/197",
+      "collection": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 50946,
+    "author": "777",
+    "status": "publish",
+    "date": "2023-01-26 08:55:35",
+    "date_utc": "2023-01-26 07:55:35",
+    "modified": "2023-01-26 08:55:35",
+    "modified_utc": "2023-01-26 07:55:35",
+    "url": "https://manzanareselreal.es/local/biblioteca-municipal-concha-mendez/",
+    "venue": "Biblioteca municipal «Concha Méndez»",
+    "slug": "biblioteca-municipal-concha-mendez",
+    "address": "C. Cañada, 26",
+    "city": "Manzanares El Real",
+    "country": "España",
+    "province": "Madrid",
+    "zip": "28410",
+    "stateprovince": "Madrid",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "manzanareselreal.es?id=50946",
+    "global_id_lineage": [
+     "manzanareselreal.es?id=50946"
+    ]
+   },
+   "custom_fields": []
+  },
+  {
+   "id": 78371,
+   "global_id": "manzanareselreal.es?id=78371",
+   "global_id_lineage": [
+    "manzanareselreal.es?id=78371"
+   ],
+   "status": "publish",
+   "date": "2026-11-09 11:02:32",
+   "date_utc": "2026-11-09 10:02:32",
+   "modified": "2026-11-09 11:02:32",
+   "modified_utc": "2026-11-09 10:02:32",
+   "url": "https://manzanareselreal.es/agenda-municipal/san-silvestre-2026/",
+   "rest_url": "https://manzanareselreal.es/wp-json/tribe/events/v1/events/78371",
+   "title": "SAN SILVESTRE 2026",
+   "slug": "san-silvestre-2026",
+   "image": {
+    "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-scaled.jpg",
+    "id": 78139,
+    "extension": "jpg",
+    "width": 1810,
+    "height": 2560,
+    "filesize": 466201,
+    "sizes": {
+     "medium": {
+      "width": 332,
+      "height": 470,
+      "mime-type": "image/jpeg",
+      "filesize": 38592,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-332x470.jpg"
+     },
+     "large": {
+      "width": 724,
+      "height": 1024,
+      "mime-type": "image/jpeg",
+      "filesize": 128778,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-724x1024.jpg"
+     },
+     "thumbnail": {
+      "width": 106,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 6356,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-106x150.jpg"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 1086,
+      "mime-type": "image/jpeg",
+      "filesize": 140290,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-768x1086.jpg"
+     },
+     "1536x1536": {
+      "width": 1086,
+      "height": 1536,
+      "mime-type": "image/jpeg",
+      "filesize": 233452,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-1086x1536.jpg"
+     },
+     "2048x2048": {
+      "width": 1448,
+      "height": 2048,
+      "mime-type": "image/jpeg",
+      "filesize": 343677,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-1448x2048.jpg"
+     },
+     "post-thumbnail": {
+      "width": 220,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 10273,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-220x150.jpg"
+     },
+     "ganesa-single": {
+      "width": 1400,
+      "height": 600,
+      "mime-type": "image/jpeg",
+      "filesize": 104053,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-1400x600.jpg"
+     },
+     "ganesa-blog-list": {
+      "width": 720,
+      "height": 427,
+      "mime-type": "image/jpeg",
+      "filesize": 54838,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-720x427.jpg"
+     },
+     "ganesa-blog-video": {
+      "width": 1000,
+      "height": 489,
+      "mime-type": "image/jpeg",
+      "filesize": 73180,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-1000x489.jpg"
+     },
+     "ganesa-blog-grid": {
+      "width": 640,
+      "height": 400,
+      "mime-type": "image/jpeg",
+      "filesize": 47655,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-640x400.jpg"
+     },
+     "ganesa-blog-grid-vertical": {
+      "width": 530,
+      "height": 698,
+      "mime-type": "image/jpeg",
+      "filesize": 75743,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-530x698.jpg"
+     },
+     "ganesa-blog-vertical": {
+      "width": 467,
+      "height": 550,
+      "mime-type": "image/jpeg",
+      "filesize": 57499,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-467x550.jpg"
+     },
+     "ganesa-sidebar": {
+      "width": 124,
+      "height": 100,
+      "mime-type": "image/jpeg",
+      "filesize": 4831,
+      "url": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-124x100.jpg"
+     }
+    },
+    "original_image": "CARTEL-SAN-SILVESTRE-2026.jpg"
+   },
+   "all_day": false,
+   "start_date": "2026-12-31 08:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "08",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-31 14:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "14",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-31 07:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "07",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-31 13:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "13",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "Europe/Madrid",
+   "timezone_abbr": "CET",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "show_map": true,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Deportes",
+     "slug": "deportes",
+     "term_group": 0,
+     "term_taxonomy_id": 192,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 42,
+     "filter": "raw",
+     "id": 192,
+     "urls": {
+      "self": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories/192",
+      "collection": "https://manzanareselreal.es/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 29001,
+    "author": "777",
+    "status": "publish",
+    "date": "2017-03-07 12:42:24",
+    "date_utc": "2017-03-07 11:42:24",
+    "modified": "2023-01-30 10:00:31",
+    "modified_utc": "2023-01-30 09:00:31",
+    "url": "https://manzanareselreal.es/local/plaza-pueblo/",
+    "venue": "Plaza del Pueblo",
+    "slug": "plaza-pueblo",
+    "address": "Plaza del Pueblo, 1",
+    "city": "Manzanares El Real",
+    "country": "España",
+    "province": "Madrid",
+    "zip": "28410",
+    "phone": "918530009",
+    "stateprovince": "Madrid",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "manzanareselreal.es?id=29001",
+    "global_id_lineage": [
+     "manzanareselreal.es?id=29001"
+    ]
+   },
+   "custom_fields": []
+  }
+ ],
+ "total": 4,
+ "total_pages": 1
+}
