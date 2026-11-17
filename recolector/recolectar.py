@@ -18,6 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
+from fuentes import (canaryrun, holaislascanarias)  # ronda 4: Canarias
 from fuentes import (aytos_madrid, cancerpancreas, rtsmadrid, runvasport)  # ronda 3: Madrid
 from fuentes import (athleticevents, cronocheck, gesportcat, plaestany)  # ronda 2: Cataluña
 from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
@@ -106,6 +107,9 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (empat.ID, lambda: empat.leer(bajar(empat.URL))),
         (logronodeporte.ID, lambda: logronodeporte.leer(bajar(logronodeporte.URL))),
         (cronoline.ID, lambda: cronoline.leer(bajar(cronoline.URL))),
+        (holaislascanarias.ID, lambda: holaislascanarias.leer(bajar(holaislascanarias.URL), descargar_ficha=lambda u: red.descargar(
+            u, usar_cache=usar_cache, recortar=holaislascanarias.recortar_ficha), desde=desde, hasta=hasta)),
+        (canaryrun.ID, lambda: canaryrun.leer(bajar(canaryrun.url(desde)))),
         (timinglap.ID, lambda: timinglap.leer(bajar(timinglap.URL))),
         (fetacyl.ID, lambda: fetacyl.leer(bajar(fetacyl.URL), descargar_ficha=lambda u: red.descargar(
                                               u, usar_cache=usar_cache, recortar=fetacyl.recortar_ficha),

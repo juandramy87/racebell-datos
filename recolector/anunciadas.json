@@ -548,6 +548,39 @@
    "url_inscripcion": "https://www.deporticket.com/web-evento/13959-san-silvestre-complutense",
    "comprobado": "2026-11-17",
    "nota": "Salida y meta en la calle Colegios; hasta 3.000 corredores; inscripción hasta el 28/12."
+  },
+  {
+   "nombre": "Font Vella Lanzarote International Marathon 2026",
+   "fecha": "2026-12-05",
+   "hora": "08:00",
+   "poblacion": "Costa Teguise",
+   "provincia": "Las Palmas",
+   "distancias_km": [
+    42.195,
+    21.097,
+    10
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.lanzaroteinternationalmarathon.com/",
+   "estado_inscripcion": "abierta",
+   "nota": "Maratón desde Costa Teguise, media desde Puerto del Carmen y 10K desde Arrecife. Inscripción hasta el 30/11/2026.",
+   "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "San Silvestre Las Palmas de Gran Canaria 2026",
+   "fecha": "2026-12-31",
+   "hora": "17:00",
+   "poblacion": "Las Palmas de Gran Canaria",
+   "provincia": "Las Palmas",
+   "distancias_km": [
+    5,
+    6
+   ],
+   "modalidad": "asfalto",
+   "url_oficial": "https://www.sansilvestre.es/",
+   "estado_inscripcion": "abierta",
+   "nota": "25.ª edición, según la nota de prensa del Ayuntamiento (13/11/2026): popular de 6 km a las 17:00 y 5K antes. Hasta 10.000 corredores.",
+   "comprobado": "2026-11-17"
   }
  ],
  "sin_fecha": [

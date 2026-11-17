@@ -1,0 +1,138 @@
+{
+ "events": [
+  {
+   "id": 20268,
+   "url": "https://www.canaryrun.com/carrera/iii-travesia-the-blue-challenge/",
+   "title": "III Travesía The Blue Challenge",
+   "start_date": "2026-11-21 10:30:00",
+   "all_day": false,
+   "website": "https://www.canaryrun.com",
+   "categories": [
+    {
+     "name": "CanaryRun"
+    },
+    {
+     "name": "Travesía"
+    }
+   ],
+   "venue": {
+    "venue": "Los Cristianos",
+    "address": "Playa de Los Cristianos",
+    "city": "Los Cristianos",
+    "province": "Santa Cruz de Tenerife",
+    "zip": "38650"
+   },
+   "image": {
+    "url": "https://www.canaryrun.com/wp-content/uploads/2026/05/The-Blue-Challenge-2026-banner.jpg"
+   },
+   "organizer": [
+    {
+     "organizer": "Canaryrun"
+    }
+   ]
+  },
+  {
+   "id": 20536,
+   "url": "https://www.canaryrun.com/carrera/llano-del-camello-2026/",
+   "title": "Llano del Camello 2026",
+   "start_date": "2026-12-06 10:00:00",
+   "all_day": false,
+   "website": "https://www.trivalleguimar.com/carrera-popular-llano-del-camello",
+   "categories": [
+    {
+     "name": "Activas"
+    },
+    {
+     "name": "Carrera Solidaria"
+    },
+    {
+     "name": "Carrera Urbana"
+    }
+   ],
+   "venue": {
+    "venue": "Llano del Camello",
+    "address": "Av Lucio Díaz Feo",
+    "city": "Llano del Camello",
+    "province": "Tenerife",
+    "zip": "38639"
+   },
+   "image": {
+    "url": "https://www.canaryrun.com/wp-content/uploads/2026/10/banner.jpg"
+   },
+   "organizer": [
+    {
+     "organizer": "Ayuntamiento de San Miguel de Abona"
+    },
+    {
+     "organizer": "Trivalle Güímar"
+    }
+   ]
+  },
+  {
+   "id": 20468,
+   "url": "https://www.canaryrun.com/carrera/tenerguera-trail-8k-2027/",
+   "title": "Tenerguera Trail 8k",
+   "start_date": "2027-01-10 10:00:00",
+   "all_day": false,
+   "website": "",
+   "categories": [
+    {
+     "name": "Activas"
+    },
+    {
+     "name": "Trail"
+    }
+   ],
+   "venue": {
+    "venue": "El Molledo",
+    "address": "Plaza Pública El Molledo",
+    "city": "Santiago del Teide",
+    "province": "Tenerife",
+    "zip": "38690"
+   },
+   "image": {
+    "url": "https://www.canaryrun.com/wp-content/uploads/2026/09/Banner-Tenerguera-Trail-2027.jpg"
+   },
+   "organizer": [
+    {
+     "organizer": "Bomberos de Santiago del Teide y Ayuntamiento de Santiago del Teide"
+    }
+   ]
+  },
+  {
+   "id": 20286,
+   "url": "https://www.canaryrun.com/carrera/carrera-de-montana-guia-de-isora-2027/",
+   "title": "Carrera de Montaña Guía de Isora",
+   "start_date": "2027-01-24 07:30:00",
+   "all_day": false,
+   "website": "",
+   "categories": [
+    {
+     "name": "Activas"
+    },
+    {
+     "name": "CanaryRun"
+    },
+    {
+     "name": "Trail"
+    }
+   ],
+   "venue": {
+    "venue": "Guía de Isora",
+    "address": null,
+    "city": null,
+    "province": "Tenerife",
+    "zip": "38680"
+   },
+   "image": {
+    "url": "https://www.canaryrun.com/wp-content/uploads/2026/06/BANNER-GUIA-27.jpeg"
+   },
+   "organizer": [
+    {
+     "organizer": "Guama Trail"
+    }
+   ]
+  }
+ ],
+ "total": 4
+}

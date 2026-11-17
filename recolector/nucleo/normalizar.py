@@ -138,6 +138,8 @@ def clasificar(*textos: Optional[str]) -> tuple[bool, Optional[str]]:
     t = clave(" ".join(x for x in textos if x))
     if _NUNCA_A_PIE.search(t):
         return False, None
+    if re.search(r"\b(bike|btt|mtb|bici\w*|crossfit|throwdown)\b", t):  # «Trail Bike», «crossfit»: nunca a pie
+        return False, None
     if _NO_A_PIE.search(t) and not re.search(r"\b(cross|trail|cxm|carrera a pie|carrera y marcha|marcha y carrera)\b", t):
         return False, None
     for modalidad, patron in _MODALIDADES:
