@@ -131,7 +131,11 @@ def leer(contenido: bytes | str, descargar_ficha: Callable[[str], bytes], desde:
         if not provincia:
             descartes.append(f"sin isla: {nombre}")
             continue
-        datos = ficha(descargar_ficha(ev["url"]))
+        try:
+            datos = ficha(descargar_ficha(ev["url"]))
+        except Exception as error:  # noqa: BLE001 - una ficha caída no tumba las demás: vale con el listado
+            descartes.append(f"ficha sin descargar ({error}): {nombre}")
+            datos = {"localidad": None, "descripcion": "", "web": None, "coords": None}
         desc = nz.clave(datos["descripcion"])
         if _NADO.search(desc) and not _CORRER.search(nz.clave(nombre)):
             descartes.append(f"no es a pie (natación según la ficha): {nombre}")
