@@ -1,7 +1,7 @@
 {
  "-9-carrera-familiar-fesd-colegio-ntra-sra-de-loreto-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 9ª Carrera Familiar Fesd - Colegio Ntra. Sra. de Loreto (None)"
  },
  "-amoros-50x100-challenge-2-edicion-": {
@@ -53,6 +53,11 @@
   "espana": false,
   "motivo": "no es a pie: Galdakaoko II. Akuatloi Txikia"
  },
+ "-iii-y-iv-copa-de-espana-skimo-aramon-cerler-xxvi-cronoescalada-memorial-del-recuerdo-y-iii-open-spr": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: III y IV Copa de España Skimo Aramón Cerler. XXVI Cronoescalada Memorial del Recuerdo y III Open Sprint Tu Provincia Huesca La Magia (None)"
+ },
  "-iv-carrera-y-marcha-nordica-navidena-vuelta-al-cerrao-andosilla-": {
   "espana": true,
   "provincia": "Navarra",
@@ -60,18 +65,18 @@
  },
  "-la-pica-pedalada-hivernal-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Pica Pedalada Hivernal 2027 (None)"
  },
  "-medio-maraton-san-sebastian-rural-kutxa-": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Medio Maratón San Sebastián Rural Kutxa (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-10-04"
  },
  "-medio-maraton-san-sebastian-rural-kutxa-2027": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Medio Maratón San Sebastián Rural Kutxa 2027 (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2027-10-03"
  },
  "-pirates-race-iv-campeonato-de-espana-aoco-y-iv-edicion-cortes-de-pa": {
   "espana": true,
@@ -94,13 +99,13 @@
   "fecha": "2026-07-12"
  },
  "-segura-xtreme-triathlon": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Segura Xtreme Triathlon (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-05-30"
  },
  "-subida-a-artxanda-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Subida a Artxanda 2026 (None)"
  },
  "-tudela-cycling-solidario-2026": {
@@ -189,18 +194,18 @@
   "fecha": "2027-01-10"
  },
  "-xxxv-cross-del-amanecer-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XXXV Cross del Amanecer El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-08-15"
  },
  "-xxxvii-cross-virgen-del-amparo-castejon-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXXVII Cross Virgen del Amparo (castejón) 2026 (None)"
  },
  "1-carrera-san-matias": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 1ª Carrera San Matías (None)"
  },
  "1-curso-formativo-de-goshin-2026-": {
@@ -215,12 +220,12 @@
  },
  "1-fase-jjdd-gam-backflip-14-mar-2026-all-around-2-fase-jjdd-gam-backflip-28-mar-26-all-around": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 1ª FASE JJDD GAM (Backflip 14 mar 2026 - All Around) / 2ª FASE JJDD GAM (Backflip 28 mar 26 - All Around) (None)"
  },
  "1-prueba-de-copa-de-mn-femecv-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 1ª Prueba de Copa de MN FEMECV 2026 (None)"
  },
  "1-prueba-de-liga-de-cxm-femecv-2026-rotova": {
@@ -230,7 +235,7 @@
  },
  "1-prueba-de-xx-copa-de-castilla-y-leon-de-carreras-en-linea-trail-del-tornicho": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 1ª Prueba de XX Copa de Castilla y León de Carreras en Línea - Trail del Tornicho (None)"
  },
  "1-san-silvestre-realena": {
@@ -250,7 +255,7 @@
  },
  "10-marxa-contra-el-cancer-de-tarragona": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 10 Marxa Contra el Càncer de Tarragona (None)"
  },
  "10-onil-trails-2027": {
@@ -275,12 +280,12 @@
  },
  "10k-5k-sanchinarro-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 10K / 5K Sanchinarro 2026 (None)"
  },
  "10k-5k-sanchinarro-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 10K / 5K Sanchinarro 2027 (None)"
  },
  "10k-alcoi-via-verda-2026": {
@@ -290,7 +295,7 @@
  },
  "10k-camargo-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 10K Camargo 2027 (None)"
  },
  "10k-gimastica-ulia": {
@@ -350,7 +355,7 @@
  },
  "11a-sosciathlon-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 11a Sosciathlon - 2026 (None)"
  },
  "11a-tarraco-aigues-obertes-la-travessia-de-les-6-platges": {
@@ -365,17 +370,17 @@
  },
  "12-carrera-fiestas-de-el-nino-de-mula": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 12ª Carrera Fiestas de El NIÑO de MULA (None)"
  },
  "12-carrera-nocturna-a-la-font-de-garrut-la-vall-duixo": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: 12ª Carrera Nocturna a la Font de Garrut, la Vall D'uixó (None)"
+  "espana": true,
+  "provincia": "Castellón",
+  "fecha": "2026-06-25"
  },
  "12-garin-mendi-lasterketa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 12. Garin Mendi-lasterketa (None)"
  },
  "12-meses-12-rutas-30-10-ruta-nocturna-a-las-antenas-del-pielago": {
@@ -440,7 +445,7 @@
  },
  "12au-corsa-dera-hemna": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 12au Corsa Dera Hemna (None)"
  },
  "13-carrera-popular-ciudad-de-pozuelo": {
@@ -455,7 +460,7 @@
  },
  "13au-era-nocturna-de-vielha": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 13au Era Nocturna de Vielha (None)"
  },
  "14-azkoitiazpeitia-lasterketa-motza-806km": {
@@ -565,13 +570,13 @@
  },
  "1770210358": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 42ª Media Maratón de Castelló 2027 (None)"
  },
  "1770552800": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: L´Olleria Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-11-15"
  },
  "1772542539": {
   "espana": true,
@@ -657,7 +662,7 @@
  },
  "17narrillos": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 17ª Carrera Popular Narrillos de San Leonardo (None)"
  },
  "1a-caminada-contra-el-cancer-a-polinya": {
@@ -666,19 +671,19 @@
   "fecha": "2026-11-08"
  },
  "1er-cross-despedida-verano-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: 1er. Cross DESPEDIDA VERANO - El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-08-29"
  },
  "1er-cross-hola-verano-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: 1er. Cross HOLA VERANO - El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-07-04"
  },
  "1er-cross-trial-puntes-de-gosalvez-el-campello": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: 1er Cross Trail Puntes de Gosálvez - El Campello (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-04-26"
  },
  "1er-entrenamiento-zurich-marato-barcelona": {
   "espana": true,
@@ -721,7 +726,7 @@
  },
  "2-prueba-de-liga-de-cxm-femecv-2026-la-vall-duixo-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 2ª Prueba de Liga de CxM FEMECV 2026, La Vall D'Uixó (None)"
  },
  "2-trail-del-capellan-de-valdilecha": {
@@ -745,7 +750,7 @@
  },
  "2026-bee-backyard-trail-los-berrocales": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 2026 Bee Backyard Trail los Berrocales (None)"
  },
  "2026-huertas-del-ebro": {
@@ -755,7 +760,7 @@
  },
  "2027-trail-zone-tgc": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 2027 Trail Zone - Tgc (None)"
  },
  "22-carrera-de-primavera-donostiarrak-ehu-": {
@@ -770,7 +775,7 @@
  },
  "23-carrera-de-primavera-donostiarrak-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 23ª Carrera de Primavera Donostiarrak (None)"
  },
  "26-cursa-sant-silvestre-vilanova-del-cami": {
@@ -831,7 +836,7 @@
  "2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola": {
   "espana": true,
   "provincia": "Alicante",
-  "fecha": "2027-02-28"
+  "fecha": "2027-02-14"
  },
  "2carrera-caravana-de-vida": {
   "espana": true,
@@ -849,7 +854,7 @@
  },
  "3-carrera-de-montana-arroletza-mendi-taldea": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3ª Carrera de Montaña Arroletza Mendi Taldea (None)"
  },
  "3-carrera-popular-hontoria-de-valdearados": {
@@ -868,7 +873,7 @@
  },
  "3-fase-jjdd-gam-backflip-23-may-2026-all-around": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3ª FASE JJDD GAM (Backflip 23 MAY 2026 - All Around) (None)"
  },
  "3-jornada-jjdd-duatlon-lardero-2526": {
@@ -906,7 +911,7 @@
  },
  "3-prueba-de-copa-femecv-2026-simat-de-la-valldigna": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3ª Prueba de Copa FEMECV 2026, Simat de la Valldigna (None)"
  },
  "3-prueba-de-liga-de-cxm-femecv-2026-onil-": {
@@ -981,12 +986,12 @@
  },
  "3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3a Prova de Lliga CxM FEMECV + Carrera de la Dona 2027 , La Vall D'Uixó (None)"
  },
  "3infiniteracevaldaran": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3ª Infinite Race Val D'aran (None)"
  },
  "3k-gran-canaria-accesible-2026": {
@@ -1036,7 +1041,7 @@
  },
  "43a-volta-al-terme-de-fondeguilla": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 43a Volta Al Terme de Fondeguilla (None)"
  },
  "44-trofeo-akiles": {
@@ -1086,17 +1091,17 @@
  },
  "46-marxa-beret": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 46ª Marxa Beret (None)"
  },
  "47-carrera-popular-fiestas-de-la-elipa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 47 Carrera Popular Fiestas de La Elipa (None)"
  },
  "47-marxa-beret": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 47ª Marxa Beret (None)"
  },
  "47a-cursa-popular-sant-miquel": {
@@ -1121,7 +1126,7 @@
  },
  "4a-cursa-solidaria-la-plana-5k": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 4a Cursa Solidària la Plana - 5K (None)"
  },
  "4x4-vall-del-terri-2026": {
@@ -1198,7 +1203,7 @@
  },
  "66-bellaterra-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 6.6 Bellaterra 2026 (None)"
  },
  "67a-marxa-infantil": {
@@ -1247,7 +1252,7 @@
  },
  "8e-circuit-trail-marina-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 8e. Circuit Trail Marina 25/26 (None)"
  },
  "8icnitasrunner": {
@@ -1281,7 +1286,7 @@
  },
  "9e-circuit-trail-marina-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 9e. Circuit Trail Marina 26/27 (None)"
  },
  "9e-trail-senglars-la-mola-extrem-favara-lliga-de-muntanya-valencia-sud-2526": {
@@ -1310,7 +1315,7 @@
  },
  "actividades-garmin-mountain-festival-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Actividades Garmin Mountain Festival 2026 (None)"
  },
  "actividades-noviembre": {
@@ -1339,7 +1344,7 @@
  },
  "aielo-de-malferit-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Aielo de Malferit Contra el Cáncer 2026 (None)"
  },
  "aieteko-iii-km-bertikala": {
@@ -1382,7 +1387,7 @@
  },
  "alberic-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Alberic Contra el Cáncer 2026 (None)"
  },
  "alborache-contra-el-cancer-2026": {
@@ -1492,7 +1497,7 @@
  },
  "alta-ruta-belagua-2026-goi-mendi-ibilaldia": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Alta Ruta Belagua 2026 Goi Mendi Ibilaldia (None)"
  },
  "altsasuko-xlvi-san-silvestre-lasterketa": {
@@ -1511,17 +1516,17 @@
  },
  "amazonas-la-gomera26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Amazonas-la Gomera26 (None)"
  },
  "amazonas-la-gomera262": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Amazonas-la Gomera26.2 (None)"
  },
  "amazonas-la-gomera263": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Amazonas-la Gomera26.3 (None)"
  },
  "amazonas-la-palma-26": {
@@ -1657,9 +1662,9 @@
   "fecha": "2026-10-24"
  },
  "arrasate-enduro-txapelketa-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Arrasate Enduro Txapelketa 2026 (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-06-28"
  },
  "arratia-raid": {
   "espana": true,
@@ -1744,7 +1749,7 @@
  },
  "backyar-ultra-los-verdaderos-heroes": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Backyar ultra los verdaderos heroes (None)"
  },
  "backyard-costa-brava-2026": {
@@ -1793,14 +1798,14 @@
   "fecha": "2026-11-21"
  },
  "barakaldo-natura-basatia": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Barakaldo Natura Basatia (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2025-12-28"
  },
  "barakaldo-natura-basatia-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Barakaldo Natura Basatia 2026 (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-12-05"
  },
  "barre-desayuno": {
   "espana": true,
@@ -1859,7 +1864,7 @@
  },
  "benifairo-de-les-valls-contra-el-cancer-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Benifairó de les Valls Contra el Cáncer 2025 (None)"
  },
  "benimodo-contra-el-cancer-2026": {
@@ -1879,7 +1884,7 @@
  },
  "betera-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Bétera Contra el Cáncer 2026 (None)"
  },
  "biatlon-mendizorroza-juegos-escolares-araba-2026": {
@@ -1923,7 +1928,7 @@
  },
  "bizkaia-kopa-trail-bkt-2026-bono": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Bizkaia Kopa Trail / BKT 2026 / Bono (None)"
  },
  "bizkaia-kopa-trail-bkt-2026-larrabetzu": {
@@ -1932,19 +1937,19 @@
   "fecha": "2026-11-21"
  },
  "bizkaia-kopa-trail-bkt-2026-laukiz": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Bizkaia Kopa Trail / BKT 2026 / Laukiz (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-05-23"
  },
  "bizkaia-kopa-trail-bkt-2026-morga": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Bizkaia Kopa Trail / BKT 2026 / Morga (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-03-07"
  },
  "bizkaia-kopa-trail-bkt-2026-trapagaran": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Bizkaia Kopa Trail / BKT 2026 / Trapagaran (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-04-25"
  },
  "bizkaia-kopa-trail-bkt-2026-zamudio": {
   "espana": true,
@@ -1953,12 +1958,12 @@
  },
  "boca-del-infierno-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Boca del Infierno 2026 (None)"
  },
  "bodegas-xalo-bernia-moscatel-9e-circuit-trail-marina-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: BODEGAS XALÓ‐ BÈRNIA MOSCATEL, 9e. Circuit Trail Marina 26/27 (None)"
  },
  "bonrepos-i-mirambell-contra-el-cancer-2026": {
@@ -1988,7 +1993,7 @@
  },
  "brm-1000-rodeando-navarra-nafarroa-inguratuz": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: BRM 1000 Rodeando Navarra / Nafarroa inguratuz (None)"
  },
  "brm-300_tesoros-artisticos-altxor-artistikoak": {
@@ -1998,7 +2003,7 @@
  },
  "brm-400-entre-parques-naturales-y-sierras-magicas-parke-natural-eta-mendi-liluragarrietan-zehar": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: BRM 400 Entre parques naturales y sierras mágicas / Parke natural eta mendi liluragarrietan zehar (None)"
  },
  "brm-600-los-tres-reinos-hiru-erreinuak": {
@@ -2013,7 +2018,7 @@
  },
  "brm200-valles-pirenaicos-pirinioetako-ibarrak-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: BRM200 Valles pirenáicos / Pirinioetako ibarrak 2026 (None)"
  },
  "brunch-run-2025": {
@@ -2058,7 +2063,7 @@
  },
  "calendario-fecantri-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Calendario FECANTRI 2026 (None)"
  },
  "cami-bandolers-senija-ctm-2526": {
@@ -2083,7 +2088,7 @@
  },
  "camille-extreme-txiki-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Camille Extreme Txiki 2026 (None)"
  },
  "caminada-festa-major-sant-antoni-pujada-al-campanar": {
@@ -2118,7 +2123,7 @@
  },
  "camiseta-exclusiva-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Camiseta Exclusiva 2026 (None)"
  },
  "campamentomultideporte2026": {
@@ -2127,7 +2132,7 @@
  },
  "campamentos-de-verano2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campamentos de verano 2026 (None)"
  },
  "campeonato-de-castilla-y-leon-de-carreras-por-montana-de-corta-distancia-en-categoria-unica-y-1-prue": {
@@ -2142,7 +2147,7 @@
  },
  "campeonato-de-castilla-y-leon-de-carreras-verticales-individual-y-2-prueba-xi-copa-neveros-vertical": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campeonato de Castilla y León de Carreras Verticales Individual y 2ª Prueba XI Copa - Neveros Vertical (None)"
  },
  "campeonato-de-castilla-y-leon-de-carreras-verticales-por-clubes-y-3-prueba-copa-de-carreras-vertical": {
@@ -2177,7 +2182,7 @@
  },
  "campeonato-de-espana-ind-y-ssaa-de-carreras-por-montana-abeduriu-trail-race": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campeonato de España Ind. y SSAA de Carreras por montaña. Abeduriu Trail Race (None)"
  },
  "campeonato-de-espana-laser-run": {
@@ -2197,7 +2202,7 @@
  },
  "campeonato-de-espana-sprint-y-relevos-mixtos-v-copa-de-espana-individual-open-vall-de-boi": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campeonato de España Sprint y Relevos Mixtos, V Copa de España Individual Open Vall de Boí (None)"
  },
  "campeonato-de-espana-triathle-ii-juegos-del-agua": {
@@ -2244,7 +2249,7 @@
  },
  "campeonato-navarro-interclubes-gam-trofeo-federacion-backflip-9-may-26-todos-los-aparatos": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campeonato Navarro Interclubes Gam - Trofeo Federación (backflip 9 May 26) Todos los Aparatos (None)"
  },
  "campeonato-navarro-master-de-karate-kata-y-kumite-2026": {
@@ -2300,11 +2305,11 @@
  "campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa": {
   "espana": true,
   "provincia": "Alicante",
-  "fecha": "2027-05-16"
+  "fecha": "2027-05-09"
  },
  "campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Campionat Autonòmic Individual i de Clubs, FEMECV 2027, Crevillent (None)"
  },
  "campionat-autonomic-individual-i-per-clubs-femecv-2027-elx": {
@@ -2331,12 +2336,12 @@
  },
  "can-we-run-barcelona-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: CAN WE RUN Barcelona 2026 (None)"
  },
  "canada-de-agra": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Carrera y marcha de Cañada de Agra (None)"
  },
  "canfranc-canfranc-2026": {
@@ -2444,7 +2449,7 @@
  },
  "carrera-del-encierro-estella-lizarra-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Carrera del Encierro Estella-Lizarra 2026 (None)"
  },
  "carrera-del-roscon-yebes-valdeluz-2027": {
@@ -2459,7 +2464,7 @@
  },
  "carrera-guardia-civil-guadalajara": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II 'Carrera Guardia Civil' Yebes - Valdeluz (None)"
  },
  "carrera-infantil-veinte-leguas-2026": {
@@ -2563,7 +2568,7 @@
  },
  "carrera-solidaria-en-vallejo-de-orbo": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Carrera Solidaria en Vallejo de Orbó (None)"
  },
  "carrera-solidaria-muevete-contra-el-suicidio": {
@@ -2592,7 +2597,7 @@
  },
  "carrera-virtual-por-el-retinoblastoma": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Carrera Virtual por el Retinoblastoma (None)"
  },
  "carrera-y-andada-de-navidad-alerre": {
@@ -2667,7 +2672,7 @@
  },
  "cebollera-nigth-trail": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Cebollera Night Trail (None)"
  },
  "cena-de-gala-clasica-jaen-paraiso-interior-2027": {
@@ -2700,7 +2705,7 @@
  },
  "challenge-barcelona-triatlo-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Challenge Barcelona Triatló 2026 (None)"
  },
  "challenge-salou-aquathlon-distance": {
@@ -2729,7 +2734,7 @@
  },
  "chimaque-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Chimaque Trail 2026 (None)"
  },
  "chiva-contra-el-cancer-2026": {
@@ -2789,12 +2794,12 @@
  },
  "clasica-otero-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Clásica Otero 2026 (None)"
  },
  "clasica-otero-26-villanueva-del-pardillo": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Clásica Otero 26- Villanueva del Pardillo (None)"
  },
  "clasica-vilabira-klasikoa-2026": {
@@ -2839,7 +2844,7 @@
  },
  "concert-solidari-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Concert solidari contra el càncer 2026 (None)"
  },
  "concierto-benefico": {
@@ -2878,18 +2883,18 @@
   "fecha": "2026-06-06"
  },
  "copa-bizkaia-pumptrack-zierbena": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Copa Bizkaia Pumptrack Zierbena (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-05-30"
  },
  "copa-catalana-internacional-biking-point-corro-damunt-les-franqueses-del-valles-2026-c2-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Copa Catalana Internacional Biking Point Corró D'amunt - Les Franqueses del Vallès 2026 | C2 | (None)"
  },
  "copa-catalana-internacional-biking-point-la-molina-2026-a": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Copa Catalana Internacional Biking Point la Molina 2026 a (None)"
  },
  "copa-catalana-internacional-biking-point-sant-fruitos-2026-c3-": {
@@ -2904,12 +2909,12 @@
  },
  "copa-de-espana-en-linea-y-campeonato-de-espana-para-ciegos-en-linea-de-carreras-por-montana-trail-ri": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Copa de España en Linea y I Copa de España para Ciegos en Linea de Carreras por Montaña. Trail Riotuerto (None)"
  },
  "copa-de-mn-femecv-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Copa de MN FEMECV 2027 (None)"
  },
  "copy-10k-vilafranca-2027": {
@@ -2919,7 +2924,7 @@
  },
  "copy-3-dias-trail-ibiza-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 3 Días Trail Ibiza 2026 (None)"
  },
  "copy-33a-pujada-i-26a-caminada-a-lermita-de-sant-joan-2026": {
@@ -2934,7 +2939,7 @@
  },
  "copy-antxintxika-triatloi-txikia-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Antxintxika Triatloi Txikia 2026 (None)"
  },
  "copy-colina-triste-uci-2026": {
@@ -2959,7 +2964,7 @@
  },
  "copy-ibiza-media-maraton-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ibiza Media Maraton 2026 (None)"
  },
  "copy-iniciacion-a-la-topografia-espeleologica-26-noviembre-topografia-espeleologikaoan-hastapen-ikas": {
@@ -2969,7 +2974,7 @@
  },
  "copy-juez-de-lineasilla-p-71": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 71 (None)"
  },
  "copy-motastro-gastrorider-2026": {
@@ -3021,9 +3026,9 @@
   "fecha": "2026-05-10"
  },
  "corre-por-una-causa-bilbao-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Corre por Una Causa - Bilbao (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-02-01"
  },
  "corre-por-una-causa-cadiz-2026": {
   "andaluza": true,
@@ -3031,7 +3036,7 @@
  },
  "corre-por-una-causa-carpesa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Corre por Una Causa - Valencia Carpesa (None)"
  },
  "corre-por-una-causa-cordoba": {
@@ -3054,13 +3059,13 @@
  },
  "corre-por-una-causa-valladolid-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Corre por Una Causa - Valladolid (None)"
  },
  "corre-por-una-causa-xv-vitoria-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Corre por Una Causa - Vitoria (None)"
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2026-03-15"
  },
  "corre-por-unha-causa-santiago": {
   "espana": true,
@@ -3114,12 +3119,12 @@
  },
  "crematorrons-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Crematorrons 2026 (None)"
  },
  "cronoescalada-del-valle-del-malpaso": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Cronoescalada del Valle del Malpaso (None)"
  },
  "cronoescalada-sant-vicenc-de-castellet-2026": {
@@ -3169,7 +3174,7 @@
  },
  "cross-vuelta-al-pantano-de-eugi-32": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Cross vuelta al pantano de Eugi (None)"
  },
  "cross-vuelta-al-plantio-2026": {
@@ -3252,7 +3257,7 @@
  },
  "cursa-de-la-portella-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Cursa de la Portella 2026 (None)"
  },
  "cursa-de-la-ratafia-2026": {
@@ -3342,7 +3347,7 @@
  },
  "cursa-muntanya-benlloc-26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Cursa Muntanya Benlloc 26 (None)"
  },
  "cursa-pel-cor-de-la-fageda-2026": {
@@ -3417,12 +3422,12 @@
  },
  "curso-de-autorrescate-nov26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Curso de Autorescate (None)"
  },
  "curso-de-autorrescate-valdesangil-ab26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Curso de Autorrescate (None)"
  },
  "curso-de-crestas-y-aristas-becedas-abr26": {
@@ -3452,7 +3457,7 @@
  },
  "curso-de-montaje-de-reuniones-y-rapeles": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Curso de Montaje de Reuniones y Rápeles (None)"
  },
  "curso-de-primeros-auxilios-y-uso-de-dea": {
@@ -3694,7 +3699,7 @@
  },
  "el-genoves-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: El Genovés Contra el Cáncer 2026 (None)"
  },
  "el-mito-2026": {
@@ -3724,7 +3729,7 @@
  },
  "encuentro-nacional-de-corredoras-por-montana-fedme": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Encuentro Nacional de Corredoras por Montaña FEDME (None)"
  },
  "endurance-horizon-barcelona": {
@@ -3799,28 +3804,28 @@
  },
  "era-san-silvestre-vielha": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Era San Silvestre Vielha 2026 (None)"
  },
  "erenotzuko-mendi-lasterketa-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ereñotzuko Mendi Lasterketa 2026 (None)"
  },
  "ergoienako-bira": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ergoienako Bira (None)"
  },
  "errenteriako-san-silbestrea-2025": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Errenteriako San Silbestrea 2025 (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2025-12-31"
  },
  "errenteriako-san-silbestrea-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Errenteriako San Silbestrea 2026 (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-12-31"
  },
  "escornalbou-beertical-2026": {
   "espana": true,
@@ -3829,12 +3834,12 @@
  },
  "escuelas-deportivas-federacion-navarra-deportes-adaptados-oct25-may26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Escuelas Deportivas Federación Navarra Deportes Adaptados (oct25 -may26) (None)"
  },
  "escuelas-deportivas-federacion-navarra-deportes-adaptados-oct26-may27": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Escuelas Deportivas Federación Navarra Deportes Adaptados (oct26 -may27) (None)"
  },
  "eskolarteko-9-eskalada-topaketa-25": {
@@ -3896,7 +3901,7 @@
  },
  "familia-pedaletan-10": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Familia Pedaletan 10 (None)"
  },
  "family-run-by-challenge-salou-costa-daurada": {
@@ -3926,7 +3931,7 @@
  },
  "fedola-family-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Fedola Family Run 2026 (None)"
  },
  "festival-contra-o-cancro-ribadeo-2026": {
@@ -3958,7 +3963,7 @@
  },
  "font-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Font Run 2026 (None)"
  },
  "fortius-sevilla": {
@@ -3981,7 +3986,7 @@
  },
  "funimetrada-gelida-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Funimetrada Gelida 2026 (None)"
  },
  "fura-los-cristianos-": {
@@ -3991,7 +3996,7 @@
  },
  "gala-circuit-tral-marina-2026-moli-de-xirles": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Gala Circuit Tral Marina 2026, Molí de Xirles (None)"
  },
  "gala-solidaria": {
@@ -4039,22 +4044,22 @@
  },
  "garmin-epic-trail-family-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Garmin Epic Trail Family 2026 (None)"
  },
  "garmin-mountain-festival-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Garmin Mountain Festival 2026 (None)"
  },
  "garmin-mountain-festival-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Garmin Mountain Festival 2027 (None)"
  },
  "garralampago-by-teamergy-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: GARRALÁMPAGO by Teamergy 2026 (None)"
  },
  "gatova-contra-el-cancer-2026": {
@@ -4165,27 +4170,27 @@
  },
  "gr322-nafarroa-xtrem-2026-nx35": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: GR322 Nafarroa Xtrem 2026 (NX35) (None)"
  },
  "gr322-nafarroa-xtrem-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: GR322 Nafarroa Xtrem 2027 (None)"
  },
  "gr36-2026-montanejos-vilavella": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Gr36. 2026, Montanejos - Vilavella (None)"
  },
  "graciowsa-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: GraciOWSa 2026 (None)"
  },
  "graciowsa-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: GraciOWSa 2027 (None)"
  },
  "gran-canaria-o-meeting-gcom-2025": {
@@ -4266,22 +4271,22 @@
  },
  "gran-trail-sobrarbe-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Gran Trail Sobrarbe 2026 (None)"
  },
  "gran-trail-sobrarbe-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Gran Trail Sobrarbe 2027 (None)"
  },
  "granadella-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Granadella Trail 2026 (None)"
  },
  "granadella-trail-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Granadella Trail 2027 (None)"
  },
  "granfondo2026": {
@@ -4301,12 +4306,12 @@
  },
  "green-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Green Run 2026 (None)"
  },
  "green-series-xco-kirolur-bizkaia-2026-uci-c2": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Green Series Xco Kirolur Bizkaia 2026 | Uci C2 (None)"
  },
  "gtp-2026": {
@@ -4331,7 +4336,7 @@
  },
  "guadassuar-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Guadassuar Contra el Cáncer 2026 (None)"
  },
  "guardiasolidaria2026": {
@@ -4351,7 +4356,7 @@
  },
  "haria-del-carmen-music-run-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Haria Music Run 2026 (None)"
  },
  "haria-street-football": {
@@ -4375,7 +4380,7 @@
  },
  "hero_costablanca_2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: HERO Costa Blanca 2026 – Amateur Category (None)"
  },
  "herorunmalaga": {
@@ -4385,7 +4390,7 @@
  },
  "herri-ametsa-talaia": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Herri Ametsa Talaia (None)"
  },
  "hiru-herri-trail-2027": {
@@ -4425,7 +4430,7 @@
  },
  "hodeilargi-batten-cln6": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Hodeilargi Batten CLN6 (None)"
  },
  "httpscarrerasolidariaamgres": {
@@ -4505,7 +4510,7 @@
  },
  "i-cronoescalada-arguinariz": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 1ª Cronoescalada SISNET Arguiñariz (None)"
  },
  "i-cross-solidario-de-san-torcuato": {
@@ -4591,7 +4596,7 @@
  },
  "i-vertical-hermano-pedro": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: I Vertical Hermano Pedro (None)"
  },
  "i-y-ii-copa-de-espana-skimo-valls-daneu": {
@@ -4620,7 +4625,7 @@
  },
  "ibercaja-madrid-corre-por-madrid-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ibercaja Madrid Corre por Madrid 2026 (None)"
  },
  "iberus-race-ocr-milagro-2026": {
@@ -4630,17 +4635,17 @@
  },
  "ibiza-media-maraton-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ibiza Media Maraton 2027 (None)"
  },
  "ibiza-sprint-triathlon-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ibiza Sprint Triathlon 2026 (None)"
  },
  "ibiziows-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: IbiziOWS 2026 (None)"
  },
  "ican-triathlon-2026": {
@@ -4665,12 +4670,12 @@
  },
  "ii-alma-guerrera-ocr-kids-reocin-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Alma Guerrera OCR Kids Reocin (None)"
  },
  "ii-alma-guerrera-ocr-kids-villaescusa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Alma Guerrera OCR Kids Villaescusa (None)"
  },
  "ii-anorgako-super-sprint-duatloia": {
@@ -4709,7 +4714,7 @@
  },
  "ii-carrera-el-casar-del-ciego": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Carrera Popular el Casar del Ciego (None)"
  },
  "ii-carrera-el-caton-por-la-vida-una-carrera-una-vida-": {
@@ -4748,7 +4753,7 @@
  },
  "ii-carrera-solidaria-de-la-guardia-civil-de-navarra": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Carrera Solidaria de la Guardia CIVIL de Navarra (None)"
  },
  "ii-carrera-solidaria-mi-princesa-rett-la-pueblanueva": {
@@ -4796,7 +4801,7 @@
  },
  "ii-embun-monster-trail": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Embun Monster Trail (None)"
  },
  "ii-encuentro-de-barranquistas-vegacervera-2026": {
@@ -4821,7 +4826,7 @@
  },
  "ii-jornadas-tecnicas-de-formacion-fecantri": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Jornadas Técnicas de Formación FECANTRI (None)"
  },
  "ii-kostamendi-zikloturista-martxa": {
@@ -4841,7 +4846,7 @@
  },
  "ii-runburgers-x-club-esportiu-el-nino-x-moma": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Run&burgers X Club Esportiu el Niño X Moma (None)"
  },
  "ii-san-silvestre-realena": {
@@ -4866,7 +4871,7 @@
  },
  "ii-vertical-hermano-pedro": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: II Vertical Hermano Pedro (None)"
  },
  "iii-7-pago-mendi-laskerketa": {
@@ -4911,12 +4916,12 @@
  },
  "iii-carrera-popular-el-casar-del-ciego": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: III Carrera Popular el Casar del Ciego (None)"
  },
  "iii-carrera-retodravet-por-el-sindrome-de-dravet": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: III Carrera RetoDravet, por el Síndrome de Dravet (None)"
  },
  "iii-carrera-solidaria-hospital-12-de-octubre": {
@@ -4986,7 +4991,7 @@
  },
  "iii-edicion-ddb-extreme-race": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: III Edición Ddb Extreme Race (None)"
  },
  "iii-edicion-territorio-coloma-mas-alla-del-podium": {
@@ -5082,7 +5087,7 @@
  },
  "iii-triatlo-teulada-moraira": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: III Triatló Teulada Moraira (None)"
  },
  "iii-xc-sierra-de-moncalvillo": {
@@ -5092,7 +5097,7 @@
  },
  "iii-y-iv-copa-de-espana-skimo-aramon-cerler-xxv-cronoescalada-memorial-del-recuerdo-y-ii-sprint-tu-p": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: III y IV Copa de España Skimo Aramón Cerler. XXV Cronoescalada Memorial del Recuerdo y II Open Sprint Tu Provincia Huesca La Magia (None)"
  },
  "iisuperfast_innoporc_5k": {
@@ -5161,12 +5166,12 @@
  },
  "inscripcionligaregionalfemenina": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Inscripción Liga Regional Femenina. (None)"
  },
  "inscripcionligaregionalmasculina": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Inscripción Liga Regional Masculina. (None)"
  },
  "invernal-confrides-aitana-2026": {
@@ -5191,7 +5196,7 @@
  },
  "irixoa-comida-20-junio-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: IRIXOA comida 20 junio 2026 (None)"
  },
  "irurako-herri-krosa-2026": {
@@ -5201,7 +5206,7 @@
  },
  "itxinan-barrena-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Itxinan Barrena 2026 (None)"
  },
  "itzulia-basque-challenge-2026": {
@@ -5221,7 +5226,7 @@
  },
  "iv-atzavares-trail-orba-vall-laguar-ctm-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: IV Atzavares Trail, Orba-vall Laguar, Ctm 25/26 (None)"
  },
  "iv-carrera-navidad-de-alerre": {
@@ -5290,7 +5295,7 @@
  },
  "iv-gran-fondo-jaen-paraiso-interior-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: IV Gran Fondo Jaén Paraíso Interior 2026 (None)"
  },
  "iv-grazalema-trail-nature": {
@@ -5385,7 +5390,7 @@
  },
  "ix-amanece-por-chiva-maraton-nocturno": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: IX Amanece por chiva, Maratón Nocturno (None)"
  },
  "ix-carrera-colores-para-la-paz": {
@@ -5414,9 +5419,9 @@
   "fecha": "2026-06-05"
  },
  "ix-carrera-por-parejas-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: IX Carrera por Parejas El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-03-01"
  },
  "ix-carrera-tecnocasa-vuela-contra-la-violencia-de-genero": {
   "espana": true,
@@ -5598,12 +5603,12 @@
  },
  "jdn-gimnasia-ritmica-conjuntos-nivel-3-aranguren-1-fase-25-abr-berriozar-2-fase-23-may": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jdn Gimnasia Ritmica Conjuntos Nivel 3 (sarriguren: 1ª Fase 25 Abr - Berriozar: 2ª Fase 23 May) (None)"
  },
  "jdn-gimnasia-ritmica-conjuntos-nivel-4-aranguren-1-fase-25-abr-berriozar-2-fase-23-may": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jdn Gimnasia Ritmica Conjuntos Nivel 4 (sarriguren: 1ª Fase 25 Abr - Berriozar: 2ª Fase 23 May) (None)"
  },
  "jdn-gimnasia-ritmica-conjuntos-nivel-5-30-y-31-de-mayo-burlada": {
@@ -5613,17 +5618,17 @@
  },
  "jdn-gimnasia-ritmica-equipos-femenino-nivel-1-16-mayo-mendillorri": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jdn Gimnasia Rítmica Equipos Femenino Nivel 1 (16 Mayo - Mendillorri) (None)"
  },
  "jdn-gimnasia-ritmica-individual-femenino-nivel-1-16-mayo-mendillorri": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jdn Gimnasia Rítmica Individual Femenino Nivel 1 (16 Mayo - Mendillorri) (None)"
  },
  "jdn-gimnasia-ritmica-individual-masculino-nivel-1-16-mayo-mendillorri": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jdn Gimnasia Rítmica Individual Masculino Nivel 1 (16 Mayo - Mendillorri) (None)"
  },
  "jdn-gimnasia-ritmica-individuales-nivel-2-1-fase-7-mar-buztintxuri-2-fase-10-o-18-abr-buztintxuri": {
@@ -5689,9 +5694,9 @@
   "motivo": "no es a pie: Jornada de Entrenamiento Prebenjamín y Benjamín"
  },
  "jornada-de-tecnificacion-con-rocio-dinamita": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Jornada de Tecnificación con Rocío Dinamita (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2025-11-22"
  },
  "jornada-divulgativa-apnabi-2026": {
   "espana": true,
@@ -5705,7 +5710,7 @@
  },
  "jornada-esportiva-calonge-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Jornada Esportiva Calonge 2026 (None)"
  },
  "jornada-tecnica-nutricion-y-suplementacion-deportiva": {
@@ -5725,122 +5730,122 @@
  },
  "juan-migueliz-leyre-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: JUAN MIGUELIZ Leyre Trail 2026 (None)"
  },
  "juegos-deportivos-de-navarra-de-parkour-2025-26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juegos Deportivos de Navarra de Parkour 2025-26 (None)"
  },
  "juegos-navarros-de-lanzamientos-deporte-rural-y-bolera-infantil-junior-20262027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juegos Navarros de Lanzamientos, Deporte Rural y Bolera Infantil-Junior 2026/2027 (None)"
  },
  "juegos-navarros-de-lanzamientos-y-deporte-rural-senior-20262027v2": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juegos Navarros de Lanzamientos y Deporte Rural Senior 2026/2027 (None)"
  },
  "juegos-navarros-de-lanzamientos-y-deporte-rural-senior-tasubinsa-20262027v2": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juegos Navarros de Lanzamientos y Deporte Rural Senior Tasubinsa 2026/2027 (None)"
  },
  "juez-arbitro-p-24": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro P. 24 (None)"
  },
  "juez-arbitro-p25": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro P.25 (None)"
  },
  "juez-arbitro-p26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro P.26 (None)"
  },
  "juez-arbitro-p27": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro P.27 (None)"
  },
  "juez-arbitro-p28": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro P.28 (None)"
  },
  "juez-arbitro-pickleball-1": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez Árbitro Pickleball 1 (None)"
  },
  "juez-de-lineasilla-p-66": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 66 (None)"
  },
  "juez-de-lineasilla-p-69": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 69 (None)"
  },
  "juez-de-lineasilla-p-70": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 70 (None)"
  },
  "juez-de-lineasilla-p-72": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 72 (None)"
  },
  "juez-de-lineasilla-p-73": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 73 (None)"
  },
  "juez-de-lineasilla-p-74": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 74 (None)"
  },
  "juez-de-lineasilla-p-75": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 75 (None)"
  },
  "juez-de-lineasilla-p-76": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Línea/silla P. 76 (None)"
  },
  "juez-de-pista-pickleball-10": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Pista Pickleball 10 (None)"
  },
  "juez-de-pista-pickleball-11": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Pista Pickleball 11 (None)"
  },
  "juez-de-pista-pickleball-12": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Pista Pickleball 12 (None)"
  },
  "juez-de-pista-pickleball-13": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Pista Pickleball 13 (None)"
  },
  "juez-de-pista-pickleball-9": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Juez de Pista Pickleball 9 (None)"
  },
  "jugando-contra-el-cancer-2026": {
@@ -5869,7 +5874,7 @@
  },
  "kaxtrail-mendi-lasterketa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Kaxtrail Mendi Lasterketa (None)"
  },
  "kb2026": {
@@ -5898,7 +5903,7 @@
  },
  "kintoa-all-mountain-race-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Kintoa All Mountain Race 2026 (None)"
  },
  "kontxapuzoia2025": {
@@ -5921,9 +5926,9 @@
   "fecha": "2026-06-21"
  },
  "l-alcudia-contra-el-cancer-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: L´ Alcúdia Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-09-05"
  },
  "l-san-silbestre-beasain": {
   "espana": true,
@@ -5996,7 +6001,7 @@
  },
  "la-jau-meta-run": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Jau-meta Run (None)"
  },
  "la-maleida-swimrun-pollenca": {
@@ -6006,27 +6011,27 @@
  },
  "la-mansuetina-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Mansuetina 2026 (None)"
  },
  "la-marxa-de-les-tines-2026-calonge-i-sant-antoni": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Marxa de Les Tines 2026 – Calonge I Sant Antoni (None)"
  },
  "la-marxa-de-les-tines-calonge-i-sant-antoni": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Marxa de Les Tines – Calonge I Sant Antoni (None)"
  },
  "la-mes-freda-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Més Freda 2025 (None)"
  },
  "la-mes-freda-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Més Freda 2026 (None)"
  },
  "la-monumental-2026": {
@@ -6051,23 +6056,23 @@
  },
  "la-pica-pedalada-hivernal-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Pica Pedalada Hivernal 2026 (None)"
  },
  "la-pobla-de-vallbona-contra-el-cancer-2025": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: La Pobla de Vallbona Contra el Cáncer 2025 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2025-11-23"
  },
  "la-pobla-de-vallbona-contra-el-cancer-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: La Pobla de Vallbona Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-12-13"
  },
  "la-pobla-llarga-contra-el-cancer-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: La Pobla Llarga Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-05-24"
  },
  "la-sanmartinera-2026": {
   "espana": true,
@@ -6096,12 +6101,12 @@
  },
  "la-travesilla-solidaria-40-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La TraveSilla Solidaria 4.0 2026 (None)"
  },
  "lacizurgares26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Cizur-Gares 2026 (None)"
  },
  "lagos2026": {
@@ -6129,9 +6134,9 @@
   "fecha": "2026-05-31"
  },
  "lalcudia-de-crespins-contra-el-cancer-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: L´Alcúdia de Crespins Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-10-04"
  },
  "laleixar-trail-2026": {
   "espana": true,
@@ -6150,12 +6155,12 @@
  },
  "lanzarote-international-marathon-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Font Vella Lanzarote International Marathon 2025 (None)"
  },
  "lanzaroteinternationalmarathon2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Lanzarote International Marathon 2026 (None)"
  },
  "larra-belagua-enduro-race-2026": {
@@ -6184,14 +6189,14 @@
   "fecha": "2026-03-01"
  },
  "lasarte-oriako-ii-aniztasunean-elkarrekin-jardunaldi-inklusiboa-mendi-martxa-inklusiboa": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Lasarte-Oriako II. Aniztasunean Elkarrekin Jardunaldi Inklusiboa: Mendi-martxa inklusiboa (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-11-14"
  },
  "lasarte-oriako-mendi-lasterketa-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Lasarte-oriako Mendi Lasterketa 2026 ( Memorial Juanlu ) (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-09-27"
  },
  "lasmurallas26": {
   "espana": true,
@@ -6205,7 +6210,7 @@
  },
  "lavaqueira2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: La Vaqueira 2026 (None)"
  },
  "legazpi-san-silbestrea-2025": {
@@ -6215,7 +6220,7 @@
  },
  "legendaria-gran-fondo-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Legendaria Gran Fondo 2027 (None)"
  },
  "legendaria-ontinyent-gran-fondo": {
@@ -6254,13 +6259,13 @@
   "fecha": "2026-06-20"
  },
  "leliana-contra-el-cancer-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: L´Eliana Contra el Cáncer 2026 (None)"
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-11-08"
  },
  "lesakako-mendi-lasterketa-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Lesakako Mendi Lasterketa 2026 (None)"
  },
  "lesakako-vii-zubigaineko-kros-herrikoia": {
@@ -6285,7 +6290,7 @@
  },
  "licencias-internacionales-uipm": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Licencias Internacionales Pentatlón Moderno (UIPM_spa) (None)"
  },
  "liga-cadete-femenina-2026-27-juegos-deportivos-de-navarra-voleibol": {
@@ -6340,7 +6345,7 @@
  },
  "lilaton-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Lilaton 2026 (None)"
  },
  "linyola-mou-te-contra-el-cancer": {
@@ -6365,12 +6370,12 @@
  },
  "llano-del-camello-25": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Llano del Camello 25 (None)"
  },
  "llano-del-camello-26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Llano del Camello 26 (None)"
  },
  "lleida-mou-te-contra-el-cancer-202611": {
@@ -6388,12 +6393,12 @@
  },
  "lliga-de-muntanya-valencia-sud-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Lliga de Muntanya València Sud. 26/27 (None)"
  },
  "lliria-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Llíria Contra el Cáncer 2026 (None)"
  },
  "llombai-contra-el-cancer-2026": {
@@ -6567,9 +6572,9 @@
   "fecha": "2026-05-16"
  },
  "markina-xemeingo-karmen-jaietako-krosa-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Markina-Xemeingo Karmen jaietako krosa 2026 (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-06-27"
  },
  "marxa-castells-altafulla-2026": {
   "espana": true,
@@ -6597,7 +6602,7 @@
  },
  "marxa-pels-camins-del-penedes-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 39ena Marxa pels Camins del Penedès 2026 (None)"
  },
  "massalaves-contra-el-cancer-2026": {
@@ -6607,17 +6612,17 @@
  },
  "massalfassar-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Massalfassar Contra el Cáncer 2026 (None)"
  },
  "massamagrell-contra-el-cancer-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Massamagrell Contra el Cáncer 2025 I SANT SILVESTRE (None)"
  },
  "massamagrell-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Massamagrell Contra el Cáncer 2026 (None)"
  },
  "masterclass-de-zumba-contra-el-cancer-a-castelldefels-": {
@@ -6631,13 +6636,13 @@
   "fecha": "2026-05-10"
  },
  "masterclass-flow-line-gaubea-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Masterclass Flow Line Gaubea 2026 (None)"
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2026-06-20"
  },
  "masterclass-flow-line-ollargan": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Masterclass Flow Line Ollargan (None)"
  },
  "mbc-2026": {
@@ -6765,7 +6770,7 @@
  },
  "minze-dark-horse": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Minze Dark Horse (None)"
  },
  "mislata-contra-el-cancer-2025": {
@@ -6775,7 +6780,7 @@
  },
  "mitja-delta-del-ebre": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Mitja Delta de l'Ebre (None)"
  },
  "mitja-espirall-vilafranca-2026": {
@@ -6785,7 +6790,7 @@
  },
  "mitja-marato-ciutat-de-girona-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Mitja Marató Ciutat de Girona 2027 (None)"
  },
  "mitja-marato-internacional-santa-pola-2027": {
@@ -6795,7 +6800,7 @@
  },
  "mitja-marato-miami-platja-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Mitja Marato Miami Platja 2026 (None)"
  },
  "mizuno-run-pintxxos": {
@@ -6805,12 +6810,12 @@
  },
  "mmcs2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 41ª Edición Media Maratón de Castelló 2026 (None)"
  },
  "molino-trail": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Moliño Trail (None)"
  },
  "moncada-contra-el-cancer-2026": {
@@ -6844,7 +6849,7 @@
  },
  "montserrat-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Montserrat Contra el Cáncer 2026 (None)"
  },
  "mou-te-per-la-mpoc-2026": {
@@ -7116,7 +7121,7 @@
  },
  "oceanmancoaches": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Oceanman Coaches (None)"
  },
  "oceanmancostaazahar2026": {
@@ -7131,7 +7136,7 @@
  },
  "olabidetritxiki2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Olabide Ikastolako San Prudentzio Triatloi Txikia (Araba Eskola Jolasak 2026) (None)"
  },
  "olazagutia-urbasa-mendi-lasterketa-2026": {
@@ -7166,7 +7171,7 @@
  },
  "open-cet-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Open Cet 2026 (None)"
  },
  "open-days-de-educacion-infantil-nov-2026": {
@@ -7176,7 +7181,7 @@
  },
  "open-water-nadar-bien": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: OPEN WATER Nadar Bien (None)"
  },
  "openswim2025": {
@@ -7215,7 +7220,7 @@
  },
  "orientaisaba-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Orientaisaba 2026 (None)"
  },
  "orioko-san-silbestrea-2025": {
@@ -7255,7 +7260,7 @@
  },
  "pack-alojamiento-cbbr-ar-diamante": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Packs Alojamiento CBBR - AR Diamante (None)"
  },
  "pagoeta-mendi-lasterketa-21km-eta-mistoa-8km-2026": {
@@ -7290,12 +7295,12 @@
  },
  "parunda-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Parunda 2026 (None)"
  },
  "parunda-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Parunda By Brooks 2027 (None)"
  },
  "pasarela-contra-el-cancer-de-mama-2026": {
@@ -7325,12 +7330,12 @@
  },
  "pedaleandoporlalibertad": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: I Pedaleando Por la Libertad (None)"
  },
  "pedals-de-foc-non-stop-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Pedals de Foc Non Stop 2026 (None)"
  },
  "pedralba-contra-el-cancer-2026": {
@@ -7345,7 +7350,7 @@
  },
  "penahorada-climbing-festival-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Peñahorada Climbing Festival - 2026 (None)"
  },
  "penazuela-trail-ainzon-2026": {
@@ -7385,7 +7390,7 @@
  },
  "petizo-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Petizo Trail 2026 - Orzola (None)"
  },
  "petres-contra-el-cancer-2026": {
@@ -7405,12 +7410,12 @@
  },
  "picos-snow-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XII Picos Snow Run 2026 (None)"
  },
  "picos-snow-run-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIII Picos Snow Run 2027 (None)"
  },
  "pilates-para-cuidadors": {
@@ -7434,7 +7439,7 @@
  },
  "playa-blanca-music-run": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Playa Blanca Music Run (None)"
  },
  "ponle-freno-badalona-2026": {
@@ -7498,7 +7503,7 @@
  },
  "portol-en-marxa-contra-el-cancer-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Pòrtol En Marxa Contra el Càncer (None)"
  },
  "pota-roja-2026": {
@@ -7513,17 +7518,17 @@
  },
  "pre-pyrenees-stage-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Preinscripción Pyrenees Stage Run 2026 (None)"
  },
  "preinscripcion-iroman-lanzarote": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Preinscripcion Iroman Lanzarote (None)"
  },
  "premono-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIX Ruta Ecuestre de Premoño 2026 (None)"
  },
  "presentacion-y-concierto-voces-de-vida": {
@@ -7555,9 +7560,9 @@
   "fecha": "2026-12-31"
  },
  "pruebas-escolares-alevin-infantil-vitoria-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Pruebas Escolares Alevín - Infantil | Vitoria 2026 (None)"
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2026-05-02"
  },
  "pucol-contra-el-cancer-2026": {
   "espana": true,
@@ -7571,7 +7576,7 @@
  },
  "puerto-del-carmen-music-run": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Puerto del Carmen Music Run (None)"
  },
  "puja-i-baixa-a-batet-de-la-serra-2026": {
@@ -7586,17 +7591,17 @@
  },
  "pxtri2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Pirene Xtreme Triathlon (None)"
  },
  "pyrenees-stage-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Pyrenees Stage Run 2026 (None)"
  },
  "quart-de-les-valls-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Quart de les Valls Contra el Cáncer 2026 (None)"
  },
  "quarta-i-mitja-marato-paiporta-picanya-2026": {
@@ -7659,7 +7664,7 @@
  },
  "rebecos-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Rebecos Trail 2026 (None)"
  },
  "reconeixements-sb-hotels-la-garba-2026": {
@@ -7678,18 +7683,18 @@
   "fecha": "2026-06-28"
  },
  "red-bull-cross-kirolak-bilbao-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Red Bull Cross Kirolak - Bilbao 2026 (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-10-10"
  },
  "reforestacion-de-otono-2025-alicante-renace": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Reforestación de Otoño 2025 Alicante Renace (None)"
  },
  "reforestacion-de-primavera-2026-alicante-renace": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Reforestación de Primavera Ayuntamiento de Alicante & Alicante Renace 2026 (None)"
  },
  "reforestacion-el-palamo-2025-alicante-renace": {
@@ -7979,7 +7984,7 @@
  },
  "ruta-dia-internacional-de-las-montanas-2025-valporquero": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ruta Día Internacional de las Montañas 2025 - Valporquero (None)"
  },
  "rutagcjaen": {
@@ -8013,7 +8018,7 @@
  },
  "salomon-run-barcelona-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Salomon Run Barcelona 2026 (None)"
  },
  "salomon-run-barcelona-2027": {
@@ -8027,7 +8032,7 @@
  },
  "samunta-trail-race-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Samuntà Trail Race 2026 (None)"
  },
  "san-marton-8km-2026": {
@@ -8037,7 +8042,7 @@
  },
  "san-romaneko-iv-kronoigoera-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: San Romaneko IV. Kronoigoera 2026 (None)"
  },
  "san-silvestre-burriana-25": {
@@ -8092,7 +8097,7 @@
  },
  "san-silvestre-las-regueras-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: San Silvestre Las Regueras 2025 (None)"
  },
  "san-silvestre-majadahonda": {
@@ -8127,17 +8132,17 @@
  },
  "san-silvestre-trail-mieres-del-camino-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: San Silvestre Trail Mieres del Camino 2026 (None)"
  },
  "san-silvestre-val-de-san-vicente-unquera-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: San Silvestre Val de San Vicente - Unquera 2026 (None)"
  },
  "san-silvestre-vallera-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: San Silvestre Vallera 2025 (None)"
  },
  "sanduzelaikozubiak2026": {
@@ -8197,12 +8202,12 @@
  },
  "sant-silvestre-de-lhospitalet-de-linfant": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Sant Silvestre de L'hospitalet de L'infant (None)"
  },
  "sant-silvestre-de-lhospitalet-de-linfant-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Sant Silvestre de L'hospitalet de L'infant 2026 (None)"
  },
  "sant-silvestre-laleixar-2025": {
@@ -8341,7 +8346,7 @@
  },
  "serralades-de-barxeta-mabu-2026-lliga-de-muntanya-valencia-sud-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: SERRALADES DE BARXETA - MABU, 2026, LLiga de Muntanya València Sud, 25/26 (None)"
  },
  "sexta-etapa-volta-a-catalunya-berga-queralt": {
@@ -8365,14 +8370,14 @@
   "fecha": "2027-02-20"
  },
  "shimano-super-cup-massi-la-nucia-2026-c1-": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Shimano Super Cup Massi la Nucía 2026 | C1 | (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-02-07"
  },
  "shimano-super-cup-massi-la-nucia-2027-c1-": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Shimano Super Cup Massi la Nucía 2027 | C1 | (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2027-02-06"
  },
  "shimano-super-cup-massi-sabinanigo-2026-c1-": {
   "espana": true,
@@ -8390,18 +8395,18 @@
   "fecha": "2026-09-19"
  },
  "shimano-super-cup-massi-vitoria-gasteiz-2026-c2-": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Shimano Super Cup Massi Vitoria-gasteiz 2026 | C2 | (None)"
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2026-05-02"
  },
  "sierra-cazorla-trails-2026": {
   "andaluza": true,
   "fecha": "2026-10-17"
  },
  "sierra-de-segura-infinita-trails": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Sierra de Segura Infinita TRAILS (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-05-10"
  },
  "sierra-nevada-limite-2026": {
   "andaluza": true,
@@ -8427,7 +8432,7 @@
  },
  "simat-trail-lmvs-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Simat trail, LMVS. 26/27 (None)"
  },
  "simposi-marta-mata-fundacio-marta-mata": {
@@ -8524,12 +8529,12 @@
  },
  "spring-run-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Spring Run 2026 (None)"
  },
  "spring-run-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Spring Run 2027 (None)"
  },
  "sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2026": {
@@ -8544,7 +8549,7 @@
  },
  "sprint-trail-la-mola-calp-9e-circuit-trail-marina-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXII TRAIL SERRA D'OLTÀ ‐ CALP, 9e. Circuit Trail Marina 26/27 (None)"
  },
  "sprint-trail-senyera-2026": {
@@ -8582,7 +8587,7 @@
  },
  "ssegues25": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXV San Silvestre Valle de Egüés -2025 - Eguesibarko Silbestre Deuna (None)"
  },
  "st-esteve-run-2026": {
@@ -8606,12 +8611,12 @@
  },
  "stone-and-light-the-bocairent-challenge-turistic": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Stone and Light. The Bocairent Challenge Turistic (None)"
  },
  "subidaangliru": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXIII Subida al Angliru by Nutrinovex (None)"
  },
  "sueca-contra-el-cancer-2026": {
@@ -8631,7 +8636,7 @@
  },
  "super-cup-youth-la-molina-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Super Cup Youth la Molina 2026 (None)"
  },
  "super-cup-youth-sant-fruitos-2026": {
@@ -8718,12 +8723,12 @@
  },
  "tenerguera-trail-2026-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Tenerguera Trail 2026 (None)"
  },
  "tenerguera-trail-2027-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Tenerguera Trail 2027 (None)"
  },
  "tercera-jornada-del-programa-amazonas-2026": {
@@ -8742,7 +8747,7 @@
  },
  "test-triimparables": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Test - Triimparables (None)"
  },
  "the-capitals-by-pedalma-2026": {
@@ -8766,7 +8771,7 @@
  },
  "the-north-face-transgrancanaria-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: The North Face Transgrancanaria 2026 (None)"
  },
  "the-traka-2026": {
@@ -8848,7 +8853,7 @@
  },
  "torrent-contra-el-cancer-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Torrent Contra el Cáncer 2026 (None)"
  },
  "torres-de-segre-mou-te-contra-el-cancer": {
@@ -8912,12 +8917,12 @@
  },
  "trail-almendros-y-volcanes-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Almendros y volcanes 2026 (None)"
  },
  "trail-almendros-y-volcanes-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Almendros y volcanes 2027 (None)"
  },
  "trail-arrieta": {
@@ -8947,12 +8952,12 @@
  },
  "trail-de-los-torrollones-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail de los Torrollones 2026 (None)"
  },
  "trail-de-los-torrollones-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail de los Torrollones 2027 (None)"
  },
  "trail-de-primavera-confrides-ctm-2526": {
@@ -8972,7 +8977,7 @@
  },
  "trail-de-ubina-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail de Ubiña 2026 (None)"
  },
  "trail-del-cervol-solidari": {
@@ -9037,7 +9042,7 @@
  },
  "trail-marines-vell-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Marines Vell 2026 (None)"
  },
  "trail-montgri-2026": {
@@ -9082,7 +9087,7 @@
  },
  "trail-sierra-partara-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Sierra Partara 2026 (None)"
  },
  "trail-solidari-ciutat-dalcoi-2026": {
@@ -9097,7 +9102,7 @@
  },
  "trail-terras-de-buron-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Terras de Burón 2027 (None)"
  },
  "trail-trincheras-xyz-2025": {
@@ -9117,7 +9122,7 @@
  },
  "trail-valle-de-la-fueva-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Valle de la Fueva 2026 (None)"
  },
  "trail-valle-de-tena-2026": {
@@ -9127,12 +9132,12 @@
  },
  "trail-vielha-molieres-3010": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Vielha Molieres 3010 (None)"
  },
  "trail-vielha-molieres-3010-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Trail Vielha Molieres 3010 (None)"
  },
  "trail-villa-de-sallent": {
@@ -9187,7 +9192,7 @@
  },
  "traveasa-10k-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Traveasa 10K 2026 (None)"
  },
  "travessa-solidaria-de-sant-joan-tintoreres-aepef": {
@@ -9202,7 +9207,7 @@
  },
  "travessia-nedant-a-la-platja-de-la-pineda-vila-seca-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: 38a Travessia Nedant a la Pineda Platja -2026 (None)"
  },
  "travessia-nedant-de-badalona-2026": {
@@ -9232,7 +9237,7 @@
  },
  "triaga-extreme-villa-agaete": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Triaga Extreme -villa Agaete (None)"
  },
  "trial-4x4-xafarrocs-2026": {
@@ -9340,12 +9345,12 @@
  },
  "txantrea-krosa-25": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Txantrea Krosa 25 (None)"
  },
  "txantrea-krosa-26": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Txantrea Krosa 26 (None)"
  },
  "txantreako-ielkartasunmendilasterketa": {
@@ -9360,7 +9365,7 @@
  },
  "txirrita-mendi-lasterketa-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Txirrita Mendi Lasterketa 2026 (None)"
  },
  "txulato-trail-zambrana": {
@@ -9409,7 +9414,7 @@
  },
  "ultra-trail-picos-de-europa-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ultra Trail Picos de Europa 2027 (None)"
  },
  "ultra-trail-torla-ordesa-2026": {
@@ -9419,7 +9424,7 @@
  },
  "ultra-vimar-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: UltraVimar 2027 (None)"
  },
  "ultramarato-de-la-marca-2026": {
@@ -9429,17 +9434,17 @@
  },
  "ultraoceanmantabarca2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ultraoceanman Tabarca - Spain 2026 (None)"
  },
  "ultzamako-san-silbestrea-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Ultzamako San Silbestrea 2025 (None)"
  },
  "un-domingo-con-sentidos": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Un domingo con sentido(s) (None)"
  },
  "un-tomb-pel-montsant-2026": {
@@ -9458,7 +9463,7 @@
  },
  "unique-trail-lanzarote": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Unique Trail Lanzarote (None)"
  },
  "urban-run": {
@@ -9511,7 +9516,7 @@
  },
  "uz-trail-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: UZ Trail 2026 (None)"
  },
  "v-10-km-de-la-ciudad-lineal-2026": {
@@ -9560,7 +9565,7 @@
  },
  "v-carrera-solidaria-por-la-biodiversidad": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Carrera Solidaria por la Biodiversidad (None)"
  },
  "v-carrera_popular-el_canaveral-madrid-vicalvaro": {
@@ -9580,7 +9585,7 @@
  },
  "v-congreso-de-personas-con-cancer-y-familiares-en-illes-balears": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Congreso de Personas con Cáncer y Familiares en Illes Balears (None)"
  },
  "v-cross-del-cordel-de-las-merinas": {
@@ -9618,7 +9623,7 @@
  },
  "v-gran-fondo-jaen-paraiso-interior-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Gran Fondo Jaén Paraíso Interior 2027 (None)"
  },
  "v-grazalema-trail-nature": {
@@ -9628,7 +9633,7 @@
  },
  "v-imperial-tarraco-trail-tarragona-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Imperial Tàrraco Trail - Tarragona 2025 (None)"
  },
  "v-infinitri-burriana-triathlon-festival": {
@@ -9638,7 +9643,7 @@
  },
  "v-izki-trail": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V. Izki Trail (None)"
  },
  "v-jornada-deportiva-muevete-por-el-parkinson": {
@@ -9653,7 +9658,7 @@
  },
  "v-kos-xtreme-triathlon": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Kos Xtreme Triathlon (None)"
  },
  "v-legua-fiestas-santorcaz": {
@@ -9687,7 +9692,7 @@
  },
  "v-simat-trail-simat-de-la-valldigna-lliga-de-muntanya-valencia-sud-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Simat trail, Simat de la Valldigna, LLiga de Muntanya València Sud, 25/26 (None)"
  },
  "v-som-trail-som-vall-de-seta-2026": {
@@ -9722,7 +9727,7 @@
  },
  "v-triatlo-platja-de-tavernes": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V Triatló Platja de Tavernes (None)"
  },
  "v-triku-harri-mendi-lasterketa": {
@@ -9732,7 +9737,7 @@
  },
  "v-txara-lasterketak-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: V. Txara Trail 2026 (None)"
  },
  "v-ultramediterrania-terres-de-trail-2027": {
@@ -9772,7 +9777,7 @@
  },
  "vandekames-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vandekames 2026 (None)"
  },
  "veinte-leguas-alpujarra-2026": {
@@ -9787,12 +9792,12 @@
  },
  "vertical-colonia-montserrat-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vertical Colònia Montserrat 2026 (None)"
  },
  "vertical-montana-blanca": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vertical Montaña Blanca (None)"
  },
  "vi-alma-guerrera": {
@@ -9817,7 +9822,7 @@
  },
  "vi-caminada-nocturna-km-contra-el-cancer-el-bedorc": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VI Caminada Nocturna Km Contra el Càncer el Bedorc (None)"
  },
  "vi-canicros-de-reus-2026": {
@@ -9899,7 +9904,7 @@
  },
  "vi-imperial-tarraco-trail-tarragona-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VI Imperial Tàrraco Trail - Tarragona 2026 (None)"
  },
  "vi-infinitri-burriana-triathlon-festival": {
@@ -9909,7 +9914,7 @@
  },
  "vi-kos-xtreme-triathlon": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VI Kos Xtreme Triathlon (None)"
  },
  "vi-milla-urbana-solidaria-cambrils-2026": {
@@ -9949,7 +9954,7 @@
  },
  "vielha-cycling-tour-val-daran-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vielha Cycling Tour Val d´Aran 2026 (None)"
  },
  "vientos-mineros-trail-2026": {
@@ -9959,7 +9964,7 @@
  },
  "vihalf-txiki-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vihalf txiki (Juegos Escolares Araba) 2026 (None)"
  },
  "vii-10k-la-salle-solidaria-alcoi": {
@@ -10018,9 +10023,9 @@
   "fecha": "2026-10-10"
  },
  "vii-edicion-segura-xtreme-triathlon": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: VII Edicion Segura Extreme Triathlon (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2027-05-08"
  },
  "vii-legua-cifontina": {
   "espana": true,
@@ -10038,13 +10043,13 @@
   "fecha": "2026-03-29"
  },
  "vii-san-anton-bira-getariako-zeharkaldia": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: VII. San Anton Bira Getariako Zeharkaldia (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-07-26"
  },
  "vii-san-ripense": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VII San Ripense (None)"
  },
  "vii-trail-crestas-mar-de-aragon": {
@@ -10119,7 +10124,7 @@
  },
  "viii-rodanas-trail-race-villa-de-epila": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VIII Rodanas Trail Race – Villa de Epila (None)"
  },
  "viii-trail-urrea-de-gaen": {
@@ -10129,7 +10134,7 @@
  },
  "viii-ultratrail-graderas-valle-vio-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: VIII Ultratrail Graderas Valle Vió 2026 (None)"
  },
  "viii-vallacuera-extreme-peralta": {
@@ -10198,7 +10203,7 @@
  },
  "voluntariado-transgrancanaria-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Voluntariado Transgrancanaria 2027 (None)"
  },
  "voluntarios-gtp-2026": {
@@ -10218,7 +10223,7 @@
  },
  "vuelta-al-hacho-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: Vuelta al Hacho 2026 (None)"
  },
  "warm-up-ride-by-allout-2026": {
@@ -10232,9 +10237,9 @@
   "fecha": "2026-03-28"
  },
  "wildcross-almeria-2027": {
-  "espana": true,
-  "provincia": "Almería",
-  "fecha": "2027-05-16"
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: Wildcross Almería 2027"
  },
  "wildcross-getafe-2026": {
   "espana": true,
@@ -10247,9 +10252,9 @@
   "fecha": "2026-06-28"
  },
  "wildcross-las-rozas-2027": {
-  "espana": true,
-  "provincia": "Madrid",
-  "fecha": "2027-06-06"
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: Wildcross las Rozas 2027"
  },
  "wildcross-pinto-2026": {
   "espana": true,
@@ -10257,9 +10262,9 @@
   "fecha": "2026-04-19"
  },
  "wildcross-pinto-2027-": {
-  "espana": true,
-  "provincia": "Madrid",
-  "fecha": "2027-04-18"
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: Wildcross Pinto 2027"
  },
  "wildcross-valencia-2026": {
   "espana": true,
@@ -10267,9 +10272,9 @@
   "fecha": "2026-09-20"
  },
  "wildcross-valencia-2027": {
-  "espana": true,
-  "provincia": "Valencia",
-  "fecha": "2027-09-19"
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: Wildcross Valencia 2027"
  },
  "wine-run-rioja-alavesa-2026": {
   "espana": false,
@@ -10341,9 +10346,9 @@
   "fecha": "2026-11-22"
  },
  "x-carrera-por-parejas-el-campello-2027": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: X Carrera por Parejas El Campello 2027 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2027-02-14"
  },
  "x-carrera-tecnocasa-vuela-contra-la-violencia-de-genero": {
   "espana": true,
@@ -10361,9 +10366,9 @@
   "fecha": "2026-04-19"
  },
  "x-cross-solidario-dos-bosco-salesianos-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: X Cross Solidario Dos Bosco Salesianos El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-02-01"
  },
  "x-cxm-trail-los-agujetas-de-villafranca": {
   "espana": true,
@@ -10411,7 +10416,7 @@
  },
  "x-san-silvestre-de-hortaleza-2025": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: X San Silvestre de Hortaleza - 2025 (None)"
  },
  "x-tomaca-trail": {
@@ -10436,7 +10441,7 @@
  },
  "x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27 (None)"
  },
  "x-trail-solidaria-el-pino-de-binaced": {
@@ -10456,12 +10461,12 @@
  },
  "x-woman-trail": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: X Woman Trail (None)"
  },
  "x-zubiri-pamplona-iruna-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: X Zubiri Pamplona-Iruña 2026 (None)"
  },
  "x-zumba-contra-el-cancer-de-mama": {
@@ -10479,9 +10484,9 @@
   "motivo": "no es a pie: XI Aquatlon Aquopolis Villanueva26"
  },
  "xi-arrasate-udalatx-mendi-lasterketa": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XI. Arrasate-Udalatx mendi lasterketa (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2027-02-27"
  },
  "xi-carrera-contra-el-cancer-de-pancreas-alicante-2025": {
   "espana": true,
@@ -10543,9 +10548,9 @@
   "fecha": "2026-12-24"
  },
  "xi-cross-solidario-dos-bosco-salesianos-el-campello-2027": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XI Cross Solidario Dos Bosco Salesianos El Campello 2027 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2027-01-31"
  },
  "xi-cursa-i-caminada-km-contra-el-cancer-santa-margarida-de-montbui": {
   "espana": true,
@@ -10563,7 +10568,7 @@
  },
  "xi-moduvert-trail-xeresa-lmvs-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XI Modúver trail, Xeresa, LMVS. 26/27 (None)"
  },
  "xi-san-silvestre-de-gallur-2025": {
@@ -10573,13 +10578,13 @@
  },
  "xi-san-silvestre-de-hortaleza-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XI San Silvestre de Hortaleza - 2026 (None)"
  },
  "xi-san-silvestre-el-campello-2025": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XI San Silvestre El Campello 2025 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2025-12-28"
  },
  "xi-san-silvestre-escariche-2025": {
   "espana": true,
@@ -10652,9 +10657,9 @@
   "fecha": "2026-08-02"
  },
  "xii-carrera-reyes-el-campello-2027": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XII Carrera Reyes El Campello 2027 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2027-01-10"
  },
  "xii-carrera-solidaria-central-optica": {
   "espana": true,
@@ -10678,7 +10683,7 @@
  },
  "xii-formentera-trail-211-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XII Formentera Trail 21.1 - 2026 (None)"
  },
  "xii-gualba-trail": {
@@ -10707,13 +10712,13 @@
   "fecha": "2025-12-27"
  },
  "xii-san-silvestre-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XII San Silvestre El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-12-26"
  },
  "xii-san-silvestre-estella-lizarra": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XII San Silvestre Estella-lizarra (None)"
  },
  "xii-subida-a-los-molinos-el-porvenir": {
@@ -10793,12 +10798,12 @@
  },
  "xiii-electron-fuertebike-fuerteventura-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIII Electrón FUERTEBIKE Fuerteventura - 2026 (None)"
  },
  "xiii-formentera-trail-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIII Formentera Trail 21.1 - 2027 (None)"
  },
  "xiii-lazkaoko-san-silbestrea": {
@@ -10833,7 +10838,7 @@
  },
  "xiii-trail-requena-el-rebollar": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIII Trail Requena, el Rebollar (None)"
  },
  "xiii-trail-umbria-la-plana-enguera": {
@@ -10882,13 +10887,13 @@
  },
  "xiv-cursa-per-muntanya-les-xosses-de-crevillent": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIV Cursa per Muntanya les Xosses de Crevillent (None)"
  },
  "xiv-dh-larreineta-trapagaran-": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XIV DH Larreineta-Trapagaran (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-05-16"
  },
  "xiv-donana-trail-marathon-sevilla-el-rocio-2026": {
   "andaluza": true,
@@ -10951,7 +10956,7 @@
  },
  "xiv-trixabia-ix-memorial-edu-monfort-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIV Trixàbia IX Memorial Edu Monfort 2026 (None)"
  },
  "xix-media-maraton-comarca-jadraque": {
@@ -10970,7 +10975,7 @@
  },
  "xix-sorginen-lasterketa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XIX. Sorginen Lasterketa (None)"
  },
  "xix-trail-mularroya": {
@@ -11125,7 +11130,7 @@
  },
  "xv-copa-marnaton-edreams-": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XV COPA MARNATON eDreams (None)"
  },
  "xv-cross-subida-a-los-castanos-de-navamorcuende": {
@@ -11204,12 +11209,12 @@
  },
  "xvi-botamarges-v-trenclosques-forna-ctm-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVI Botamarges, Forna, CTM 25/26 (None)"
  },
  "xvi-carrera-menudos-corazones-bimbo-global-race": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVI Carrera Menudos Corazones - Bimbo Global Race (None)"
  },
  "xvi-carrera-por-la-esclerosis-multiple": {
@@ -11223,9 +11228,9 @@
   "fecha": "2026-03-21"
  },
  "xvi-duatloi-txiki-markina-xemein": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XVI Duatloi Txiki Markina-Xemein (None)"
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-06-27"
  },
  "xvi-duatlon-cross-los-palacios-y-villafranca": {
   "andaluza": true,
@@ -11268,12 +11273,12 @@
  },
  "xvii-anboto-kilometro-bertikala": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVII. Anboto Kilometro Bertikala (None)"
  },
  "xvii-botamarges-forna-ctm-2627": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVII Botamarges, Forna, CTM 26/27 (None)"
  },
  "xvii-calamorro-skyrace": {
@@ -11292,7 +11297,7 @@
  },
  "xvii-osan-cross-mountain": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVII Osan Cross Mountain (None)"
  },
  "xvii-p2p-pamplona-puente-2026-skate-marathon": {
@@ -11337,7 +11342,7 @@
  },
  "xviii-carrera-solidaria-capitan-duque": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVIII Carrera Solidaria Capitán Duque (None)"
  },
  "xviii-cross-popular-virgen-de-la-paz-cintruenigo": {
@@ -11352,7 +11357,7 @@
  },
  "xviii-cursa-popular-de-lhospitalet-de-linfant-2026": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XVIII Cursa Popular de L'hospitalet de L'infant 2026 (None)"
  },
  "xviii-duatlon-de-menores-ciudad-de-marbella": {
@@ -11374,9 +11379,9 @@
   "fecha": "2026-03-28"
  },
  "xx-5k-10k-villa-de-el-campello-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XX 5K 10K Villa de El Campello 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-04-03"
  },
  "xx-andada-de-otono": {
   "espana": true,
@@ -11385,7 +11390,7 @@
  },
  "xx-aztiriko-mendi-lasterketa": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XX. Aztiriko Mendi Lasterketa (None)"
  },
  "xx-carrera-centenaro-brihuega": {
@@ -11400,7 +11405,7 @@
  },
  "xx-copa-de-castilla-y-leon-de-carreras-en-linea-3-prueba-trail-valle-de-arbas": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XX COPA DE CASTILLA Y LEÓN DE CARRERAS EN LÍNEA: 3ª Prueba - Trail Valle de Arbás (None)"
  },
  "xx-copa-de-castilla-y-leon-de-carreras-en-linea-absoluta-4-prueba-serrotapja-xtreme-2026": {
@@ -11410,7 +11415,7 @@
  },
  "xx-cross-urbano-san-miguel-cortes": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XX Cross Urbano San Miguel (cortes) (None)"
  },
  "xx-desfrenada": {
@@ -11424,9 +11429,9 @@
   "fecha": "2026-11-22"
  },
  "xxi-carrera-pedestre-sant-vicent-la-nucia-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: XXI Carrera Pedestre Sant Vicent La Nucía 2026 (None)"
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2026-04-12"
  },
  "xxi-carrera-popular-el-casar": {
   "espana": true,
@@ -11460,12 +11465,12 @@
  },
  "xxi-marxa-a-peu-serra-dirta": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXI Marxa a Peu Serra D'irta (None)"
  },
  "xxi-trail-serra-dolta-calp-ctm-2526": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXI Trail Serra D'oltà, Calp, Ctm 25/26 (None)"
  },
  "xxii-cursa-km-contra-el-cancer-santa-coloma-de-gramenet": {
@@ -11475,7 +11480,7 @@
  },
  "xxii-la-guzman-el-bueno-2027": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXII la Guzman el Bueno 2027 (None)"
  },
  "xxii-triatlo-de-betera": {
@@ -11485,7 +11490,7 @@
  },
  "xxiii-10k-godella-nicoboco": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXIII 10k Godella Nicoboco (None)"
  },
  "xxiii-cross-popular-salvar-el-pinar-de-la-elipa": {
@@ -11504,7 +11509,7 @@
  },
  "xxiv-medio-maraton-de-montana-del-ocejon": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXIV Medio Maratón de Montaña del Ocejón (None)"
  },
  "xxiv-mitja-marato-samaruc-2025-algemesi": {
@@ -11558,12 +11563,12 @@
  },
  "xxvi-carrera-popular-sancho-abarca": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXVI Carrera Popular Sancho Abarca (None)"
  },
  "xxvi-marxa-de-muntanya-sant-sebastia-de-la-vilavella": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXVI Marxa de Muntanya Sant Sebastià de la Vilavella (None)"
  },
  "xxvi-media-maraton-san-sebastian-2027": {
@@ -11598,7 +11603,7 @@
  },
  "xxvii-carrera-popular-sancho-abarca": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXVII Carrera Popular Sancho Abarca (None)"
  },
  "xxvii-cross-de-la-costrada-kostradaren-lasterketa": {
@@ -11651,7 +11656,7 @@
  },
  "xxxii-san-silvestre-de-llanera": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXXII San Silvestre de Llanera (None)"
  },
  "xxxiii": {
@@ -11755,7 +11760,7 @@
  },
  "xxxvii-trofeo-san-antonio-de-la-florida": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XXXVII Trofeo San Antonio de la Florida (None)"
  },
  "xxxviii-cross-de-cuerda-larga": {
@@ -11818,7 +11823,7 @@
  },
  "zubiripamplona27": {
   "espana": false,
-  "v2": true,
+  "v3": true,
   "motivo": "fuera de España o sin provincia: XI Zubiri Pamplona-Iruña 2027 (None)"
  },
  "zuhatza-trail-deba-2026": {
@@ -11827,9 +11832,9 @@
   "fecha": "2026-06-27"
  },
  "zuia-backyard-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Zuia Backyard 2026 (None)"
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2026-05-23"
  },
  "zuia-duatloia-27-duatlon-zuia-27": {
   "espana": false,
@@ -11855,9 +11860,9 @@
   "fecha": "2027-03-14"
  },
  "zurich-maraton-donostia-san-sebastian-2026": {
-  "espana": false,
-  "v2": true,
-  "motivo": "fuera de España o sin provincia: Zurich Maraton Donostia San Sebastian 2026 (None)"
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-11-22"
  },
  "zurich-rock-n-roll-running-series-madrid-2026": {
   "espana": true,
