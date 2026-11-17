@@ -24,7 +24,7 @@ from fuentes import (aytos_madrid, cancerpancreas, rtsmadrid, runvasport)  # ron
 from fuentes import (athleticevents, cronocheck, gesportcat, plaestany)  # ronda 2: Cataluña
 from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
 from fuentes import (chiplevante, fetacyl, runatica, somesport, soriatletismo, timinglap)  # ronda 2 (17/11)
-from fuentes import (atletismoaragon, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
+from fuentes import (atletismoaragon, mychip, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
                      facv, faex, faib, fam, fca, fcatle, fdmvalencia, fga, fnaf, gesport, go321, hsports, iter5,
                      kirolprobak, lineadesalida, orycronsport, timingsys, xipgroc, youevent)
 from nucleo import municipios, red
@@ -67,6 +67,8 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         # Después de rockthesport: lee las fichas que este descartó y recupera las de barrios de Madrid capital.
         (rtsmadrid.ID, lambda: rtsmadrid.leer(rtsmadrid.leer_vistos(), desde=desde, hasta=hasta,
                                               descargar_ficha=lambda u: red.descargar(u, usar_cache=usar_cache, recortar=jsonld.recortar))),
+        # Mychip copia sus eventos de RockTheSport: va detrás para que la ficha de la plataforma mande.
+        (mychip.ID, lambda: mychip.leer(mychip.descargar(), desde=desde, hasta=hasta)),
         (cancerpancreas.ID, lambda: cancerpancreas.leer(bajar(cancerpancreas.URL))),
         (runvasport.ID, lambda: runvasport.leer(bajar(runvasport.URL))),
         (aytos_madrid.ID, lambda: aytos_madrid.leer(bajar, desde, hasta, bajar_ficha=lambda u, r: red.descargar(

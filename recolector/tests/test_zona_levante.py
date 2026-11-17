@@ -94,3 +94,25 @@ def test_cronorunner_api_publica():
     c = next(c for c in carreras if "Dinosauris" in c.nombre)
     assert (c.fecha, c.poblacion, c.provincia, c.distancias_km) == (date(2026, 11, 22), "Moncada", "Valencia", [5.0, 10.0])
     assert next(c for c in carreras if "Bali" in c.nombre).provincia == "Alicante"  # Benidorm
+
+
+def test_mychip_api_recortada():
+    import json
+    from fuentes import mychip
+    from nucleo.modelo import ABIERTA
+    # El recorte quita todo lo que no es público, aunque venga en la respuesta.
+    crudo = json.dumps([{"name": "X Trail Prueba", "visible": True, "slug": "x", "status": "registrations_opened",
+                         "date_start": {"$date": "2026-12-01T00:00:00Z"}, "live_registration_password": "secreto",
+                         "live_registration_token": "abc", "location": {"city": "Oliva"},
+                         "modalities": [{"name": "Larga", "distance": 20000, "sport": "trail_running",
+                                         "rts_fee_id": 1}]}])
+    recortado = mychip.recortar(crudo).decode()
+    assert "secreto" not in recortado and "abc" not in recortado and "rts_fee_id" not in recortado
+    carreras, descartes = mychip.leer(muestra("mychip.json"), date(2026, 11, 17), date(2027, 12, 31))
+    assert any("senderista" in d for d in descartes) and any("Nòrdica" in d for d in descartes)
+    c = buscar(carreras, "Senglars")  # la API dice «València»: el pueblo sale del nombre
+    assert (c.fecha, c.poblacion, c.provincia, c.modalidad, c.distancias_km) == (
+        date(2026, 11, 29), "Favara", "Valencia", "trail", [15.0])
+    assert c.estado_fuente == ABIERTA and c.url_inscripcion.startswith("https://inscripciones.mychip.es/es/evento/")
+    assert buscar(carreras, "Monovera").poblacion == "Monóvar"  # «Monóvar/monòver»
+    assert buscar(carreras, "Samaruc").distancias_km == [21.097]

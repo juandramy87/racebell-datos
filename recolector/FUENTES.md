@@ -72,3 +72,7 @@ Pendiente en `nucleo/`: buscar municipio sin provincia en toda España (hoy solo
 descartar «carrera y marcha solidaria»; catalán/gallego/euskera en `clasificar`; `avaibook` con `strict=False` y `?lang=es`.
 - **Cronorunner** (17/11, con permiso del usuario): `fuentes/cronorunner.py` lee la API pública de su web
   (`inscripciones.cronorunner.com/api/public/events`): ~16 carreras de pueblos de Valencia (Horta, Camp de Túria, Ribera).
+- **Mychip** (17/11, con permiso del usuario): `fuentes/mychip.py` lee por POST la API que pinta `www.mychip.es`
+  (sin robots.txt): ~42 carreras de la Safor, la Ribera, la Marina y l'Alcoià (Lliga de Muntanya València Sud, Circuit
+  Trail Marina, Lliga CxM de la FEMECV). La respuesta trae campos internos (claves de inscripción en directo): `recortar`
+  se queda solo con lo público antes de guardar nada. Copia sus eventos de RockTheSport, así que la mayoría se unen.

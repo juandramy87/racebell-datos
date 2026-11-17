@@ -1,0 +1,230 @@
+[
+ {
+  "nombre": "VALLDIGNA EXTREM, 2026 Marxa senderista",
+  "slug": "valldigna-extrem-2026-marxa-senderista",
+  "estado": "registrations_closed",
+  "inicio": "2026-11-21T00:00:00",
+  "fin": "2026-11-21T23:59:59.999000",
+  "inscripcion_desde": "2026-09-28T12:00:00",
+  "inscripcion_hasta": "2026-11-15T23:58:00",
+  "ciudad": "Tavernes de la Valldigna",
+  "provincia": null,
+  "pais": "ES",
+  "coords": [
+   39.0718289,
+   -0.2679922
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/3d2d394e-f2fe-40ce-b78a-69c6a3cc64e3_custom1.jpeg",
+  "modalidades": [
+   {
+    "nombre": "VEX",
+    "metros": 40000,
+    "euros": 15.0,
+    "deporte": "walking"
+   }
+  ]
+ },
+ {
+  "nombre": "XXIV MITJA MARATÓ SAMARUC, 2026, Algemesí",
+  "slug": "xxv-mitja-marato-samaruc-2026-algemesi",
+  "estado": "registrations_opened",
+  "inicio": "2026-11-22T00:00:00",
+  "fin": "2026-11-22T23:59:59.999000",
+  "inscripcion_desde": "2026-10-05T14:00:00",
+  "inscripcion_hasta": "2026-11-18T23:59:00",
+  "ciudad": "Algemesí",
+  "provincia": "Valencia",
+  "pais": "ES",
+  "coords": [
+   39.1956833,
+   -0.4228534
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/c1901fc6-4ce1-4715-a003-0d4d98e4af3b_custom1.jpeg",
+  "modalidades": [
+   {
+    "nombre": "Media Maratón",
+    "metros": 21097,
+    "euros": 15.0,
+    "deporte": "running"
+   }
+  ]
+ },
+ {
+  "nombre": "10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27",
+  "slug": "10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
+  "estado": "registrations_opened",
+  "inicio": "2026-11-29T00:00:00",
+  "fin": "2026-11-29T23:59:59.999000",
+  "inscripcion_desde": "2026-10-01T10:00:00",
+  "inscripcion_hasta": "2026-11-25T23:59:00",
+  "ciudad": "València",
+  "provincia": "Comarca de València",
+  "pais": "ES",
+  "coords": [
+   39.4532779,
+   -0.3944806
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/15b459f6-1b53-4b4f-aa0f-fd83d26bc334_custom1.jpeg",
+  "modalidades": [
+   {
+    "nombre": "Mola Extrem LMVS",
+    "metros": 15000,
+    "euros": 20.0,
+    "deporte": "trail_running"
+   }
+  ]
+ },
+ {
+  "nombre": "XXXVI San Silvestre Monovera",
+  "slug": "xxxvi-san-silvestre-monovera",
+  "estado": "registrations_opened",
+  "inicio": "2026-12-27T00:00:00",
+  "fin": "2026-12-27T23:59:59.999000",
+  "inscripcion_desde": "2026-10-22T10:00:00",
+  "inscripcion_hasta": "2026-12-25T23:59:00",
+  "ciudad": "Monóvar/monòver",
+  "provincia": "Alicante",
+  "pais": "ES",
+  "coords": [
+   38.4359953,
+   -0.8399789
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/546c1df0-8a17-4837-b2f9-eea03eeb8cae.jpeg",
+  "modalidades": [
+   {
+    "nombre": "5k +14 AÑOS",
+    "metros": 5000,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "Marcha Nórdica",
+    "metros": 5000,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "Marcha no competitiva",
+    "metros": 5000,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "11 A 13 AÑOS",
+    "metros": 1400,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "8 A 10 AÑOS",
+    "metros": 800,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "De 6 a 7 años",
+    "metros": 400,
+    "euros": 3.0,
+    "deporte": "running"
+   },
+   {
+    "nombre": "HASTA 5 AÑOS",
+    "metros": 400,
+    "euros": 3.0,
+    "deporte": "running"
+   }
+  ]
+ },
+ {
+  "nombre": "1a Prova Copa Marxa Nòrdica FEMECV 2027, Algorfa",
+  "slug": "1a-prova-copa-marxa-nordica-femecv-2027-algorfa",
+  "estado": "registrations_opened",
+  "inicio": "2027-02-13T00:00:00",
+  "fin": "2027-02-13T23:59:59.999000",
+  "inscripcion_desde": "2026-12-14T12:00:00",
+  "inscripcion_hasta": "2027-01-31T12:01:00",
+  "ciudad": "Algorfa",
+  "provincia": "el Baix Segura / La Vega Baja",
+  "pais": "ES",
+  "coords": [
+   38.0849376,
+   -0.7966767
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/956cc05f-7e2e-4179-a3c7-cae9b0ce603c_custom1.png",
+  "modalidades": [
+   {
+    "nombre": "Absoluta  FEMECV",
+    "metros": null,
+    "euros": 20.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Infantil FEMECV",
+    "metros": null,
+    "euros": 5.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Cadete FEMECV",
+    "metros": null,
+    "euros": 5.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Alevín FEMECV",
+    "metros": null,
+    "euros": 5.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Benjamín FEMECV",
+    "metros": null,
+    "euros": 5.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Prebenjamín  FEMECV",
+    "metros": null,
+    "euros": 5.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "Promo",
+    "metros": null,
+    "euros": 20.0,
+    "deporte": "trail_running"
+   }
+  ]
+ },
+ {
+  "nombre": "XV TRAIL DE MOIXENT",
+  "slug": "xv-trail-de-moixent",
+  "estado": "registrations_opened",
+  "inicio": "2027-02-20T00:00:00",
+  "fin": "2027-02-20T23:59:59.999000",
+  "inscripcion_desde": "2026-10-09T08:00:00",
+  "inscripcion_hasta": "2027-02-14T23:55:00",
+  "ciudad": "Mogente/moixent",
+  "provincia": "Valencia",
+  "pais": "ES",
+  "coords": [
+   38.8740777,
+   -0.7517055
+  ],
+  "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6586dfbd-60c8-4223-9183-b6b09e15bd12_custom1.jpeg",
+  "modalidades": [
+   {
+    "nombre": "22k, Trail",
+    "metros": 21000,
+    "euros": 22.0,
+    "deporte": "trail_running"
+   },
+   {
+    "nombre": "12k, Sprint Trail ",
+    "metros": 11500,
+    "euros": 22.0,
+    "deporte": "trail_running"
+   }
+  ]
+ }
+]
