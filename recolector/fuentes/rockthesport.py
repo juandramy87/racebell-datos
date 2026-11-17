@@ -13,7 +13,7 @@ from datetime import date
 from pathlib import Path
 from typing import Callable, Optional
 
-from fuentes import jsonld
+from fuentes import euskadi, jsonld
 from nucleo import normalizar as nz
 from nucleo.modelo import Carrera
 
@@ -68,7 +68,7 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
         # («andaluza»: False, de cuando solo se buscaba Andalucía) se vuelven a abrir una vez.
         # Las descartadas «sin provincia» antes del 17/11 (solo se reconocían provincias, no municipios de toda
         # España) se vuelven a abrir una vez.
-        reabrir = (recuerdo is not None and recuerdo.get("espana") is False and not recuerdo.get("v2")
+        reabrir = (recuerdo is not None and recuerdo.get("espana") is False and not recuerdo.get("v3")
                    and str(recuerdo.get("motivo", "")).startswith("fuera de España o sin provincia"))
         if recuerdo and ("espana" in recuerdo or recuerdo.get("andaluza")) and not reabrir:
             if recuerdo.get("espana") is False or recuerdo.get("fecha", "9999") < desde.isoformat():
@@ -78,6 +78,9 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
                 continue  # se abrirá en otra pasada
             nuevas += 1
         lugar = municipio_del_slug(slug, indice)
+        vasco = None
+        if not lugar:  # «errenteriako-san-silbestrea»: pueblo vasco en euskera (-ko/-go) en el nombre
+            vasco = euskadi.municipio(slug.replace("-", " "))
         url = _FICHA + slug
         ficha = descargar_ficha(url)
         c, motivo = jsonld.leer_ficha(ficha, url, ID)
@@ -85,8 +88,12 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
         if not c and lugar:
             c, motivo = jsonld.leer_ficha(ficha, url, ID, provincia_si_falta=lugar[1])
             adivinada = c is not None
+        elif not c and vasco:
+            c, motivo = jsonld.leer_ficha(ficha, url, ID, provincia_si_falta=vasco[1])
+            if c and not c.poblacion:
+                c.poblacion = vasco[0]
         if not c or (adivinada and c.coords and not _en_andalucia(c.coords)):
-            vistos[slug] = {"espana": False, "v2": True, "motivo": motivo or "coordenadas fuera del municipio del nombre"}
+            vistos[slug] = {"espana": False, "v3": True, "motivo": motivo or "coordenadas fuera del municipio del nombre"}
             descartes.append(motivo or f"sin provincia: {slug}")
             continue
         vistos[slug] = {"espana": True, "provincia": c.provincia, "fecha": c.fecha.isoformat()}

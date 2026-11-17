@@ -19,6 +19,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
 from fuentes import (canaryrun, holaislascanarias)  # ronda 4: Canarias
+from fuentes import (buscametas, kirolbide)  # ronda 4: País Vasco
 from fuentes import (aytos_madrid, cancerpancreas, rtsmadrid, runvasport)  # ronda 3: Madrid
 from fuentes import (athleticevents, cronocheck, gesportcat, plaestany)  # ronda 2: Cataluña
 from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
@@ -129,6 +130,9 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
                                              for u, m in dipualba.URLS.items()])),
         # --- Norte ---
         (kirolprobak.ID, lambda: kirolprobak.leer(bajar(kirolprobak.URL), descargar_ficha=bajar)),
+        (kirolbide.ID, lambda: kirolbide.leer(bajar, desde, hasta, bajar_ficha=lambda u: red.descargar(
+                                                  u, usar_cache=usar_cache, recortar=kirolbide.recortar_ficha))),
+        (buscametas.ID, lambda: buscametas.leer(bajar(buscametas.URL))),
         (fga.ID, lambda: fga.leer([bajar(u) for u in fga.urls(desde)])),
         (go321.ID, lambda: go321.leer(bajar(go321.URL), descargar_ficha=lambda u: red.descargar(
                                           u, usar_cache=usar_cache, recortar=go321.recortar_ficha))),
