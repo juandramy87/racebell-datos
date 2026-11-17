@@ -201,8 +201,9 @@ def clasificar(*textos: Optional[str]) -> tuple[bool, Optional[str]]:
 
 
 def distancias(nombre: str) -> list[float]:
-    """«37a Mitja Marató i 10 Km» → [10, 21.097]; «Cursa de Parets (5 i 10 Km)» → [5, 10]."""
-    t = a_castellano(nombre)
+    """«37a Mitja Marató i 10 Km» → [10, 21.097]; «Cursa de Parets (5 i 10 Km)» → [5, 10].
+    «La Marató de 3Cat / TV3» es la campaña solidaria de la tele, no un maratón: no da 42 km."""
+    t = re.sub(r"\b(per )?(la )?maraton (de )?(3 ?cat|tv3)\b", " ", a_castellano(nombre))
     juntas = [float(x) for a, b in re.findall(r"\b(\d{1,2}) (?:i|y) (\d{1,3}) ?km?\b", t) for x in (a, b)]
     return sorted(set(nz.distancias_del_nombre(t)) | set(juntas))
 

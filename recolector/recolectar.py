@@ -18,6 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
+from fuentes import (athleticevents, cronocheck, gesportcat, plaestany)  # ronda 2: Cataluña
 from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
 from fuentes import (chiplevante, fetacyl, runatica, somesport, soriatletismo, timinglap)  # ronda 2 (17/11)
 from fuentes import (atletismoaragon, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
@@ -78,6 +79,10 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (iter5.ID, lambda: iter5.leer(bajar(iter5.URL))),
         (cursescat.ID, lambda: cursescat.leer(bajar(cursescat.URL))),
         (cronosports.ID, lambda: cronosports.leer(bajar(cronosports.URL), descargar_ficha=bajar)),
+        (athleticevents.ID, lambda: athleticevents.leer(bajar(athleticevents.URL))),
+        (gesportcat.ID, lambda: gesportcat.leer(bajar(gesportcat.URL), bajar(gesportcat.URL_CIRCUIT), descargar_ficha=bajar)),
+        (plaestany.ID, lambda: plaestany.leer(bajar(plaestany.URL))),
+        (cronocheck.ID, lambda: cronocheck.leer(bajar(cronocheck.URL), descargar_ficha=bajar)),
         # --- Comunitat Valenciana y Murcia ---
         (crono4sports.ID, lambda: crono4sports.leer(bajar(crono4sports.URL), bajar(crono4sports.PORTADA),
                                                     descargar_ficha=bajar, hoy=desde)),
