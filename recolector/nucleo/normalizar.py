@@ -186,6 +186,7 @@ def _indice_espana() -> dict[str, Optional[tuple[str, str]]]:
         for prov, nombres in json.loads(ruta.read_text()).items():
             for n in nombres:
                 k = clave(n)
+                n = n[:1].upper() + n[1:]  # «l'Alfàs del Pi» → «L'Alfàs del Pi», «el Campello» → «El Campello»
                 previo = indice.get(k, (n, prov))
                 indice[k] = (n, prov) if previo and previo[1] == prov else None  # en dos provincias: no vale
         _MUNICIPIOS_ESPANA = indice

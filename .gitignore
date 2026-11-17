@@ -7,3 +7,4 @@ recolector/datos/*.sqlite
 recolector/datos/diario.log
 .DS_Store
 sitio/
+recolector/datos/cobertura-*.md

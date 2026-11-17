@@ -75,6 +75,24 @@ class Carrera:
             return ABIERTA
         return self.estado_fuente or DESCONOCIDO
 
+    @classmethod
+    def desde_dict(cls, d: dict, fuente_id: str) -> "Carrera":
+        """La carrera de una pasada anterior (carreras.json), con `fuente_id` como fuente principal. Sirve para no
+        perder las carreras de una fuente que hoy no responde."""
+        fuentes = [Fuente(f["id"], f["url"]) for f in d.get("fuentes", [])]
+        fuente = next((f for f in fuentes if f.id == fuente_id), fuentes[0])
+        fecha_hora = lambda x: datetime.fromisoformat(x) if x else None  # noqa: E731
+        return cls(
+            nombre=d["nombre"], fecha=date.fromisoformat(d["fecha"]), fuente=fuente, hora=d.get("hora"),
+            poblacion=d.get("poblacion"), provincia=d.get("provincia"), comunidad=d.get("comunidad"),
+            coords=tuple(d["coords"]) if d.get("coords") else None, modalidad=d.get("modalidad"),
+            distancias_km=list(d.get("distancias_km") or []), inscripcion_desde=fecha_hora(d.get("inscripcion_desde")),
+            inscripcion_hasta=fecha_hora(d.get("inscripcion_hasta")), estado_fuente=d.get("estado_fuente"),
+            url_inscripcion=d.get("url_inscripcion"), cartel=d.get("cartel"), precios=list(d.get("precios") or []),
+            previos=list(d.get("previos") or []),
+            avisos_calidad=[(a["tipo"], a["texto"]) for a in d.get("avisos_calidad") or []],
+        )
+
     def a_dict(self, ahora: datetime) -> dict:
         d = asdict(self)
         d["comunidad"] = nz.comunidad(self.provincia) or self.comunidad

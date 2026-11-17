@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import gzip
 import hashlib
+import http.client
 import ssl
 import subprocess
 import time
@@ -23,7 +24,7 @@ CACHE = Path(__file__).resolve().parents[1] / "datos" / "cache"
 _ultima_peticion: dict[str, float] = {}
 
 
-def descargar(url: str, *, usar_cache: bool = True, intentos: int = 2,
+def descargar(url: str, *, usar_cache: bool = True, intentos: int = 3,
               recortar: Optional[Callable[[bytes], bytes]] = None) -> bytes:
     """Descarga una URL respetando la pausa por web. Guarda una copia del día en datos/cache/.
     `recortar` quita lo que no se debe guardar (p. ej. listas de inscritos) ANTES de la caché."""
@@ -46,7 +47,7 @@ def descargar(url: str, *, usar_cache: bool = True, intentos: int = 2,
             ruta.parent.mkdir(parents=True, exist_ok=True)
             ruta.write_bytes(datos)
             return datos
-        except (urllib.error.URLError, TimeoutError) as error:
+        except (urllib.error.URLError, TimeoutError, http.client.HTTPException, ConnectionError) as error:
             ultimo_error = error
             _ultima_peticion[web] = time.monotonic()
             time.sleep(PAUSA_SEGUNDOS * (intento + 1))

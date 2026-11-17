@@ -18,6 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
+from fuentes import (chiplevante, fetacyl, runatica, somesport, soriatletismo, timinglap)  # ronda 2 (17/11)
 from fuentes import (atletismoaragon, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
                      facv, faex, faib, fam, fca, fcatle, fdmvalencia, fga, fnaf, gesport, go321, hsports, iter5,
                      kirolprobak, lineadesalida, orycronsport, timingsys, xipgroc, youevent)
@@ -84,6 +85,15 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (lineadesalida.ID, lambda: lineadesalida.leer(bajar(lineadesalida.URL))),
         (dorsal21.ID, lambda: dorsal21.leer(bajar(dorsal21.URL))),
         (cronorunner.ID, lambda: cronorunner.leer(bajar(cronorunner.URL))),
+        (chiplevante.ID, lambda: chiplevante.leer(bajar(chiplevante.PORTADA), bajar(chiplevante.URL))),
+        (runatica.ID, lambda: runatica.leer(red.descargar(runatica.URL, usar_cache=usar_cache, recortar=runatica.recortar))),
+        (somesport.ID, lambda: somesport.leer(bajar(somesport.URL))),
+        (timinglap.ID, lambda: timinglap.leer(bajar(timinglap.URL))),
+        (fetacyl.ID, lambda: fetacyl.leer(bajar(fetacyl.URL), descargar_ficha=lambda u: red.descargar(
+                                              u, usar_cache=usar_cache, recortar=fetacyl.recortar_ficha),
+                                          desde=desde, hasta=hasta)),
+        (soriatletismo.ID, lambda: soriatletismo.leer([bajar(u) for u in soriatletismo.temporadas(
+                                                          bajar(soriatletismo.PORTADA), desde, hasta)])),
         # --- Madrid y las Castillas ---
         (youevent.ID, lambda: youevent.leer(bajar(youevent.URL), descargar_ficha=lambda u: red.descargar(
                                                 u, usar_cache=usar_cache, recortar=youevent.recortar_ficha),
@@ -114,18 +124,36 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (anunciadas.ID, lambda: anunciadas.leer(json.loads((Path(__file__).resolve().parent / "anunciadas.json").read_text()),
                                                 hoy=desde)),
     ]
+    # Si una fuente falla o no da nada, se mantienen sus carreras de la pasada anterior (las que aún no han pasado):
+    # un corte de una web no debe vaciar la app.
+    ruta_anterior = DATOS / "carreras.json"
+    anteriores = json.loads(ruta_anterior.read_text())["carreras"] if ruta_anterior.exists() else []
+
+    def de_la_pasada_anterior(ident: str) -> list[Carrera]:
+        quedan = []
+        for d in anteriores:
+            if any(f.get("id") == ident for f in d.get("fuentes", [])) and desde.isoformat() <= d["fecha"] <= hasta.isoformat():
+                try:
+                    quedan.append(Carrera.desde_dict(d, ident))
+                except Exception:  # noqa: BLE001 — un dato viejo raro no debe parar la pasada
+                    pass
+        return quedan
+
     for ident, leer in lectores:
         try:
             carreras, descartes = leer()
         except Exception as error:  # una fuente rota no tumba las demás
-            informe["avisos"].append(f"{ident}: ERROR {error}")
-            print(f"  {ident}: ERROR {error}", file=sys.stderr)
+            previas = de_la_pasada_anterior(ident)
+            informe["avisos"].append(f"{ident}: ERROR {error} (se mantienen {len(previas)} de la pasada anterior)")
+            print(f"  {ident}: ERROR {error} (se mantienen {len(previas)} de la pasada anterior)", file=sys.stderr)
+            todas.extend(previas)
             continue
         en_plazo = [c for c in carreras if desde <= c.fecha <= hasta]
         informe["fuentes"][ident] = {"leidas": len(carreras), "en_plazo": len(en_plazo)}
         informe["descartes"][ident] = descartes
         if not carreras:
-            informe["avisos"].append(f"{ident}: 0 carreras. ¿Ha cambiado la web?")
+            carreras = de_la_pasada_anterior(ident)
+            informe["avisos"].append(f"{ident}: 0 carreras. ¿Ha cambiado la web? (se mantienen {len(carreras)} de la pasada anterior)")
         print(f"  {ident}: {len(carreras)} leídas, {len(en_plazo)} entre {desde} y {hasta}")
         todas.extend(en_plazo)
 
