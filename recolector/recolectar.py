@@ -18,6 +18,7 @@ from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, mo
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
 # Lectores por zonas (17/11/2026)
+from fuentes import (conchip, cronoline, empat, logronodeporte)  # ronda 2: Canarias y norte
 from fuentes import (chiplevante, fetacyl, runatica, somesport, soriatletismo, timinglap)  # ronda 2 (17/11)
 from fuentes import (atletismoaragon, cronelec, crono4sports, cronorunner, cronosports, cursescat, dipualba, dorsal21, elitechip,
                      facv, faex, faib, fam, fca, fcatle, fdmvalencia, fga, fnaf, gesport, go321, hsports, iter5,
@@ -88,6 +89,10 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (chiplevante.ID, lambda: chiplevante.leer(bajar(chiplevante.PORTADA), bajar(chiplevante.URL))),
         (runatica.ID, lambda: runatica.leer(red.descargar(runatica.URL, usar_cache=usar_cache, recortar=runatica.recortar))),
         (somesport.ID, lambda: somesport.leer(bajar(somesport.URL))),
+        (conchip.ID, lambda: conchip.leer(bajar(conchip.URL))),
+        (empat.ID, lambda: empat.leer(bajar(empat.URL))),
+        (logronodeporte.ID, lambda: logronodeporte.leer(bajar(logronodeporte.URL))),
+        (cronoline.ID, lambda: cronoline.leer(bajar(cronoline.URL))),
         (timinglap.ID, lambda: timinglap.leer(bajar(timinglap.URL))),
         (fetacyl.ID, lambda: fetacyl.leer(bajar(fetacyl.URL), descargar_ficha=lambda u: red.descargar(
                                               u, usar_cache=usar_cache, recortar=fetacyl.recortar_ficha),
