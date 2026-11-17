@@ -45,5 +45,6 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Recolector: datos del $(date +%F)"
             # Si entretanto alguien ha subido código, se coloca encima y se reintenta.
-            for i in 1 2 3; do git pull --rebase --autostash -q && git push && break; sleep 5; done
+            # Los datos de esta pasada mandan sobre los de otra que haya terminado antes (-X theirs en un rebase = lo nuestro).
+            for i in 1 2 3; do git pull --rebase --autostash -X theirs -q && git push && break; git rebase --abort 2>/dev/null; sleep 5; done
           fi
