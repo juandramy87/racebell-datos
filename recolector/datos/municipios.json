@@ -469,6 +469,7 @@
   "lat": 38.9442,
   "lon": -6.4362
  },
+ "espluga de francola l 039|tarragona": null,
  "estepona|malaga": {
   "provincia": "Málaga",
   "lat": 36.4268,
@@ -499,6 +500,11 @@
   "provincia": "Almería",
   "lat": 37.36,
   "lon": -2.2633
+ },
+ "fonelas|granada": {
+  "provincia": "Granada",
+  "lat": 37.4265,
+  "lon": -3.1743
  },
  "fuengirola|malaga": {
   "provincia": "Málaga",

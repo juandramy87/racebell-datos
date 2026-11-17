@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generado": "2026-11-17T05:27",
+ "generado": "2026-11-17T10:12",
  "zona": "Europe/Madrid",
  "desde": "2026-11-17",
  "hasta": "2027-12-22",
@@ -160,39 +160,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/el-privilegio-100-millas-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-21-valladolid-3-prueba-copa-castilla-y-leon-de-bloque-open-geko-aventura-vi-open-b",
-   "nombre": "3ª Prueba Copa Castilla y León de Bloque - Open Geko Aventura: VI Open Boulder Ciudad de Valladolid",
-   "fecha": "2026-11-21",
-   "hora": "09:00",
-   "poblacion": "Valladolid",
-   "provincia": "Valladolid",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.6229201,
-    -4.7360395
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-09-25T12:00",
-   "inscripcion_hasta": "2026-11-20T10:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/3-prueba-copa-castilla-y-leon-de-bloque-open-geko-aventura-vi-open-boulder-ciudad-de-valladolid",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/0c98c319-2026-47be-9541-3962b9081445.jpeg",
-   "precios": [],
-   "previos": [
-    "Inscripciones agotadas"
-   ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/3-prueba-copa-castilla-y-leon-de-bloque-open-geko-aventura-vi-open-boulder-ciudad-de-valladolid"
     }
    ]
   },
@@ -1128,7 +1095,20 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2765/library/root/1f1fc325-1e9a-4d80-a275-ce42b93133e0.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Senderismo 12k",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Trail 21K",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Mini Trail 12k",
+     "euros": 0.0
+    }
+   ],
    "previos": [
     "Inscripciones agotadas"
    ],
@@ -1139,6 +1119,10 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas"
+    },
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/ii-geoparque-trail-fonelas"
     }
    ]
   },
@@ -1459,75 +1443,6 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/289"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-badajoz-ii-duatlon-cros-tres-arroyos-badajoz",
-   "nombre": "II Duatlón Cros Tres Arroyos Badajoz",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Badajoz",
-   "provincia": "Badajoz",
-   "comunidad": "extremadura",
-   "coords": [
-    38.8602956125994,
-    -6.91246032714844
-   ],
-   "modalidad": "duatlón",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-13T00:00",
-   "inscripcion_hasta": "2026-11-17T16:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/ii-duatlon-cros-tres-arroyos-badajoz",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1330/library/root/1d78c643-ac15-4c1e-96fb-bb4f128efbc4.jpeg",
-   "precios": [],
-   "previos": [
-    "Inscripciones agotadas"
-   ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/ii-duatlon-cros-tres-arroyos-badajoz"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-rincon-de-la-victoria-vii-duatlon-cros-rincon-de-la-victoria-memorial-jose-mart",
-   "nombre": "VII DUATLÓN CROS RINCÓN DE LA VICTORIA – Memorial José Martín Solís",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Rincón de la Victoria",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7162,
-    -4.2794
-   ],
-   "modalidad": "duatlón",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.global-tempo.com/carreras.php?id=3307",
-   "cartel": "https://www.global-tempo.com/portadas_carreras/3307CARTEL-DuCrosRincon26-v.web_.webp",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la normativa (PDF) de la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "globaltempo",
-     "url": "https://www.global-tempo.com/carreras.php?id=3307"
     }
    ]
   },
@@ -3378,42 +3293,6 @@
    ]
   },
   {
-   "id": "2026-11-28-garrucha-vii-duatlon-cros-menores-de-garrucha",
-   "nombre": "VII Duatlón Cros Menores de Garrucha",
-   "fecha": "2026-11-28",
-   "hora": null,
-   "poblacion": "Garrucha",
-   "provincia": "Almería",
-   "comunidad": "andalucia",
-   "coords": [
-    37.1854,
-    -1.8203
-   ],
-   "modalidad": "duatlón",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.todofondo.net/prueba/ver/vii-duatlon-cros-menores-de-garrucha---718/",
-   "cartel": "https://www.todofondo.net/media/competiciones/CARTEL-DuCrosMenoresGarrucha26-v2-1147x1536_-_copia.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre en la ficha de Todofondo"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "todofondo",
-     "url": "https://www.todofondo.net/prueba/ver/vii-duatlon-cros-menores-de-garrucha---718/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-28-madrid-x-carrera-tecnocasa-vuela-contra-la-violencia-de-genero",
    "nombre": "X Carrera Tecnocasa Vuela Contra la Violencia de Genero",
    "fecha": "2026-11-28",
@@ -3613,39 +3492,6 @@
     {
      "id": "dorsalchip",
      "url": "https://www.dorsalchip.es/carrera/2024/9/28/XXV_Carrera_Urbana_Villa_de_El_Gastor.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-29-el-ejido-v-duatlon-contrarreloj-por-equipos-el-ejido",
-   "nombre": "V Duatlón Contrarreloj por Equipos el Ejido",
-   "fecha": "2026-11-29",
-   "hora": "09:30",
-   "poblacion": "El Ejido",
-   "provincia": "Almería",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7704183,
-    -2.8110489
-   ],
-   "modalidad": "duatlón",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-01-08T10:30",
-   "inscripcion_hasta": "2026-02-02T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/v-duatlon-contrarreloj-por-equipos-el-ejido",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1300/library/root/331b4e7f-ba13-4cd0-94ac-8b22617a1477.jpg",
-   "precios": [],
-   "previos": [
-    "Inscripciones agotadas"
-   ],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/v-duatlon-contrarreloj-por-equipos-el-ejido"
     }
    ]
   },
@@ -8924,6 +8770,48 @@
    ]
   },
   {
+   "id": "2026-12-27-espluga-de-francola-l-039-12a-cursa-de-la-llufa",
+   "nombre": "12a Cursa de la Llufa",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "Espluga de Francolá (L&#039;)",
+   "provincia": "Tarragona",
+   "comunidad": "cataluna",
+   "coords": null,
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/12a-cursa-de-la-llufa",
+   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6af575e7-4cf4-4ffa-9aa1-4092ac1f105b.png",
+   "precios": [
+    {
+     "nombre": "Cursa i Caminada de la Llufa (Preu General)",
+     "euros": 10.0
+    },
+    {
+     "nombre": "Cursa i Caminada cursa de la Llufa (Soci CAE)",
+     "euros": 5.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/12a-cursa-de-la-llufa"
+    }
+   ]
+  },
+  {
    "id": "2026-12-27-coana-3-san-silvestre-andarina-medal-2026",
    "nombre": "3ª San Silvestre Andarina -medal 2026",
    "fecha": "2026-12-27",
@@ -9848,7 +9736,7 @@
    "cartel": "https://gesconchip.es/app/files/campusvirtual/pruebas/00000000000000000528/cartel/cartel ss 2026.png",
    "precios": [],
    "previos": [
-    "Cambio de precio el 17/11 a las 10:00"
+    "Cambio de precio el 28/12 a las 14:00"
    ],
    "avisos_calidad": [
     {
@@ -9914,7 +9802,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": "abierta",
    "url_inscripcion": "https://alcanzatumeta.es/xvii-san-silvestre-cieza-2026",
-   "cartel": "https://alcanzatumeta.es/uploads/Cartel/c3cbdf15054ef93956e1e6b312360cb2e6f7c8210fe33179.jpg",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/678462af01fce344ed1483abb54efed60bccf10ec0bba635.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -14203,42 +14091,6 @@
     {
      "id": "anunciadas",
      "url": "https://www.ultrasierranevada.com/"
-    }
-   ]
-  },
-  {
-   "id": "2027-04-03-herrera-xxiii-duatlon-de-herrera",
-   "nombre": "XXIII Duatlón de Herrera",
-   "fecha": "2027-04-03",
-   "hora": null,
-   "poblacion": "Herrera",
-   "provincia": "Sevilla",
-   "comunidad": "andalucia",
-   "coords": [
-    37.3653,
-    -4.8502
-   ],
-   "modalidad": "duatlón",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://gesconchip.es/prueba/informacion/xxiii-duatlon-de-herrera-1",
-   "cartel": "https://gesconchip.es/app/files/campusvirtual/pruebas/00000000000000000564/cartel/Cartel GENÉRICO 2026 REDUCIDO.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la ficha de Gesconchip"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "gesconchip",
-     "url": "https://gesconchip.es/prueba/informacion/xxiii-duatlon-de-herrera-1"
     }
    ]
   },
