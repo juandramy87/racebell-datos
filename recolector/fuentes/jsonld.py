@@ -56,6 +56,10 @@ def leer_ficha(contenido: bytes | str, url: str, fuente_id: str, provincia_si_fa
         direccion = {"addressLocality": direccion}
     provincia = (nz.provincia(direccion.get("addressRegion")) or nz.provincia_por_cp(direccion.get("postalCode"))
                  or nz.provincia(direccion.get("addressLocality")) or provincia_si_falta)
+    municipio = None
+    if not provincia:
+        municipio = nz.municipio_espana(direccion.get("addressLocality")) or nz.municipio_espana(lugar.get("name"))
+        provincia = municipio[1] if municipio else None
     if not provincia:
         return None, f"fuera de España o sin provincia: {nombre} ({direccion.get('addressRegion')})"
     c = Carrera(
@@ -63,7 +67,7 @@ def leer_ficha(contenido: bytes | str, url: str, fuente_id: str, provincia_si_fa
         fecha=inicio.date(),
         hora=inicio.strftime("%H:%M") if inicio.strftime("%H:%M") != "00:00" else None,
         fuente=Fuente(fuente_id, url),
-        poblacion=nz.poblacion(direccion.get("addressLocality")),
+        poblacion=municipio[0] if municipio else nz.poblacion(direccion.get("addressLocality")),
         provincia=provincia,
         modalidad=modalidad,
         distancias_km=nz.distancias_del_nombre(nombre),

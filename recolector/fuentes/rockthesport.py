@@ -66,7 +66,11 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
         recuerdo = vistos.get(slug)
         # «espana» = False: no es de España (o no se pudo ubicar). Las fichas recordadas con el formato antiguo
         # («andaluza»: False, de cuando solo se buscaba Andalucía) se vuelven a abrir una vez.
-        if recuerdo and ("espana" in recuerdo or recuerdo.get("andaluza")):
+        # Las descartadas «sin provincia» antes del 17/11 (solo se reconocían provincias, no municipios de toda
+        # España) se vuelven a abrir una vez.
+        reabrir = (recuerdo is not None and recuerdo.get("espana") is False and not recuerdo.get("v2")
+                   and str(recuerdo.get("motivo", "")).startswith("fuera de España o sin provincia"))
+        if recuerdo and ("espana" in recuerdo or recuerdo.get("andaluza")) and not reabrir:
             if recuerdo.get("espana") is False or recuerdo.get("fecha", "9999") < desde.isoformat():
                 continue
         else:
@@ -82,7 +86,7 @@ def leer(sitemap: bytes | str, *, descargar_ficha: Callable[[str], bytes], desde
             c, motivo = jsonld.leer_ficha(ficha, url, ID, provincia_si_falta=lugar[1])
             adivinada = c is not None
         if not c or (adivinada and c.coords and not _en_andalucia(c.coords)):
-            vistos[slug] = {"espana": False, "motivo": motivo or "coordenadas fuera del municipio del nombre"}
+            vistos[slug] = {"espana": False, "v2": True, "motivo": motivo or "coordenadas fuera del municipio del nombre"}
             descartes.append(motivo or f"sin provincia: {slug}")
             continue
         vistos[slug] = {"espana": True, "provincia": c.provincia, "fecha": c.fecha.isoformat()}

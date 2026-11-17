@@ -170,3 +170,41 @@ def distancias_del_nombre(nombre: str) -> list[float]:
 
 def provincia_por_cp(cp: Optional[str]) -> Optional[str]:
     return PROVINCIA_POR_CP.get((cp or "").strip()[:2]) if cp and len(cp.strip()) == 5 else None
+
+
+# Municipios de toda España (INE, 1/1/2026) → provincia. Solo vale si el nombre es único en España.
+_MUNICIPIOS_ESPANA: Optional[dict[str, Optional[tuple[str, str]]]] = None
+
+
+def _indice_espana() -> dict[str, Optional[tuple[str, str]]]:
+    global _MUNICIPIOS_ESPANA
+    if _MUNICIPIOS_ESPANA is None:
+        import json
+        from pathlib import Path
+        ruta = Path(__file__).resolve().parents[1] / "datos" / "municipios-espana.json"
+        indice: dict[str, Optional[tuple[str, str]]] = {}
+        for prov, nombres in json.loads(ruta.read_text()).items():
+            for n in nombres:
+                k = clave(n)
+                previo = indice.get(k, (n, prov))
+                indice[k] = (n, prov) if previo and previo[1] == prov else None  # en dos provincias: no vale
+        _MUNICIPIOS_ESPANA = indice
+    return _MUNICIPIOS_ESPANA
+
+
+def municipio_espana(texto: Optional[str]) -> Optional[tuple[str, str]]:
+    """«BILBAO» → («Bilbao», «Bizkaia»); «Pl. de España, Fonelas» → («Fonelas», «Granada»). None si no está o si
+    hay pueblos iguales en varias provincias."""
+    if not texto:
+        return None
+    indice = _indice_espana()
+    for p in [texto] + [p for p in re.split(r"[,(\-–]", texto)[::-1] if p.strip()]:
+        hallado = indice.get(clave(p))
+        if hallado:
+            return hallado
+    return None
+
+
+def provincia_de_municipio(texto: Optional[str]) -> Optional[str]:
+    hallado = municipio_espana(texto)
+    return hallado[1] if hallado else None

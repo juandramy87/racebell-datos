@@ -19,13 +19,15 @@ def test_rockthesport_solo_abre_fichas_andaluzas_de_carreras(tmp_path):
                                     desde=date(2026, 11, 16), hasta=date(2026, 12, 31),
                                     ruta_vistos=tmp_path / "vistos.json")
     assert not any("marcha" in u for u in abiertas)  # las marchas ni se abren
-    assert len(carreras) == 1  # «Las Arenas» parece el municipio malagueño Arenas, pero sus coordenadas son de Bizkaia
+    # «Las Arenas» no es el Arenas malagueño: es de Getxo (Bizkaia), y desde que Racebell es de toda España se queda.
+    assert len(carreras) == 2
+    assert any(c.poblacion == "Getxo" and c.provincia == "Bizkaia" for c in carreras)
     c = carreras[0]
     assert (c.fecha, c.hora, c.poblacion, c.provincia) == (date(2026, 11, 22), "09:45", "Fonelas", "Granada")
     abiertas.clear()
     rockthesport.leer(muestra("rockthesport-sitemap.xml"), descargar_ficha=descargar_ficha,
                       desde=date(2026, 11, 16), hasta=date(2026, 12, 31), ruta_vistos=tmp_path / "vistos.json")
-    assert not any("bilbao" in u for u in abiertas)  # la ficha no andaluza ya no se vuelve a abrir
+    assert any("bilbao" in u for u in abiertas)  # es de España y aún no ha pasado: se vuelve a mirar
 
 
 def test_rockthesport_abre_una_vez_las_fichas_sin_municipio_en_el_nombre(tmp_path):
