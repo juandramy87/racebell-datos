@@ -52,3 +52,21 @@ tiempo (medias, maratones, ultras), Claude apunta a mano la fecha de la próxima
 (`fuentes/anunciadas.py`). Cuando una plataforma la publica, se une y manda la plataforma. Las que solo tienen fecha en
 agregadores van con `fecha_provisional` y sin web oficial no se publican. Revisarlas cada mes: `sin_fecha` dice cuáles
 faltan por anunciar. El calendario de la RFEA (`atletismorfea.es/calendario`) se probó y solo trae las de nivel nacional.
+
+## Lectores por zonas (17/11/2026)
+Cinco búsquedas en paralelo, una por zona; robots.txt revisado en cada web. Detalle en el docstring de cada lector.
+
+| Zona | Lectores (`fuentes/`) | Carreras a pie (próx. 45–60 días) |
+|---|---|---|
+| Cataluña | `hsports` (9hSports), `xipgroc` (Championchip Catalunya), `fca` (Federació Catalana, API WordPress), `iter5` (Lleida), `cursescat` (Girona), `cronosports` (Maresme, con cierre). Ayuda común `cataluna.py` (947 municipios, catalán→castellano) | ~68 únicas |
+| C. Valenciana y Murcia | `crono4sports` (con cierre), `fdmvalencia`, `facv` (Federación), `lineadesalida` (Cartagena), `dorsal21` (BabelSport). Ayuda `levante.py` | ~37 |
+| Madrid y Castillas | `youevent` (con cierre), `fam` (Federación de Madrid), `orycronsport` (Salamanca/Ávila), `timingsys` (Cuenca/Ciudad Real), `dipualba` (Diputación de Albacete) | ~43 |
+| Norte | `kirolprobak` (País Vasco, con cierre), `fga` (Federación Galega), `go321` (321Go, Asturias; id «321go»), `fcatle` (Cantabria, iCal), `cronelec` (Asturias), `fnaf` (Navarra) | ~55 |
+| Islas, Aragón, Extremadura | `elitechip` (Baleares, API, con cierre), `faib` (Federació Balear), `atletismoaragon`, `faex` (Extremadura), `gesport` (Tenerife, AvaiBook) | ~70 |
+
+Descartadas por robots.txt (`Disallow: /`): Toptime, inscripcions.cat, dsport.cat, Championchip Norte (ccnorte), Ideaticket.
+Con 403 a robots: Federación Asturiana, Federación Canaria, `/calendario/` de Cronelec. Con reto antibots (no se salta):
+Deporticket/Chipserena, Depor Chip. Solo por JS/POST o con token: Cronorunner (Valencia; API pública de su web, pendiente
+de decidir), H&J Crono, Trackingsport (Gran Canaria), Carreiras Galegas (la cubre la FGA), FEEC.
+Pendiente en `nucleo/`: buscar municipio sin provincia en toda España (hoy solo Andalucía); «marcha» no debería
+descartar «carrera y marcha solidaria»; catalán/gallego/euskera en `clasificar`; `avaibook` con `strict=False` y `?lang=es`.

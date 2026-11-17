@@ -1,0 +1,403 @@
+[
+{
+"id": 7596064,
+"slug": "iii-sant-antoni-camina-amb-el-cancer-2026",
+"nombreCompeticion": "III Sant Antoni Camina amb el Cancer 2026",
+"fechaInicio": "2026-11-08T00:00:00",
+"searchText": "iii sant antoni camina amb el cancer 2026 paseo de las fuentes sant antoni de portmany 11/8/2026",
+"idZona": 3,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566152,
+"slug": "xi-volta-amb-sitra-i-colla-de-3-mtb-2026",
+"nombreCompeticion": "XI Volta amb Sitra i Colla de 3 MTB 2026",
+"fechaInicio": "2026-11-15T00:00:00",
+"searchText": "xi volta amb sitra i colla de 3 mtb 2026 plaça de la vila mallorca porreres 11/15/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecbike",
+"color": -7108269,
+"id": 666010,
+"tipo": "Open BTT",
+"tipoDisciplina": 9
+}
+},
+{
+"id": 7600072,
+"slug": "xii-passa-passa-nordic-palma-2026",
+"nombreCompeticion": "XII Passa-Passa Nordic Palma 2026",
+"fechaInicio": "2026-11-15T00:00:00",
+"fechaLimInsc": "2026-11-12T00:00:00",
+"horaLimInsc": "1900-01-01T23:59:00",
+"inscripcionOnline": true,
+"searchText": "xii passa-passa nordic palma 2026 aparcament del castell de bellver palma 11/15/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecSenderismo",
+"color": -11235884,
+"id": 1044011,
+"tipo": "Marxa Nòrdica",
+"tipoDisciplina": 9
+}
+},
+{
+"id": 7380248,
+"slug": "xiv-mitja-marato-de-porreres-2026",
+"nombreCompeticion": "XIV Mitja Marató de Porreres 2026",
+"fechaInicio": "2026-11-22T00:00:00",
+"fechaLimInsc": "2026-11-21T00:00:00",
+"horaLimInsc": "1900-01-01T20:00:00",
+"inscripcionOnline": true,
+"searchText": "xiv mitja marato de porreres 2026 plaça de la vila mallorca porreres 11/22/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566147,
+"slug": "iv-cxm-puig-roig-kids-2026",
+"nombreCompeticion": "IV CxM Puig Roig KIDS 2026",
+"fechaInicio": "2026-11-29T00:00:00",
+"fechaLimInsc": "2026-11-25T00:00:00",
+"horaLimInsc": "1900-01-01T23:00:00",
+"inicioInscripcion": "2026-10-05T00:00:00",
+"horaInicioInsc": "1900-01-01T18:00:00",
+"inscripcionOnline": true,
+"searchText": "iv cxm puig roig kids 2026 lluc - escorca 11/29/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecSenderismo",
+"color": -16732080,
+"id": 90006,
+"tipo": "Cursa per Muntanya",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7380258,
+"slug": "vi-cxm-trail-puig-roig-2026",
+"nombreCompeticion": "VI CxM Trail Puig Roig 2026",
+"fechaInicio": "2026-11-29T00:00:00",
+"searchText": "vi cxm trail puig roig 2026 plaça del lledoner, lluc escorca 11/29/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecSenderismo",
+"color": -16732080,
+"id": 90006,
+"tipo": "Cursa per Muntanya",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566150,
+"slug": "xii-carrera-de-s-hostal-de-montuiri-2026",
+"nombreCompeticion": "XII Carrera de S’Hostal de Montuïri 2026",
+"fechaInicio": "2026-12-08T00:00:00",
+"fechaLimInsc": "2026-12-07T00:00:00",
+"horaLimInsc": "1900-01-01T21:00:00",
+"inscripcionOnline": true,
+"searchText": "xii carrera de s’hostal de montuiri 2026 bar-restaurant s'hostal (c/ constitucio, s/n) mallorca montuiri 12/8/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566121,
+"slug": "vii-cursa-des-tro-2026",
+"nombreCompeticion": "VII Cursa Des Tro 2026",
+"fechaInicio": "2026-12-08T00:00:00",
+"fechaLimInsc": "2026-12-07T00:00:00",
+"horaLimInsc": "1900-01-01T21:00:00",
+"inicioInscripcion": "2026-11-07T00:00:00",
+"horaInicioInsc": "1900-01-01T19:00:00",
+"inscripcionOnline": true,
+"searchText": "vii cursa des tro 2026 parc josep maria llompart vilafranca de bonany 12/8/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecTrail",
+"color": -1872887,
+"id": 666011,
+"tipo": "TrailRunning",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566157,
+"slug": "xlvii-mini-marato-formentera-memorial-john-tunks-2026",
+"nombreCompeticion": "XLVII Mini Marató Formentera – Memorial John Tunks 2026",
+"fechaInicio": "2026-12-12T00:00:00",
+"fechaLimInsc": "2026-12-11T00:00:00",
+"horaLimInsc": "1900-01-01T12:00:00",
+"inscripcionOnline": true,
+"searchText": "xlvii mini marato formentera – memorial john tunks 2026 plaça de la constitucio sant francesc xavier 12/12/2026",
+"idZona": 4,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566109,
+"slug": "i-cursa-cami-reial-2026",
+"nombreCompeticion": "I Cursa Cami Reial 2026",
+"fechaInicio": "2026-12-12T00:00:00",
+"searchText": "i cursa cami reial 2026 plaça d'espanya ferreries 12/12/2026",
+"idZona": 1,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecTrail",
+"color": -1872887,
+"id": 666011,
+"tipo": "TrailRunning",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7380124,
+"slug": "xiii-cursa-muntanyes-d-arta-2026",
+"nombreCompeticion": "XIII Cursa Muntanyes d'Artà. 2026",
+"fechaInicio": "2026-12-12T00:00:00",
+"searchText": "xiii cursa muntanyes d'arta. 2026 plaça del conqueridor mallorca arta 12/12/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecSenderismo",
+"color": -16732080,
+"id": 90006,
+"tipo": "Cursa per Muntanya",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566165,
+"slug": "iii-cursa-bosco-global-2026",
+"nombreCompeticion": "III Cursa BOSCO GLOBAL 2026",
+"fechaInicio": "2026-12-13T00:00:00",
+"fechaLimInsc": "2026-12-09T00:00:00",
+"horaLimInsc": "1900-01-01T21:00:00",
+"inscripcionOnline": true,
+"searchText": "iii cursa bosco global 2026 col·legi salesia (avinguda de la constitucio) ciutadella de menorca 12/13/2026",
+"idZona": 1,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7600073,
+"slug": "xx-duatlo-de-sa-pobla-2026",
+"nombreCompeticion": "XX Duatló de Sa Pobla 2026",
+"fechaInicio": "2026-12-13T00:00:00",
+"fechaLimInsc": "2026-12-12T00:00:00",
+"horaLimInsc": "1900-01-01T20:00:00",
+"inscripcionOnline": true,
+"searchText": "xx duatlo de sa pobla 2026 polideportivo municipal de sa pobla sa pobla 12/13/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecDuatlon",
+"color": -10532486,
+"id": 2,
+"tipo": "Duatlón",
+"tipoDisciplina": 4
+}
+},
+{
+"id": 7566160,
+"slug": "vi-cursa-memorial-miquel-amengual-2026",
+"nombreCompeticion": "VI Cursa Memorial Miquel Amengual 2026",
+"fechaInicio": "2026-12-13T00:00:00",
+"fechaLimInsc": "2026-12-12T00:00:00",
+"horaLimInsc": "1900-01-01T21:30:00",
+"inscripcionOnline": true,
+"searchText": "vi cursa memorial miquel amengual 2026 plaça major pollença 12/13/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7600076,
+"slug": "iv-hyrotxi-2026",
+"nombreCompeticion": "IV Hyrotxí 2026",
+"fechaInicio": "2026-12-19T00:00:00",
+"fechaLimInsc": "2026-12-17T00:00:00",
+"horaLimInsc": "1900-01-01T12:00:00",
+"inicioInscripcion": "2026-10-23T00:00:00",
+"horaInicioInsc": "1900-01-01T20:00:00",
+"inscripcionOnline": true,
+"searchText": "iv hyrotxi 2026 portol marratxi 12/19/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecHybrid",
+"color": -6862842,
+"id": 1158012,
+"tipo": "Hybrid Race",
+"tipoDisciplina": 4
+}
+},
+{
+"id": 7566159,
+"slug": "xix-cursa-de-sa-salsa-2026",
+"nombreCompeticion": "XIX Cursa de Sa Salsa 2026",
+"fechaInicio": "2026-12-20T00:00:00",
+"fechaLimInsc": "2026-12-18T00:00:00",
+"horaLimInsc": "1900-01-01T21:00:00",
+"inscripcionOnline": true,
+"searchText": "xix cursa de sa salsa 2026 camp de futbol de sant josep de sa talaia ibiza sant josep de sa talaia 12/20/2026",
+"idZona": 3,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566161,
+"slug": "xxxvii-cursa-de-s-e-2026",
+"nombreCompeticion": "XXXVII Cursa de s'È 2026",
+"fechaInicio": "2026-12-20T00:00:00",
+"fechaFin": "2025-12-21T00:00:00",
+"searchText": "xxxvii cursa de s'e 2026 alaro mallorca alaro 12/20/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7600071,
+"slug": "x-urban-race-rafa-nadal-club-2026",
+"nombreCompeticion": "X Urban Race Rafa Nadal Club 2026",
+"fechaInicio": "2026-12-26T00:00:00",
+"searchText": "x urban race rafa nadal club 2026 rafa nadal club (ctra. cales de mallorca km 1.2) mallorca manacor 12/26/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566167,
+"slug": "santsilvestrekidscalvia26",
+"nombreCompeticion": "Veolia Sant Silvestre Kids 2026",
+"fechaInicio": "2026-12-31T00:00:00",
+"fechaLimInsc": "2026-12-30T00:00:00",
+"horaLimInsc": "1900-01-01T23:59:00",
+"inscripcionOnline": true,
+"searchText": "veolia sant silvestre kids 2026 pista de atletismo de magaluf magaluf 12/31/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7380166,
+"slug": "sant-silvestre-llorencina-",
+"nombreCompeticion": "Sant Silvestre LLorencina ",
+"fechaInicio": "2026-12-31T00:00:00",
+"inscripcionOnline": false,
+"searchText": "sant silvestre llorencina  12/31/2026",
+"idZona": 0,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+},
+{
+"id": 7566128,
+"slug": "veoliasantsilvestre26",
+"nombreCompeticion": "XIV Veolia Sant Silvestre de Calvianera 2026",
+"fechaInicio": "2026-12-31T00:00:00",
+"searchText": "xiv veolia sant silvestre de calvianera 2026 pista de atletismo de magaluf magaluf 12/31/2026",
+"idZona": 2,
+"esEvento": false,
+"ocultarInternet": false,
+"tipoCompeticion": {
+"claseIcono": "ecRunning",
+"color": -11575000,
+"id": 1,
+"tipo": "Running",
+"tipoDisciplina": 0
+}
+}
+]

@@ -1,0 +1,309 @@
+{
+"events": [
+{
+"id": 87453,
+"title": "Petita JAB Trail (CCP)",
+"start_date": "2027-03-14 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/petita-jab-trail-ccp-2/",
+"website": "https://www.jaberga.com/petita",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "L&#8217;Espunyola (Berguedà)"
+}
+},
+{
+"id": 87454,
+"title": "Correbocs d’Ordal (TRS) (CMT)",
+"start_date": "2027-03-14 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/correbocs-dordal-trs-cmt/",
+"website": "https://www.correbocs.cat/",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Ordal"
+}
+},
+{
+"id": 87455,
+"title": "Campionat d’Espanya Sub20 ST",
+"start_date": "2027-03-20 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-sub20-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87456,
+"title": "Copa de Promoció Sub 8-10. Tanquem la Pista Coberta",
+"start_date": "2027-03-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/copa-de-promocio-sub-8-10-tanquem-la-pista-coberta/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87458,
+"title": "Campionat de Catalunya de Promoció (Rasos Sky Trail Kids) (CCP)",
+"start_date": "2027-03-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-de-catalunya-de-promocio-rasos-sky-trail-kids-ccp/",
+"website": "",
+"categories": [
+{
+"name": "Promoció"
+},
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Castellar del Riu"
+}
+},
+{
+"id": 87459,
+"title": "Campionat d’Espanya d’Ultra Trail",
+"start_date": "2027-04-03 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-dultra-trail/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "El Paso (La Palma)"
+}
+},
+{
+"id": 87461,
+"title": "Campionat d’Espanya de Trail Running per Federacions Autonòmiques",
+"start_date": "2027-04-11 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-trail-running-per-federacions-autonomiques-6/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Urretxu (Zumarraga)"
+}
+},
+{
+"id": 87462,
+"title": "Campionat d’Europa Master Mountain y Trail Running",
+"start_date": "2027-04-16 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-deuropa-master-mountain-y-trail-running/",
+"website": "",
+"categories": [
+{
+"name": "Màster"
+},
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Ojós (Murcia)"
+}
+},
+{
+"id": 87463,
+"title": "27è Miting Internacional d’Atletisme Adaptat de L’Hospitalet – GP Sauleda",
+"start_date": "2027-04-24 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/27e-miting-internacional-datletisme-adaptat-de-lhospitalet-gp-sauleda/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+}
+],
+"venue": {
+"venue": "L&#8217;Hospitalet de Llobregat (Complex Esportiu L&#8217;Hospitalet Nord)"
+}
+},
+{
+"id": 87464,
+"title": "Campionat de Catalunya Màster (Trail Cerdanyola) (CMT)",
+"start_date": "2027-04-25 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-de-catalunya-master-trail-cerdanyola-cmt/",
+"website": "https://www.jaberga.com/trailcerdanyola",
+"categories": [
+{
+"name": "Màster"
+},
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Sant Julià de Cerdanyola"
+}
+},
+{
+"id": 87466,
+"title": "Campionat d’Espanya de Trail de Pujada Vertical",
+"start_date": "2027-05-01 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-trail-de-pujada-vertical/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Ezcaray (La Rioja)"
+}
+},
+{
+"id": 87467,
+"title": "Campionat d’Espanya de Curses de Muntanya",
+"start_date": "2027-05-02 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-curses-de-muntanya-2/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Ezcaray (La Rioja)"
+}
+},
+{
+"id": 87468,
+"title": "Campionat de Catalunya de Trail Pujada Vertical (Vertical Trail Berguedà)",
+"start_date": "2027-05-15 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-de-catalunya-de-trail-pujada-vertical-vertical-trail-bergueda-2/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Berga"
+}
+},
+{
+"id": 87469,
+"title": "Lo Port Vertical",
+"start_date": "2027-05-16 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/lo-port-vertical-2/",
+"website": "https://www.21kloport.cat/ca/lovertical-2/",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Tortosa"
+}
+},
+{
+"id": 87471,
+"title": "Campionat del Món Master Off-Road",
+"start_date": "2027-06-10 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-del-mon-master-off-road-2/",
+"website": "",
+"categories": [
+{
+"name": "Màster"
+},
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Klosters-Serneus"
+}
+},
+{
+"id": 87473,
+"title": "Internactional U18 Mountain Running Cup",
+"start_date": "2027-06-19 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/internactional-u18-mountain-running-cup/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Szczyrk (Polònia)"
+}
+},
+{
+"id": 87474,
+"title": "6a edició Trails del Pont de Vilomara i Rocafort",
+"start_date": "2027-09-25 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/6a-edicio-trails-del-pont-de-vilomara-i-rocafort/",
+"website": "https://cursaelpont.cat/",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "El Pont de Vilomara i Rocafort"
+}
+},
+{
+"id": 87476,
+"title": "World Mountain Trail Running Championships (WMTRC)",
+"start_date": "2027-10-06 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/world-mountain-trail-running-championships-wmtrc/",
+"website": "",
+"categories": [
+{
+"name": "Trail-Muntanya"
+}
+],
+"venue": {
+"venue": "Ciutat del Cap (Sud-Àfrica)"
+}
+}
+],
+"total": 168,
+"total_pages": 4
+}

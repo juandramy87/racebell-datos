@@ -1,0 +1,884 @@
+{
+"events": [
+{
+"id": 87348,
+"title": "9è Cros de Cardedeu",
+"start_date": "2026-11-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/9e-cros-de-cardedeu/",
+"website": "",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Cardedeu"
+}
+},
+{
+"id": 87349,
+"title": "38a Milles de Cerdanyola (5 Km)",
+"start_date": "2026-11-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/38a-milles-de-cerdanyola-5-km/",
+"website": "https://www.atcerdanyola.com/curses/milles-cerdanyola/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Cerdanyola del Vallès"
+}
+},
+{
+"id": 87350,
+"title": "Jornades Prèvies Campionat per Delegacions Territorials de Girona, Lleida i Tarragona Pista Coberta Categories Promoció",
+"start_date": "2026-11-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/jornades-previes-campionat-per-delegacions-territorials-de-girona-lleida-i-tarragona-pista-coberta-categories-promocio/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Lleida (Estadi Municipal Les Basses)"
+}
+},
+{
+"id": 89433,
+"title": "Control intern",
+"start_date": "2026-11-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-intern-77/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Lleida (Estadi Municipal Les Basses)"
+}
+},
+{
+"id": 87351,
+"title": "Jornades Prèvies Campionat per Delegacions Territorials de Girona, Lleida i Tarragona Pista Coberta Categories Promoció",
+"start_date": "2026-11-21 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/jornades-previes-campionat-per-delegacions-territorials-de-girona-lleida-i-tarragona-pista-coberta-categories-promocio-2/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Tarragona (Estadi Natalia Rodríguez)",
+"province": "Tarragona"
+}
+},
+{
+"id": 81350,
+"title": "47a Mitja Marató Espirall – Vilafranca",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/47a-mitja-marato-espirall-vilafranca/",
+"website": "https://mitja.vilafranca.cat/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Vilafranca del Penedès"
+}
+},
+{
+"id": 83650,
+"title": "Campionat d’Espanya de Cros per Clubs (XXII Cross Internacional de Atapuerca)",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-cros-per-clubs-xxii-cross-internacional-de-atapuerca/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-de-campo-traves-por-clubes-0",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Atapuerca (Burgos)"
+}
+},
+{
+"id": 86651,
+"title": "27è Cros Ciutat de Girona",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/27e-cros-ciutat-de-girona/",
+"website": "https://www.selvaesports.cat/activitats.php?nom_activitat=Circuit-Gironi-Cros-2026&amp;id_act=1368&amp;nom_jornada=27e-Cros-Ciutat-Girona&amp;id_jornada=659",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Girona"
+}
+},
+{
+"id": 86654,
+"title": "53è Cros Antoni Amorós",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/53e-cros-antoni-amoros/",
+"website": "",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Santa Coloma de Gramenet"
+}
+},
+{
+"id": 87352,
+"title": "20a Cursa de Parets (5 i 10 Km) (Circuits no homologats)",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/20a-cursa-de-parets-5-i-10-km-circuits-no-homologats/",
+"website": "https://www.caparets.com/la-cursa",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Parets del Vallès"
+}
+},
+{
+"id": 87353,
+"title": "73è Campionat de Sabadell",
+"start_date": "2026-11-22 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/73e-campionat-de-sabadell/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+}
+],
+"venue": {
+"venue": "Sabadell (Estadi Municipal Josep Molins)"
+}
+},
+{
+"id": 87549,
+"title": "Control de Promoció i Absolut en pista coberta",
+"start_date": "2026-11-27 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-promocio-i-absolut-en-pista-coberta-3/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+}
+],
+"venue": {
+"venue": "CTEO Ordino"
+}
+},
+{
+"id": 83655,
+"title": "Campionat d’Espanya de Clubs Sub16 ST",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-clubs-sub16-st/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-de-short-track-sub-16-por-clubes",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Antequera (Màlaga)"
+}
+},
+{
+"id": 87354,
+"title": "Gran Premi de Marxa Ciutat de Barberà",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/gran-premi-de-marxa-ciutat-de-barbera-4/",
+"website": "",
+"categories": [
+{
+"name": "Marxa"
+}
+],
+"venue": {
+"venue": "Barberà del Vallès"
+}
+},
+{
+"id": 87355,
+"title": "Obrim la Pista Coberta! Categoria Sub 8",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/obrim-la-pista-coberta-categoria-sub-8/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87356,
+"title": "Obrim la Pista Coberta! Categoria Sub 10",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/obrim-la-pista-coberta-categoria-sub-10/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87357,
+"title": "20è Míting Català de Veteranes i Veterans (8è Memorial Valentí Huch)",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/20e-miting-catala-de-veteranes-i-veterans-8e-memorial-valenti-huch/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Màster"
+}
+],
+"venue": {
+"venue": "Barcelona (Estadi Joan Serrahima)"
+}
+},
+{
+"id": 87358,
+"title": "Campionat d’Espanya de Clubs Màster Mixt",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-clubs-master-mixt-3/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-master-por-clubes-mixto",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Màster"
+}
+],
+"venue": {
+"venue": "Santa Cruz de Tenerife"
+}
+},
+{
+"id": 87550,
+"title": "1a Jornada Llançaments Llargs d’Hivern Sub 18-20",
+"start_date": "2026-11-28 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/1a-jornada-llancaments-llargs-dhivern-sub-18-20-2/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+}
+],
+"venue": {
+"venue": "Cornellà de Llobregat (Estadi Municipal Pilar Pons)"
+}
+},
+{
+"id": 83653,
+"title": "CIC Alcobendas-Comunidad de Madrid",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/cic-alcobendas-comunidad-de-madrid/",
+"website": "https://atletismorfea.es/calendario/campeonato/cic-alcobendas-comunidad-de-madrid-memorial-antonio-rodriguez-benavente-0",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Alcobendas (Madrid)"
+}
+},
+{
+"id": 86652,
+"title": "103a Allianz Jean Bouin (RFEA)",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/103a-allianz-jean-bouin-rfea/",
+"website": "https://allianzjeanbouin.mundodeportivo.com/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Barcelona"
+}
+},
+{
+"id": 86653,
+"title": "35è Cros de Vidreres (Campionat Gironí)",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/35e-cros-de-vidreres/",
+"website": "",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Vidreres",
+"city": "Vidreres",
+"province": "Girona"
+}
+},
+{
+"id": 87359,
+"title": "Control de Promoció FCA Sub 12-14 ST",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-promocio-fca-sub-12-14-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87360,
+"title": "Control de Proves Combinades Sub 12 ST",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-proves-combinades-sub-12-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87361,
+"title": "Control Sub 16-18 ST (1a Jornada)",
+"start_date": "2026-11-29 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-sub-16-18-st-1a-jornada/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87551,
+"title": "Control de Promoció i Absolut en pista coberta",
+"start_date": "2026-12-04 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-promocio-i-absolut-en-pista-coberta-4/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+}
+],
+"venue": {
+"venue": "CTEO Ordino"
+}
+},
+{
+"id": 83644,
+"title": "Campionat d’Espanya de Clubs Màster ST",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-clubs-master-st/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-de-short-track-master-por-clubes",
+"categories": [
+{
+"name": "Màster"
+},
+{
+"name": "Pista Coberta"
+}
+],
+"venue": {
+"venue": "Madrid"
+}
+},
+{
+"id": 87362,
+"title": "Control de Promoció FCA Sub 10-12 ST",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-promocio-fca-sub-10-12-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87363,
+"title": "Control de Proves Combinades Sub 14 Femení ST",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-proves-combinades-sub-14-femeni-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87364,
+"title": "Control de Promoció FCA Sub 8-14 ST",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-promocio-fca-sub-8-14-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87365,
+"title": "Control de Proves Combinades Sub 14 Masculí ST",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-proves-combinades-sub-14-masculi-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87366,
+"title": "Jornades Prèvies Campionat per Delegacions Territorials de Girona, Lleida i Tarragona Pista Coberta Categories Promoció",
+"start_date": "2026-12-05 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/jornades-previes-campionat-per-delegacions-territorials-de-girona-lleida-i-tarragona-pista-coberta-categories-promocio-3/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Girona (Estadi Palau Sacosta)"
+}
+},
+{
+"id": 83627,
+"title": "Maratón Valencia Trinidad Alfonso Zurich",
+"start_date": "2026-12-06 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/maraton-valencia-trinidad-alfonso-zurich/",
+"website": "https://atletismorfea.es/calendario/campeonato/maraton-valencia-trinidad-alfonso-zurich",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Valencia"
+}
+},
+{
+"id": 87367,
+"title": "47a Cursa de Sant Andreu (5 Km)",
+"start_date": "2026-12-06 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/47a-cursa-de-sant-andreu-5-km/",
+"website": "https://www.cnsantandreu.com/cursa-de-sant-andreu-2025/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Barcelona"
+}
+},
+{
+"id": 87368,
+"title": "10a Mitja Marató de Figueres i 10 Km de Figueres (Campionat Gironí de 10 Km)",
+"start_date": "2026-12-06 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/10a-mitja-marato-de-figueres-i-10-km-de-figueres/",
+"website": "https://mitjafigueres.com/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Figueres"
+}
+},
+{
+"id": 87369,
+"title": "1a Jornada Trofeu Natàlia Amiel ST",
+"start_date": "2026-12-06 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/1a-jornada-trofeu-natalia-amiel-st-2/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87370,
+"title": "Control intern",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-intern-75/",
+"website": "",
+"categories": [
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Santa Coloma de Gramenet (Camp d&#8217;Atletisme Antoni Amorós)"
+}
+},
+{
+"id": 87371,
+"title": "Campionats per Delegacions Territorials de Promoció ST",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionats-per-delegacions-territorials-de-promocio-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87372,
+"title": "Copa Femenina i Masculina de Promoció ST",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/copa-femenina-i-masculina-de-promocio-st-2/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87373,
+"title": "Control de Proves Combinades Sub 16-18 ST",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/control-de-proves-combinades-sub-16-18-st/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87374,
+"title": "Jornades Prèvies Campionat per Delegacions Territorials de Girona, Lleida i Tarragona ST Categories Promoció",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/jornades-previes-campionat-per-delegacions-territorials-de-girona-lleida-i-tarragona-st-categories-promocio/",
+"website": "",
+"categories": [
+{
+"name": "Pista Coberta"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Sabadell (Pista Coberta de Catalunya Carme Valero)"
+}
+},
+{
+"id": 87552,
+"title": "2a Jornada Llançaments Llargs d’Hivern Sub 18-20",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/2a-jornada-llancaments-llargs-dhivern-sub-18-20-2/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+}
+],
+"venue": {
+"venue": "Cornellà de Llobregat (Estadi Municipal Pilar Pons)"
+}
+},
+{
+"id": 87553,
+"title": "24 Hores d’Ultrafons en pista de Barcelona [RFEA]",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/24-hores-dultrafons-en-pista-de-barcelona-rfea-3/",
+"website": "https://activitats.corredors.cat/24hores/",
+"categories": [
+{
+"name": "Aire Lliure"
+}
+],
+"venue": {
+"venue": "Barcelona (Estadi Joan Serrahima)"
+}
+},
+{
+"id": 89043,
+"title": "Jornades Atlètiques Torredembarra",
+"start_date": "2026-12-12 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/jornades-atletiques-torredembarra-9/",
+"website": "",
+"categories": [
+{
+"name": "Aire Lliure"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Torredembarra (Estadi Municipal) Marques només a nivell català"
+}
+},
+{
+"id": 80237,
+"title": "Campionat d’Espanya de Marxa d’Hivern de Promoció",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-marxa-dhivern-de-promocio-9/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-de-marcha-de-invierno-de-promocion-3",
+"categories": [
+{
+"name": "Marxa"
+},
+{
+"name": "Promoció"
+}
+],
+"venue": {
+"venue": "Castro Urdiales"
+}
+},
+{
+"id": 80239,
+"title": "Campionat d’Espanya de 10 Km Marxa en ruta Màster",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-despanya-de-10-km-marxa-en-ruta-master-4/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-espana-10-km-marcha-master",
+"categories": [
+{
+"name": "Màster"
+},
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Castro Urdiales"
+}
+},
+{
+"id": 83631,
+"title": "Campionat d’Europa de Cros",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/campionat-deuropa-de-cros-11/",
+"website": "https://atletismorfea.es/calendario/campeonato/campeonato-de-europa-de-campo-traves-1",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Belgrado (SRB)"
+}
+},
+{
+"id": 86656,
+"title": "48a Cursa de La Sagrera (5 i 10 Km)",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/48a-cursa-de-la-sagrera-5-i-10-km/",
+"website": "https://www.cursadelasagrera.cat/",
+"categories": [
+{
+"name": "Ruta"
+}
+],
+"venue": {
+"venue": "Barcelona"
+}
+},
+{
+"id": 86657,
+"title": "23è Cros de Banyoles",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/23e-cros-de-banyoles/",
+"website": "",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Banyoles"
+}
+},
+{
+"id": 86658,
+"title": "43è Cros de Vila-seca",
+"start_date": "2026-12-13 00:00:00",
+"all_day": true,
+"url": "https://fcatletisme.cat/event/43e-cros-de-vila-seca/",
+"website": "",
+"categories": [
+{
+"name": "Cros"
+}
+],
+"venue": {
+"venue": "Vila-seca"
+}
+}
+],
+"total": 168,
+"total_pages": 4
+}

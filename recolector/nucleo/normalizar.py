@@ -1,6 +1,7 @@
 """Limpieza de textos y clasificación de modalidades, común a todas las fuentes."""
 from __future__ import annotations
 
+import html
 import re
 import unicodedata
 from typing import Optional
@@ -96,7 +97,7 @@ _SIGLAS = {"CXM", "KV", "UMA", "OCR", "CD", "AD", "CA", "UD", "FAA", "10K", "5K"
 def nombre(texto: str) -> str:
     """Quita comillas y espacios raros; si viene TODO EN MAYÚSCULAS lo pasa a formato título
     respetando números romanos y siglas («XIII CARRERA LA CORDOBARIA» → «XIII Carrera La Cordobaria»)."""
-    t = re.sub(r"[“”\"«»⁠]", "", texto)
+    t = re.sub(r"[“”\"«»⁠]", "", html.unescape(texto))
     t = re.sub(r"\s+", " ", t).strip(" -·")
     letras = [c for c in t if c.isalpha()]
     if letras and sum(c.isupper() for c in letras) / len(letras) > 0.8:
@@ -159,9 +160,9 @@ def distancias_del_nombre(nombre: str) -> list[float]:
     """«5Km y 10Km …» → [5, 10]; «Media Maratón» → [21.097]; «Maratón» → [42.195]."""
     t = clave(nombre)
     kms = [float(x.replace(",", ".")) for x in re.findall(r"\b(\d{1,3}(?:[.,]\d)?) ?km?\b", t)]
-    if "media maraton" in t:
+    if re.search(r"\b(media|medio|mitja|mitja) maraton|\bmitja marato\b|\bmeia maratona\b", t):
         kms.append(21.097)
-    elif re.search(r"\bmaraton\b", t) and not re.search(r"ecomaraton|ultra ?maraton", t):
+    elif re.search(r"\b(maraton|marato)\b", t) and not re.search(r"ecomaraton|ultra ?maraton", t):
         kms.append(42.195)
     return sorted(set(kms))
 

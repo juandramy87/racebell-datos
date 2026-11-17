@@ -17,6 +17,10 @@ from zoneinfo import ZoneInfo
 from fuentes import (anunciadas, rockthesport, alcanzatumeta, cruzandolameta, montur, corredorespopulares, cronius, cronofinisher, deportime, dorsalchip, faa,
                      gesconchip, globaltempo, inscrik, jsonld, olarivers, ruta091, runnink, sesca, sportmaniacs,
                      tecnocrono, time2run, todofondo, tucarrera)
+# Lectores por zonas (17/11/2026)
+from fuentes import (atletismoaragon, cronelec, crono4sports, cronosports, cursescat, dipualba, dorsal21, elitechip,
+                     facv, faex, faib, fam, fca, fcatle, fdmvalencia, fga, fnaf, gesport, go321, hsports, iter5,
+                     kirolprobak, lineadesalida, orycronsport, timingsys, xipgroc, youevent)
 from nucleo import municipios, red
 from nucleo.duplicados import deduplicar
 from nucleo.modelo import Carrera
@@ -65,6 +69,46 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (sportmaniacs.ID, lambda: sportmaniacs.leer(sportmaniacs.bajar_paginas(bajar, hasta),
                                                     descargar_ficha=bajar_ficha_jsonld, desde=desde, hasta=hasta,
                                                     recuerdo=recuerdo_sm)),
+        # --- Cataluña ---
+        (hsports.ID, lambda: hsports.leer(bajar(hsports.URL))),
+        (xipgroc.ID, lambda: _paginado(xipgroc, bajar, desde, hasta)),
+        (fca.ID, lambda: _paginado(fca, bajar, desde, hasta)),
+        (iter5.ID, lambda: iter5.leer(bajar(iter5.URL))),
+        (cursescat.ID, lambda: cursescat.leer(bajar(cursescat.URL))),
+        (cronosports.ID, lambda: cronosports.leer(bajar(cronosports.URL), descargar_ficha=bajar)),
+        # --- Comunitat Valenciana y Murcia ---
+        (crono4sports.ID, lambda: crono4sports.leer(bajar(crono4sports.URL), bajar(crono4sports.PORTADA),
+                                                    descargar_ficha=bajar, hoy=desde)),
+        (fdmvalencia.ID, lambda: fdmvalencia.leer(bajar(fdmvalencia.URL), bajar(fdmvalencia.OTRAS))),
+        (facv.ID, lambda: facv.leer(bajar(facv.URL))),
+        (lineadesalida.ID, lambda: lineadesalida.leer(bajar(lineadesalida.URL))),
+        (dorsal21.ID, lambda: dorsal21.leer(bajar(dorsal21.URL))),
+        # --- Madrid y las Castillas ---
+        (youevent.ID, lambda: youevent.leer(bajar(youevent.URL), descargar_ficha=lambda u: red.descargar(
+                                                u, usar_cache=usar_cache, recortar=youevent.recortar_ficha),
+                                            desde=desde, hasta=hasta)),
+        (fam.ID, lambda: fam.leer([bajar(u) for u in fam.urls(desde, hasta)])),
+        (orycronsport.ID, lambda: orycronsport.leer(bajar(orycronsport.URL), descargar_ficha=lambda u: red.descargar(
+                                                        u, usar_cache=usar_cache, recortar=orycronsport.recortar_ficha))),
+        (timingsys.ID, lambda: timingsys.leer(bajar(timingsys.URL), descargar_ficha=lambda u: red.descargar(
+                                                  u, usar_cache=usar_cache, recortar=timingsys.recortar_ficha))),
+        (dipualba.ID, lambda: dipualba.leer([(red.descargar(u, usar_cache=usar_cache, recortar=dipualba.recortar), m)
+                                             for u, m in dipualba.URLS.items()])),
+        # --- Norte ---
+        (kirolprobak.ID, lambda: kirolprobak.leer(bajar(kirolprobak.URL), descargar_ficha=bajar)),
+        (fga.ID, lambda: fga.leer([bajar(u) for u in fga.urls(desde)])),
+        (go321.ID, lambda: go321.leer(bajar(go321.URL), descargar_ficha=lambda u: red.descargar(
+                                          u, usar_cache=usar_cache, recortar=go321.recortar_ficha))),
+        (fcatle.ID, lambda: fcatle.leer(bajar(fcatle.URL))),
+        (cronelec.ID, lambda: cronelec.leer(bajar(cronelec.URL))),
+        (fnaf.ID, lambda: fnaf.leer(bajar(fnaf.URL))),
+        # --- Baleares, Canarias, Aragón y Extremadura ---
+        (elitechip.ID, lambda: elitechip.leer([red.descargar(u, usar_cache=usar_cache, recortar=elitechip.recortar)
+                                               for u in elitechip.urls(desde, hasta)])),
+        (faib.ID, lambda: faib.leer([bajar(u) for u in faib.URLS])),
+        (atletismoaragon.ID, lambda: atletismoaragon.leer([bajar(u) for u in atletismoaragon.urls(desde)])),
+        (faex.ID, lambda: faex.leer(faex.bajar_paginas(bajar, desde))),
+        (gesport.ID, lambda: gesport.leer(bajar(gesport.URL), descargar_ficha=bajar)),
         # Siempre la última: solo rellena lo que ninguna plataforma tiene todavía.
         (anunciadas.ID, lambda: anunciadas.leer(json.loads((Path(__file__).resolve().parent / "anunciadas.json").read_text()),
                                                 hoy=desde)),
@@ -107,6 +151,11 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
     (DATOS / "informe.json").write_text(json.dumps(informe, ensure_ascii=False, indent=1))
     print(f"  {len(todas)} carreras → {len(unicas)} tras unir {len(uniones)} duplicados")
     return salida
+
+
+def _paginado(mod, bajar, desde, hasta) -> tuple[list[Carrera], list[str]]:
+    primera = bajar(mod.url(desde, hasta))
+    return mod.leer([primera] + [bajar(u) for u in mod.otras_paginas(primera, desde, hasta)])
 
 
 def _cronofinisher(bajar) -> tuple[list[Carrera], list[str]]:
