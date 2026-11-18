@@ -1,9 +1,9 @@
 {
  "version": 1,
- "generado": "2026-11-17T23:23",
+ "generado": "2026-11-18T00:57",
  "zona": "Europe/Madrid",
- "desde": "2026-11-17",
- "hasta": "2027-12-22",
+ "desde": "2026-11-18",
+ "hasta": "2027-12-23",
  "carreras": [
   {
    "id": "2026-11-18-guadalupe-vii-milla-popular-bienvenida-universitaria-2026",
@@ -857,7 +857,7 @@
    ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -1736,23 +1736,20 @@
    ]
   },
   {
-   "id": "2026-11-21-candelaria-subida-vertical-a-la-mesa-de-candelaria",
+   "id": "2026-11-21-subida-vertical-a-la-mesa-de-candelaria",
    "nombre": "Subida Vertical a La Mesa de Candelaria",
    "fecha": "2026-11-21",
    "hora": null,
-   "poblacion": "Candelaria",
+   "poblacion": null,
    "provincia": "Santa Cruz de Tenerife",
    "comunidad": "canarias",
-   "coords": [
-    28.355676,
-    -16.371718
-   ],
+   "coords": null,
    "modalidad": null,
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.conchipcanarias.com/inscripcion/xiii-subida-vertical-a-la-mesa-de-candelaria-2026/",
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -1781,15 +1778,20 @@
    "modalidad": "montaña",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-17T23:59",
-   "estado_fuente": "abierta",
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
    "url_inscripcion": "https://www.cronofinisher.com/evento/trail-de-llerena/",
    "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/740/cartel-trail-llerena-jpeg.jpg",
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en el calendario"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "cronofinisher",
@@ -2000,7 +2002,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -2901,7 +2903,7 @@
    ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -2939,7 +2941,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3389,7 +3391,7 @@
     39.195279303976,
     -0.422632322228984
    ],
-   "modalidad": null,
+   "modalidad": "asfalto",
    "distancias_km": [
     21.097
    ],
@@ -3398,15 +3400,29 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xxv-mitja-marato-samaruc-2026-algemesi",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/c1901fc6-4ce1-4715-a003-0d4d98e4af3b_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Media Maratón",
+     "euros": 15.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xxv-mitja-marato-samaruc-2026-algemesi"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xxv-mitja-marato-samaruc-2026-algemesi"
     }
    ]
   },
@@ -8128,6 +8144,49 @@
    ]
   },
   {
+   "id": "2026-11-29-favara-10e-trail-senglars-la-mola-extrem-favara-lmvs-26-27",
+   "nombre": "10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27",
+   "fecha": "2026-11-29",
+   "hora": null,
+   "poblacion": "Favara",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.4532779,
+    -0.3944806
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    15.0
+   ],
+   "inscripcion_desde": "2026-10-01T10:00",
+   "inscripcion_hasta": "2026-11-25T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/15b459f6-1b53-4b4f-aa0f-fd83d26bc334_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "Mola Extrem LMVS",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627"
+    }
+   ]
+  },
+  {
    "id": "2026-11-29-vidreres-35e-cros-de-vidreres-campionat-gironi",
    "nombre": "35è Cros de Vidreres (Campionat Gironí)",
    "fecha": "2026-11-29",
@@ -8837,21 +8896,41 @@
     -0.4178201
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    17.5
+   ],
    "inscripcion_desde": "2026-06-29T10:00",
    "inscripcion_hasta": "2026-12-02T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/49d977a7-7e21-4f3f-9343-0c5d1ea7d5fb_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Trail",
+     "euros": 24.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 24.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/iii-trail-nocturno-cabeco-dor-busot"
     }
    ]
   },
@@ -9228,21 +9307,47 @@
     -0.7170927
    ],
    "modalidad": "montaña",
-   "distancias_km": [],
+   "distancias_km": [
+    14.0,
+    35.0,
+    61.0
+   ],
    "inscripcion_desde": "2026-09-18T20:00",
    "inscripcion_hasta": "2026-12-02T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-sierra-de-chiva",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/57c79b10-66cb-43cd-af28-0d2ce56d8931_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "61k",
+     "euros": 68.0
+    },
+    {
+     "nombre": "35k",
+     "euros": 45.0
+    },
+    {
+     "nombre": "14k",
+     "euros": 25.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-sierra-de-chiva"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xv-carrera-por-montana-sierra-de-chiva"
     }
    ]
   },
@@ -15068,6 +15173,54 @@
    ]
   },
   {
+   "id": "2026-12-13-xeresa-xi-moduver-trail-xeresa-lmvs-26-27",
+   "nombre": "XI Modúver trail, Xeresa, LMVS. 26/27",
+   "fecha": "2026-12-13",
+   "hora": null,
+   "poblacion": "Xeresa",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.0102683,
+    -0.2168752
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    14.8,
+    21.64
+   ],
+   "inscripcion_desde": "2026-10-12T10:00",
+   "inscripcion_hasta": "2026-12-09T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xi-moduvert-trail-xeresa-lmvs-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/edddc5fa-e48e-4e9e-a150-fd9ca0667cd1_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "Trail, LMVS",
+     "euros": 25.0
+    },
+    {
+     "nombre": "SPRINT TRAIL, LMVS",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xi-moduvert-trail-xeresa-lmvs-2627"
+    }
+   ]
+  },
+  {
    "id": "2026-12-13-zaragoza-xii-carrera-empresas-esic-zaragoza",
    "nombre": "XII Carrera Empresas ESIC Zaragoza",
    "fecha": "2026-12-13",
@@ -15351,6 +15504,60 @@
     {
      "id": "faex",
      "url": "https://www.atletismo-ext.com/es/actividad-1139/xvi-media-maraton-de-navalmoral-de-la-mata-e2809cmemorial-valeriano-lombardiae2809d-y-viii-10k"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-13-calp-xxii-trail-serra-d-olta-calp-9e-circuit-trail-marina-26-27",
+   "nombre": "XXII TRAIL SERRA D'OLTÀ ‐ CALP, 9e. Circuit Trail Marina 26/27",
+   "fecha": "2026-12-13",
+   "hora": null,
+   "poblacion": "Calp",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.6500005,
+    0.0487799
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    16.3,
+    22.0
+   ],
+   "inscripcion_desde": "2026-10-12T10:00",
+   "inscripcion_hasta": "2026-12-06T23:59",
+   "estado_fuente": "cerrada",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/sprint-trail-la-mola-calp-9e-circuit-trail-marina-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/23c241b5-baa0-4229-bee8-54270229d261_custom1.png",
+   "precios": [
+    {
+     "nombre": "MM OLTÀ, CTM",
+     "euros": 25.0
+    },
+    {
+     "nombre": "14K Sprint CTM",
+     "euros": 22.0
+    },
+    {
+     "nombre": "Marxa la Mola CTM",
+     "euros": 22.0
+    }
+   ],
+   "previos": [
+    "Inscripciones agotadas"
+   ],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/sprint-trail-la-mola-calp-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -15769,21 +15976,42 @@
     -0.6917994
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    10.0,
+    22.0
+   ],
    "inscripcion_desde": "2026-08-02T12:00",
    "inscripcion_hasta": "2026-12-16T23:58",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xv-trail-muntanya-de-vallada",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/cb9554e3-1618-49fb-a84b-b35596590d36.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Trail 22k",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Sprint Trail 10k",
+     "euros": 20.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xv-trail-muntanya-de-vallada"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xv-trail-muntanya-de-vallada"
     }
    ]
   },
@@ -16020,6 +16248,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/sansilbestrail-nx-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-19-loeches-carrera-de-la-navidad",
+   "nombre": "Carrera de la Navidad",
+   "fecha": "2026-12-19",
+   "hora": "11:00",
+   "poblacion": "Loeches",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
+   "coords": [
+    40.3803798,
+    -3.4130973
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T08:00",
+   "inscripcion_hasta": "2026-12-17T00:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/carrera-de-la-navidad",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/05ec2546-0d88-462b-8542-325f5b6eed2c.png",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/carrera-de-la-navidad"
     }
    ]
   },
@@ -17455,15 +17714,33 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/quarta-i-mitja-marato-paiporta-picanya-2026",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/afc6775f-dcce-4b3b-9f74-cf82af226678_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Quarta",
+     "euros": 10.0
+    },
+    {
+     "nombre": "Mitja",
+     "euros": 12.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/quarta-i-mitja-marato-paiporta-picanya-2026"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/quarta-i-mitja-marato-paiporta-picanya-2026"
     }
    ]
   },
@@ -18504,21 +18781,41 @@
     -3.60076606494292
    ],
    "modalidad": "asfalto",
-   "distancias_km": [],
+   "distancias_km": [
+    10.0
+   ],
    "inscripcion_desde": "2026-10-01T07:00",
    "inscripcion_hasta": "2026-12-10T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/42-carrera-popular-caixabank-villa-de-aranjuez",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/7b6948fb-4dbd-4445-885d-90ddf32bdd2b_custom1.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "10k",
+     "euros": 19.0
+    },
+    {
+     "nombre": "Menores 2010 al 2020",
+     "euros": 1.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/42-carrera-popular-caixabank-villa-de-aranjuez"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/42-carrera-popular-caixabank-villa-de-aranjuez"
     }
    ]
   },
@@ -19678,6 +19975,56 @@
     {
      "id": "fga",
      "url": "https://atletismo.gal/competicions/xv-sin-son-10-k/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-20-monover-xx-carrera-por-montana-y-marcha-a-pie-serra-del-coto",
+   "nombre": "XX Carrera por Montaña y Marcha a Pié Serra del Coto",
+   "fecha": "2026-12-20",
+   "hora": null,
+   "poblacion": "Monòver",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.4096572,
+    -0.9552312
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [
+    14.0,
+    23.0
+   ],
+   "inscripcion_desde": "2026-10-14T09:59",
+   "inscripcion_hasta": "2026-12-13T20:00",
+   "estado_fuente": "cerrada",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xx-carrera-por-montana-y-marcha-a-pie-serra-del-coto",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/87d10bc1-37ce-4bb5-ab3f-bae8bf18d1bb_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "23k, TRAIL",
+     "euros": 25.0
+    },
+    {
+     "nombre": "14k TRAIL & SENDER",
+     "euros": 25.0
+    }
+   ],
+   "previos": [
+    "Inscripciones agotadas"
+   ],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xx-carrera-por-montana-y-marcha-a-pie-serra-del-coto"
     }
    ]
   },
@@ -21476,17 +21823,14 @@
    ]
   },
   {
-   "id": "2026-12-26-valle-gran-rey-trail-subida-a-la-merica",
+   "id": "2026-12-26-trail-subida-a-la-merica",
    "nombre": "Trail Subida a la Mérica",
    "fecha": "2026-12-26",
    "hora": null,
-   "poblacion": "Valle Gran Rey",
+   "poblacion": null,
    "provincia": "Santa Cruz de Tenerife",
    "comunidad": "canarias",
-   "coords": [
-    28.085575,
-    -17.333157
-   ],
+   "coords": null,
    "modalidad": "trail",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -22062,21 +22406,64 @@
     -0.840115999999966
    ],
    "modalidad": "asfalto",
-   "distancias_km": [],
+   "distancias_km": [
+    0.4,
+    0.8,
+    1.4,
+    5.0
+   ],
    "inscripcion_desde": "2026-10-22T10:00",
    "inscripcion_hasta": "2026-12-25T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xxxvi-san-silvestre-monovera",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/546c1df0-8a17-4837-b2f9-eea03eeb8cae.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "5k +14 AÑOS",
+     "euros": 3.0
+    },
+    {
+     "nombre": "Marcha Nórdica",
+     "euros": 3.0
+    },
+    {
+     "nombre": "Marcha no competitiva",
+     "euros": 3.0
+    },
+    {
+     "nombre": "11 A 13 AÑOS",
+     "euros": 3.0
+    },
+    {
+     "nombre": "8 A 10 AÑOS",
+     "euros": 3.0
+    },
+    {
+     "nombre": "De 6 a 7 años",
+     "euros": 3.0
+    },
+    {
+     "nombre": "HASTA 5 AÑOS",
+     "euros": 3.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xxxvi-san-silvestre-monovera"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xxxvi-san-silvestre-monovera"
     }
    ]
   },
@@ -22741,7 +23128,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -23585,6 +23972,55 @@
     {
      "id": "dorsalchip",
      "url": "https://www.dorsalchip.es/carrera/2026/12/27/San_Silvestre_de_Torremolinos.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-altea-xiii-san-silvestre-altea-2026",
+   "nombre": "XIII San Silvestre, Altea 2026",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "Altea",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.6044902,
+    -0.0442373
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-26T08:00",
+   "inscripcion_hasta": "2026-12-24T12:00",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xiii-san-silvestre-altea-2026",
+   "cartel": "https://rockthesportv2.blob.core.windows.net/evento/987d0343-de37-4942-b9ad-996068000fe1_p.jpg",
+   "precios": [
+    {
+     "nombre": "4k",
+     "euros": 6.0
+    },
+    {
+     "nombre": "Marcha Nórdica",
+     "euros": 6.0
+    },
+    {
+     "nombre": "Caminata popular",
+     "euros": 6.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xiii-san-silvestre-altea-2026"
     }
    ]
   },
@@ -26893,17 +27329,14 @@
    ]
   },
   {
-   "id": "2026-12-31-la-aldea-de-san-nicolas-san-silvestre-la-aldea",
+   "id": "2026-12-31-san-silvestre-la-aldea",
    "nombre": "San Silvestre La Aldea",
    "fecha": "2026-12-31",
    "hora": null,
-   "poblacion": "La Aldea de San Nicolás",
+   "poblacion": null,
    "provincia": "Las Palmas",
    "comunidad": "canarias",
-   "coords": [
-    27.978271,
-    -15.781302
-   ],
+   "coords": null,
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -26986,17 +27419,14 @@
    ]
   },
   {
-   "id": "2026-12-31-vallehermoso-san-silvestre-pantanera",
+   "id": "2026-12-31-san-silvestre-pantanera",
    "nombre": "San Silvestre Pantanera",
    "fecha": "2026-12-31",
    "hora": null,
-   "poblacion": "Vallehermoso",
+   "poblacion": null,
    "provincia": "Santa Cruz de Tenerife",
    "comunidad": "canarias",
-   "coords": [
-    28.180199,
-    -17.2659
-   ],
+   "coords": null,
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -27017,17 +27447,14 @@
    ]
   },
   {
-   "id": "2026-12-31-los-realejos-san-silvestre-realejera",
+   "id": "2026-12-31-san-silvestre-realejera",
    "nombre": "San Silvestre Realejera",
    "fecha": "2026-12-31",
    "hora": null,
-   "poblacion": "Los Realejos",
+   "poblacion": null,
    "provincia": "Santa Cruz de Tenerife",
    "comunidad": "canarias",
-   "coords": [
-    28.38516,
-    -16.583717
-   ],
+   "coords": null,
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -29365,6 +29792,59 @@
    ]
   },
   {
+   "id": "2027-01-10-polop-x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-26-27",
+   "nombre": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
+   "fecha": "2027-01-10",
+   "hora": null,
+   "poblacion": "Polop",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.6223258,
+    -0.1310316
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    10.0,
+    16.0,
+    24.0
+   ],
+   "inscripcion_desde": "2026-11-10T10:00",
+   "inscripcion_hasta": "2027-01-06T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d59d097c-6998-49ed-8f94-5c28c13f36d7_custom1.png",
+   "precios": [
+    {
+     "nombre": "24k Ponoig, CTM",
+     "euros": 24.0
+    },
+    {
+     "nombre": "Sprint Ponoig,  CTM",
+     "euros": 22.0
+    },
+    {
+     "nombre": "Sender Ponoig, CTM",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627"
+    }
+   ]
+  },
+  {
    "id": "2027-01-10-alhaurin-de-la-torre-xiii-cxm-alhaurin-de-la-torre-la-conquista-del-paraiso",
    "nombre": "XIII CxM Alhaurín de la Torre La Conquista del Paraíso",
    "fecha": "2027-01-10",
@@ -29933,21 +30413,52 @@
     -0.4162761
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    12.0,
+    12.5,
+    20.5,
+    42.0
+   ],
    "inscripcion_desde": "2026-10-05T10:00",
    "inscripcion_hasta": "2027-01-10T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/serralades-de-barxera-mabu-2027-lmvs-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/02c6156a-7361-4b2a-ad65-59ea7c285a9a_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "42k",
+     "euros": 40.0
+    },
+    {
+     "nombre": "Trail, LMVS",
+     "euros": 22.0
+    },
+    {
+     "nombre": "SPRINT TRAIL, LMVS",
+     "euros": 18.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 17.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/serralades-de-barxera-mabu-2027-lmvs-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/serralades-de-barxera-mabu-2027-lmvs-2627"
     }
    ]
   },
@@ -29964,21 +30475,47 @@
     -0.1210319
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    13.0,
+    15.0,
+    22.0
+   ],
    "inscripcion_desde": "2026-11-16T10:00",
    "inscripcion_hasta": "2027-01-13T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/0c3f3c1b-c056-417b-9114-36f426681842_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Almèdia Trail",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Sprint Almèdia,  CTM",
+     "euros": 21.0
+    },
+    {
+     "nombre": "Almèdia Senderista, CTM",
+     "euros": 21.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -31335,6 +31872,67 @@
    ]
   },
   {
+   "id": "2027-01-24-alcoi-1a-prova-de-lliga-cxm-femecv-2027-club-ultratrail-muntanyes-de-l-alcoia-i",
+   "nombre": "1a Prova de Lliga CxM Femecv 2027, Club Ultratrail Muntanyes de L'alcoia I el Comtat",
+   "fecha": "2027-01-24",
+   "hora": null,
+   "poblacion": "Alcoi",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.6989465,
+    -0.4816546
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-23T10:00",
+   "inscripcion_hasta": "2027-01-20T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/1a-prova-de-lliga-cxm-femecv-club-ultratrail-muntanyes-de-lalcoia-i-el-comtat",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d8b79544-a3ac-4538-bbd7-de934329409f_custom1.png",
+   "precios": [
+    {
+     "nombre": "Absoluta",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Júnior",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Juvenil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Infantil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Invidentes",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/1a-prova-de-lliga-cxm-femecv-club-ultratrail-muntanyes-de-lalcoia-i-el-comtat"
+    }
+   ]
+  },
+  {
    "id": "2027-01-24-les-borges-blanques-cursa-de-l-oli-de-les-borges-blanques",
    "nombre": "Cursa de l'oli de les Borges Blanques",
    "fecha": "2027-01-24",
@@ -31780,21 +32378,37 @@
     -0.3284264
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    16.0
+   ],
    "inscripcion_desde": "2026-11-30T10:00",
    "inscripcion_hasta": "2027-01-28T12:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/12-vmll-volta-muntanya-de-llauri-lmvs-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/29c4c039-51ad-4988-a987-4daae9c7c6f5_custom1.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "TRA·LLA, LMVS",
+     "euros": 22.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/12-vmll-volta-muntanya-de-llauri-lmvs-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/12-vmll-volta-muntanya-de-llauri-lmvs-2627"
     }
    ]
   },
@@ -31896,6 +32510,59 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8635"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-30-xabia-granadella-trail-2027",
+   "nombre": "Granadella Trail 2027",
+   "fecha": "2027-01-30",
+   "hora": null,
+   "poblacion": "Xàbia",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.7712675,
+    0.1920261
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    10.0,
+    14.0,
+    21.0
+   ],
+   "inscripcion_desde": "2026-11-27T10:00",
+   "inscripcion_hasta": "2027-01-26T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/granadella-trail-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/b6a865f5-8191-4e34-819d-2e8fe1e22f69_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "Sprint Trail 14k",
+     "euros": 26.0
+    },
+    {
+     "nombre": "21K, Media Maratón",
+     "euros": 28.0
+    },
+    {
+     "nombre": "10K, Short trail",
+     "euros": 25.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/granadella-trail-2027"
     }
    ]
   },
@@ -33325,6 +33992,59 @@
    ]
   },
   {
+   "id": "2027-02-06-simat-de-la-valldigna-simat-trail-lmvs-26-27",
+   "nombre": "Simat trail, LMVS. 26/27",
+   "fecha": "2027-02-06",
+   "hora": null,
+   "poblacion": "Simat de la Valldigna",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.0423714,
+    -0.3074415
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    11.5,
+    12.5,
+    22.0
+   ],
+   "inscripcion_desde": "2026-10-20T10:00",
+   "inscripcion_hasta": "2027-01-31T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/simat-trail-lmvs-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/062d12af-2265-4354-810a-4fa607f34f2e_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "Trail, LMVS",
+     "euros": 20.0
+    },
+    {
+     "nombre": "SPRINT TRAIL, LMVS",
+     "euros": 16.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 12.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/simat-trail-lmvs-2627"
+    }
+   ]
+  },
+  {
    "id": "2027-02-06-algodonales-xiii-viboras-trail",
    "nombre": "XIII Víboras Trail",
    "fecha": "2027-02-06",
@@ -33376,15 +34096,37 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "22k, CTM",
+     "euros": 23.0
+    },
+    {
+     "nombre": "Sprint,  CTM",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Sender, CTM",
+     "euros": 18.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -34227,21 +34969,47 @@
     -0.0111186
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    14.6,
+    15.0,
+    20.0
+   ],
    "inscripcion_desde": "2026-12-14T10:00",
    "inscripcion_hasta": "2027-02-10T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "GDP 20k, CTM",
+     "euros": 22.0
+    },
+    {
+     "nombre": "Sprint GDP,  CTM",
+     "euros": 18.0
+    },
+    {
+     "nombre": "Sender, CTM",
+     "euros": 15.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -35075,21 +35843,46 @@
     -0.472703488113397
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    11.0,
+    21.0
+   ],
    "inscripcion_desde": "2026-11-05T10:00",
    "inscripcion_hasta": "2027-02-17T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xi-tomaca-trail",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b62a6ca4-0aa9-417e-9805-9c125ea37bc2.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "21k",
+     "euros": 20.0
+    },
+    {
+     "nombre": "11k",
+     "euros": 12.0
+    },
+    {
+     "nombre": "Sender 11k",
+     "euros": 10.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xi-tomaca-trail"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xi-tomaca-trail"
     }
    ]
   },
@@ -35168,21 +35961,42 @@
     -0.7518039
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    11.5,
+    21.0
+   ],
    "inscripcion_desde": "2026-10-09T08:00",
    "inscripcion_hasta": "2027-02-14T23:55",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xv-trail-de-moixent",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6586dfbd-60c8-4223-9183-b6b09e15bd12_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "22k, Trail",
+     "euros": 22.0
+    },
+    {
+     "nombre": "12k, Sprint Trail ",
+     "euros": 22.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xv-trail-de-moixent"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xv-trail-de-moixent"
     }
    ]
   },
@@ -36173,21 +36987,42 @@
     -0.0684183
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    14.0,
+    23.7
+   ],
    "inscripcion_desde": "2026-12-28T10:00",
    "inscripcion_hasta": "2027-02-17T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "24km TRAIL",
+     "euros": 22.0
+    },
+    {
+     "nombre": "14km SPRINT",
+     "euros": 20.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -36204,21 +37039,47 @@
     -0.2665510113922176
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    9.2,
+    11.5,
+    22.6
+   ],
    "inscripcion_desde": "2026-12-01T10:00",
    "inscripcion_hasta": "2027-02-21T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/trail-les-creus-2027-tavernes-de-la-valldigna-lliga-de-muntanya-valencia-sud-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/fe45eec8-7a4b-43bc-9826-6e626ded51b8_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "22k, LMVS",
+     "euros": 18.0
+    },
+    {
+     "nombre": "11,5k, LMVS",
+     "euros": 12.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 12.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/trail-les-creus-2027-tavernes-de-la-valldigna-lliga-de-muntanya-valencia-sud-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/trail-les-creus-2027-tavernes-de-la-valldigna-lliga-de-muntanya-valencia-sud-2627"
     }
    ]
   },
@@ -36559,15 +37420,45 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/e3b2b00b-3a54-45a8-990a-6639cdd42f1f_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Sprint Trail solidario",
+     "euros": 16.0
+    },
+    {
+     "nombre": "Senderista",
+     "euros": 16.0
+    },
+    {
+     "nombre": "Marcha Nordica",
+     "euros": 16.0
+    },
+    {
+     "nombre": "Eco Marcha",
+     "euros": 10.0
+    },
+    {
+     "nombre": "Dorsal 0",
+     "euros": 5.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027"
     }
    ]
   },
@@ -36714,6 +37605,67 @@
     {
      "id": "xipgroc",
      "url": "https://xipgroc.cat/ca/curses/AntiracistaSantQuirze2027/5k/inscripcio/adults?layout=false"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-28-banyeres-de-mariola-2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola",
+   "nombre": "2a Prova de Lliga CxM FEMECV 2027, Banyeres de Mariola",
+   "fecha": "2027-02-28",
+   "hora": null,
+   "poblacion": "Banyeres de Mariola",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.7153527,
+    -0.6595005
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-12-28T10:00",
+   "inscripcion_hasta": "2027-02-10T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/37956fa0-75a8-4238-8020-40fc3ccd8174_custom1.png",
+   "precios": [
+    {
+     "nombre": "Absoluta",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Júnior",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Juvenil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Infantil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Invidentes",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola"
     }
    ]
   },
@@ -37888,6 +38840,116 @@
    ]
   },
   {
+   "id": "2027-03-07-oliva-trail-covatelles-2027-oliva-lliga-de-muntanya-valencia-sud-26-27",
+   "nombre": "Trail Covatelles 2027, Oliva, LLiga de Muntanya València Sud, 26/27",
+   "fecha": "2027-03-07",
+   "hora": null,
+   "poblacion": "Oliva",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    38.9144494,
+    -0.115942
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    12.0,
+    13.0,
+    23.0
+   ],
+   "inscripcion_desde": "2027-01-04T10:00",
+   "inscripcion_hasta": "2027-03-03T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/trail-covatelles-2027-oliva-lliga-de-muntanya-valencia-sud-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/aad45dde-0db3-4c5a-bd98-985c87572137_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "23k, LMVS",
+     "euros": 15.0
+    },
+    {
+     "nombre": "13k, LMVS",
+     "euros": 15.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 15.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/trail-covatelles-2027-oliva-lliga-de-muntanya-valencia-sud-2627"
+    }
+   ]
+  },
+  {
+   "id": "2027-03-07-quatretonda-viii-avenc-trail-quatretonda",
+   "nombre": "VIII Avenc Trail Quatretonda.",
+   "fecha": "2027-03-07",
+   "hora": null,
+   "poblacion": "Quatretonda",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    38.9465029,
+    -0.40189
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    12.5,
+    22.0,
+    42.0
+   ],
+   "inscripcion_desde": "2026-12-01T10:00",
+   "inscripcion_hasta": "2027-03-03T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/viii-avenc-trail-quatretonda",
+   "cartel": "https://rockthesportv2.blob.core.windows.net/evento/7778dca1-cd2c-4be3-8b75-4c41a20c71a4_p.jpg",
+   "precios": [
+    {
+     "nombre": "Marató del Avenc",
+     "euros": 35.0
+    },
+    {
+     "nombre": "Avenc trail",
+     "euros": 21.0
+    },
+    {
+     "nombre": "Esprint trail",
+     "euros": 17.0
+    },
+    {
+     "nombre": "Senderista",
+     "euros": 17.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/viii-avenc-trail-quatretonda"
+    }
+   ]
+  },
+  {
    "id": "2027-03-07-ejea-de-los-caballeros-xi-carrera-boalares-trail",
    "nombre": "XI Carrera Boalares Trail",
    "fecha": "2027-03-07",
@@ -38308,21 +39370,51 @@
     -0.6740107
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    5.0,
+    14.0,
+    25.0
+   ],
    "inscripcion_desde": "2026-09-01T12:00",
    "inscripcion_hasta": "2027-03-10T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/10-onil-trails-2027",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/64138118-5168-4f83-97da-e5ca93af50f2_custom1.jpeg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "25k, Trail Onil, 1300m/+",
+     "euros": 25.0
+    },
+    {
+     "nombre": "14k Trail Onil, 700m/+",
+     "euros": 20.0
+    },
+    {
+     "nombre": "14k, Sender Onil, 700m/+",
+     "euros": 20.0
+    },
+    {
+     "nombre": "5k, Super Sprint",
+     "euros": 15.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/10-onil-trails-2027"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/10-onil-trails-2027"
     }
    ]
   },
@@ -39192,21 +40284,47 @@
     -0.119683535581976
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    12.0,
+    14.0,
+    20.0
+   ],
    "inscripcion_desde": "2027-01-18T10:00",
    "inscripcion_hasta": "2027-03-17T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/viii-pego-trail-pego-ctm-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "20k, CTM",
+     "euros": 14.0
+    },
+    {
+     "nombre": "Sprint Trail, CTM",
+     "euros": 11.0
+    },
+    {
+     "nombre": "Sender, CTM",
+     "euros": 11.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/viii-pego-trail-pego-ctm-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/viii-pego-trail-pego-ctm-2627"
     }
    ]
   },
@@ -39310,6 +40428,67 @@
     {
      "id": "elitechip",
      "url": "https://www.elitechip.net/es/competiciones/34a-1-2-marato-ciutat-de-palma-10k-port-de-palma-2027"
+    }
+   ]
+  },
+  {
+   "id": "2027-03-21-la-vall-d-uixo-3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-d-u",
+   "nombre": "3a Prova de Lliga CxM FEMECV + Carrera de la Dona 2027 , La Vall D'Uixó",
+   "fecha": "2027-03-21",
+   "hora": null,
+   "poblacion": "La Vall d'Uixó",
+   "provincia": "Castellón",
+   "comunidad": "valenciana",
+   "coords": [
+    39.8239185,
+    -0.2324225
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2027-01-18T10:00",
+   "inscripcion_hasta": "2027-03-17T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/059712d7-10f1-44b1-9d2a-c697d05dd4b7.png",
+   "precios": [
+    {
+     "nombre": "Absoluta",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Júnior",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Juvenil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Infantil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Invidentes",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo"
     }
    ]
   },
@@ -39767,21 +40946,47 @@
     -0.5922368
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    10.0,
+    14.4,
+    24.0
+   ],
    "inscripcion_desde": "2027-02-01T10:00",
    "inscripcion_hasta": "2027-03-31T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/volta-al-terme-aielo-de-malferit-2027-lliga-de-muntanya-valencia-sud-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/f69d50ca-7d19-4890-80f0-a3b6a4ab0cc4_custom1.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "24k, LMVS",
+     "euros": 22.0
+    },
+    {
+     "nombre": "14,4k, LMVS",
+     "euros": 17.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 17.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/volta-al-terme-aielo-de-malferit-2027-lliga-de-muntanya-valencia-sud-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/volta-al-terme-aielo-de-malferit-2027-lliga-de-muntanya-valencia-sud-2627"
     }
    ]
   },
@@ -40532,21 +41737,47 @@
     0.0416413
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    12.0,
+    12.5,
+    22.7
+   ],
    "inscripcion_desde": "2027-02-08T10:00",
    "inscripcion_hasta": "2027-04-07T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/cami-bandolers-senija-ctm-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "22,7k, CTM",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Sprint, CTM",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Sender, CTM",
+     "euros": 20.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/cami-bandolers-senija-ctm-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/cami-bandolers-senija-ctm-2627"
     }
    ]
   },
@@ -40731,6 +41962,67 @@
    ]
   },
   {
+   "id": "2027-04-11-crevillent-campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent",
+   "nombre": "Campionat Autonòmic Individual i de Clubs, FEMECV 2027, Crevillent",
+   "fecha": "2027-04-11",
+   "hora": null,
+   "poblacion": "Crevillent",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.2465727,
+    -0.8093145
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": "2027-02-08T10:00",
+   "inscripcion_hasta": "2027-04-11T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent",
+   "cartel": "https://rockthesportv2.blob.core.windows.net/evento/5225515a-e2ca-4a29-9976-adddd9d19a14_p.jpg",
+   "precios": [
+    {
+     "nombre": "Absoluta",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Júnior",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Juvenil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Infantil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Invidentes",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent"
+    }
+   ]
+  },
+  {
    "id": "2027-04-11-garrigas-marxa-del-garri",
    "nombre": "Marxa del Garrí",
    "fecha": "2027-04-11",
@@ -40763,6 +42055,59 @@
     {
      "id": "cursescat",
      "url": "https://www.curses.cat/calendari/"
+    }
+   ]
+  },
+  {
+   "id": "2027-04-11-xativa-perimetrail-rett-serra-vernissa-2027-lliga-de-muntanya-valencia-sud-26-2",
+   "nombre": "PERIMETRAIL RETT SERRA VERNISSA 2027, LLiga de Muntanya València Sud, 26/27",
+   "fecha": "2027-04-11",
+   "hora": null,
+   "poblacion": "Xàtiva",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    38.9879969,
+    -0.5206186
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    8.0,
+    12.0,
+    21.0
+   ],
+   "inscripcion_desde": "2027-02-08T10:00",
+   "inscripcion_hasta": "2027-04-07T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/perimetrail-rett-serra-vernissa-2027-lliga-de-muntanya-valencia-sud-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d112b6fd-6c48-47d1-87a8-1050fcd3f54b_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "21k, LMVS",
+     "euros": 19.0
+    },
+    {
+     "nombre": "12k, LMVS",
+     "euros": 17.0
+    },
+    {
+     "nombre": "Sender",
+     "euros": 15.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/perimetrail-rett-serra-vernissa-2027-lliga-de-muntanya-valencia-sud-2627"
     }
    ]
   },
@@ -41167,7 +42512,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -41649,6 +42994,59 @@
    ]
   },
   {
+   "id": "2027-04-18-requena-xiii-trail-requena-el-rebollar",
+   "nombre": "XIII Trail Requena, el Rebollar",
+   "fecha": "2027-04-18",
+   "hora": null,
+   "poblacion": "Requena",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.4684765,
+    -1.0113652
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    10.0,
+    14.0,
+    22.0
+   ],
+   "inscripcion_desde": "2026-11-01T10:00",
+   "inscripcion_hasta": "2027-04-08T23:59",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xiii-trail-requena-el-rebollar",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/87ae81cd-0a45-4e4d-a2a4-ab6f3e300474.jpeg",
+   "precios": [
+    {
+     "nombre": "22k",
+     "euros": 25.0
+    },
+    {
+     "nombre": "14k",
+     "euros": 22.0
+    },
+    {
+     "nombre": "Caminata 10k",
+     "euros": 17.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xiii-trail-requena-el-rebollar"
+    }
+   ]
+  },
+  {
    "id": "2027-04-23-cortes-de-pallas-pirates-race-iv-campeonato-de-espana-aoco-y-iv-edicion-cortes-",
    "nombre": "Pirates Race IV Campeonato de España Aoco y IV Edición Cortes de Pallas",
    "fecha": "2027-04-23",
@@ -41994,6 +43392,59 @@
     {
      "id": "olarivers",
      "url": "https://olarivers.com/eventos/xii-trail-los-alcornocales/"
+    }
+   ]
+  },
+  {
+   "id": "2027-04-24-l-atzubia-xvii-botamarges-forna-ctm-26-27",
+   "nombre": "XVII Botamarges, Forna, CTM 26/27",
+   "fecha": "2027-04-24",
+   "hora": null,
+   "poblacion": "L'Atzúbia",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.8753856,
+    -0.1713344
+   ],
+   "modalidad": "trail",
+   "distancias_km": [
+    12.0,
+    21.0,
+    64.0
+   ],
+   "inscripcion_desde": "2027-01-05T10:00",
+   "inscripcion_hasta": "2027-04-21T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xvii-botamarges-forna-ctm-2627",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/b8ccb4fa-532d-4910-8f41-970553aadb75_custom1.jpeg",
+   "precios": [
+    {
+     "nombre": "BTMU, Botamarges Ultramaratón",
+     "euros": 65.0
+    },
+    {
+     "nombre": "BTMM, Botamarges Mitja Marató, CTM",
+     "euros": 26.0
+    },
+    {
+     "nombre": "BTMS, Botamarges Sprint Trail, CTM",
+     "euros": 23.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xvii-botamarges-forna-ctm-2627"
     }
    ]
   },
@@ -42784,21 +44235,50 @@
     -0.268427
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    22.7,
+    43.0
+   ],
    "inscripcion_desde": "2027-02-01T10:00",
    "inscripcion_hasta": "2027-05-05T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "43k",
+     "euros": 41.0
+    },
+    {
+     "nombre": "22,7k, CTM",
+     "euros": 27.0
+    },
+    {
+     "nombre": "Sprint, CTM",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Sender CTM",
+     "euros": 22.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/trail-de-primavera-confrides-ctm-2627"
     }
    ]
   },
@@ -43670,6 +45150,67 @@
    ]
   },
   {
+   "id": "2027-05-16-benissa-campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa",
+   "nombre": "Campionat Autonòmic de Quilòmetre Vertical, FEMECV 2027 Benissa.",
+   "fecha": "2027-05-16",
+   "hora": null,
+   "poblacion": "Benissa",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.7153583,
+    0.0537255
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": "2027-03-15T10:00",
+   "inscripcion_hasta": "2027-05-05T23:59",
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/168b0237-a43f-44d7-acab-fa745024094f_custom1.png",
+   "precios": [
+    {
+     "nombre": "Absoluta",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Júnior",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Juvenil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Infantil",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Invidentes",
+     "euros": 20.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa"
+    }
+   ]
+  },
+  {
    "id": "2027-05-16-tortosa-lo-port-vertical",
    "nombre": "Lo Port Vertical",
    "fecha": "2027-05-16",
@@ -44120,21 +45661,46 @@
     0.08381562642822082
    ],
    "modalidad": "trail",
-   "distancias_km": [],
+   "distancias_km": [
+    16.3,
+    21.0
+   ],
    "inscripcion_desde": "2027-03-28T10:00",
    "inscripcion_hasta": "2027-05-26T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/tres-tossals-gata-gorgos-9e-circuit-trail-marina-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "20k Tres Tossals CTM",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Sprint Tres Tossals CTM",
+     "euros": 20.0
+    },
+    {
+     "nombre": "SENDER CTM",
+     "euros": 20.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/tres-tossals-gata-gorgos-9e-circuit-trail-marina-2627"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/tres-tossals-gata-gorgos-9e-circuit-trail-marina-2627"
     }
    ]
   },
@@ -46299,15 +47865,53 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/campionat-autonomic-individual-i-per-clubs-femecv-2027-elx",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/4e28cc94-1fbe-4d7a-ab1e-642d380e1e4f_custom1.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Absoluta  FEMECV",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Infantil FEMECV",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Cadete FEMECV",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Alevín FEMECV",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Benjamín FEMECV",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Prebenjamín  FEMECV",
+     "euros": 5.0
+    },
+    {
+     "nombre": "Promo",
+     "euros": 20.0
+    }
+   ],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
    "estado": "no_abierta",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/campionat-autonomic-individual-i-per-clubs-femecv-2027-elx"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/campionat-autonomic-individual-i-per-clubs-femecv-2027-elx"
     }
    ]
   },
