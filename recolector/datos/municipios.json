@@ -687,6 +687,11 @@
   "lat": 41.3382,
   "lon": -1.2263
  },
+ "carlet|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.2252,
+  "lon": -0.5202
+ },
  "carrascalejo|caceres": {
   "provincia": "Cáceres",
   "lat": 39.6458,
@@ -980,6 +985,11 @@
   "lon": -5.5067
  },
  "el casar|guadalajara": null,
+ "el ejido|almeria": {
+  "provincia": "Almería",
+  "lat": 36.7744,
+  "lon": -2.8125
+ },
  "el gaston|cadiz": null,
  "el gastor|cadiz": {
   "provincia": "Cádiz",
@@ -1010,6 +1020,11 @@
   "provincia": "Cádiz",
   "lat": 36.6004,
   "lon": -6.2253
+ },
+ "el real de gandia|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9482,
+  "lon": -0.1916
  },
  "el royo|soria": {
   "provincia": "Soria",
@@ -1307,6 +1322,7 @@
   "lat": 28.2152,
   "lon": -16.759
  },
+ "guijuelo|salamanca": null,
  "herrera|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.3653,
@@ -1529,6 +1545,11 @@
   "lon": -3.8758
  },
  "laudio|alava": null,
+ "laujar de andarax|almeria": {
+  "provincia": "Almería",
+  "lat": 36.9939,
+  "lon": -2.8898
+ },
  "lekeitio|bizkaia": {
   "provincia": "Bizkaia",
   "lat": 43.3637,
@@ -1854,6 +1875,11 @@
   "provincia": "Baleares",
   "lat": 39.5672,
   "lon": 2.9813
+ },
+ "morana|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.5626,
+  "lon": -8.5852
  },
  "mora|toledo": {
   "provincia": "Toledo",
@@ -2352,6 +2378,11 @@
   "lat": 37.9769,
   "lon": -0.7891
  },
+ "san pablo de los montes|toledo": {
+  "provincia": "Toledo",
+  "lat": 39.5404,
+  "lon": -4.3298
+ },
  "san pedro del pinatar|murcia": {
   "provincia": "Murcia",
   "lat": 37.8315,
@@ -2705,6 +2736,11 @@
   "provincia": "Cáceres",
   "lat": 39.4606,
   "lon": -5.8817
+ },
+ "tui|pontevedra": {
+  "provincia": "Pontevedra",
+  "lat": 42.0669,
+  "lon": -8.6638
  },
  "ugao miraballes|bizkaia": {
   "provincia": "Bizkaia",

@@ -1,41 +1,10 @@
 {
  "version": 1,
- "generado": "2026-11-18T00:57",
+ "generado": "2026-11-18T15:06",
  "zona": "Europe/Madrid",
  "desde": "2026-11-18",
  "hasta": "2027-12-23",
  "carreras": [
-  {
-   "id": "2026-11-18-guadalupe-vii-milla-popular-bienvenida-universitaria-2026",
-   "nombre": "VII Milla Popular Bienvenida Universitaria 2026",
-   "fecha": "2026-11-18",
-   "hora": "13:30",
-   "poblacion": "Guadalupe",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.9999,
-    -1.1729
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://alcanzatumeta.es/vii-milla-popular-bienvenida-universitaria-2026",
-   "cartel": "https://alcanzatumeta.es/uploads/Cartel/9d1effefa02aed3f4e25f10ee64eced0bd3bccb288b54962.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "alcanzatumeta",
-     "url": "https://alcanzatumeta.es/vii-milla-popular-bienvenida-universitaria-2026"
-    }
-   ]
-  },
   {
    "id": "2026-11-18-mijas-vii-costa-cross-country-championships",
    "nombre": "VII COSTA Cross Country Championships",
@@ -89,7 +58,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -416,10 +385,6 @@
     {
      "id": "gesport",
      "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/del-hard-rock-al-cielo-by-espiritu-triabona-adeje/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/la-espiritu-triabona-villa-de-adeje-series/"
     }
    ]
   },
@@ -1065,7 +1030,7 @@
      "texto": "Inscripción y plazos en la web de la carrera (calendario FACV)"
     }
    ],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
@@ -1099,7 +1064,7 @@
     10.0
    ],
    "inscripcion_desde": "2026-09-25T12:00",
-   "inscripcion_hasta": "2026-11-18T23:59",
+   "inscripcion_hasta": "2026-11-21T16:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/v-10k-de-sarinena",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/151c0c03-19e3-4cb1-aa6b-0221aeb2f9cd.jpeg",
@@ -1539,10 +1504,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/iv-las-calderas-trail-race-2026"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/fuerteventura/trail-las-calderas/"
     }
    ]
   },
@@ -1701,65 +1662,6 @@
     {
      "id": "fca",
      "url": "https://fcatletisme.cat/event/38a-milles-de-cerdanyola-5-km/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-21-tinajo-night-run-club-la-santa",
-   "nombre": "Night Run Club la Santa",
-   "fecha": "2026-11-21",
-   "hora": null,
-   "poblacion": "Tinajo",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    29.065497,
-    -13.676012
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.clublasanta.com/events/night-run",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/lanzarote/night-run-club-la-santa/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-21-subida-vertical-a-la-mesa-de-candelaria",
-   "nombre": "Subida Vertical a La Mesa de Candelaria",
-   "fecha": "2026-11-21",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": null,
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/subida-vertical-a-la-mesa-de-candelaria/"
     }
    ]
   },
@@ -2045,7 +1947,7 @@
      "texto": "Plazo de inscripción en la web de la carrera (FDM València)"
     }
    ],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
@@ -3296,15 +3198,24 @@
     21.097
    ],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-21T20:00",
+   "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://www.elitechip.net/es/competiciones/xiv-mitja-marato-de-porreres-2026",
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en el reglamento de la FAIB"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "elitechip",
@@ -3396,7 +3307,7 @@
     21.097
    ],
    "inscripcion_desde": "2026-10-05T14:00",
-   "inscripcion_hasta": "2026-11-18T23:59",
+   "inscripcion_hasta": "2026-11-20T13:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xxv-mitja-marato-samaruc-2026-algemesi",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/c1901fc6-4ce1-4715-a003-0d4d98e4af3b_custom1.jpeg",
@@ -3594,7 +3505,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3671,7 +3582,7 @@
      "euros": 0.0
     },
     {
-     "nombre": "Cuota Bizkotxalde 2,5k DE 12A 15 AÑOS SIN CAMISETAS DISPONIBLES",
+     "nombre": "Cuota Bizkotxalde 2,5k DE 12 A 15 AÑOS SIN CAMISETAS DISPONIBLES",
      "euros": 0.0
     }
    ],
@@ -5444,15 +5355,20 @@
    "modalidad": "cross",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-18T12:00",
+   "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://gesconchip.es/prueba/informacion/vii-cross-pinar-del-rey",
    "cartel": "https://gesconchip.es/app/files/campusvirtual/pruebas/00000000000000000489/cartel/CARTEL OFICIAL 2026.jpg",
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en la ficha de Gesconchip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "gesconchip",
@@ -5819,6 +5735,51 @@
    ]
   },
   {
+   "id": "2026-11-22-sant-cugat-del-valles-xii-cursa-dir-mossos-d-esquadra-sant-cugat",
+   "nombre": "XII Cursa DiR – Mossos d'Esquadra Sant Cugat",
+   "fecha": "2026-11-22",
+   "hora": null,
+   "poblacion": "Sant Cugat del Vallès",
+   "provincia": "Barcelona",
+   "comunidad": "cataluna",
+   "coords": [
+    41.4708,
+    2.0849
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/xii-cursa-dir-ndash-mossos-desquadra-sant-cugat",
+   "cartel": null,
+   "precios": [
+    {
+     "nombre": "10K",
+     "euros": 0.0
+    },
+    {
+     "nombre": "5K",
+     "euros": 0.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/xii-cursa-dir-ndash-mossos-desquadra-sant-cugat"
+    }
+   ]
+  },
+  {
    "id": "2026-11-22-a-coruna-xiv-carreira-popular-novo-mesoiro",
    "nombre": "XIV Carreira Popular Novo Mesoiro",
    "fecha": "2026-11-22",
@@ -6019,7 +5980,7 @@
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-20T23:59",
+   "inscripcion_hasta": "2026-11-18T23:59",
    "estado_fuente": "abierta",
    "url_inscripcion": "https://www.cronofinisher.com/evento/xxiii-carrera-popular-contra-la-droga/",
    "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/738/cartel-22-noviembre-2026-jpg-jpeg.jpg",
@@ -6875,7 +6836,7 @@
     5.0
    ],
    "inscripcion_desde": "2026-04-27T12:00",
-   "inscripcion_hasta": "2026-11-20T23:59",
+   "inscripcion_hasta": "2026-11-22T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://www.avaibooksports.com/inscripcion/iv-5km-nocturna-el-rosario-tenerife-2026/",
    "cartel": null,
@@ -6888,10 +6849,6 @@
     {
      "id": "conchip",
      "url": "https://www.avaibooksports.com/inscripcion/iv-5km-nocturna-el-rosario-tenerife-2026/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/nocturna-el-rosario/"
     }
    ]
   },
@@ -7339,37 +7296,6 @@
    ]
   },
   {
-   "id": "2026-11-28-yaiza-playa-blanca-music-run-night",
-   "nombre": "Playa Blanca Music Run Night",
-   "fecha": "2026-11-28",
-   "hora": null,
-   "poblacion": "Yaiza",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    28.865351,
-    -13.840701
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://summitsportsevents.com/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/lanzarote/playa-blanca-music-run-night/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-28-calvia-serra-4-life-2026",
    "nombre": "Serra 4 Life 2026",
    "fecha": "2026-11-28",
@@ -7464,6 +7390,51 @@
     {
      "id": "elitechip",
      "url": "https://www.elitechip.net/es/competiciones/x-cursa-nocturna-sant-andreu-santanyi-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-tui-x-urban-trail-night-eurocidade-valenca-tui",
+   "nombre": "X Urban Trail Night Eurocidade Valença - Tui",
+   "fecha": "2026-11-28",
+   "hora": null,
+   "poblacion": "Tui",
+   "provincia": "Pontevedra",
+   "comunidad": "galicia",
+   "coords": [
+    42.0669,
+    -8.6638
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/x-urban-trail-night-eurocidade",
+   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6afd8c93-064c-4207-9e85-4fe1ac1f105b.png",
+   "precios": [
+    {
+     "nombre": "Urban Trail Night 8k",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Urban Trail Night 16k",
+     "euros": 0.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/x-urban-trail-night-eurocidade"
     }
    ]
   },
@@ -7586,10 +7557,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/xv-tamadaba-trail-2026"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/tamadaba-trail/"
     }
    ]
   },
@@ -7739,37 +7706,6 @@
    ]
   },
   {
-   "id": "2026-11-29-premia-de-dalt-ii-torneig-solidari-volei-platja-contra-el-cancer",
-   "nombre": "II Torneig solidari Vòlei Platja - Contra el càncer",
-   "fecha": "2026-11-29",
-   "hora": "09:00",
-   "poblacion": "Premià de Dalt",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.49970709999999,
-    2.3535409
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-09-18T00:00",
-   "inscripcion_hasta": "2026-11-27T13:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/torneig-solidari-volei-platja-contra-el-cancer-premia-de-dalt",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/9644/library/root/222885c0-a319-4d07-aa55-3647d22dca77.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/torneig-solidari-volei-platja-contra-el-cancer-premia-de-dalt"
-    }
-   ]
-  },
-  {
    "id": "2026-11-29-marratxi-xxvii-cross-emilio-de-la-camara-2026",
    "nombre": "XXVII Cross Emilio de la Cámara 2026",
    "fecha": "2026-11-29",
@@ -7784,19 +7720,27 @@
    "modalidad": "cross",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-28T19:00",
+   "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://www.elitechip.net/es/competiciones/xxvii-cross-emilio-de-la-camara-2026",
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
    "avisos_calidad": [
     {
      "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    },
+    {
+     "tipo": "pendiente_cartel",
      "texto": "Municipio no indicado en la FAIB (isla: Mallorca)"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en el reglamento de la FAIB"
     }
    ],
-   "estado": "abierta",
+   "estado": "desconocido",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
@@ -8968,37 +8912,6 @@
    ]
   },
   {
-   "id": "2026-12-05-arucas-gran-canaria-bestial-race",
-   "nombre": "Gran Canaria Bestial Race",
-   "fecha": "2026-12-05",
-   "hora": null,
-   "poblacion": "Arucas",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    28.11244,
-    -15.5195
-   ],
-   "modalidad": "obstáculos",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://ocrbestial.com/bestial-race-gran-canaria/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/gran-canaria-bestial-race/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-05-santiago-de-compostela-i-carreira-das-empresas-santiago-de-compostela",
    "nombre": "I Carreira das Empresas Santiago de Compostela",
    "fecha": "2026-12-05",
@@ -9406,6 +9319,34 @@
    ]
   },
   {
+   "id": "2026-12-06-4-jornada-de-la-liga-regional-de-campo-a-traves-2027-san-pedro-del-pinatar",
+   "nombre": "4º Jornada de la Liga Regional de Campo a Través 2027. San Pedro del Pinatar",
+   "fecha": "2026-12-06",
+   "hora": "09:30",
+   "poblacion": null,
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": null,
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://alcanzatumeta.es/4o-jornada-de-la-liga-regional-de-campo-a-traves-2027-san-pedro-del-pinatar",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/d2069e6b9b47867eed00508ca8cdb56cc3db73a28f8c5567.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "alcanzatumeta",
+     "url": "https://alcanzatumeta.es/4o-jornada-de-la-liga-regional-de-campo-a-traves-2027-san-pedro-del-pinatar"
+    }
+   ]
+  },
+  {
    "id": "2026-12-06-jerez-de-la-frontera-montesierra-trail-la-teja",
    "nombre": "Montesierra Trail La Teja",
    "fecha": "2026-12-06",
@@ -9639,41 +9580,6 @@
    ]
   },
   {
-   "id": "2026-12-06-san-miguel-de-abona-carrera-popular-llano-del-camello",
-   "nombre": "Carrera Popular Llano del Camello",
-   "fecha": "2026-12-06",
-   "hora": "10:00",
-   "poblacion": "San Miguel de Abona",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.0981,
-    -16.618215
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.trivalleguimar.com/carrera-popular-llano-del-camello",
-   "cartel": "https://www.canaryrun.com/wp-content/uploads/2026/10/banner.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/carrera-popular-llano-del-camello/"
-    },
-    {
-     "id": "canaryrun",
-     "url": "https://www.canaryrun.com/carrera/llano-del-camello-2026/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-06-san-jose-del-valle-monte-de-la-cruz-cruz-del-valle-2026-en-edad-escolar",
    "nombre": "Cruz del Valle 2026 en Edad Escolar",
    "fecha": "2026-12-06",
@@ -9771,6 +9677,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/iv-trail-minero-el-calderin"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-06-san-miguel-de-abona-llano-del-camello-2026",
+   "nombre": "Llano del Camello 2026",
+   "fecha": "2026-12-06",
+   "hora": "10:00",
+   "poblacion": "San Miguel de Abona",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.0992,
+    -16.6168
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.trivalleguimar.com/carrera-popular-llano-del-camello",
+   "cartel": "https://www.canaryrun.com/wp-content/uploads/2026/10/banner.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "canaryrun",
+     "url": "https://www.canaryrun.com/carrera/llano-del-camello-2026/"
     }
    ]
   },
@@ -10147,37 +10084,6 @@
    ]
   },
   {
-   "id": "2026-12-06-santa-cruz-de-la-palma-cross-popular-de-navidad",
-   "nombre": "Cross Popular de Navidad",
-   "fecha": "2026-12-06",
-   "hora": null,
-   "poblacion": "Santa Cruz de la Palma",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.682429,
-    -17.765445
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/cross-popular-de-navidad/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-06-guardamar-del-segura-cross-urbano-guardamar-del-segura",
    "nombre": "Cross Urbano Guardamar del Segura",
    "fecha": "2026-12-06",
@@ -10287,68 +10193,6 @@
     {
      "id": "kirolbide",
      "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/igoera-herrikoien-liga-2026-kaltzadan-gora"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-06-brena-alta-milla-urbana-light-night",
-   "nombre": "Milla Urbana Light Night",
-   "fecha": "2026-12-06",
-   "hora": null,
-   "poblacion": "Breña Alta",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.662261,
-    -17.783787
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/milla-urbana-light-night/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-06-santa-brigida-trail-pino-santo",
-   "nombre": "Trail Pino Santo",
-   "fecha": "2026-12-06",
-   "hora": null,
-   "poblacion": "Santa Brígida",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    28.035952,
-    -15.49725
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://trailpinosanto.com/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/trail-pino-santo/"
     }
    ]
   },
@@ -11973,10 +11817,6 @@
     {
      "id": "gesport",
      "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/iii-cross-navideno-puerto-de-la-cruz-2026/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/cross-navideno/"
     }
    ]
   },
@@ -12176,7 +12016,7 @@
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://www.maratoncorralejo.com/",
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -12192,10 +12032,6 @@
     {
      "id": "cronoline",
      "url": "https://www.cronolinecanarias.com/evento/maraton-dany-soport-corralejo-grandes-playas/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/fuerteventura/maraton-dany-sport-corralejo/"
     }
    ]
   },
@@ -13024,6 +12860,39 @@
    ]
   },
   {
+   "id": "2026-12-13-el-real-de-gandia-xxiii-cursa-popular-penya-real",
+   "nombre": "XXIII Cursa popular Penya Real",
+   "fecha": "2026-12-13",
+   "hora": "09:30",
+   "poblacion": "El Real de Gandia",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    38.9482,
+    -0.1916
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    7.8
+   ],
+   "inscripcion_desde": "2026-11-18T00:01",
+   "inscripcion_hasta": "2026-12-11T20:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://crono4sports.com/evento/xxiii-cursa-popular-penya-real",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "crono4sports",
+     "url": "https://crono4sports.com/evento/xxiii-cursa-popular-penya-real"
+    }
+   ]
+  },
+  {
    "id": "2026-12-13-cordoba-40-media-maraton-de-cordoba",
    "nombre": "40 Media Maratón de Córdoba",
    "fecha": "2026-12-13",
@@ -13834,6 +13703,34 @@
     {
      "id": "aytos_madrid",
      "url": "https://www.ayto-villacanada.es/agenda-y-actividades/carrera-solidaria/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-13-guijuelo-trofeo-de-navidad-carrera-del-turron-diputacion-de-salamanca-2026",
+   "nombre": "Trofeo de Navidad Carrera del Turrón Diputación de Salamanca 2026",
+   "fecha": "2026-12-13",
+   "hora": "11:00",
+   "poblacion": "Guijuelo",
+   "provincia": "Salamanca",
+   "comunidad": "castilla-y-leon",
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T10:45",
+   "inscripcion_hasta": "2026-12-09T14:00",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.orycronsport.com/competiciones/52184",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "orycronsport",
+     "url": "https://www.orycronsport.com/competiciones/52184"
     }
    ]
   },
@@ -14757,8 +14654,8 @@
    ],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.somesport.com/10k-alfas-del-pi/",
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -14768,12 +14665,48 @@
      "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
     }
    ],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "somesport",
-     "url": "https://www.somesport.com/"
+     "url": "https://www.somesport.com/10k-alfas-del-pi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-13-morana-ii-trail-monte-acibal",
+   "nombre": "II Trail Monte Acibal",
+   "fecha": "2026-12-13",
+   "hora": null,
+   "poblacion": "Moraña",
+   "provincia": "Pontevedra",
+   "comunidad": "galicia",
+   "coords": [
+    42.5626,
+    -8.5852
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "fga",
+     "url": "https://atletismo.gal/competicions/ii-trail-monte-acibal/"
     }
    ]
   },
@@ -14973,37 +14906,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/karstica-biking-point-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-13-tazacorte-paris-chiquito-trail",
-   "nombre": "Paris Chiquito Trail",
-   "fecha": "2026-12-13",
-   "hora": null,
-   "poblacion": "Tazacorte",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.642663,
-    -17.932708
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://fitters.es/paris-chiquito-trail-2025/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/paris-chiquito-trail/"
     }
    ]
   },
@@ -16273,7 +16175,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -17161,10 +17063,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/iv-trail-el-pinalete-2026"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/trail-el-pinalete/"
     }
    ]
   },
@@ -17478,10 +17376,6 @@
     {
      "id": "gesport",
      "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/xxxvi-media-maraton-ciudad-de-tacoronte-2026/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/media-maraton-tacoronte/"
     }
    ]
   },
@@ -19257,37 +19151,6 @@
     {
      "id": "gesportcat",
      "url": "https://gesport.cat/cursa-la-5k-de-sant-vicenc-de-montalt/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-20-garafia-garafia-navidad-trail",
-   "nombre": "Garafía Navidad Trail",
-   "fecha": "2026-12-20",
-   "hora": null,
-   "poblacion": "Garafía",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.790648,
-    -17.917631
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/garafia-navidad-trail/"
     }
    ]
   },
@@ -21823,34 +21686,6 @@
    ]
   },
   {
-   "id": "2026-12-26-trail-subida-a-la-merica",
-   "nombre": "Trail Subida a la Mérica",
-   "fecha": "2026-12-26",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": null,
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-gomera/trail-subida-a-la-merica/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-26-fuentes-de-andalucia-v-san-silvestre-fuentes-de-andalucia",
    "nombre": "V San Silvestre Fuentes de Andalucía",
    "fecha": "2026-12-26",
@@ -22138,6 +21973,46 @@
     {
      "id": "alcanzatumeta",
      "url": "https://alcanzatumeta.es/vi-trail-majal-blanco"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-el-ejido-xxxix-san-silvestre-el-ejido-2026",
+   "nombre": "XXXIX San Silvestre el Ejido 2026",
+   "fecha": "2026-12-27",
+   "hora": "09:30",
+   "poblacion": "El Ejido",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    36.7744,
+    -2.8125
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscrik.com/evento/xxxix-san-silvestre-el-ejido-2026/",
+   "cartel": "https://inscrik.com/media/banners/Cartel-San-Silvestre-2026.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "inscrik",
+     "url": "https://inscrik.com/evento/xxxix-san-silvestre-el-ejido-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/xxxix-san-silvestre-el-ejido-2026/"
     }
    ]
   },
@@ -22883,7 +22758,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://montureventos.com/eventos/xx-san-silvestre-albojense/",
-   "cartel": "https://montureventos.com/wp-content/uploads/2026/11/Cartel-San-Silvestre-Albojense-26-707x1024.jpeg",
+   "cartel": "https://montureventos.com/wp-content/uploads/2026/11/Cartel-San-Silvestre-Albojense-26-1-707x1024.jpeg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -23307,7 +23182,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://web.faalive.com/inscriptions/319",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/arriate26.webp",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/arriate262.webp",
    "precios": [],
    "previos": [],
    "avisos_calidad": [
@@ -23585,10 +23460,39 @@
     {
      "id": "cronoline",
      "url": "https://www.cronolinecanarias.com/evento/san-silvestre-corralejo-by-c-c-el-campanario/"
-    },
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-san-silvestre-nerja",
+   "nombre": "San Silvestre Nerja",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": null,
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.faalive.com/inscriptions/321",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/nerjass26.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
     {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/fuerteventura/san-silvestre-corralejo/"
+     "tipo": "pendiente_cartel",
+     "texto": "Población, precio, cierre y previos solo en el cartel"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "faa",
+     "url": "https://web.faalive.com/inscriptions/321"
     }
    ]
   },
@@ -24245,6 +24149,42 @@
    ]
   },
   {
+   "id": "2026-12-28-carlet-x-sant-silvestre-ciutat-de-carlet",
+   "nombre": "X Sant Silvestre Ciutat de Carlet",
+   "fecha": "2026-12-28",
+   "hora": null,
+   "poblacion": "Carlet",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.2252,
+    -0.5202
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscripciones.cronorunner.com/evento/x-sant-silvestre-ciutat-de-carlet",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en la ficha de Cronorunner"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "cronorunner",
+     "url": "https://inscripciones.cronorunner.com/evento/x-sant-silvestre-ciutat-de-carlet"
+    }
+   ]
+  },
+  {
    "id": "2026-12-29-chipiona-xxxiii-san-silvestre-chipionera",
    "nombre": "XXXIII San Silvestre Chipionera",
    "fecha": "2026-12-29",
@@ -24480,6 +24420,37 @@
     {
      "id": "deportime",
      "url": "https://deportime.es/events/xii-san-silvestre-mengibarena-memorial-ruben/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-30-la-granja-xxix-san-silvestre-popular-real-sitio-de-san-ildefonso",
+   "nombre": "XXIX San Silvestre Popular Real Sitio de San Ildefonso",
+   "fecha": "2026-12-30",
+   "hora": "19:00",
+   "poblacion": "La Granja",
+   "provincia": "Segovia",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    40.8981,
+    -4.0054
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T00:00",
+   "inscripcion_hasta": "2026-12-29T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8926",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "youevent",
+     "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8926"
     }
    ]
   },
@@ -24969,10 +24940,6 @@
     {
      "id": "gesport",
      "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/x-san-silvestre-golden-mile-playa-de-las-americas/"
-    },
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/san-silvestre-golden-mile/"
     }
    ]
   },
@@ -25515,34 +25482,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/41sd"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-aviles-xxxix-total-energies-san-silvestre-avilesina",
-   "nombre": "XXXIX Total Energies San Silvestre Avilesina",
-   "fecha": "2026-12-31",
-   "hora": "15:00",
-   "poblacion": "Avilés",
-   "provincia": "Asturias",
-   "comunidad": "asturias",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-12-27T20:00",
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.321go.es/Carrera/Detail/588-xxxixtotalenergiessansilvestreavilesina",
-   "cartel": "https://www.321go.es/Uploads/Image/Carrera/1a1a8f65c4824334be56d9242446d03f.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "321go",
-     "url": "https://www.321go.es/Carrera/Detail/588-xxxixtotalenergiessansilvestreavilesina"
     }
    ]
   },
@@ -26781,6 +26720,42 @@
    ]
   },
   {
+   "id": "2026-12-31-inca-42a-sant-silvestre-ciutat-d-inca-2026",
+   "nombre": "42a Sant Silvestre Ciutat d'Inca 2026",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Inca",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.7211,
+    2.9111
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/42a-sant-silvestre-ciutat-d-inca-2026"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-43-edicion-carrera-del-pavo-cuenca-2026",
    "nombre": "43 Edición Carrera del Pavo Cuenca 2026",
    "fecha": "2026-12-31",
@@ -27077,37 +27052,6 @@
    ]
   },
   {
-   "id": "2026-12-31-garachico-la-san-silvestre-garachiquense",
-   "nombre": "La San Silvestre Garachiquense",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "Garachico",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.372676,
-    -16.764069
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/la-san-silvestre-garachiquense/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-telde-liga-ocr-canaria-2026",
    "nombre": "Liga OCR Canaria 2026",
    "fecha": "2026-12-31",
@@ -27198,6 +27142,39 @@
    ]
   },
   {
+   "id": "2026-12-31-palma-palmilla",
+   "nombre": "Palma-Palmilla",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": null,
+   "coords": null,
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.faalive.com/inscriptions/322",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/palmilla26.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Población, precio, cierre y previos solo en el cartel"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "faa",
+     "url": "https://web.faalive.com/inscriptions/322"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-bilbao-pruebas-cosmos",
    "nombre": "Pruebas Cosmos",
    "fecha": "2026-12-31",
@@ -27225,37 +27202,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/pruebas-cosmos"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-arrecife-san-silvestre-ciudad-de-arrecife",
-   "nombre": "San Silvestre Ciudad de Arrecife",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "Arrecife",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    28.965231,
-    -13.554431
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/lanzarote/san-silvestre-ciudad-de-arrecife/"
     }
    ]
   },
@@ -27325,152 +27271,6 @@
     {
      "id": "faex",
      "url": "https://www.atletismo-ext.com/es/actividad-1217/san-silvestre-dombenitense"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-san-silvestre-la-aldea",
-   "nombre": "San Silvestre La Aldea",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/san-silvestre-la-aldea/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-frontera-san-silvestre-la-frontera",
-   "nombre": "San Silvestre La Frontera",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "Frontera",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    27.754318,
-    -18.009313
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/el-hierro/san-silvestre-la-frontera/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-san-cristobal-de-la-laguna-san-silvestre-lagunera",
-   "nombre": "San Silvestre Lagunera",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "San Cristóbal de La Laguna",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.486829,
-    -16.318947
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://lasansilvestrelagunera.com/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/san-silvestre-lagunera/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-san-silvestre-pantanera",
-   "nombre": "San Silvestre Pantanera",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-gomera/san-silvestre-pantanera/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-san-silvestre-realejera",
-   "nombre": "San Silvestre Realejera",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/tenerife/san-silvestre-realejera/"
     }
    ]
   },
@@ -27584,37 +27384,6 @@
     {
      "id": "fga",
      "url": "https://atletismo.gal/competicions/san-silvestre-vigo-2026/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-agaete-san-silvestre-del-noroeste",
-   "nombre": "San Silvestre del Noroeste",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "Agaete",
-   "provincia": "Las Palmas",
-   "comunidad": "canarias",
-   "coords": [
-    28.100259,
-    -15.699673
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/san-silvestre-del-noroeste/"
     }
    ]
   },
@@ -28324,6 +28093,37 @@
    ]
   },
   {
+   "id": "2027-01-03-san-javier-xii-carrera-del-nino-2027",
+   "nombre": "XII Carrera del Niño 2027",
+   "fecha": "2027-01-03",
+   "hora": "10:00",
+   "poblacion": "San Javier",
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": [
+    37.806,
+    -0.8346
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://alcanzatumeta.es/xii-carrera-del-nino-2027",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/11ae005bfcff0e39f038aa128cc43c09daf524db732bb8bf.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "alcanzatumeta",
+     "url": "https://alcanzatumeta.es/xii-carrera-del-nino-2027"
+    }
+   ]
+  },
+  {
    "id": "2027-01-03-olula-del-rio-carrera-de-navidad-de-olula-del-rio",
    "nombre": "Carrera de Navidad de Olula del Río",
    "fecha": "2027-01-03",
@@ -28412,6 +28212,37 @@
     {
      "id": "orycronsport",
      "url": "https://www.orycronsport.com/competiciones/52176"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-03-tordesillas-xxvi-cross-popular-de-reyes-de-tordesillas",
+   "nombre": "XXVI Cross Popular de Reyes de Tordesillas",
+   "fecha": "2027-01-03",
+   "hora": "11:00",
+   "poblacion": "Tordesillas",
+   "provincia": "Valladolid",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.5015353,
+    -4.998745899999999
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T00:00",
+   "inscripcion_hasta": "2027-01-01T15:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xxvi-cross-popular-de-reyes-de-tordesillas/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xxvi-cross-popular-de-reyes-de-tordesillas/"
     }
    ]
   },
@@ -30702,7 +30533,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -35295,7 +35126,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -38499,43 +38330,6 @@
    ]
   },
   {
-   "id": "2027-03-07-13a-unirun-la-cursa-de-les-universitats",
-   "nombre": "13a Unirun, la Cursa de Les Universitats",
-   "fecha": "2027-03-07",
-   "hora": null,
-   "poblacion": null,
-   "provincia": null,
-   "comunidad": "cataluna",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Población no indicada en Championchip (solo el nombre de la carrera)"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "xipgroc",
-     "url": "http://unirun.cat/"
-    }
-   ]
-  },
-  {
    "id": "2027-03-07-balaguer-5-i-10-km-de-la-mitja-marato-de-balaguer-unimedic",
    "nombre": "5 i 10 km de la Mitja Marató de Balaguer - UNIMÈDIC",
    "fecha": "2027-03-07",
@@ -38893,6 +38687,43 @@
    ]
   },
   {
+   "id": "2027-03-07-unirun-la-cursa-de-les-universitats",
+   "nombre": "Unirun, la Cursa de Les Universitats",
+   "fecha": "2027-03-07",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": "cataluna",
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Población no indicada en Championchip (solo el nombre de la carrera)"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en la web de la carrera"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "xipgroc",
+     "url": "http://unirun.cat/"
+    }
+   ]
+  },
+  {
    "id": "2027-03-07-quatretonda-viii-avenc-trail-quatretonda",
    "nombre": "VIII Avenc Trail Quatretonda.",
    "fecha": "2027-03-07",
@@ -39181,7 +39012,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -39258,6 +39089,42 @@
    ]
   },
   {
+   "id": "2027-03-13-laujar-de-andarax-ix-heroes-contra-duchenne-2027-trail-minitrail-y-senderismo",
+   "nombre": "IX Héroes Contra Duchenne 2027. Trail, Minitrail y Senderismo.",
+   "fecha": "2027-03-13",
+   "hora": null,
+   "poblacion": "Láujar de Andarax",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    36.9939,
+    -2.8898
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.todofondo.net/prueba/ver/ix-heroes-contra-duchenne-2027-trail-minitrail-y-s---720/",
+   "cartel": "https://www.todofondo.net/media/competiciones/Cartel_2027_-_copia.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora, precio y cierre en la ficha de Todofondo"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "todofondo",
+     "url": "https://www.todofondo.net/prueba/ver/ix-heroes-contra-duchenne-2027-trail-minitrail-y-s---720/"
+    }
+   ]
+  },
+  {
    "id": "2027-03-13-llubi-s-acustic-run-festival-2027",
    "nombre": "S'Acustic Run Festival 2027",
    "fecha": "2027-03-13",
@@ -39323,6 +39190,63 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/285"
+    }
+   ]
+  },
+  {
+   "id": "2027-03-13-san-pablo-de-los-montes-trail-vi-san-pablo-desafio-la-morra",
+   "nombre": "Trail VI San Pablo (desafío la Morra)",
+   "fecha": "2027-03-13",
+   "hora": null,
+   "poblacion": "San Pablo de los Montes",
+   "provincia": "Toledo",
+   "comunidad": "castilla-la-mancha",
+   "coords": [
+    39.5404,
+    -4.3298
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/trail-vi-san-pablo-desafo-la-morra",
+   "cartel": null,
+   "precios": [
+    {
+     "nombre": "Desafio la Morra",
+     "euros": 28.0
+    },
+    {
+     "nombre": "Mini – Desafio Majadillas",
+     "euros": 18.0
+    },
+    {
+     "nombre": "Peque Trail - 1.2k",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Peque Trail - 0.5",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Senderismo",
+     "euros": 12.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/trail-vi-san-pablo-desafo-la-morra"
     }
    ]
   },
@@ -40272,6 +40196,39 @@
    ]
   },
   {
+   "id": "2027-03-20-segovia-xix-media-maraton-cajaviva-segovia",
+   "nombre": "XIX Media Maratón Cajaviva Segovia",
+   "fecha": "2027-03-20",
+   "hora": "17:30",
+   "poblacion": "Segovia",
+   "provincia": "Segovia",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    40.9504319,
+    -4.1241659
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    21.097
+   ],
+   "inscripcion_desde": "2026-11-27T00:00",
+   "inscripcion_hasta": "2027-03-18T15:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xix-media-maraton-cajaviva-segovia/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xix-media-maraton-cajaviva-segovia/"
+    }
+   ]
+  },
+  {
    "id": "2027-03-21-pego-viii-pego-trail-pego-ctm-26-27",
    "nombre": "VIII Pego Trail, Pego, Ctm 26/27",
    "fecha": "2027-03-21",
@@ -40801,68 +40758,6 @@
     {
      "id": "cursescat",
      "url": "https://www.curses.cat/calendari/"
-    }
-   ]
-  },
-  {
-   "id": "2027-04-03-el-paso-reventon-el-paso",
-   "nombre": "Reventón El Paso",
-   "fecha": "2027-04-03",
-   "hora": null,
-   "poblacion": "El Paso",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.647223,
-    -17.884049
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://reventonelpaso.com/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/reventon-el-paso/"
-    }
-   ]
-  },
-  {
-   "id": "2027-04-03-el-paso-reventon-kids",
-   "nombre": "Reventón kids",
-   "fecha": "2027-04-03",
-   "hora": null,
-   "poblacion": "El Paso",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.651916,
-    -17.879958
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://reventonelpaso.com/modalidad/kids/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-palma/reventon-kids/"
     }
    ]
   },
@@ -44001,37 +43896,6 @@
    ]
   },
   {
-   "id": "2027-05-01-agulo-trail-san-marcos",
-   "nombre": "Trail San Marcos",
-   "fecha": "2027-05-01",
-   "hora": null,
-   "poblacion": "Agulo",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.188128,
-    -17.194921
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.gomesporteventos.com/inscripcion/ix-trail-san-marcos/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "holaislascanarias",
-     "url": "https://www.holaislascanarias.com/eventos/la-gomera/trail-san-marcos/"
-    }
-   ]
-  },
-  {
    "id": "2027-05-01-xxii-cursa-de-ses-paparres-2027",
    "nombre": "XXII Cursa de Ses Paparres 2027",
    "fecha": "2027-05-01",
@@ -44314,8 +44178,8 @@
    ]
   },
   {
-   "id": "2027-05-08-los-molinos-buff-xtrem-trail-los-molinos-2027",
-   "nombre": "Buff Xtrem Trail los Molinos 2027",
+   "id": "2027-05-08-los-molinos-buff-x-trem-trail-los-molinos-2027",
+   "nombre": "Buff X-trem Trail los Molinos 2027",
    "fecha": "2027-05-08",
    "hora": "08:00",
    "poblacion": "Los Molinos",
@@ -46525,6 +46389,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/arcedianu"
+    }
+   ]
+  },
+  {
+   "id": "2027-06-19-murgia-zuia-backyard-2027",
+   "nombre": "Zuia Backyard 2027",
+   "fecha": "2027-06-19",
+   "hora": "09:00",
+   "poblacion": "Murgia",
+   "provincia": "Álava",
+   "comunidad": "pais-vasco",
+   "coords": [
+    42.956511790792,
+    -2.81953585231474
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T12:00",
+   "inscripcion_hasta": "2027-06-14T17:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/zuia-backyard-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/9551/library/root/ecada12b-efad-4f9a-86d5-3838df242290.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/zuia-backyard-2027"
     }
    ]
   },
