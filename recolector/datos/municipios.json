@@ -218,6 +218,11 @@
   "lat": 36.8239,
   "lon": -4.7063
  },
+ "alpedrete|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.6599,
+  "lon": -4.0251
+ },
  "alqueria de la comtessa|valencia": {
   "provincia": "Valencia",
   "lat": 38.9354,
@@ -452,6 +457,11 @@
   "lat": 41.5273,
   "lon": -2.8959
  },
+ "baza|granada": {
+  "provincia": "Granada",
+  "lat": 37.4282,
+  "lon": -2.8475
+ },
  "bedia|bizkaia": {
   "provincia": "Bizkaia",
   "lat": 43.2084,
@@ -522,6 +532,11 @@
   "provincia": "Valencia",
   "lat": 38.9283,
   "lon": -0.1885
+ },
+ "benissa|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.7164,
+  "lon": 0.0534
  },
  "berango|bizkaia": {
   "provincia": "Bizkaia",
@@ -802,6 +817,11 @@
   "lat": 38.0925,
   "lon": -1.7988
  },
+ "cercedilla|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7413,
+  "lon": -4.0558
+ },
  "cerdanyola del valles|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.491,
@@ -919,6 +939,11 @@
   "lat": 37.2961,
   "lon": -1.8807
  },
+ "cunit|tarragona": {
+  "provincia": "Tarragona",
+  "lat": 41.1976,
+  "lon": 1.6345
+ },
  "dalias|almeria": {
   "provincia": "Almería",
   "lat": 36.8215,
@@ -1011,6 +1036,11 @@
   "lat": 37.9391,
   "lon": -1.1635
  },
+ "el poble nou de benitatxell|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.7323,
+  "lon": 0.1438
+ },
  "el pont de vilomara i rocafort|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.7049,
@@ -1035,6 +1065,11 @@
   "provincia": "Sevilla",
   "lat": 37.3541,
   "lon": -4.9899
+ },
+ "el verger|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.8455,
+  "lon": 0.0104
  },
  "elantxobe|bizkaia": {
   "provincia": "Bizkaia",
@@ -1251,6 +1286,7 @@
   "lat": 37.3746,
   "lon": -6.9691
  },
+ "gijon|asturias": null,
  "girona|girona": {
   "provincia": "Girona",
   "lat": 41.9793,
@@ -1574,6 +1610,11 @@
   "provincia": "Barcelona",
   "lat": 41.6476,
   "lon": 2.3092
+ },
+ "libreria luces alameda principal|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7169,
+  "lon": -4.4241
  },
  "lillo|toledo": {
   "provincia": "Toledo",
@@ -1927,6 +1968,11 @@
   "lat": 43.323,
   "lon": -3.1243
  },
+ "navacerrada|madrid": {
+  "provincia": "Madrid",
+  "lat": 40.7288,
+  "lon": -4.0152
+ },
  "navalmoral de la mata|caceres": {
   "provincia": "Cáceres",
   "lat": 39.8915,
@@ -2039,6 +2085,11 @@
   "provincia": "Granada",
   "lat": 37.0223,
   "lon": -3.6275
+ },
+ "palacio de deportes de vicar|almeria": {
+  "provincia": "Almería",
+  "lat": 36.81,
+  "lon": -2.6317
  },
  "palacios y villafranca los|sevilla": {
   "provincia": "Sevilla",
@@ -2630,6 +2681,11 @@
   "lat": 29.0589,
   "lon": -13.5502
  },
+ "teia|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4994,
+  "lon": 2.3205
+ },
  "telde|las palmas": {
   "provincia": "Las Palmas",
   "lat": 27.9985,
@@ -2817,6 +2873,11 @@
   "lat": 41.9207,
   "lon": -4.4932
  },
+ "vicar|almeria": {
+  "provincia": "Almería",
+  "lat": 36.8317,
+  "lon": -2.643
+ },
  "vidreres|girona": {
   "provincia": "Girona",
   "lat": 41.7889,
@@ -2879,6 +2940,11 @@
   "lon": -4.0028
  },
  "villanueva de la jara|cuenca": null,
+ "villanueva de las cruces|huelva": {
+  "provincia": "Huelva",
+  "lat": 37.6278,
+  "lon": -7.0241
+ },
  "villanueva del ariscal|sevilla": {
   "provincia": "Sevilla",
   "lat": 37.3966,

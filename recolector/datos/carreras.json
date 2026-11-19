@@ -1,41 +1,10 @@
 {
  "version": 1,
- "generado": "2026-11-18T15:06",
+ "generado": "2026-11-19T15:28",
  "zona": "Europe/Madrid",
- "desde": "2026-11-18",
- "hasta": "2027-12-23",
+ "desde": "2026-11-19",
+ "hasta": "2027-12-24",
  "carreras": [
-  {
-   "id": "2026-11-18-mijas-vii-costa-cross-country-championships",
-   "nombre": "VII COSTA Cross Country Championships",
-   "fecha": "2026-11-18",
-   "hora": null,
-   "poblacion": "Mijas",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.5558,
-    -4.695
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "sin_inscripcion",
-   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/18/VII_COSTA_Cross_Country_Championships.aspx",
-   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14189/cartel_thumbnail_X200.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "sin_inscripcion",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "dorsalchip",
-     "url": "https://www.dorsalchip.es/carrera/2026/11/18/VII_COSTA_Cross_Country_Championships.aspx"
-    }
-   ]
-  },
   {
    "id": "2026-11-19-barcelona-simposi-marta-mata-fundacio-marta-mata",
    "nombre": "Simposi Marta Mata - Fundació Marta Mata",
@@ -64,42 +33,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/simposi-marta-mata-fundacio-marta-mata"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-19-girona-cims-de-girona-sant-miquel",
-   "nombre": "Cims de Girona Sant Miquel",
-   "fecha": "2026-11-19",
-   "hora": null,
-   "poblacion": "Girona",
-   "provincia": "Girona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.9793,
-    2.8199
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "cursescat",
-     "url": "https://www.curses.cat/calendari/"
     }
    ]
   },
@@ -335,7 +268,7 @@
    ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -345,46 +278,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/bkt-larrabetzu-2026"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bizkaia-kopa-trail-2026-larrabetzu"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-21-adeje-del-hard-rock-al-cielo-by-espiritu-triabona-adeje",
-   "nombre": "Del Hard Rock Al Cielo By Espíritu Triabona Adeje",
-   "fecha": "2026-11-21",
-   "hora": "09:00",
-   "poblacion": "Adeje",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.1394,
-    -16.7395
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-08-19T00:00",
-   "inscripcion_hasta": "2026-11-18T22:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.chronotrackcanarias.com/inscripcion/del-hard-rock-al-cielo-by-espiritu-triabona-adeje/",
-   "cartel": "https://inscripciones.chronotrackcanarias.com/fileserver.php?name=/images/eventos/rol/8019_evento_30911_cartel.jpg&type=public&v=1787135663",
-   "precios": [
-    {
-     "nombre": "Vertical Hard Rock",
-     "euros": 10.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "gesport",
-     "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/del-hard-rock-al-cielo-by-espiritu-triabona-adeje/"
     }
    ]
   },
@@ -447,37 +340,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/ballada-i-pilates-contra-el-cancer-de-mama-a-sabadell"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-21-basauri-campeonato-de-espana-de-campo-a-traves-feddi-2026",
-   "nombre": "Campeonato de España de Campo a Través FEDDI 2026",
-   "fecha": "2026-11-21",
-   "hora": "10:00",
-   "poblacion": "Basauri",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2354,
-    -2.8921
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/25293581/26407682/Thumbnail-300x300/generica2024.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/campeonato-de-espa%C3%B1a-de-campo-a-trav%C3%A9s-feddi-2026"
     }
    ]
   },
@@ -771,7 +633,7 @@
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": "2026-09-29T20:00",
-   "inscripcion_hasta": "2026-11-18T20:00",
+   "inscripcion_hasta": "2026-11-20T10:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/iii-carrera-vertical-subida-a-las-antenas",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/a77c4d13-7f65-45f1-94de-2efe31070ca9.jpg",
@@ -863,26 +725,26 @@
    ]
   },
   {
-   "id": "2026-11-21-roquetas-de-mar-ix-media-maraton-ciudad-de-roquetas-2026",
+   "id": "2026-11-21-pabellon-infanta-cristina-roquetas-de-mar-ix-media-maraton-ciudad-de-roquetas-2",
    "nombre": "IX Media Maratón Ciudad de Roquetas 2026",
    "fecha": "2026-11-21",
    "hora": "16:30",
-   "poblacion": "Roquetas de Mar",
+   "poblacion": "Pabellón Infanta Cristina Roquetas de Mar",
    "provincia": "Almería",
    "comunidad": "andalucia",
    "coords": [
-    36.763,
-    -2.6116
+    36.7684,
+    -2.613
    ],
    "modalidad": "asfalto",
    "distancias_km": [
     21.097
    ],
    "inscripcion_desde": "2026-09-14T12:00",
-   "inscripcion_hasta": "2026-11-19T23:59",
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.cruzandolameta.es/pruebas/ix-media-maraton-ciudad-de-roquetas-2026/",
-   "cartel": "https://www.cruzandolameta.es/media-clm/carteles/ix-media-maraton-ciudad-de-roquetas-2026-138c746f1b.webp",
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscrik.com/evento/ix-media-maraton-ciudad-de-roquetas-2026/",
+   "cartel": "https://inscrik.com/media/banners/MMA_2026.jpg",
    "precios": [
     {
      "nombre": "Media Maratón",
@@ -908,18 +770,22 @@
     {
      "tipo": "dudoso",
      "texto": "La fuente da inicio (21/11 16:30) y fin (22/11 09:30) en días distintos: confirmar el día de la carrera"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
     }
    ],
-   "estado": "abierta",
+   "estado": "desconocido",
    "calidad": "dudoso",
    "fuentes": [
     {
-     "id": "cruzandolameta",
-     "url": "https://www.cruzandolameta.es/pruebas/ix-media-maraton-ciudad-de-roquetas-2026/"
-    },
-    {
      "id": "inscrik",
      "url": "https://inscrik.com/evento/ix-media-maraton-ciudad-de-roquetas-2026/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/ix-media-maraton-ciudad-de-roquetas-2026/"
     }
    ]
   },
@@ -1524,15 +1390,24 @@
     5.0
    ],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-18T23:59",
-   "estado_fuente": "abierta",
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
    "url_inscripcion": "https://www.cronofinisher.com/evento/ix-5-000-la-charca-grande/",
    "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/760/cartel-20.jpg",
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en el calendario"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en el reglamento de la FAEX"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "cronofinisher",
@@ -1560,8 +1435,8 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://xipgroc.cat/ca/curses/CrosCardedeu2026/open/inscripcio/fins-2010?layout=false",
+   "estado_fuente": null,
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -1575,12 +1450,12 @@
      "texto": "Inscripción y cierre en la web de la carrera"
     }
    ],
-   "estado": "abierta",
+   "estado": "desconocido",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "xipgroc",
-     "url": "https://xipgroc.cat/ca/curses/CrosCardedeu2026/open/inscripcio/fins-2010?layout=false"
+     "url": "https://corrigaires.cat/cros-de-cardedeu/"
     },
     {
      "id": "fca",
@@ -1637,8 +1512,8 @@
    ],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://xipgroc.cat/ca/curses/Milles2026/5k/inscripcio/fins-2012?layout=false",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.atcerdanyola.com/curses/milles-cerdanyola/",
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -1652,12 +1527,12 @@
      "texto": "Inscripción y cierre en la web de la carrera"
     }
    ],
-   "estado": "abierta",
+   "estado": "desconocido",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "xipgroc",
-     "url": "https://xipgroc.cat/ca/curses/Milles2026/5k/inscripcio/fins-2012?layout=false"
+     "url": "https://www.atcerdanyola.com/curses/milles-cerdanyola/"
     },
     {
      "id": "fca",
@@ -2097,15 +1972,36 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/22a-teialada",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/13fccb02-9c10-462a-8974-4cc9251a253e.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Teialada Bike Marathon",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Teialada Bike Marathon Ebike",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Teialada Bike Express",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Teialada Bike Express Ebike",
+     "euros": 0.0
+    }
+   ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/22a-teialada"
+    },
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/22a-teialada"
     }
    ]
   },
@@ -2179,58 +2075,6 @@
     {
      "id": "globaltempo",
      "url": "https://www.global-tempo.com/carreras.php?id=3202"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-los-silos-isla-baja-trail-diverlandia-park-2026",
-   "nombre": "Isla Baja Trail Diverlandia Park 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Los Silos",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.3523,
-    -16.8143
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-08-12T09:00",
-   "inscripcion_hasta": "2026-11-18T22:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.chronotrackcanarias.com/inscripcion/isla-baja-trail-diverlandia-park-2026/",
-   "cartel": "https://inscripciones.chronotrackcanarias.com/fileserver.php?name=/images/eventos/rol/8019_evento_30876_cartel.jpg&type=public&v=1786488331",
-   "precios": [
-    {
-     "nombre": "Trail 22 Km",
-     "euros": 28.0
-    },
-    {
-     "nombre": "Trail 12 Km",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Trail 22 Km Parejas",
-     "euros": 28.0
-    },
-    {
-     "nombre": "Trail 12 Km Parejas",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Inscripción en Lista de Espera",
-     "euros": 0.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "gesport",
-     "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/isla-baja-trail-diverlandia-park-2026/"
     }
    ]
   },
@@ -2485,43 +2329,6 @@
    ]
   },
   {
-   "id": "2026-11-22-madrid-corre-por-un-mundo-sostenible-2026",
-   "nombre": "Corre por un Mundo Sostenible 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:30",
-   "poblacion": "Madrid",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.4237,
-    -3.6899
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    3.0,
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Fecha anunciada en la web oficial (comprobada el 2026-11-17)"
-   ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "anunciadas",
-     "url": "https://correporunmundosostenible.es/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-22-castelltercol-enric-race-2026",
    "nombre": "Enric Race 2026",
    "fecha": "2026-11-22",
@@ -2554,6 +2361,57 @@
     {
      "id": "cronosports",
      "url": "https://cronosports.com/evento/enric-race-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-madrid-ii-carrera-corre-segura-2026",
+   "nombre": "II Carrera Corre Segura 2026",
+   "fecha": "2026-11-22",
+   "hora": "09:30",
+   "poblacion": "Madrid",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
+   "coords": [
+    40.4237,
+    -3.6899
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    3.0,
+    5.0,
+    10.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/ii-carrera-corre-segura-2026",
+   "cartel": null,
+   "precios": [
+    {
+     "nombre": "5K",
+     "euros": 0.0
+    }
+   ],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-17)"
+   ],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/ii-carrera-corre-segura-2026"
+    },
+    {
+     "id": "anunciadas",
+     "url": "https://correporunmundosostenible.es/"
     }
    ]
   },
@@ -2734,7 +2592,7 @@
    ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -2997,50 +2855,6 @@
    ]
   },
   {
-   "id": "2026-11-22-icod-de-los-vinos-milla-del-vino-2026",
-   "nombre": "Milla del Vino 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Icod de los Vinos",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.3331,
-    -16.6916
-   ],
-   "modalidad": "pista",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-08-19T00:00",
-   "inscripcion_hasta": "2026-11-18T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.chronotrackcanarias.com/inscripcion/milla-del-vino-2026/",
-   "cartel": "https://inscripciones.chronotrackcanarias.com/fileserver.php?name=/images/eventos/rol/8019_evento_30912_cartel.jpg&type=public&v=1787152812",
-   "precios": [
-    {
-     "nombre": "Carrera Adultos (a Partir de 16 Años)",
-     "euros": 10.0
-    },
-    {
-     "nombre": "Carreras Infantiles (hasta 15 Años)",
-     "euros": 5.0
-    },
-    {
-     "nombre": "Pitufines (hasta 5 Años)",
-     "euros": 0.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "gesport",
-     "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/milla-del-vino-2026/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-22-molina-de-segura-v-carrera-solidaria-auxiliar-conservera",
    "nombre": "V Carrera Solidaria Auxiliar Conservera",
    "fecha": "2026-11-22",
@@ -3056,7 +2870,7 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://alcanzatumeta.es/v-carrera-solidaria-auxiliar-conservera",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/ead502d0197dcc8a0eca84fd74da6e44.jpg",
    "precios": [],
@@ -3067,7 +2881,7 @@
      "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
     }
    ],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
@@ -3095,7 +2909,7 @@
    "modalidad": "trail",
    "distancias_km": [],
    "inscripcion_desde": "2026-09-10T21:00",
-   "inscripcion_hasta": "2026-11-18T23:59",
+   "inscripcion_hasta": "2026-11-19T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://www.avaibooksports.com/inscripcion/vii-trail-salas-virgen-del-viso-2026/",
    "cartel": null,
@@ -3163,7 +2977,12 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xii-carrera-contra-el-cancer-de-pancreas-alicante-2026",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/1458/custom/root/2007c38f-5454-4d2c-b221-759e49f5cd57_custom2.jpg",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "10K",
+     "euros": 0.0
+    }
+   ],
    "previos": [
     "Carrera solidaria: lo recaudado va a becas de investigación del cáncer de páncreas"
    ],
@@ -3178,6 +2997,10 @@
     {
      "id": "cancerpancreas",
      "url": "https://carreracancerpancreas.es/carrera-alicante/"
+    },
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/carrera-de-las-ciudades-contra-el-cancer-de-pancreas-2026-22625"
     }
    ]
   },
@@ -3438,7 +3261,7 @@
     "Salida en la Pradera San Isidro"
    ],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3588,43 +3411,12 @@
    ],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/basauriko-herrikrosa-2026-evento-solidario/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-basauri-herri-krosa-de-basauri-2026",
-   "nombre": "Herri Krosa de Basauri 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:30",
-   "poblacion": "Basauri",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2354,
-    -2.8921
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/basauriko-herrikrosa-2026-evento-solidario/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29690029/29687398/Thumbnail-300x300/hhgjbas+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-herri-krosa-basauri-2026"
     }
    ]
   },
@@ -3664,6 +3456,10 @@
     },
     {
      "nombre": "5K Universitari",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Mitja Marató Espirall - Vilafranca",
      "euros": 0.0
     }
    ],
@@ -3809,7 +3605,7 @@
     5.0
    ],
    "inscripcion_desde": "2026-09-10T20:00",
-   "inscripcion_hasta": "2026-11-21T23:59",
+   "inscripcion_hasta": "2026-11-20T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/ix-emakumeen-lasterketa-5km",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/214294d8-a5c3-4b3a-b9da-2833545a4217.jpeg",
@@ -3822,10 +3618,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/ix-emakumeen-lasterketa-5km"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/durangoko-emakumeen-lasterketa-2026"
     }
    ]
   },
@@ -3851,7 +3643,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3876,7 +3668,7 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://alcanzatumeta.es/viii-carrera-y-marcha-urbana-mueve-la-vida",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/f79e288ce724ee6613e84fc3f2f7498e.jpeg",
    "precios": [],
@@ -3887,7 +3679,7 @@
      "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
     }
    ],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
@@ -3915,7 +3707,7 @@
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": "2026-10-21T09:00",
-   "inscripcion_hasta": "2026-11-19T00:00",
+   "inscripcion_hasta": "2026-11-20T15:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/x-carrera-popular-bobadilla-del-campo",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/16064/library/root/35cb2ad6-4227-4d39-bb77-92a76c2d6757.jpg",
@@ -3968,8 +3760,8 @@
    ]
   },
   {
-   "id": "2026-11-22-palencia-xi-trail-tres-cerros-palentinos-iii-trail-universitario",
-   "nombre": "XI Trail Tres Cerros Palentinos - III Trail Universitario",
+   "id": "2026-11-22-palencia-xi-trail-tres-cerros-palentinos",
+   "nombre": "XI Trail Tres Cerros Palentinos",
    "fecha": "2026-11-22",
    "hora": "11:00",
    "poblacion": "Palencia",
@@ -3984,7 +3776,7 @@
    "inscripcion_desde": "2026-10-02T10:00",
    "inscripcion_hasta": "2026-11-16T20:00",
    "estado_fuente": null,
-   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xi-trail-tres-cerros-palentinos-iii-trail-universitario/",
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xi-trail-tres-cerros-palentinos-1/",
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -3994,7 +3786,7 @@
    "fuentes": [
     {
      "id": "runvasport",
-     "url": "https://www.avaibooksports.com/inscripcion/xi-trail-tres-cerros-palentinos-iii-trail-universitario/"
+     "url": "https://www.avaibooksports.com/inscripcion/xi-trail-tres-cerros-palentinos-1/"
     },
     {
      "id": "fetacyl",
@@ -4121,41 +3913,6 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/273"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-sodupe-izarlokak-2026",
-   "nombre": "Izarlokak 2026",
-   "fecha": "2026-11-22",
-   "hora": "11:30",
-   "poblacion": "Sodupe",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2017,
-    -3.0507
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29787063/29802955/Thumbnail-300x300/izarlokaklogo.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/izarlokak-2026"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395"
     }
    ]
   },
@@ -4351,13 +4108,13 @@
    ],
    "inscripcion_desde": "2026-05-05T00:00",
    "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/5K_y_10K_IX_Carrera_Holiday_World.aspx",
    "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14031/cartel_thumbnail_X200.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -4491,6 +4248,37 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/carrera-de-la-mujer-barcelona-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-sodupe-carrera-martxa-izarlokak-25n",
+   "nombre": "Carrera Martxa Izarlokak 25N",
+   "fecha": "2026-11-22",
+   "hora": null,
+   "poblacion": "Sodupe",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2017,
+    -3.0507
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395",
+   "cartel": "https://www.buscametas.com/datos/ticket/1395_cartel_20261022103811.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395"
     }
    ]
   },
@@ -4897,12 +4685,12 @@
    "cartel": null,
    "precios": [
     {
-     "nombre": "I Carrera Empresas Huelva24 INDIVIDUALES",
-     "euros": 10.0
+     "nombre": "INDIVIDUALES I Carrera Empresas Huelva24 2026",
+     "euros": 0.0
     },
     {
-     "nombre": "EQUIPOS I Carrera Empresas Huelva24",
-     "euros": 10.0
+     "nombre": "EQUIPOS I Carrera Empresas Huelva24 2026",
+     "euros": 0.0
     }
    ],
    "previos": [],
@@ -4973,13 +4761,13 @@
    "distancias_km": [],
    "inscripcion_desde": "2026-06-10T00:00",
    "inscripcion_hasta": "2026-11-18T23:55",
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/III_Carrera_El_Cerebro_no_es_Gris.aspx",
    "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14027/cartel_thumbnail_X200.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -5175,13 +4963,13 @@
    ],
    "inscripcion_desde": "2026-05-05T00:00",
    "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/Media_Maraton_IX_Carrera_Holiday_World.aspx",
    "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14030/cartel_thumbnail_X200.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -5391,7 +5179,7 @@
    "modalidad": null,
    "distancias_km": [],
    "inscripcion_desde": "2026-10-26T00:00",
-   "inscripcion_hasta": "2026-11-19T14:00",
+   "inscripcion_hasta": "2026-11-21T18:00",
    "estado_fuente": "abierta",
    "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/WE_RUN_UMA.aspx",
    "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14125/cartel_thumbnail_X200.jpg",
@@ -5980,7 +5768,7 @@
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-18T23:59",
+   "inscripcion_hasta": "2026-11-20T23:59",
    "estado_fuente": "abierta",
    "url_inscripcion": "https://www.cronofinisher.com/evento/xxiii-carrera-popular-contra-la-droga/",
    "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/738/cartel-22-noviembre-2026-jpg-jpeg.jpg",
@@ -7889,7 +7677,16 @@
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/avenc-trail-cunit-2026",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/0e1629dd-6375-4179-b842-3a98f531b9ab.png",
-   "precios": [],
+   "precios": [
+    {
+     "nombre": "Trail 12,7k",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Caminada 5,5k",
+     "euros": 0.0
+    }
+   ],
    "previos": [],
    "avisos_calidad": [],
    "estado": "abierta",
@@ -7898,6 +7695,10 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/avenc-trail-cunit-2026"
+    },
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/avenc-trail-cunit-2026"
     }
    ]
   },
@@ -7963,10 +7764,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/santurcebilbao26"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-desde-santurce-a-bilbao-2026"
     }
    ]
   },
@@ -9383,63 +9180,6 @@
    ]
   },
   {
-   "id": "2026-12-06-etxebarri-xiv-etxebarri-xtreme",
-   "nombre": "XIV Etxebarri Xtreme",
-   "fecha": "2026-12-06",
-   "hora": "09:30",
-   "poblacion": "Etxebarri",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2461,
-    -2.8913
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://sportmaniacs.com/es/races/xiv-etxebarri-xtreme",
-   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_6a21722a-46e4-4335-863f-a40cac1f0aef-header_6a201b8c-364c-435d-ae3f-4835ac1f1004.png",
-   "precios": [
-    {
-     "nombre": "Trail 30k",
-     "euros": 15.0
-    },
-    {
-     "nombre": "Txakurkros",
-     "euros": 7.0
-    },
-    {
-     "nombre": "Martxa 9k",
-     "euros": 6.0
-    },
-    {
-     "nombre": "Trail 10K",
-     "euros": 7.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "sportmaniacs",
-     "url": "https://sportmaniacs.com/es/races/xiv-etxebarri-xtreme"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-etxebarri-xtreme-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-06-l-alqueria-de-la-comtessa-xix-volta-a-peu-l-alqueria-de-la-comtessa",
    "nombre": "XIX Volta a Peu L'Alqueria de la Comtessa",
    "fecha": "2026-12-06",
@@ -9615,37 +9355,6 @@
     {
      "id": "sesca",
      "url": "https://crono.sesca.es/carrera/?idCarrera=924&nombre=cruz-del-valle-2026-en-edad-escolar"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-06-portugalete-gabonetako-krosa-2026",
-   "nombre": "Gabonetako Krosa 2026",
-   "fecha": "2026-12-06",
-   "hora": "10:00",
-   "poblacion": "Portugalete",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.319,
-    -3.0199
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.instagram.com/p/De9qAQdIxEd/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29800017/29829028/Thumbnail-300x300/gk26+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-gabonetako-krosa-2026"
     }
    ]
   },
@@ -10166,37 +9875,6 @@
    ]
   },
   {
-   "id": "2026-12-06-elantxobe-liga-de-ascensos-populares-2026-kaltzadan-gora",
-   "nombre": "Liga de Ascensos Populares 2026: Kaltzadan Gora",
-   "fecha": "2026-12-06",
-   "hora": null,
-   "poblacion": "Elantxobe",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.4031,
-    -2.6405
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/28889568/28891332/Thumbnail-300x300/trailrunninggenerica.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/igoera-herrikoien-liga-2026-kaltzadan-gora"
-    }
-   ]
-  },
-  {
    "id": "2026-12-06-figueres-x-mitja-marato-de-figueres-i-10-km-de-figueres",
    "nombre": "X Mitja Marató de Figueres i 10 Km de Figueres",
    "fecha": "2026-12-06",
@@ -10368,6 +10046,59 @@
     {
      "id": "olarivers",
      "url": "https://olarivers.com/eventos/xiii-cxm-farajan/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-06-etxebarri-xiv-etxebarri-xtreme",
+   "nombre": "XIV Etxebarri Xtreme",
+   "fecha": "2026-12-06",
+   "hora": null,
+   "poblacion": "Etxebarri",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2461,
+    -2.8913
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/xiv-etxebarri-xtreme",
+   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_6a21722a-46e4-4335-863f-a40cac1f0aef-header_6a201b8c-364c-435d-ae3f-4835ac1f1004.png",
+   "precios": [
+    {
+     "nombre": "Trail 30k",
+     "euros": 15.0
+    },
+    {
+     "nombre": "Txakurkros",
+     "euros": 7.0
+    },
+    {
+     "nombre": "Martxa 9k",
+     "euros": 6.0
+    },
+    {
+     "nombre": "Trail 10K",
+     "euros": 7.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/xiv-etxebarri-xtreme"
     }
    ]
   },
@@ -10960,6 +10691,37 @@
     {
      "id": "lineadesalida",
      "url": "https://www.lineadesalida.net/carreras/xviii-cross-de-navidad-de-la-armada"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-11-toledo-encuentro-mujer-y-montana-montana-2026",
+   "nombre": "Encuentro Mujer y Montaña Montaña 2026",
+   "fecha": "2026-12-11",
+   "hora": "08:00",
+   "poblacion": "Toledo",
+   "provincia": "Toledo",
+   "comunidad": "castilla-la-mancha",
+   "coords": [
+    39.8603984,
+    -4.0155673
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-19T16:00",
+   "inscripcion_hasta": "2026-12-04T12:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/encuentro-mujer-y-montana-montana-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/encuentro-mujer-y-montana-montana-2026"
     }
    ]
   },
@@ -13802,41 +13564,6 @@
    ]
   },
   {
-   "id": "2026-12-13-zalla-zalla-balma-zalla-2026",
-   "nombre": "Zalla-Balma-Zalla 2026",
-   "fecha": "2026-12-13",
-   "hora": "11:30",
-   "poblacion": "Zalla",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2135,
-    -3.1345
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1357",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/28534384/28550455/Thumbnail-300x300/zallabalmazalla2026.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-zalla-balma-zalla-2026"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1357"
-    }
-   ]
-  },
-  {
    "id": "2026-12-13-albanchez-vii-carrera-popular-de-albanchez",
    "nombre": "VII Carrera Popular de Albanchez",
    "fecha": "2026-12-13",
@@ -14130,8 +13857,8 @@
    ],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://xipgroc.cat/ca/curses/MitjaVilanova2026/10k/inscripcio/cursa?layout=false",
+   "estado_fuente": null,
+   "url_inscripcion": "https://mitjavilanova.com/",
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -14145,12 +13872,12 @@
      "texto": "Inscripción y cierre en la web de la carrera"
     }
    ],
-   "estado": "abierta",
+   "estado": "desconocido",
    "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "xipgroc",
-     "url": "https://xipgroc.cat/ca/curses/MitjaVilanova2026/10k/inscripcio/cursa?layout=false"
+     "url": "http://www.mitjavilanova.com/"
     },
     {
      "id": "fca",
@@ -15230,6 +14957,37 @@
    ]
   },
   {
+   "id": "2026-12-13-libreria-luces-alameda-principal-xii-torneo-de-navidad-de-ajedrez-libreria-luce",
+   "nombre": "XII Torneo de Navidad de Ajedrez Librería Luces",
+   "fecha": "2026-12-13",
+   "hora": null,
+   "poblacion": "Librería Luces, Alameda Principal",
+   "provincia": "Málaga",
+   "comunidad": "andalucia",
+   "coords": [
+    36.7169,
+    -4.4241
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-19T00:00",
+   "inscripcion_hasta": "2026-12-12T14:00",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/12/13/XII_Torneo_de_Navidad_de_Ajedrez_Libreria_Luces.aspx",
+   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/12/14209/cartel_thumbnail_X200.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "dorsalchip",
+     "url": "https://www.dorsalchip.es/carrera/2026/12/13/XII_Torneo_de_Navidad_de_Ajedrez_Libreria_Luces.aspx"
+    }
+   ]
+  },
+  {
    "id": "2026-12-13-nijar-xiv-carrera-popular-cortijo-del-fraile",
    "nombre": "XIV Carrera Popular Cortijo del Fraile",
    "fecha": "2026-12-13",
@@ -15620,6 +15378,37 @@
    ]
   },
   {
+   "id": "2026-12-13-zalla-zalla-balma-zalla",
+   "nombre": "Zalla-Balma-Zalla",
+   "fecha": "2026-12-13",
+   "hora": null,
+   "poblacion": "Zalla",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2135,
+    -3.1345
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1357",
+   "cartel": "https://www.buscametas.com/datos/ticket/1357_cartel_20260518080339.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1357"
+    }
+   ]
+  },
+  {
    "id": "2026-12-17-daganzo-de-arriba-xix-legua-nocturna-productos-jesus-villa-de-daganzo-2026",
    "nombre": "XIX Legua Nocturna Productos Jesús Villa de Daganzo 2026",
    "fecha": "2026-12-17",
@@ -15764,6 +15553,37 @@
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/pasai-antxoko-xiii-gabonetako-krosa/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-18-badajoz-concierto-solidario-navideno-aecc-badajoz",
+   "nombre": "Concierto Solidario Navideño AECC Badajoz",
+   "fecha": "2026-12-18",
+   "hora": "20:15",
+   "poblacion": "Badajoz",
+   "provincia": "Badajoz",
+   "comunidad": "extremadura",
+   "coords": [
+    38.88283150000001,
+    -7.0098524
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-19T08:00",
+   "inscripcion_hasta": "2026-12-17T13:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/concierto-solidario-navideno-aecc-badajoz",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10261/library/root/5cadb747-755a-4fdb-816d-a9df2136f8f6.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/concierto-solidario-navideno-aecc-badajoz"
     }
    ]
   },
@@ -15970,10 +15790,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/bkt-zamudio-2026"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bizkaia-kopa-trail-2026-zamudio"
     }
    ]
   },
@@ -16285,6 +16101,37 @@
     {
      "id": "anunciadas",
      "url": "https://torrelodones.es/la-san-silvestre-de-torrelodones-se-adelanta-al-19-de-diciembre-y-abre-inscripciones/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-19-venta-de-banos-xxiii-carrera-popular-venta-de-banos",
+   "nombre": "XXIII Carrera Popular Venta de Baños",
+   "fecha": "2026-12-19",
+   "hora": "12:15",
+   "poblacion": "Venta de Baños",
+   "provincia": "Palencia",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.9209323,
+    -4.4887385
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-20T00:00",
+   "inscripcion_hasta": "2026-12-16T15:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xxiii-carrera-popular-venta-de-banos/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xxiii-carrera-popular-venta-de-banos/"
     }
    ]
   },
@@ -16652,41 +16499,6 @@
    ]
   },
   {
-   "id": "2026-12-19-muskiz-muskizko-3-miliak-2026",
-   "nombre": "Muskizko 3 Miliak 2026",
-   "fecha": "2026-12-19",
-   "hora": "17:45",
-   "poblacion": "Muskiz",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.323,
-    -3.1243
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1385",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29594790/29582311/Thumbnail-300x300/m3m+%282%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/muskizko-3-miliak-2026"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1385"
-    }
-   ]
-  },
-  {
    "id": "2026-12-19-alhendin-vii-carrera-san-silveste-alhendin-2026",
    "nombre": "VII Carrera San Silveste Alhendin 2026",
    "fecha": "2026-12-19",
@@ -16904,6 +16716,39 @@
    ]
   },
   {
+   "id": "2026-12-19-cross-puerto-real",
+   "nombre": "Cross Puerto Real",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": null,
+   "coords": null,
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.faalive.com/inscriptions/324",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/puertorealcross26-scaled.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Población, precio, cierre y previos solo en el cartel"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "faa",
+     "url": "https://web.faalive.com/inscriptions/324"
+    }
+   ]
+  },
+  {
    "id": "2026-12-19-bigues-i-riells-del-fai-cursa-de-nadal-bigues-i-riells",
    "nombre": "Cursa de Nadal Bigues i Riells",
    "fecha": "2026-12-19",
@@ -16938,6 +16783,44 @@
     {
      "id": "xipgroc",
      "url": "https://xipgroc.cat/ca/curses/NadalBigues2026/8k/inscripcio/fins-2014?layout=false"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-19-el-poble-nou-de-benitatxell-cursa-de-nadal-el-poble-nou-de-benitatxell",
+   "nombre": "Cursa de Nadal El Poble nou de Benitatxell",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": "El Poble Nou de Benitatxell",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.7323,
+    0.1438
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    4.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "somesport",
+     "url": "https://www.somesport.com/"
     }
    ]
   },
@@ -17105,6 +16988,37 @@
    ]
   },
   {
+   "id": "2026-12-19-muskiz-muskizko-3-miliak",
+   "nombre": "Muskizko 3 Miliak",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": "Muskiz",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.323,
+    -3.1243
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1385",
+   "cartel": "https://www.buscametas.com/datos/ticket/1385_cartel_20260929121041.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1385"
+    }
+   ]
+  },
+  {
    "id": "2026-12-19-novelda-novelda-2026-carrera-del-pavo",
    "nombre": "Novelda 2026 - Carrera del Pavo",
    "fecha": "2026-12-19",
@@ -17214,6 +17128,39 @@
     {
      "id": "cronorunner",
      "url": "https://inscripciones.cronorunner.com/evento/ix-sant-silvestre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-19-villanueva-del-ariscal",
+   "nombre": "Villanueva del Ariscal",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": null,
+   "coords": null,
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.faalive.com/inscriptions/323",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/francastillo26.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Población, precio, cierre y previos solo en el cartel"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "faa",
+     "url": "https://web.faalive.com/inscriptions/323"
     }
    ]
   },
@@ -17412,6 +17359,50 @@
     {
      "id": "globaltempo",
      "url": "https://www.global-tempo.com/carreras.php?id=3315"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-20-venta-de-banos-xlvi-cross-internacional-de-venta-de-banos",
+   "nombre": "XLVI Cross Internacional de Venta de Baños",
+   "fecha": "2026-12-20",
+   "hora": "09:00",
+   "poblacion": "Venta de Baños",
+   "provincia": "Palencia",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.9194897,
+    -4.4879907
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-20T00:00",
+   "inscripcion_hasta": "2026-12-14T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xlvi-cross-internacional-de-venta-de-banos/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Inscripción y cierre en la web de la carrera"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xlvi-cross-internacional-de-venta-de-banos/"
+    },
+    {
+     "id": "fca",
+     "url": "https://fcatletisme.cat/event/xlvi-cross-internacional-de-venta-de-banos/"
+    },
+    {
+     "id": "fetacyl",
+     "url": "https://www.fetacyl.org/xlvi-cross-internacional-de-venta-de-banos/"
     }
    ]
   },
@@ -18151,10 +18142,6 @@
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/xlii-memorial-itziar-lopez-uralde/"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-memorial-itziar-lopez-de-uralde-2026"
     }
    ]
   },
@@ -19433,39 +19420,6 @@
    ]
   },
   {
-   "id": "2026-12-20-iurreta-urbana-internacional-iurreta-10k-2026",
-   "nombre": "Urbana Internacional Iurreta 10K 2026",
-   "fecha": "2026-12-20",
-   "hora": null,
-   "poblacion": "Iurreta",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1767,
-    -2.6339
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29756902/29734248/Thumbnail-300x300/marmar+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/10k-iurreta-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-20-borriol-viii-trail-san-silvestre-les-ferreries",
    "nombre": "VIII Trail San Silvestre Les Ferreries",
    "fecha": "2026-12-20",
@@ -19722,50 +19676,6 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=9048"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-20-venta-de-banos-xlvi-cross-internacional-de-venta-de-banos",
-   "nombre": "XLVI Cross Internacional de Venta de Baños",
-   "fecha": "2026-12-20",
-   "hora": null,
-   "poblacion": "Venta de Baños",
-   "provincia": "Palencia",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.9207,
-    -4.4932
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento (la FETACYL no lo da)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fca",
-     "url": "https://fcatletisme.cat/event/xlvi-cross-internacional-de-venta-de-banos/"
-    },
-    {
-     "id": "fetacyl",
-     "url": "https://www.fetacyl.org/xlvi-cross-internacional-de-venta-de-banos/"
     }
    ]
   },
@@ -20031,6 +19941,34 @@
    ]
   },
   {
+   "id": "2026-12-24-gijon-39-carrera-popular-de-nochebuena-por-fundacion-gijon-rural",
+   "nombre": "39 Carrera Popular de Nochebuena por Fundación Gijón Rural",
+   "fecha": "2026-12-24",
+   "hora": "11:00",
+   "poblacion": "Gijón",
+   "provincia": "Asturias",
+   "comunidad": "asturias",
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "cerrada",
+   "url_inscripcion": "https://www.321go.es/Carrera/Detail/604-39carrerapopulardenochebuenaporfundacingijnrural",
+   "cartel": "https://www.321go.es/Uploads/Image/Carrera/c3d5a0e5ffce483e8a6f621fb9639547.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "cerrada",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "321go",
+     "url": "https://www.321go.es/Carrera/Detail/604-39carrerapopulardenochebuenaporfundacingijnrural"
+    }
+   ]
+  },
+  {
    "id": "2026-12-24-san-sebastian-45-cross-beach-hondartzako-krosa-miguel-uriarte-oroituz",
    "nombre": "45º CROSS-BEACH HONDARTZAKO KROSA - Miguel Uriarte oroituz",
    "fecha": "2026-12-24",
@@ -20218,6 +20156,44 @@
    ]
   },
   {
+   "id": "2026-12-24-almeria-carrera-reto-24d-x-24k",
+   "nombre": "Carrera Reto 24d X 24k",
+   "fecha": "2026-12-24",
+   "hora": null,
+   "poblacion": "Almería",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    36.8686,
+    -2.312
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    24.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.todofondo.net/prueba/ver/carrera-reto-24d-x-24k---721/",
+   "cartel": "https://www.todofondo.net/media/competiciones/CARTEL_-_copia_Zfz45hc.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora, precio y cierre en la ficha de Todofondo"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "todofondo",
+     "url": "https://www.todofondo.net/prueba/ver/carrera-reto-24d-x-24k---721/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-24-bayubas-de-abajo-xiv-legua-y-media-navidena",
    "nombre": "XIV Legua y Media Navideña",
    "fecha": "2026-12-24",
@@ -20258,6 +20234,37 @@
     {
      "id": "soriatletismo",
      "url": "https://soriatletismo.com/competiciones/ver/568/xiv-legua-y-media-navideÑa"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-25-donostia-gabon-kontxapuzon-2026-solidario",
+   "nombre": "Gabon Kontxapuzon 2026 Solidario",
+   "fecha": "2026-12-25",
+   "hora": "12:00",
+   "poblacion": "Donostia",
+   "provincia": "Gipuzkoa",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.3169002159489,
+    -1.98675042772516
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-25T12:00",
+   "inscripcion_hasta": "2026-12-23T14:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/gabon-kontxapuzon-2026-solidario",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/624/library/root/f61848d8-c449-4e08-93bf-17523e569d2d.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/gabon-kontxapuzon-2026-solidario"
     }
    ]
   },
@@ -20446,37 +20453,6 @@
    ]
   },
   {
-   "id": "2026-12-26-getxo-cross-de-andra-mari-2026",
-   "nombre": "Cross de Andra Mari 2026",
-   "fecha": "2026-12-26",
-   "hora": "10:30",
-   "poblacion": "Getxo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3431,
-    -3.0079
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/xliv-andra-mariko-krosa/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29841765/29844995/Thumbnail-300x300/krosandramari26.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/andra-mariko-krosa-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-26-palma-fng-san-silvestre-palma-2026",
    "nombre": "FNG San Silvestre Palma 2026",
    "fecha": "2026-12-26",
@@ -20602,10 +20578,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/arantzazuko-sansilbestrail-2026"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/sansilbestrail-2026"
     }
    ]
   },
@@ -21022,10 +20994,6 @@
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/iv-san-silvestre-nocturna-loiu/"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/san-silvestre-loiu-2026"
     }
    ]
   },
@@ -21075,6 +21043,37 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/274"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-26-astorga-xii-carrera-de-navidad",
+   "nombre": "XII Carrera de Navidad",
+   "fecha": "2026-12-26",
+   "hora": "18:30",
+   "poblacion": "Astorga",
+   "provincia": "León",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    42.4550572,
+    -6.0529746
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T18:00",
+   "inscripcion_hasta": "2026-12-24T19:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xii-carrera-de-navidad/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xii-carrera-de-navidad/"
     }
    ]
   },
@@ -22065,7 +22064,7 @@
    "inscripcion_hasta": "2026-12-21T23:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/san-silvestre-trail-agreda-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/c5c7d55b-b945-41b0-b448-45e8e4b9226a.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/ded6202b-b26c-4cd3-b116-2c92bdda74e5.jpeg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -22559,7 +22558,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://www.runnink.com/evento/san-silvestre-el-puerto-de-santa-mar-a/140",
-   "cartel": "https://www.runnink.com/assets/cartel/proximamente.png",
+   "cartel": "https://www.runnink.com/assets/cartel/san-silvestre-elpuerto-2026.jpeg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [
@@ -22977,6 +22976,61 @@
     {
      "id": "deportime",
      "url": "https://deportime.es/events/iv-san-silvestre-2026-segura-de-la-sierra/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-altea-xiii-san-silvestre-altea-2026",
+   "nombre": "XIII San Silvestre, Altea 2026",
+   "fecha": "2026-12-27",
+   "hora": "17:30",
+   "poblacion": "Altea",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.604607,
+    -0.0444293
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    4.0
+   ],
+   "inscripcion_desde": "2026-11-26T08:00",
+   "inscripcion_hasta": "2026-12-24T12:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/xiii-san-silvestre-altea-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/72dcd27f-6af8-4860-8d7e-1d079e73b366_custom1.jpg",
+   "precios": [
+    {
+     "nombre": "4k",
+     "euros": 6.0
+    },
+    {
+     "nombre": "Marcha Nórdica",
+     "euros": 6.0
+    },
+    {
+     "nombre": "Caminata popular",
+     "euros": 6.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/xiii-san-silvestre-altea-2026"
+    },
+    {
+     "id": "mychip",
+     "url": "https://inscripciones.mychip.es/es/evento/xiii-san-silvestre-altea-2026"
     }
    ]
   },
@@ -23579,6 +23633,82 @@
    ]
   },
   {
+   "id": "2026-12-27-el-verger-sant-silvestre-el-verger",
+   "nombre": "Sant Silvestre El Verger",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "El Verger",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.8455,
+    0.0104
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    3.6
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "somesport",
+     "url": "https://www.somesport.com/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-pego-sant-silvestre-pego",
+   "nombre": "Sant Silvestre Pego",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "Pego",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.8422,
+    -0.1179
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    4.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "somesport",
+     "url": "https://www.somesport.com/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-27-badalona-sant-silvestre-racc-badalona",
    "nombre": "Sant Silvestre RACC Badalona",
    "fecha": "2026-12-27",
@@ -23880,55 +24010,6 @@
    ]
   },
   {
-   "id": "2026-12-27-altea-xiii-san-silvestre-altea-2026",
-   "nombre": "XIII San Silvestre, Altea 2026",
-   "fecha": "2026-12-27",
-   "hora": null,
-   "poblacion": "Altea",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.6044902,
-    -0.0442373
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-11-26T08:00",
-   "inscripcion_hasta": "2026-12-24T12:00",
-   "estado_fuente": "no_abierta",
-   "url_inscripcion": "https://inscripciones.mychip.es/es/evento/xiii-san-silvestre-altea-2026",
-   "cartel": "https://rockthesportv2.blob.core.windows.net/evento/987d0343-de37-4942-b9ad-996068000fe1_p.jpg",
-   "precios": [
-    {
-     "nombre": "4k",
-     "euros": 6.0
-    },
-    {
-     "nombre": "Marcha Nórdica",
-     "euros": 6.0
-    },
-    {
-     "nombre": "Caminata popular",
-     "euros": 6.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora en el reglamento de Mychip (la API la da en UTC)"
-    }
-   ],
-   "estado": "no_abierta",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "mychip",
-     "url": "https://inscripciones.mychip.es/es/evento/xiii-san-silvestre-altea-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-27-oropesa-del-mar-xv-san-silvestre-d-orpesa",
    "nombre": "XV San Silvestre D'orpesa",
    "fecha": "2026-12-27",
@@ -24031,6 +24112,44 @@
    ]
   },
   {
+   "id": "2026-12-27-benissa-xxiv-sant-silvestre-benissa",
+   "nombre": "XXIV Sant Silvestre Benissa",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "Benissa",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.7164,
+    0.0534
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    3.8
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "somesport",
+     "url": "https://www.somesport.com/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-27-leon-xxix-san-silvestre-popular-ciudad-de-leon",
    "nombre": "XXIX San Silvestre Popular Ciudad de León",
    "fecha": "2026-12-27",
@@ -24063,6 +24182,37 @@
     {
      "id": "fetacyl",
      "url": "https://www.fetacyl.org/xxix-san-silvestre-popular-ciudad-de-leon/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-28-parres-xii-carrera-de-los-inocentes-2026",
+   "nombre": "XII Carrera de los Inocentes 2026",
+   "fecha": "2026-12-28",
+   "hora": "17:00",
+   "poblacion": "Parres",
+   "provincia": "Asturias",
+   "comunidad": "asturias",
+   "coords": [
+    43.3885119364132,
+    -5.186097390074167
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-12T00:00",
+   "inscripcion_hasta": "2026-12-23T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/xii-carrera-de-los-inocentes-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/8a318e4a-d38a-4331-a931-1984d6806085.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/xii-carrera-de-los-inocentes-2026"
     }
    ]
   },
@@ -24253,55 +24403,6 @@
     {
      "id": "cronorunner",
      "url": "https://inscripciones.cronorunner.com/evento/xvii-san-silvetre-solidaria-ciutat-de-torrent"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-30-etxebarri-etxebarri-san-silvestre-2026",
-   "nombre": "Etxebarri San Silvestre 2026",
-   "fecha": "2026-12-30",
-   "hora": "17:30",
-   "poblacion": "Etxebarri",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2461,
-    -2.8913
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://sportmaniacs.com/es/races/etxebarri-san-silvestre-2026",
-   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6aedbaa0-7430-400f-b7b3-4172ac1f2a05.png",
-   "precios": [
-    {
-     "nombre": "5K - Niños Hasta 13 Años Incluidos",
-     "euros": 5.0
-    },
-    {
-     "nombre": "5K - MAYORES DE 13 AÑOS (14 años en adelante)",
-     "euros": 8.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "sportmaniacs",
-     "url": "https://sportmaniacs.com/es/races/etxebarri-san-silvestre-2026"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/san-silvestre-etxebarri-2026"
     }
    ]
   },
@@ -24524,6 +24625,51 @@
    ]
   },
   {
+   "id": "2026-12-30-etxebarri-etxebarri-san-silvestre-2026",
+   "nombre": "Etxebarri San Silvestre 2026",
+   "fecha": "2026-12-30",
+   "hora": null,
+   "poblacion": "Etxebarri",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2461,
+    -2.8913
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/etxebarri-san-silvestre-2026",
+   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6aedbaa0-7430-400f-b7b3-4172ac1f2a05.png",
+   "precios": [
+    {
+     "nombre": "5K - Niños Hasta 13 Años Incluidos",
+     "euros": 5.0
+    },
+    {
+     "nombre": "5K - MAYORES DE 13 AÑOS (14 años en adelante)",
+     "euros": 8.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/etxebarri-san-silvestre-2026"
+    }
+   ]
+  },
+  {
    "id": "2026-12-30-trasmulas-i-campeonato-trasmuleno-de-lanzamiento-de-jabalina-y-peso",
    "nombre": "I Campeonato Trasmuleño de lanzamiento de jabalina y peso",
    "fecha": "2026-12-30",
@@ -24700,37 +24846,6 @@
    ]
   },
   {
-   "id": "2026-12-31-etxebarria-san-silvestre-de-etxebarria-2026",
-   "nombre": "San Silvestre de Etxebarria 2026",
-   "fecha": "2026-12-31",
-   "hora": "09:00",
-   "poblacion": "Etxebarria",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.255,
-    -2.4787
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225001/29245532/Thumbnail-300x300/sasigen+%282%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/etxebarriko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-crevillent-xl-san-silvestre-internacional-crevillentina-2026",
    "nombre": "XL San Silvestre Internacional Crevillentina 2026",
    "fecha": "2026-12-31",
@@ -24842,37 +24957,6 @@
    ]
   },
   {
-   "id": "2026-12-31-erandio-san-silvestre-de-erandio-2026",
-   "nombre": "San Silvestre de Erandio 2026",
-   "fecha": "2026-12-31",
-   "hora": "10:00",
-   "poblacion": "Erandio",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3028,
-    -2.9758
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225534/29245772/Thumbnail-300x300/sasigen+%2818%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/erandioko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-molina-de-segura-x-san-silvestre-ciudad-de-molina-de-segura-2026",
    "nombre": "X San Silvestre Ciudad de Molina de Segura 2026",
    "fecha": "2026-12-31",
@@ -24944,24 +25028,24 @@
    ]
   },
   {
-   "id": "2026-12-31-getxo-san-silvestre-de-getxo-2026",
-   "nombre": "San Silvestre de Getxo 2026",
+   "id": "2026-12-31-pilar-de-la-horadada-12-san-silvestre-pilarena-2026",
+   "nombre": "12ª San Silvestre Pilareña 2026",
    "fecha": "2026-12-31",
    "hora": "10:30",
-   "poblacion": "Getxo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
+   "poblacion": "Pilar De La Horadada",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
    "coords": [
-    43.3431,
-    -3.0079
+    37.8995,
+    -0.8258
    ],
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225892/29245893/Thumbnail-300x300/sasigen+%2826%29.jpg",
+   "url_inscripcion": "https://alcanzatumeta.es/12a-san-silvestre-pilarena-2026-1290508",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/1fb6d4d008ecb8b07b26700341f25761b9339579ecda2112.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -24969,70 +25053,39 @@
    "calidad": "fuente",
    "fuentes": [
     {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/getxoko-san-silvestrea-2026"
+     "id": "alcanzatumeta",
+     "url": "https://alcanzatumeta.es/12a-san-silvestre-pilarena-2026-1290508"
     }
    ]
   },
   {
-   "id": "2026-12-31-manaria-san-silvestre-de-manaria-2026",
-   "nombre": "San Silvestre de Mañaria 2026",
+   "id": "2026-12-31-navacerrada-san-silvestre-de-navacerrada-2026",
+   "nombre": "San Silvestre de Navacerrada 2026",
    "fecha": "2026-12-31",
    "hora": "10:30",
-   "poblacion": "Mañaria",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
+   "poblacion": "Navacerrada",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
    "coords": [
-    43.1262,
-    -2.6633
+    40.7288,
+    -4.0152
    ],
    "modalidad": "asfalto",
    "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
+   "inscripcion_desde": "2026-11-23T00:00",
+   "inscripcion_hasta": "2026-12-22T23:59",
    "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225267/29245653/Thumbnail-300x300/sasigen+%2810%29.jpg",
+   "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8930",
+   "cartel": null,
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "no_abierta",
    "calidad": "fuente",
    "fuentes": [
     {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/ma%C3%B1ariko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-santurtzi-san-silvestre-de-santurtzi-2026",
-   "nombre": "San Silvestre de Santurtzi 2026",
-   "fecha": "2026-12-31",
-   "hora": "10:30",
-   "poblacion": "Santurtzi",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3288,
-    -3.0319
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.instagram.com/sansilvestresanturtzi/p/DfmcML6RAOe/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29992772/29977851/Thumbnail-300x300/sssanturtzi2026+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/santurtziko-san-silbestrea-2026"
+     "id": "youevent",
+     "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8930"
     }
    ]
   },
@@ -25101,95 +25154,36 @@
    ]
   },
   {
-   "id": "2026-12-31-lekeitio-san-silvestre-de-lekeitio-2026",
-   "nombre": "San Silvestre de Lekeitio 2026",
+   "id": "2026-12-31-alpedrete-x-san-silvestre-solidaria-alpedretena",
+   "nombre": "X San Silvestre Solidaria Alpedreteña",
    "fecha": "2026-12-31",
    "hora": "11:00",
-   "poblacion": "Lekeitio",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
+   "poblacion": "Alpedrete",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
    "coords": [
-    43.3637,
-    -2.506
+    40.6599,
+    -4.0251
    ],
    "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
+   "distancias_km": [
+    2.4,
+    5.0
+   ],
+   "inscripcion_desde": "2026-11-19T00:00",
+   "inscripcion_hasta": "2026-12-29T23:59",
    "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225335/29245683/Thumbnail-300x300/sasigen+%2812%29.jpg",
+   "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8928",
+   "cartel": null,
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/leikeitioko-san-silvestre-lasterketa-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-bermeo-san-silvestre-de-bermeo-2026",
-   "nombre": "San Silvestre de Bermeo 2026",
-   "fecha": "2026-12-31",
-   "hora": "11:30",
-   "poblacion": "Bermeo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.4194,
-    -2.7232
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225134/29245593/Thumbnail-300x300/sasigen+%286%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bermeoko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-igorre-san-silvestre-de-igorre-2026",
-   "nombre": "San Silvestre de Igorre 2026",
-   "fecha": "2026-12-31",
-   "hora": "11:30",
-   "poblacion": "Igorre",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1642,
-    -2.7783
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225467/29245743/Thumbnail-300x300/sasigen+%2816%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/igorreko-san-silbestrea-2026"
+     "id": "youevent",
+     "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8928"
     }
    ]
   },
@@ -25331,68 +25325,6 @@
    ]
   },
   {
-   "id": "2026-12-31-larrabasterra-san-silvestre-popular-de-larrabasterra-2026",
-   "nombre": "San Silvestre Popular de Larrabasterra 2026",
-   "fecha": "2026-12-31",
-   "hora": "12:00",
-   "poblacion": "Larrabasterra",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3757,
-    -2.9915
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225401/29245713/Thumbnail-300x300/sasigen+%2814%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/larrabasterrako-san-silvestre-herrikoia-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-lemoiz-san-silvestre-de-lemoiz-2026",
-   "nombre": "San Silvestre de Lemoiz 2026",
-   "fecha": "2026-12-31",
-   "hora": "12:00",
-   "poblacion": "Lemoiz",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.412,
-    -2.9026
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/lemoizko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-villardefrades-v-san-silvestre-villareja",
    "nombre": "V San Silvestre Villareja",
    "fecha": "2026-12-31",
@@ -25486,6 +25418,37 @@
    ]
   },
   {
+   "id": "2026-12-31-lasarte-x-san-silvestre-lasarte-oria-2026",
+   "nombre": "X. San Silvestre Lasarte-oria (2026)",
+   "fecha": "2026-12-31",
+   "hora": "16:00",
+   "poblacion": "Lasarte",
+   "provincia": "Gipuzkoa",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2688832,
+    -2.0206614
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-19T13:00",
+   "inscripcion_hasta": "2026-12-28T22:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/x-san-silvestre-lasarte-oria-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/071a0e05-8209-41fb-86d6-10a5ec1eb1fe.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/x-san-silvestre-lasarte-oria-2026"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-castro-urdiales-xxii-carrera-san-silvestre-de-castro-urdiales",
    "nombre": "XXII Carrera San Silvestre de Castro Urdiales",
    "fecha": "2026-12-31",
@@ -25518,134 +25481,6 @@
     {
      "id": "fcatle",
      "url": "https://www.fcatle.com/evento/31122026/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-galdakao-san-silvestre-de-galdakao-2026",
-   "nombre": "San Silvestre de Galdakao 2026",
-   "fecha": "2026-12-31",
-   "hora": "16:25",
-   "poblacion": "Galdakao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2316,
-    -2.8439
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.sansilvestregaldakao.com/es/inscripcion",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/25109847/26403750/Thumbnail-300x300/ssgaldakaogenerica+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-san-silvestre-galdakao-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-bilbao-bilbao-rekalde-san-silvestre-2026",
-   "nombre": "Bilbao Rekalde San Silvestre 2026",
-   "fecha": "2026-12-31",
-   "hora": "16:30",
-   "poblacion": "Bilbao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.263,
-    -2.935
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1391",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29731034/29729615/Thumbnail-300x300/bilbaorekaldesansilvestre2026+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bilbao-rekalde-san-silvestre-2026"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1391"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-bilbao-bilbao-rekalde-san-silvestre-txiki-2026",
-   "nombre": "Bilbao Rekalde San Silvestre Txiki 2026",
-   "fecha": "2026-12-31",
-   "hora": "16:30",
-   "poblacion": "Bilbao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.263,
-    -2.935
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29225068/29245562/Thumbnail-300x300/sasigen+%284%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bilbao-rekalde-san-silvestre-txiki-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-amorebieta-etxano-san-silvestre-de-amorebieta-etxano-2026",
-   "nombre": "San Silvestre de Amorebieta-Etxano 2026",
-   "fecha": "2026-12-31",
-   "hora": "16:30",
-   "poblacion": "Amorebieta-Etxano",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2159,
-    -2.7095
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/amorebieta-etxanoko-san-silbestrea-2026"
     }
    ]
   },
@@ -25753,6 +25588,37 @@
    ]
   },
   {
+   "id": "2026-12-31-pamplona-san-silvestre-pamplona-iruna-2026",
+   "nombre": "San Silvestre Pamplona-iruña 2026",
+   "fecha": "2026-12-31",
+   "hora": "16:45",
+   "poblacion": "Pamplona",
+   "provincia": "Navarra",
+   "comunidad": "navarra",
+   "coords": [
+    42.812526,
+    -1.6457745
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-17T10:00",
+   "inscripcion_hasta": "2026-12-30T14:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/-san-silvestre-pamplona-iruna-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/42bb1e11-27a4-43ff-97b8-18a352f0f981.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/-san-silvestre-pamplona-iruna-2026"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-sant-cugat-del-valles-6a-cursa-del-gall-2026",
    "nombre": "6a Cursa del Gall 2026",
    "fecha": "2026-12-31",
@@ -25846,37 +25712,6 @@
    ]
   },
   {
-   "id": "2026-12-31-barakaldo-san-silvestre-barakaldesa-2026",
-   "nombre": "San Silvestre Barakaldesa 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:00",
-   "poblacion": "Barakaldo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2949,
-    -2.9887
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://sansilvestrebarakaldesa.com/inscripciones/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29581046/29578851/Thumbnail-300x300/salsilvestrebarakaldesa2026.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/san-silvestre-barakaldesa-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-las-palmas-de-gran-canaria-san-silvestre-las-palmas-de-gran-canaria-2026",
    "nombre": "San Silvestre Las Palmas de Gran Canaria 2026",
    "fecha": "2026-12-31",
@@ -25909,68 +25744,6 @@
     {
      "id": "anunciadas",
      "url": "https://www.sansilvestre.es/"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-zaldibar-san-silvestre-zaldibar-2026",
-   "nombre": "San Silvestre Zaldibar 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:00",
-   "poblacion": "Zaldibar",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1698,
-    -2.5488
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/zaldibarko-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-bakio-san-silvestre-de-bakio-2026",
-   "nombre": "San Silvestre de Bakio 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:00",
-   "poblacion": "Bakio",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.423,
-    -2.8143
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/bakioko-san-silbestrea-2026"
     }
    ]
   },
@@ -26121,41 +25894,6 @@
    ]
   },
   {
-   "id": "2026-12-31-sodupe-san-silvestre-de-sodupe-2026",
-   "nombre": "San Silvestre de Sodupe 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:15",
-   "poblacion": "Sodupe",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2017,
-    -3.0507
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1398",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29976168/29979833/Thumbnail-300x300/sssodupe2026web+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/sodupeko-san-silvestrea-2026"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/inscripciones/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-reus-sant-silvestre-reus-2026",
    "nombre": "Sant Silvestre Reus - 2026",
    "fecha": "2026-12-31",
@@ -26208,68 +25946,6 @@
    ]
   },
   {
-   "id": "2026-12-31-areatza-san-silvestre-de-areatza-2026",
-   "nombre": "San Silvestre de Areatza 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:30",
-   "poblacion": "Areatza",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1214,
-    -2.7694
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/areatzako-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-markina-xemein-san-silvestre-de-markina-xemein-2026",
-   "nombre": "San Silvestre de Markina-Xemein 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:30",
-   "poblacion": "Markina-Xemein",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2596,
-    -2.4353
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/markina-xemeingo-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-zegama-zegamako-14-san-silbestrea",
    "nombre": "Zegamako 14. San Silbestrea",
    "fecha": "2026-12-31",
@@ -26297,37 +25973,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/zegamako-14-san-silbestrea"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-mundaka-san-silvestre-de-mundaka-2026",
-   "nombre": "San Silvestre de Mundaka 2026",
-   "fecha": "2026-12-31",
-   "hora": "17:45",
-   "poblacion": "Mundaka",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.4078,
-    -2.6993
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/mundakako-san-silbestrea-2026"
     }
    ]
   },
@@ -26392,68 +26037,6 @@
     {
      "id": "runatica",
      "url": "https://www.runatica.com/event/40-san-silvestre-albalat-de-la-ribera-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-orduna-san-silvestre-de-orduna-2026",
-   "nombre": "San Silvestre de Orduña 2026",
-   "fecha": "2026-12-31",
-   "hora": "18:00",
-   "poblacion": "Orduña",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    42.9949,
-    -3.0099
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/urdu%C3%B1ako-san-silbestrea-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-sestao-san-silvestre-de-sestao-2026",
-   "nombre": "San Silvestre de Sestao 2026",
-   "fecha": "2026-12-31",
-   "hora": "18:00",
-   "poblacion": "Sestao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3093,
-    -3.0075
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/24366275/26380090/Thumbnail-300x300/sasigen.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/sestaoko-san-silbestrea-2026"
     }
    ]
   },
@@ -26784,6 +26367,42 @@
    ]
   },
   {
+   "id": "2026-12-31-baza-44-san-silvestre-bastetana",
+   "nombre": "44ª San Silvestre Bastetana",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Baza",
+   "provincia": "Granada",
+   "comunidad": "andalucia",
+   "coords": [
+    37.4282,
+    -2.8475
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.cronofinisher.com/evento/44a-san-silvestre-bastetana/",
+   "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/753/cartel-44-san-silvestre-bastetana.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en el calendario"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "cronofinisher",
+     "url": "https://www.cronofinisher.com/evento/44a-san-silvestre-bastetana/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-zamora-47-san-silvestre-zamora-2026",
    "nombre": "47 San Silvestre Zamora 2026",
    "fecha": "2026-12-31",
@@ -26907,6 +26526,37 @@
     {
      "id": "fca",
      "url": "https://fcatletisme.cat/event/b100-cursa-dels-nassos-5-i-10-km/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-bilbao-bilbao-rekalde-san-silvestre",
+   "nombre": "Bilbao Rekalde San Silvestre",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Bilbao",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.263,
+    -2.935
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1391",
+   "cartel": "https://www.buscametas.com/datos/ticket/1391_cartel_20261014110948.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1391"
     }
    ]
   },
@@ -27312,6 +26962,37 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/san-silvestre-sierra-de-fuentes-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-sodupe-san-silvestre-sodupe",
+   "nombre": "San Silvestre Sodupe",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Sodupe",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2017,
+    -3.0507
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": null,
+   "cartel": "https://www.buscametas.com/modulos/calendario/img/generic-bg-card.png",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/inscripciones/"
     }
    ]
   },
@@ -27950,6 +27631,39 @@
    ]
   },
   {
+   "id": "2027-01-02-ii-carrera-san-silvestre-mentesana",
+   "nombre": "II Carrera San Silvestre Mentesana",
+   "fecha": "2027-01-02",
+   "hora": "20:30",
+   "poblacion": null,
+   "provincia": "Jaén",
+   "comunidad": "andalucia",
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://deportime.es/events/i-carrera-san-silvestre-mentesana/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "deportime",
+     "url": "https://deportime.es/events/i-carrera-san-silvestre-mentesana/"
+    }
+   ]
+  },
+  {
    "id": "2027-01-02-llica-d-amunt-cursa-crematorrons-llica-d-amunt",
    "nombre": "Cursa Crematorrons Lliçà d’Amunt",
    "fecha": "2027-01-02",
@@ -28108,13 +27822,13 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": null,
+   "estado_fuente": "abierta",
    "url_inscripcion": "https://alcanzatumeta.es/xii-carrera-del-nino-2027",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/11ae005bfcff0e39f038aa128cc43c09daf524db732bb8bf.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -29081,6 +28795,44 @@
    ]
   },
   {
+   "id": "2027-01-10-sevilla-i-medio-maraton-vega-del-guadalquivir",
+   "nombre": "I Medio Maratón Vega del Guadalquivir",
+   "fecha": "2027-01-10",
+   "hora": "10:00",
+   "poblacion": "Sevilla",
+   "provincia": "Sevilla",
+   "comunidad": "andalucia",
+   "coords": [
+    37.3886,
+    -5.9953
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    21.097
+   ],
+   "inscripcion_desde": "2026-11-19T12:00",
+   "inscripcion_hasta": "2027-01-07T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscripciones.croniussport.es/inscripcion/i-medio-maraton-vega-del-guadalquivir/",
+   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31608_cartel.jpg&type=public&v=1795091676",
+   "precios": [
+    {
+     "nombre": "General Absoluta",
+     "euros": 8.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "cronius",
+     "url": "https://inscripciones.croniussport.es/inscripcion/i-medio-maraton-vega-del-guadalquivir/"
+    }
+   ]
+  },
+  {
    "id": "2027-01-10-santiago-del-teide-tenerguera-trail-8k",
    "nombre": "Tenerguera Trail 8k",
    "fecha": "2027-01-10",
@@ -29203,41 +28955,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/castaneru-redes-trail-2027"
-    }
-   ]
-  },
-  {
-   "id": "2027-01-10-mungia-san-antontxuko-herri-krosa-2027",
-   "nombre": "San Antontxuko Herri Krosa 2027",
-   "fecha": "2027-01-10",
-   "hora": "10:30",
-   "poblacion": "Mungia",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3617,
-    -2.8351
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1396",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29833508/29842712/Thumbnail-300x300/sanantontxu2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/san-antontxuko-herri-krosa-2027"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1396"
     }
    ]
   },
@@ -29577,6 +29294,37 @@
    ]
   },
   {
+   "id": "2027-01-10-mungia-san-antontxuko-herri-krosa",
+   "nombre": "San Antontxuko Herri Krosa",
+   "fecha": "2027-01-10",
+   "hora": null,
+   "poblacion": "Mungia",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.3617,
+    -2.8351
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1396",
+   "cartel": "https://www.buscametas.com/datos/ticket/1396_cartel_20261027181723.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1396"
+    }
+   ]
+  },
+  {
    "id": "2027-01-10-guadajira-san-silvestre-de-guadajira-cruzando-el-camino-real-5-km",
    "nombre": "San Silvestre de Guadajira Cruzando el Camino Real (5 Km)",
    "fecha": "2027-01-10",
@@ -29834,91 +29582,6 @@
    ]
   },
   {
-   "id": "2027-01-16-arrigorriaga-arrigorriagako-ausartak-mendi-lasterketa-2027",
-   "nombre": "Arrigorriagako Ausartak Mendi Lasterketa 2027",
-   "fecha": "2027-01-16",
-   "hora": "08:30",
-   "poblacion": "Arrigorriaga",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2066,
-    -2.8874
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://sportmaniacs.com/es/races/arrigorriagako-ausartak-mendi-lasterketa-2027",
-   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6abb9747-ea80-441b-94d1-3c48ac1f18e0.png",
-   "precios": [
-    {
-     "nombre": "Canicross",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Martxa Familiar",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Mendikosolo Trail",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Canicross y Trail Popular",
-     "euros": 0.0
-    },
-    {
-     "nombre": "Canicross y Trail Infantil",
-     "euros": 0.0
-    },
-    {
-     "nombre": "Mendi Maratoi Erdia / Media Maratón de Montaña 21k 1100+",
-     "euros": 25.0
-    },
-    {
-     "nombre": "Hasiberri Trail 9,5k 500+",
-     "euros": 20.0
-    },
-    {
-     "nombre": "Combinada Canicross + Hasiberri Izen Emate Bateratua",
-     "euros": 30.0
-    },
-    {
-     "nombre": "Combinada Mendikosolo Trail+ Hasiberri Izen Emate Bateratua",
-     "euros": 30.0
-    },
-    {
-     "nombre": "Compra Camiseta Oficial de Ausartak Mendi Lasterketa 2027 - Ausartak Mendi Lasterketako 2027ko Kamiseta Ofiziala Erostea",
-     "euros": 0.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "dudoso",
-     "texto": "La fuente da inicio (16/01 00:00) y fin (17/01 00:00) en días distintos: confirmar el día de la carrera"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "dudoso",
-   "fuentes": [
-    {
-     "id": "sportmaniacs",
-     "url": "https://sportmaniacs.com/es/races/arrigorriagako-ausartak-mendi-lasterketa-2027"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-ausartak-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-01-16-isaba-snowrunning-larra-belagua-2027-elur-lasterketa",
    "nombre": "Snowrunning Larra Belagua 2027 Elur Lasterketa",
    "fecha": "2027-01-16",
@@ -30157,6 +29820,87 @@
     {
      "id": "xipgroc",
      "url": "https://www.lesfranqueses.cat/actualitat/noticies/33e-cros-escolar-i-30e-cros-popular-de-les-franqueses-del-valles.html"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-16-arrigorriaga-arrigorriagako-ausartak-mendi-lasterketa-2027",
+   "nombre": "Arrigorriagako Ausartak Mendi Lasterketa 2027",
+   "fecha": "2027-01-16",
+   "hora": null,
+   "poblacion": "Arrigorriaga",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2066,
+    -2.8874
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/arrigorriagako-ausartak-mendi-lasterketa-2027",
+   "cartel": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_header_6abb9747-ea80-441b-94d1-3c48ac1f18e0.png",
+   "precios": [
+    {
+     "nombre": "Canicross",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Martxa Familiar",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Mendikosolo Trail",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Canicross y Trail Popular",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Canicross y Trail Infantil",
+     "euros": 0.0
+    },
+    {
+     "nombre": "Mendi Maratoi Erdia / Media Maratón de Montaña 21k 1100+",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Hasiberri Trail 9,5k 500+",
+     "euros": 20.0
+    },
+    {
+     "nombre": "Combinada Canicross + Hasiberri Izen Emate Bateratua",
+     "euros": 30.0
+    },
+    {
+     "nombre": "Combinada Mendikosolo Trail+ Hasiberri Izen Emate Bateratua",
+     "euros": 30.0
+    },
+    {
+     "nombre": "Compra Camiseta Oficial de Ausartak Mendi Lasterketa 2027 - Ausartak Mendi Lasterketako 2027ko Kamiseta Ofiziala Erostea",
+     "euros": 0.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "dudoso",
+     "texto": "La fuente da inicio (16/01 00:00) y fin (17/01 00:00) en días distintos: confirmar el día de la carrera"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "dudoso",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/arrigorriagako-ausartak-mendi-lasterketa-2027"
     }
    ]
   },
@@ -30477,6 +30221,37 @@
    ]
   },
   {
+   "id": "2027-01-17-pinar-de-antequera-xxxii-cross-popular-de-san-anton",
+   "nombre": "XXXII Cross Popular de San Antón",
+   "fecha": "2027-01-17",
+   "hora": "11:00",
+   "poblacion": "Pinar de Antequera",
+   "provincia": "Valladolid",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.58927466009141,
+    -4.759379359521478
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-19T09:00",
+   "inscripcion_hasta": "2027-01-15T15:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/xxxii-cross-popular-de-san-anton/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/xxxii-cross-popular-de-san-anton/"
+    }
+   ]
+  },
+  {
    "id": "2027-01-17-el-bosque-trail-de-el-bosque-2027",
    "nombre": "Trail de el Bosque 2027",
    "fecha": "2027-01-17",
@@ -30529,7 +30304,7 @@
    "inscripcion_hasta": "2027-01-16T12:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/araitz-beteluko-xx-krossa",
-   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/b0614d03-e445-4563-9c4f-05d000dab2ce.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -31282,20 +31057,8 @@
    "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31479_cartel.jpg&type=public&v=1793548077",
    "precios": [
     {
-     "nombre": "Ruta Larga",
-     "euros": 25.0
-    },
-    {
      "nombre": "Ruta Corta",
      "euros": 25.0
-    },
-    {
-     "nombre": "Senderismo",
-     "euros": 10.0
-    },
-    {
-     "nombre": "Cadebas Menores",
-     "euros": 8.0
     }
    ],
    "previos": [],
@@ -31386,45 +31149,10 @@
    ]
   },
   {
-   "id": "2027-01-24-guia-de-isora-carrera-de-montana-guia-de-isora-2027",
-   "nombre": "Carrera de Montaña Guía de Isora 2027",
-   "fecha": "2027-01-24",
-   "hora": "08:30",
-   "poblacion": "Guía de Isora",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.2095328,
-    -16.7781708
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-06-05T12:00",
-   "inscripcion_hasta": "2027-01-17T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/dcfe3203-ccbf-48d9-b101-a8ab67a94302.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027"
-    },
-    {
-     "id": "canaryrun",
-     "url": "https://www.canaryrun.com/carrera/carrera-de-montana-guia-de-isora-2027/"
-    }
-   ]
-  },
-  {
    "id": "2027-01-24-xiv-trail-dels-fars-2027",
    "nombre": "XIV Trail dels Fars 2027",
    "fecha": "2027-01-24",
-   "hora": "08:30",
+   "hora": "08:00",
    "poblacion": null,
    "provincia": "Baleares",
    "comunidad": "baleares",
@@ -31457,7 +31185,42 @@
     },
     {
      "id": "faib",
-     "url": "https://www.faib.es/competicions/29127/"
+     "url": "https://www.faib.es/competicions/29177/"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-24-guia-de-isora-carrera-de-montana-guia-de-isora-2027",
+   "nombre": "Carrera de Montaña Guía de Isora 2027",
+   "fecha": "2027-01-24",
+   "hora": "08:30",
+   "poblacion": "Guía de Isora",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.2095328,
+    -16.7781708
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-06-05T12:00",
+   "inscripcion_hasta": "2027-01-17T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/dcfe3203-ccbf-48d9-b101-a8ab67a94302.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027"
+    },
+    {
+     "id": "canaryrun",
+     "url": "https://www.canaryrun.com/carrera/carrera-de-montana-guia-de-isora-2027/"
     }
    ]
   },
@@ -31875,6 +31638,42 @@
     {
      "id": "dorsal21",
      "url": "https://www.babelsport.com/evento/quiero-crecer-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-24-pollenca-ix-cxm-serra-nord-serra-nord-xs-2027",
+   "nombre": "IX CxM Serra Nord - Serra Nord XS 2027",
+   "fecha": "2027-01-24",
+   "hora": null,
+   "poblacion": "Pollença",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.8792,
+    3.0157
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/ix-cxm-serra-nord-serra-nord-xs-2027"
     }
    ]
   },
@@ -32394,37 +32193,6 @@
     {
      "id": "mychip",
      "url": "https://inscripciones.mychip.es/es/evento/granadella-trail-2027"
-    }
-   ]
-  },
-  {
-   "id": "2027-01-30-pollenca-ix-cxm-serra-nord-serra-nord-xs-2027",
-   "nombre": "IX CxM Serra Nord - Serra Nord XS 2027",
-   "fecha": "2027-01-30",
-   "hora": null,
-   "poblacion": "Pollença",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.8792,
-    3.0157
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-15T20:00",
-   "inscripcion_hasta": "2027-01-26T10:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.elitechip.net/es/competiciones/ix-cxm-serra-nord-serra-nord-xs-2027",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/ix-cxm-serra-nord-serra-nord-xs-2027"
     }
    ]
   },
@@ -33025,37 +32793,6 @@
    ]
   },
   {
-   "id": "2027-01-31-las-arenas-carrera-las-arenas-bilbao-2027",
-   "nombre": "Carrera Las Arenas-Bilbao 2027",
-   "fecha": "2027-01-31",
-   "hora": "10:30",
-   "poblacion": "Las Arenas",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3258,
-    -3.0144
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xxxi-carrera-las-arenas-bilbao-",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29403986/29413126/Thumbnail-300x300/lasaremasbilbao2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-las-arenas-bilbao-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-01-31-toro-media-maraton-toro-2027",
    "nombre": "Media Maratón Toro 2027",
    "fecha": "2027-01-31",
@@ -33106,7 +32843,7 @@
    "inscripcion_hasta": "2027-01-17T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/46-idiazabalgo-herri-krosa-2027",
-   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/0dff3754-37e8-4cc8-bca4-0a9ffb6ef841.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -34115,6 +33852,59 @@
    ]
   },
   {
+   "id": "2027-02-07-palacio-de-deportes-de-vicar-ii-cxm-la-calzada-2027",
+   "nombre": "II CxM la Calzada 2027",
+   "fecha": "2027-02-07",
+   "hora": "09:30",
+   "poblacion": "Palacio de Deportes de Vícar",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    36.81,
+    -2.6317
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscrik.com/evento/ii-cxm-la-calzada-2027/",
+   "cartel": "https://inscrik.com/media/banners/unnamed_1.jpg",
+   "precios": [
+    {
+     "nombre": "Trail (24,5 Km)",
+     "euros": 25.0
+    },
+    {
+     "nombre": "Minitrail (15 Km)",
+     "euros": 15.0
+    },
+    {
+     "nombre": "Senderismo (18 Km)",
+     "euros": 15.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "inscrik",
+     "url": "https://inscrik.com/evento/ii-cxm-la-calzada-2027/"
+    },
+    {
+     "id": "cruzandolameta",
+     "url": "https://www.cruzandolameta.es/pruebas/ii-cxm-la-calzada-2027/"
+    }
+   ]
+  },
+  {
    "id": "2027-02-07-torremolinos-xxxvii-media-maraton-torremolinos",
    "nombre": "XXXVII Media Maratón Torremolinos",
    "fecha": "2027-02-07",
@@ -34397,14 +34187,17 @@
    ]
   },
   {
-   "id": "2027-02-13-xvi-edicio-talaia-k20",
-   "nombre": "XVI edició Talaia K20",
+   "id": "2027-02-13-alcudia-xvi-trail-talaia-k20-alcudia-2027",
+   "nombre": "XVI Trail Talaia K20 - Alcúdia 2027",
    "fecha": "2027-02-13",
    "hora": "09:00",
-   "poblacion": null,
+   "poblacion": "Alcúdia",
    "provincia": "Baleares",
    "comunidad": "baleares",
-   "coords": null,
+   "coords": [
+    39.8532,
+    3.1213
+   ],
    "modalidad": "trail",
    "distancias_km": [],
    "inscripcion_desde": null,
@@ -34417,6 +34210,10 @@
    "avisos_calidad": [
     {
      "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    },
+    {
+     "tipo": "pendiente_cartel",
      "texto": "Municipio no indicado en la FAIB (isla: Mallorca)"
     },
     {
@@ -34427,6 +34224,10 @@
    "estado": "desconocido",
    "calidad": "pendiente_cartel",
    "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/xvi-trail-talaia-k20-alcudia-2027"
+    },
     {
      "id": "faib",
      "url": "https://www.faib.es/competicions/28982/"
@@ -34693,37 +34494,6 @@
    ]
   },
   {
-   "id": "2027-02-13-alcudia-xvi-trail-sa-talaia-alcudia-2027",
-   "nombre": "XVI Trail Sa Talaia - Alcúdia 2027",
-   "fecha": "2027-02-13",
-   "hora": null,
-   "poblacion": "Alcúdia",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.8532,
-    3.1213
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": "2027-02-12T20:00",
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/xvi-trail-sa-talaia-alcudia-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-02-14-barcelona-hyundai-mitja-marato-barcelona-by-brooks-2027",
    "nombre": "Hyundai Mitja Marató Barcelona by Brooks 2027",
    "fecha": "2027-02-14",
@@ -34905,41 +34675,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola"
-    }
-   ]
-  },
-  {
-   "id": "2027-02-14-zaramillo-apuko-igoera-2027",
-   "nombre": "Apuko Igoera 2027",
-   "fecha": "2027-02-14",
-   "hora": "09:00",
-   "poblacion": "Zaramillo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2334,
-    -3.0164
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1397",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29870967/29894904/Thumbnail-300x300/apuko2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-apuko-2027"
-    },
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1397"
     }
    ]
   },
@@ -35217,7 +34952,7 @@
    "modalidad": "trail",
    "distancias_km": [],
    "inscripcion_desde": "2026-11-13T21:00",
-   "inscripcion_hasta": "2026-11-20T23:59",
+   "inscripcion_hasta": "2026-11-20T21:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/negu-trail-2027",
    "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/trail.jpeg",
@@ -35299,39 +35034,6 @@
    ]
   },
   {
-   "id": "2027-02-14-xii-edicion-carrera-pedestre",
-   "nombre": "XII Edición Carrera Pedestre",
-   "fecha": "2027-02-14",
-   "hora": "10:30",
-   "poblacion": null,
-   "provincia": "Jaén",
-   "comunidad": "andalucia",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://deportime.es/events/xi-edicicion-carrera-pedestre-301/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "deportime",
-     "url": "https://deportime.es/events/xi-edicicion-carrera-pedestre-301/"
-    }
-   ]
-  },
-  {
    "id": "2027-02-14-lagartera-i-lagartrail",
    "nombre": "I Lagartrail",
    "fecha": "2027-02-14",
@@ -35390,6 +35092,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xv_carreramonumental"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-14-zaramillo-apuko-igoera-zaramillo-enkarterri",
+   "nombre": "Apuko Igoera Zaramillo Enkarterri",
+   "fecha": "2027-02-14",
+   "hora": null,
+   "poblacion": "Zaramillo",
+   "provincia": "Bizkaia",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.2334,
+    -3.0164
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1397",
+   "cartel": "https://www.buscametas.com/datos/ticket/1397_cartel_20261103070107.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "buscametas",
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1397"
     }
    ]
   },
@@ -35682,7 +35415,7 @@
    "inscripcion_hasta": "2027-02-17T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xi-tomaca-trail",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b62a6ca4-0aa9-417e-9805-9c125ea37bc2.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/2b2e8060-ab2d-43b1-a958-46c71d8c88c9_custom1.jpg",
    "precios": [
     {
      "nombre": "21k",
@@ -36434,10 +36167,49 @@
    ]
   },
   {
+   "id": "2027-02-21-san-javier-animal-5k-y-10k-academia-general-del-aire-2027",
+   "nombre": "ANIMAL 5K y 10K Academia General del Aire 2027",
+   "fecha": "2027-02-21",
+   "hora": null,
+   "poblacion": "San Javier",
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": [
+    37.806,
+    -0.8346
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    5.0,
+    10.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.lineadesalida.net/carreras/animal-5k-y-10k-academia-general-del-aire-2027",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "lineadesalida",
+     "url": "https://www.lineadesalida.net/carreras/animal-5k-y-10k-academia-general-del-aire-2027"
+    }
+   ]
+  },
+  {
    "id": "2027-02-21-arrigorriaga-arrigorriagako-xxvi-herri-krosa",
    "nombre": "Arrigorriagako XXVI Herri Krosa",
    "fecha": "2027-02-21",
-   "hora": "12:15",
+   "hora": null,
    "poblacion": "Arrigorriaga",
    "provincia": "Bizkaia",
    "comunidad": "pais-vasco",
@@ -36445,7 +36217,7 @@
     43.2066,
     -2.8874
    ],
-   "modalidad": "cross",
+   "modalidad": null,
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
@@ -36491,49 +36263,6 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/arrigorriagako-xxvi-herri-krosa"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/arrigorriaga-herri-krosa-2027"
-    }
-   ]
-  },
-  {
-   "id": "2027-02-21-san-javier-animal-5k-y-10k-academia-general-del-aire-2027",
-   "nombre": "ANIMAL 5K y 10K Academia General del Aire 2027",
-   "fecha": "2027-02-21",
-   "hora": null,
-   "poblacion": "San Javier",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.806,
-    -0.8346
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.lineadesalida.net/carreras/animal-5k-y-10k-academia-general-del-aire-2027",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "lineadesalida",
-     "url": "https://www.lineadesalida.net/carreras/animal-5k-y-10k-academia-general-del-aire-2027"
     }
    ]
   },
@@ -36994,7 +36723,7 @@
    "inscripcion_hasta": "2027-02-26T21:00",
    "estado_fuente": null,
    "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/viii-naberan-herri-krosa/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29841817/29845010/Thumbnail-300x300/naberan2027.jpg",
+   "cartel": null,
    "precios": [
     {
      "nombre": "5 Km",
@@ -37013,41 +36742,6 @@
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/viii-naberan-herri-krosa/"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-naberan-herri-krosa-2027"
-    }
-   ]
-  },
-  {
-   "id": "2027-02-27-artxanda-artxanda-urban-trail-2027",
-   "nombre": "Artxanda Urban Trail 2027",
-   "fecha": "2027-02-27",
-   "hora": null,
-   "poblacion": "Artxanda",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2746,
-    -2.9187
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.artxandaut.com/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29992838/29977865/Thumbnail-300x300/artxandaut27web.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/artxanda-urban-trail-2027-inscripcion"
     }
    ]
   },
@@ -37166,39 +36860,6 @@
    ]
   },
   {
-   "id": "2027-02-28-barakaldo-10k-barakaldo-2027",
-   "nombre": "10K Barakaldo 2027",
-   "fecha": "2027-02-28",
-   "hora": "09:00",
-   "poblacion": "Barakaldo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2949,
-    -2.9887
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29569585/29570386/Thumbnail-300x300/10kbarakaldologo.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripci%C3%B3n-10k-barakaldo-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-02-28-utiel-4-cimas-trail-utiel",
    "nombre": "4 Cimas Trail Utiel",
    "fecha": "2027-02-28",
@@ -37290,6 +36951,54 @@
     {
      "id": "mychip",
      "url": "https://inscripciones.mychip.es/es/evento/sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-28-ferreries-vii-trail-del-nord-2027",
+   "nombre": "VII Trail del Nord 2027",
+   "fecha": "2027-02-28",
+   "hora": "09:30",
+   "poblacion": "Ferreries",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.9833,
+    4.0109
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Municipio no indicado en la FAIB (isla: Menorca)"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en el reglamento de la FAIB"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/vii-trail-del-nord-2027"
+    },
+    {
+     "id": "faib",
+     "url": "https://www.faib.es/competicions/29186/"
     }
    ]
   },
@@ -37801,37 +37510,6 @@
    ]
   },
   {
-   "id": "2027-02-28-ferreries-vii-trail-del-nord-2027",
-   "nombre": "VII Trail del Nord 2027",
-   "fecha": "2027-02-28",
-   "hora": null,
-   "poblacion": "Ferreries",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.9833,
-    4.0109
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-28T18:00",
-   "inscripcion_hasta": "2027-01-31T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.elitechip.net/es/competiciones/vii-trail-del-nord-2027",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/vii-trail-del-nord-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-02-28-cartagena-xiv-milla-solidaria-la-huertecica",
    "nombre": "XIV Milla Solidaria La Huertecica",
    "fecha": "2027-02-28",
@@ -38034,39 +37712,6 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8949"
-    }
-   ]
-  },
-  {
-   "id": "2027-03-06-bilbao-10k-bilbao-2027",
-   "nombre": "10K Bilbao 2027",
-   "fecha": "2027-03-06",
-   "hora": "18:00",
-   "poblacion": "Bilbao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.263,
-    -2.935
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.10kbilbao.com/web-evento/13684-10k-bilbao-2027",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29224842/29245472/Thumbnail-300x300/10kbilbao2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-10k-bilbao-2027"
     }
    ]
   },
@@ -38929,37 +38574,6 @@
    ]
   },
   {
-   "id": "2027-03-13-bedia-kolazino-mendi-eguna-2027",
-   "nombre": "Kolazino Mendi Eguna 2027",
-   "fecha": "2027-03-13",
-   "hora": "08:00",
-   "poblacion": "Bedia",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2084,
-    -2.802
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29541616/29549426/Thumbnail-300x300/kolazino2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-kolazino-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-03-13-cordoba-trail-guzman-el-bueno-2027",
    "nombre": "Trail Guzmán el Bueno 2027",
    "fecha": "2027-03-13",
@@ -39478,6 +39092,37 @@
     {
      "id": "runnink",
      "url": "https://www.runnink.com/evento/fungo-race/130"
+    }
+   ]
+  },
+  {
+   "id": "2027-03-14-mondonedo-toxiza-gran-trail-2027",
+   "nombre": "Toxiza Gran Trail 2027",
+   "fecha": "2027-03-14",
+   "hora": "09:00",
+   "poblacion": "Mondoñedo",
+   "provincia": "Lugo",
+   "comunidad": "galicia",
+   "coords": [
+    43.4281587,
+    -7.362712999999999
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-12-01T20:00",
+   "inscripcion_hasta": "2027-03-09T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/toxiza-gran-trail-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/4b063fae-3f24-45ba-95eb-c2884a537485_custom1.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/toxiza-gran-trail-2027"
     }
    ]
   },
@@ -40372,15 +40017,20 @@
     42.195
    ],
    "inscripcion_desde": null,
-   "inscripcion_hasta": "2027-03-18T14:00",
+   "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://www.elitechip.net/es/competiciones/34a-1-2-marato-ciutat-de-palma-10k-port-de-palma-2027",
+   "url_inscripcion": null,
    "cartel": null,
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
    "fuentes": [
     {
      "id": "elitechip",
@@ -40959,39 +40609,6 @@
     {
      "id": "kirolprobak",
      "url": "https://inscripcion.kirolprobak.com/inscripcion/iv-otso-media-maraton-getxo-otso-getxoko-maratoi-erdia/"
-    }
-   ]
-  },
-  {
-   "id": "2027-04-04-getxo-media-maraton-de-getxo-2027",
-   "nombre": "Media Maratón de Getxo 2027",
-   "fecha": "2027-04-04",
-   "hora": "09:00",
-   "poblacion": "Getxo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3431,
-    -3.0079
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    21.097
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/iv-otso-media-maraton-getxo-otso-getxoko-maratoi-erdia/",
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29403476/29413007/Thumbnail-300x300/mediamratongetxo2027+%281%29.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-media-maraton-de-getxo-2027"
     }
    ]
   },
@@ -42601,6 +42218,44 @@
    ]
   },
   {
+   "id": "2027-04-17-murcia-media-maraton-sardinera-ciudad-de-murcia-2027",
+   "nombre": "Media Maratón Sardinera Ciudad de Murcia 2027",
+   "fecha": "2027-04-17",
+   "hora": null,
+   "poblacion": "Murcia",
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": [
+    37.9348,
+    -1.1131
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    21.097
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.babelsport.com/evento/media-maraton-sardinera-2027/",
+   "cartel": "https://www.dorsal21.com/carteles/babelsport-510-2797bf016acf52c223535259.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y plazo de inscripción en la ficha de BabelSport/Dorsal21"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "dorsal21",
+     "url": "https://www.babelsport.com/evento/media-maraton-sardinera-2027/"
+    }
+   ]
+  },
+  {
    "id": "2027-04-18-jerez-de-la-frontera-jjp-sherry-maraton-2027",
    "nombre": "Jjp Sherry Maratón 2027",
    "fecha": "2027-04-18",
@@ -42778,6 +42433,54 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8950"
+    }
+   ]
+  },
+  {
+   "id": "2027-04-18-villanueva-de-las-cruces-viii-cxm-cumbres-crucenas",
+   "nombre": "VIII CxM Cumbres Cruceñas",
+   "fecha": "2027-04-18",
+   "hora": "10:00",
+   "poblacion": "Villanueva de las Cruces",
+   "provincia": "Huelva",
+   "comunidad": "andalucia",
+   "coords": [
+    37.6278,
+    -7.0241
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-18T20:00",
+   "inscripcion_hasta": "2027-04-13T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscripciones.croniussport.es/inscripcion/viii-cxm-cumbres-crucenas/",
+   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31574_cartel.jpg&type=public&v=1794588284",
+   "precios": [
+    {
+     "nombre": "CxM Trail Largo 21 Km",
+     "euros": 18.0
+    },
+    {
+     "nombre": "CxM Corto 12.2 Km",
+     "euros": 18.0
+    },
+    {
+     "nombre": "Categorias Cadetes 12.2 Km",
+     "euros": 10.0
+    },
+    {
+     "nombre": "Senderismo 8 Km",
+     "euros": 8.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "cronius",
+     "url": "https://inscripciones.croniussport.es/inscripcion/viii-cxm-cumbres-crucenas/"
     }
    ]
   },
@@ -45427,10 +45130,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/ii-etxtrail"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/etxtrail-2027-incripcion"
     }
    ]
   },
@@ -46605,6 +46304,42 @@
    ]
   },
   {
+   "id": "2027-06-24-santo-domingo-de-silos-colina-triste-uci-2027",
+   "nombre": "Colina Triste Uci 2027",
+   "fecha": "2027-06-24",
+   "hora": "09:00",
+   "poblacion": "Santo Domingo de Silos",
+   "provincia": "Burgos",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.9624616,
+    -3.418922
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-27T20:00",
+   "inscripcion_hasta": "2027-06-17T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/colina-triste-uci-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/976/library/root/cd9e686c-d87a-44c1-a1cd-3c4276ced45d.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "dudoso",
+     "texto": "La fuente da inicio (24/06 09:00) y fin (27/06 16:00) en días distintos: confirmar el día de la carrera"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "dudoso",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/colina-triste-uci-2027"
+    }
+   ]
+  },
+  {
    "id": "2027-06-25-riano-riano-trail-run-2027",
    "nombre": "Riaño Trail Run 2027",
    "fecha": "2027-06-25",
@@ -47203,42 +46938,6 @@
    ]
   },
   {
-   "id": "2027-09-11-cartagena-v-backyard-ultra-cartagena",
-   "nombre": "V Backyard Ultra Cartagena",
-   "fecha": "2027-09-11",
-   "hora": null,
-   "poblacion": "Cartagena",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.6155,
-    -0.9875
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.lineadesalida.net/carreras/v-backyard-ultra-cartagena",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "lineadesalida",
-     "url": "https://www.lineadesalida.net/carreras/v-backyard-ultra-cartagena"
-    }
-   ]
-  },
-  {
    "id": "2027-09-18-camarles-deltaloops-2027",
    "nombre": "Deltaloops 2027",
    "fecha": "2027-09-18",
@@ -47266,37 +46965,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/deltaloops-2027"
-    }
-   ]
-  },
-  {
-   "id": "2027-09-18-manaria-manaritik-atxetara-2027",
-   "nombre": "Mañaritik Atxetara 2027",
-   "fecha": "2027-09-18",
-   "hora": "08:00",
-   "poblacion": "Mañaria",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1262,
-    -2.6633
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29926985/29925572/Thumbnail-300x300/manaritiatxetara2027.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-manaritik-atxetara-2027"
     }
    ]
   },
@@ -47368,33 +47036,39 @@
    ]
   },
   {
-   "id": "2027-09-25-barakaldo-pulmon-de-acero-2027",
-   "nombre": "Pulmón de Acero 2027",
-   "fecha": "2027-09-25",
-   "hora": null,
-   "poblacion": "Barakaldo",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
+   "id": "2027-09-26-cercedilla-40-edicion-carrera-por-montana-las-dehesas",
+   "nombre": "40ª Edición Carrera por Montaña las Dehesas",
+   "fecha": "2027-09-26",
+   "hora": "08:45",
+   "poblacion": "Cercedilla",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
    "coords": [
-    43.2949,
-    -2.9887
+    40.7413,
+    -4.0558
    ],
    "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
+   "distancias_km": [
+    1.0,
+    1.7,
+    5.5,
+    15.0,
+    29.0
+   ],
+   "inscripcion_desde": "2027-03-01T00:00",
+   "inscripcion_hasta": "2027-09-05T23:59",
    "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29992912/29977880/Thumbnail-300x300/pulmondeacero2027web.jpg",
+   "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8988",
+   "cartel": null,
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "no_abierta",
    "calidad": "fuente",
    "fuentes": [
     {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-pulmon-de-acero-2027"
+     "id": "youevent",
+     "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8988"
     }
    ]
   },
@@ -47431,10 +47105,6 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/wop-challenge-bilbao-bizkaia-2027"
-    },
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-wop-2027"
     }
    ]
   },
@@ -47596,37 +47266,6 @@
     {
      "id": "conchip",
      "url": "https://www.avaibooksports.com/inscripcion/iv-circular-brutaltrail-machado-2027/"
-    }
-   ]
-  },
-  {
-   "id": "2027-10-09-berango-milla-internacional-de-berango-2027",
-   "nombre": "Milla Internacional de Berango 2027",
-   "fecha": "2027-10-09",
-   "hora": "16:00",
-   "poblacion": "Berango",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3629,
-    -2.9958
-   ],
-   "modalidad": "pista",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29569630/29570403/Thumbnail-300x300/milladeberangologo.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-dorsal-milla-berango-2027"
     }
    ]
   },
@@ -47811,37 +47450,6 @@
    ]
   },
   {
-   "id": "2027-10-16-bilbao-bilbao-night-running-fest-2027",
-   "nombre": "Bilbao Night Running Fest 2027",
-   "fecha": "2027-10-16",
-   "hora": "19:00",
-   "poblacion": "Bilbao",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.263,
-    -2.935
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29569679/29570418/Thumbnail-300x300/nigrunningfest2027logo.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-media-maraton-nocturna-bilbao-2027"
-    }
-   ]
-  },
-  {
    "id": "2027-10-16-rota-xi-carrera-y-marcha-rolucan-contra-el-cancer-de-mama",
    "nombre": "XI Carrera y Marcha Rolucan Contra el Cáncer de Mama",
    "fecha": "2027-10-16",
@@ -47908,37 +47516,6 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8953"
-    }
-   ]
-  },
-  {
-   "id": "2027-10-24-zornotza-cross-internacional-de-zornotza-2027",
-   "nombre": "Cross Internacional de Zornotza 2027",
-   "fecha": "2027-10-24",
-   "hora": "09:40",
-   "poblacion": "Zornotza",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2159,
-    -2.7095
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://www.bizkaia.eus/o/adaptive-media/image/29569711/29570433/Thumbnail-300x300/crosszornotza2027logo.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "desconocido",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolbide",
-     "url": "https://www.bizkaia.eus/es/kirolbidepro/agenda/-/evento-detalle/inscripcion-cross-internacional-zornotza-2027"
     }
    ]
   },
