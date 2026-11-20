@@ -208,6 +208,11 @@
   "lat": 38.1097,
   "lon": -0.7919
  },
+ "almunia de dona godina la|zaragoza": {
+  "provincia": "Zaragoza",
+  "lat": 41.4778,
+  "lon": -1.3731
+ },
  "almussafes|valencia": {
   "provincia": "Valencia",
   "lat": 39.2924,
@@ -636,6 +641,11 @@
   "lat": 41.5262,
   "lon": 2.3676
  },
+ "caceres|caceres": {
+  "provincia": "Cáceres",
+  "lat": 39.4745,
+  "lon": -6.3717
+ },
  "cadaques|girona": {
   "provincia": "Girona",
   "lat": 42.2893,
@@ -706,6 +716,11 @@
   "provincia": "Valencia",
   "lat": 39.2252,
   "lon": -0.5202
+ },
+ "carranque|toledo": {
+  "provincia": "Toledo",
+  "lat": 40.1703,
+  "lon": -3.9
  },
  "carrascalejo|caceres": {
   "provincia": "Cáceres",
@@ -1332,6 +1347,11 @@
   "provincia": "Badajoz",
   "lat": 38.9285,
   "lon": -6.6906
+ },
+ "gualba|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.7321,
+  "lon": 2.5019
  },
  "guancha la|santa cruz de tenerife": {
   "provincia": "Santa Cruz de Tenerife",
@@ -2515,6 +2535,11 @@
   "lat": 41.3934,
   "lon": 2.0099
  },
+ "santa coloma de cervello|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3687,
+  "lon": 2.0175
+ },
  "santa coloma de gramenet|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.4519,
@@ -2535,6 +2560,11 @@
   "provincia": "Barcelona",
   "lat": 41.5343,
   "lon": 2.1836
+ },
+ "santa susanna|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.6357,
+  "lon": 2.7066
  },
  "santander|cantabria": {
   "provincia": "Cantabria",
@@ -2582,6 +2612,11 @@
   "provincia": "Baleares",
   "lat": 39.3392,
   "lon": 3.0541
+ },
+ "sesena|toledo": {
+  "provincia": "Toledo",
+  "lat": 40.104,
+  "lon": -3.6924
  },
  "sestao|bizkaia": {
   "provincia": "Bizkaia",
@@ -2872,6 +2907,11 @@
   "provincia": "Palencia",
   "lat": 41.9207,
   "lon": -4.4932
+ },
+ "ventas de retamosa las|toledo": {
+  "provincia": "Toledo",
+  "lat": 40.1506,
+  "lon": -4.1136
  },
  "vicar|almeria": {
   "provincia": "Almería",

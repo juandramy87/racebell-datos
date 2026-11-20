@@ -1911,6 +1911,11 @@
   "provincia": "Gipuzkoa",
   "fecha": "2026-09-20"
  },
+ "bilbao-night-run-fest-2027": {
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2027-10-16"
+ },
  "bilbofem-2026": {
   "espana": true,
   "provincia": "Bizkaia",
@@ -5224,6 +5229,11 @@
   "provincia": "Navarra",
   "fecha": "2026-06-13"
  },
+ "irati-xtrem-txiki-2027": {
+  "espana": true,
+  "provincia": "Navarra",
+  "fecha": "2027-06-12"
+ },
  "irixoa-comida-20-junio-2026": {
   "espana": false,
   "v3": true,
@@ -8270,6 +8280,11 @@
   "provincia": "Tarragona",
   "fecha": "2026-12-31"
  },
+ "sant-silvestre-reus-2026-voluntaris": {
+  "espana": true,
+  "provincia": "Tarragona",
+  "fecha": "2026-12-31"
+ },
  "santa-pola-summer-race-2026": {
   "espana": true,
   "provincia": "Alicante",
@@ -8333,6 +8348,11 @@
   "espana": true,
   "provincia": "Castellón",
   "fecha": "2027-04-24"
+ },
+ "scott-mediterranean-epic-triathlon-2027": {
+  "espana": true,
+  "provincia": "Castellón",
+  "fecha": "2027-05-29"
  },
  "sds-edp-desafio-somiedo-2026": {
   "espana": true,
@@ -11072,6 +11092,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-08-01"
+ },
+ "xlii-zumaiako-herri-lasterketa": {
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2027-03-13"
  },
  "xliii-carrera-urbana-internacional-noche-de-san-anton": {
   "espana": true,

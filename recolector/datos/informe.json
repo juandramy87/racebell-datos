@@ -2,7 +2,7 @@
  "fuentes": {
   "dorsalchip": {
    "leidas": 51,
-   "en_plazo": 50
+   "en_plazo": 51
   },
   "tecnocrono": {
    "leidas": 23,
@@ -17,8 +17,8 @@
    "en_plazo": 18
   },
   "faa": {
-   "leidas": 33,
-   "en_plazo": 33
+   "leidas": 34,
+   "en_plazo": 34
   },
   "gesconchip": {
    "leidas": 22,
@@ -29,8 +29,8 @@
    "en_plazo": 12
   },
   "cronius": {
-   "leidas": 14,
-   "en_plazo": 11
+   "leidas": 12,
+   "en_plazo": 12
   },
   "inscrik": {
    "leidas": 18,
@@ -49,12 +49,12 @@
    "en_plazo": 11
   },
   "alcanzatumeta": {
-   "leidas": 48,
-   "en_plazo": 48
+   "leidas": 47,
+   "en_plazo": 47
   },
   "rockthesport": {
-   "leidas": 341,
-   "en_plazo": 341
+   "leidas": 345,
+   "en_plazo": 345
   },
   "rtsmadrid": {
    "leidas": 3,
@@ -69,8 +69,8 @@
    "en_plazo": 4
   },
   "runvasport": {
-   "leidas": 22,
-   "en_plazo": 22
+   "leidas": 24,
+   "en_plazo": 24
   },
   "aytos_madrid": {
    "leidas": 8,
@@ -105,8 +105,8 @@
    "en_plazo": 3
   },
   "sportmaniacs": {
-   "leidas": 116,
-   "en_plazo": 116
+   "leidas": 125,
+   "en_plazo": 125
   },
   "xipgroc": {
    "leidas": 45,
@@ -133,8 +133,8 @@
    "en_plazo": 3
   },
   "gesportcat": {
-   "leidas": 9,
-   "en_plazo": 5
+   "leidas": 10,
+   "en_plazo": 6
   },
   "plaestany": {
    "leidas": 6,
@@ -169,7 +169,7 @@
    "en_plazo": 17
   },
   "chiplevante": {
-   "leidas": 23,
+   "leidas": 22,
    "en_plazo": 15
   },
   "runatica": {
@@ -181,8 +181,8 @@
    "en_plazo": 9
   },
   "conchip": {
-   "leidas": 7,
-   "en_plazo": 7
+   "leidas": 8,
+   "en_plazo": 8
   },
   "empat": {
    "leidas": 9,
@@ -217,8 +217,8 @@
    "en_plazo": 4
   },
   "youevent": {
-   "leidas": 47,
-   "en_plazo": 47
+   "leidas": 49,
+   "en_plazo": 49
   },
   "orycronsport": {
    "leidas": 8,
@@ -261,11 +261,11 @@
    "en_plazo": 5
   },
   "elitechip": {
-   "leidas": 57,
-   "en_plazo": 45
+   "leidas": 58,
+   "en_plazo": 46
   },
   "faib": {
-   "leidas": 936,
+   "leidas": 937,
    "en_plazo": 37
   },
   "atletismoaragon": {
@@ -435,16 +435,14 @@
    "no es a pie: VI Ruta BTT – Cadalso 2026",
    "no es a pie: VII Duatlon Familiar de Carabanchel 2026",
    "sin datos de evento: https://sportmaniacs.com/es/races/cursafosca-2026-middot-la-seminocturna-del-penedes",
+   "no es a pie: II Copa de España de Mushing - Tierras de Buñuel",
    "sin datos de evento: https://sportmaniacs.com/es/races/i-pujada-als-plans",
    "sin datos de evento: https://sportmaniacs.com/es/races/trail-do-trega-2026",
    "no es a pie: X Carrera Popular XI Marcha Solidaria por la Diabetes",
    "sin datos de evento: https://sportmaniacs.com/es/races/cronoserio-filters",
-   "sin datos de evento: https://sportmaniacs.com/es/races/open-maxxis-marathon-sant-vicenc-dels-horts-2026",
    "no es a pie: II Marcha Atlética Ciudad de Llerena y II 5k en Ruta Ciudad de Llerena",
    "no es a pie: 8ª Carrera y Caminata Unidos por la Diabetes Zaragoza 2026",
    "sin datos de evento: https://sportmaniacs.com/es/races/milla-popular-villa-de-vallecas-2026",
-   "sin datos de evento: https://sportmaniacs.com/es/races/xii-gualba-trail-2026",
-   "sin datos de evento: https://sportmaniacs.com/es/races/cirera-kids-2026",
    "no es a pie: Campeonato Nacional de Triatlón Gran Jaguar 70.3 2026",
    "no es a pie: X Carrera Amafi Run, IX Canicross Amafi y V Marcha Senderista Amafi de Yepes.",
    "no es a pie: III Travesia la Aldea 2026",
@@ -460,7 +458,6 @@
    "no es a pie: Soy LEYENDA Gravel Btt 2027"
   ],
   "xipgroc": [
-   "no es a pie: X Marxa solidària anARIanant",
    "infantil o escolar: Jean Bouin Federats i Escolars",
    "no es a pie (icono «n»): 15ena SwimSilvestre 2026",
    "infantil o escolar: Mitja Marató de Sitges (Infantils)",
@@ -514,9 +511,7 @@
   "athleticevents": [
    "no es a pie: 3a Marxa Altafulla - Costa Tàrraco"
   ],
-  "gesportcat": [
-   "aplazada o anulada: 27è Cros de Santa Susanna"
-  ],
+  "gesportcat": [],
   "plaestany": [],
   "cronocheck": [
    "solo para socios: Trail Dels Íbers",
@@ -565,7 +560,8 @@
    "no es a pie: Marcha BTT Chinchilla",
    "no es a pie: Ruta Ermites del Camp D'elx",
    "no es a pie: Marcha BTT Elche de la Sierra",
-   "no es a pie: Uci Gran Fondo World Series la Nucía"
+   "no es a pie: Uci Gran Fondo World Series la Nucía",
+   "no es a pie: Marcha BTT Bogarra"
   ],
   "runatica": [
    "no es a pie: Circuito Gudar Javalambre",
@@ -1112,10 +1108,10 @@
   "holaislascanarias: 0 carreras. ¿Ha cambiado la web? (se mantienen 0 de la pasada anterior)",
   "fam: ERROR No se pudo descargar https://www.atletismomadrid.com/calendario/carreras-populares?cal_year=2026: HTTP Error 403: Forbidden (se mantienen 0 de la pasada anterior)",
   "dipualba: ERROR No se pudo descargar https://deportes.dipualba.es/deportes/pruebas-carreras-populares: <urlopen error timed out> (se mantienen 0 de la pasada anterior)",
-  "kirolbide: 0 carreras. ¿Ha cambiado la web? (se mantienen 59 de la pasada anterior)"
+  "kirolbide: 0 carreras. ¿Ha cambiado la web? (se mantienen 0 de la pasada anterior)"
  ],
  "carteles_aplicados": 18,
- "municipios_completados": 855,
+ "municipios_completados": 867,
  "uniones": [
   "2026-11-21 · 7 Ecomaratón La Donaira [dorsalchip] = 7ª Ecomaratón la Donaira [olarivers]",
   "2026-11-21 · VII Carrera contra la violencia de genero San Roque [dorsalchip] = XIV Carrera Contra la Violencia de Género Lanzarote 2026 [sportmaniacs]",
@@ -1215,15 +1211,18 @@
   "2026-12-05 · III Trail Nocturno Cabeço D'Or, Busot [rockthesport] = III Trail Nocturno Cabeço D'Or, Busot [mychip]",
   "2026-11-29 · Avenc Trail Cunit 2026 [rockthesport] = Avenc Trail Cunit 2026 [sportmaniacs]",
   "2026-11-29 · Marato I Mitja Marato Relleus - Vinyols 2026 [rockthesport] = Marató I Mitja Marató Per Relleus - Vinyols 2024 [sportmaniacs]",
+  "2026-11-28 · 10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27 [rockthesport] = 10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27 [mychip]",
   "2026-11-28 · X Carrera TECNOCASA Vuela - Contra la violencia de género [rockthesport] = X Carrera Tecnocasa Vuela Contra la Violencia de Genero [sportmaniacs]",
   "2026-11-28 · Caras Nortes Skyrace 2026 [rockthesport] = Caras Nortes Skyrace [time2run]",
-  "2026-11-22 · II Gtf / Geoparque Trail Fonelas [rockthesport] = II Geoparque Trail Fonelas [sportmaniacs]",
   "2026-11-22 · Mitja Espirall Vilafranca 2026 [rockthesport] = Mitja Marató Espirall - Vilafranca 2026 [sportmaniacs] = 47a Mitja Marató Espirall – Vilafranca [fca]",
   "2026-11-22 · Cursa de la Dona_montblanc 2026 [rockthesport] = Cursa de la dona Balaguer 2026 [sportmaniacs]",
   "2026-11-22 · XXIV MITJA MARATÓ SAMARUC, 2026, Algemesí [rockthesport] = XXIV MITJA MARATÓ SAMARUC, 2026, Algemesí [mychip]",
   "2026-11-22 · Corre sin resistencias 26 [rockthesport] = Corre Sin Resistencias 2026 [sportmaniacs]",
+  "2026-11-22 · XII Gualba Trail [rockthesport] = XII Gualba Trail 2026 [sportmaniacs]",
   "2026-11-22 · XII Carrera Contra el Cáncer de Páncreas Alicante 2026 [rockthesport] = Carrera de las Ciudades contra el Cáncer de Páncreas - Alicante [cancerpancreas] = Carrera de las Ciudades Contra el Cancer de Pancreas 2026 [sportmaniacs]",
-  "2026-11-22 · XX Trail Mularroya [rockthesport] = XX Mularroya Trail [atletismoaragon]",
+  "2026-11-22 · Cirera Trail KIDS 2026 [rockthesport] = Cirera Kids 2026 [sportmaniacs]",
+  "2026-11-22 · II Gtf / Geoparque Trail Fonelas [rockthesport] = II Geoparque Trail Fonelas [sportmaniacs]",
+  "2026-11-22 · XX Trail Mularroya [rockthesport] = XX Trail Mularroya [sportmaniacs] = XX Mularroya Trail [atletismoaragon]",
   "2026-11-22 · 22a Teialada [rockthesport] = 22a Teialada [sportmaniacs]",
   "2026-11-22 · 10K Montbrio del Camp 2026 [rockthesport] = 10K Montbrió del Camp 2026 [sportmaniacs]",
   "2026-11-22 · Vilarnau Correcava 2026 [rockthesport] = Vilarnau Correcava 2026 [sportmaniacs]",
