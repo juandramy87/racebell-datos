@@ -4334,6 +4334,11 @@
   "provincia": "Girona",
   "fecha": "2026-07-17"
  },
+ "grava_lybica_2027": {
+  "espana": true,
+  "provincia": "Girona",
+  "fecha": "2027-05-29"
+ },
  "gravel-trail-challenge-costa-brava": {
   "espana": false,
   "v2": true,
@@ -5223,6 +5228,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-06-13"
+ },
+ "irati-xtrem-2027-version-carretera": {
+  "espana": true,
+  "provincia": "Navarra",
+  "fecha": "2027-06-12"
  },
  "irati-xtrem-txiki-2026": {
   "espana": true,
@@ -10895,6 +10905,11 @@
   "espana": true,
   "provincia": "Alicante",
   "fecha": "2026-12-27"
+ },
+ "xiii-san-silvestre-estella-lizarra": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: XIII San Silvestre Estella-lizarra (None)"
  },
  "xiii-swim-100x100-villanueva-de-la-canada-26": {
   "espana": true,

@@ -1302,6 +1302,11 @@
   "lon": -6.9691
  },
  "gijon|asturias": null,
+ "gilet|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.6786,
+  "lon": -0.3251
+ },
  "girona|girona": {
   "provincia": "Girona",
   "lat": 41.9793,
@@ -1565,6 +1570,11 @@
   "lat": 36.9181,
   "lon": -3.4802
  },
+ "lantejuela|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3537,
+  "lon": -5.2226
+ },
  "laredo|cantabria": {
   "provincia": "Cantabria",
   "lat": 43.4106,
@@ -1605,6 +1615,11 @@
   "provincia": "Almería",
   "lat": 36.9939,
   "lon": -2.8898
+ },
+ "lebrija|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 36.9193,
+  "lon": -6.0764
  },
  "lekeitio|bizkaia": {
   "provincia": "Bizkaia",
@@ -2438,6 +2453,11 @@
   "provincia": "Cádiz",
   "lat": 36.6063,
   "lon": -5.7997
+ },
+ "san juan de los terreros|almeria": {
+  "provincia": "Almería",
+  "lat": 37.3608,
+  "lon": -1.6637
  },
  "san miguel de abona|santa cruz de tenerife": {
   "provincia": "Santa Cruz de Tenerife",
