@@ -7,52 +7,60 @@ from tests.test_lectores import buscar, muestra
 DESDE, HASTA = date(2026, 11, 17), date(2027, 1, 31)
 
 
-def _ficha_hola(url: str) -> bytes:
-    return muestra("holaislascanarias-" + url.rstrip("/").split("/")[-1] + ".html")
+def _html(texto: str) -> str:
+    import json
+    return '<script>self.__next_f.push([1,' + json.dumps(texto) + '])</script>'
 
 
-def test_holaislascanarias_listado():
-    eventos = holaislascanarias.listado(muestra("holaislascanarias.html"))
-    assert len(eventos) == 8
-    pino = next(e for e in eventos if e["nombre"] == "Trail Pino Santo")
-    assert (pino["isla"], pino["fecha_texto"]) == ("Gran Canaria", "06 Diciembre 2026")
-    assert pino["url"] == "https://www.holaislascanarias.com/eventos/gran-canaria/trail-pino-santo/"
+EV = [
+    {"id": "1", "title": "San Silvestre Lagunera", "url": "/eventos/tenerife/ssl/", "resourceType": "agenda",
+     "island": "Tenerife", "municipality": "San Cristóbal de La Laguna", "dateFrom": "2026-12-31",
+     "dateTo": "2026-12-31", "coordinates": {"lat": 28.48, "lng": -16.31}},
+    {"id": "2", "title": "Tamadaba Trail", "url": "/eventos/gran-canaria/tamadaba-trail/", "resourceType": "agenda",
+     "island": "Gran Canaria", "municipality": "Agaete", "dateFrom": "", "dateTo": "",
+     "estimatedMonth": "Noviembre", "estimatedYear": 2026},
+    {"id": "3", "title": "Maratón Corralejo", "url": "/eventos/fuerteventura/mc/", "resourceType": "agenda",
+     "island": "Fuerteventura", "municipality": "La Oliva", "dateFrom": "", "dateTo": "",
+     "estimatedMonth": "Diciembre", "estimatedYear": 2026},
+    {"id": "4", "title": "The Blue Challenge", "url": "/eventos/tenerife/tbc/", "resourceType": "agenda",
+     "island": "Tenerife", "description": "Travesía a nado en aguas abiertas", "dateFrom": "2026-12-05",
+     "dateTo": "2026-12-05"},
+]
+
+
+def _ficha(url):
+    import json
+    if "tamadaba" in url:  # un mes entero: no es un día
+        ld = '{"@graph":[{"@type":"Event","startDate":"2026-11-01T00:00:00+0000","endDate":"2026-11-30T00:00:00+0000"}]}'
+        return json.dumps({"ld": ld, "web": None}).encode()
+    ld = '{"@graph":[{"@type":"Event","startDate":"2026-12-12T00:00:00+0000","endDate":"2026-12-12T00:00:00+0000"}]}'
+    return json.dumps({"ld": ld, "web": '"goToWebsiteButton":{"label":"Ver la web","url":"https://www.maratoncorralejo.com/?utm_source=x"}'}).encode()
+
+
+def test_holaislascanarias_pagina_y_municipios():
+    t = ('"id":"municipality","availableItems":[{"id":"arona","count":2},{"id":"fasnia","count":0}]'
+         ',"selected":["' + holaislascanarias.CATEGORIA + '"],"resources":[{"id":"1","resourceType":"agenda"},'
+         '{"id":"x","resourceType":"cruise"}],"totalResults":23')
+    eventos, total, filtrado = holaislascanarias.pagina(_html(t))
+    assert (len(eventos), total, filtrado) == (1, 23, True)
+    assert holaislascanarias.municipios(_html(t)) == ["arona"]
+    assert holaislascanarias.pagina(_html('"resources":[],"totalResults":0'))[2] is False  # sin filtrar
 
 
 def test_holaislascanarias():
-    carreras, descartes = holaislascanarias.leer(muestra("holaislascanarias.html"), _ficha_hola, DESDE, HASTA)
-    assert sorted(c.nombre for c in carreras) == ["La San Silvestre Garachiquense", "Playa Blanca Music Run Night",
-                                                  "Trail Pino Santo"]
-    pino = buscar(carreras, "Pino Santo")
-    assert (pino.fecha, pino.poblacion, pino.provincia, pino.modalidad) == (
-        date(2026, 12, 6), "Santa Brígida", "Las Palmas", "trail")
-    assert pino.url_inscripcion == "https://trailpinosanto.com/"
-    assert pino.fuente.url.endswith("/eventos/gran-canaria/trail-pino-santo/")
-    assert pino.coords and 27.5 < pino.coords[0] < 29.5
-    playa = buscar(carreras, "Playa Blanca")
-    assert (playa.poblacion, playa.provincia) == ("Yaiza", "Las Palmas")
-    assert playa.url_inscripcion == "https://summitsportsevents.com/"  # sin utm_ ni fbclid
-    gara = buscar(carreras, "Garachiquense")
-    assert (gara.fecha, gara.poblacion, gara.provincia) == (date(2026, 12, 31), "Garachico", "Santa Cruz de Tenerife")
-    assert gara.url_inscripcion is None  # solo Facebook: no es una inscripción
+    carreras, descartes = holaislascanarias.leer(EV, _ficha, DESDE, HASTA)
+    assert sorted(c.nombre for c in carreras) == ["Maratón Corralejo", "San Silvestre Lagunera"]
+    ssl = buscar(carreras, "Lagunera")
+    assert (ssl.fecha, ssl.poblacion, ssl.provincia) == (date(2026, 12, 31), "San Cristóbal de La Laguna",
+                                                         "Santa Cruz de Tenerife")
+    mc = buscar(carreras, "Corralejo")
+    assert (mc.fecha, mc.provincia, mc.url_inscripcion) == (date(2026, 12, 12), "Las Palmas", "https://www.maratoncorralejo.com/")
+    assert any("sin día exacto" in d and "Tamadaba" in d for d in descartes)
     assert any("natación" in d and "Blue Challenge" in d for d in descartes)
-    assert any("Open Water" in d for d in descartes) and any("Trail Bike" in d for d in descartes)
-    assert any("sin día exacto (Ene 2027): Tenerguera" in d for d in descartes)
-    assert any("4 al 6 Dic" in d for d in descartes)
 
 
-def test_holaislascanarias_fecha():
-    assert holaislascanarias._fecha("06 Diciembre 2026") == date(2026, 12, 6)
-    assert holaislascanarias._fecha("1 Ene 2027") == date(2027, 1, 1)
-    assert holaislascanarias._fecha("Ene 2027") is None
-    assert holaislascanarias._fecha("4 al 6 Dic 2026") is None
-
-
-def test_holaislascanarias_fuera_de_plazo_no_abre_fichas():
-    abiertas = []
-    holaislascanarias.leer(muestra("holaislascanarias.html"), lambda u: abiertas.append(u) or _ficha_hola(u),
-                           date(2027, 1, 1), date(2027, 1, 31))
-    assert abiertas == []
+def test_holaislascanarias_web_cortada():
+    assert holaislascanarias._web("https://inscripciones.conchipcanarias.com/inscripcion/xii-5km…") is None
 
 
 def test_canaryrun():

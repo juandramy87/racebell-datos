@@ -72,3 +72,11 @@ def test_buscametas():
     sodupe = buscar(carreras, "San Silvestre Sodupe")
     assert sodupe.estado_fuente == NO_ABIERTA and sodupe.url_inscripcion is None
     assert buscar(carreras, "San Antontxuko").modalidad == "cross"
+
+
+def test_kirolbide_captcha_da_error():
+    # Desde el 20/11/2026 la agenda de Bizkaia pide un captcha a los robots: error claro, no «0 carreras».
+    import pytest
+    reto = b"<html><body>Please enable JavaScript to view the page content. This question is for testing whether you are a human visitor</body></html>"
+    with pytest.raises(RuntimeError, match="captcha"):
+        kirolbide.ocurrencias(reto)

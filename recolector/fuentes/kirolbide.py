@@ -40,6 +40,7 @@ _A_PIE = {"Atletismo", "Carreras de montaña", "Larga distancia"}
 _OCURRENCIAS = re.compile(r"ocurrencias:\s*JSON\.parse\(\s*'(.*?)'\s*\)", re.S)
 _TOTAL = re.compile(r"totalResultados:\s*(\d+)")
 _HEX = re.compile(r"\\x([0-9a-fA-F]{2})")
+_RETO = re.compile(r"testing whether you are a human|Please enable JavaScript to view the page content")
 
 
 def url_dia(dia: date, municipios: Optional[list[str]] = None) -> str:
@@ -55,6 +56,8 @@ def url_dia(dia: date, municipios: Optional[list[str]] = None) -> str:
 def ocurrencias(contenido: bytes | str) -> tuple[list[dict], int]:
     """(ocurrencias de la página, total de resultados de la búsqueda)."""
     texto = contenido.decode("utf-8", "replace") if isinstance(contenido, bytes) else contenido
+    if _RETO.search(texto):  # desde el 20/11/2026 la agenda pide un captcha a los robots: no se salta
+        raise RuntimeError("la agenda pide un captcha antirobots (no se salta)")
     m = _OCURRENCIAS.search(texto)
     total = _TOTAL.search(texto)
     if not m:

@@ -110,7 +110,8 @@ def recolectar(dias: int, usar_cache: bool) -> dict:
         (empat.ID, lambda: empat.leer(bajar(empat.URL))),
         (logronodeporte.ID, lambda: logronodeporte.leer(bajar(logronodeporte.URL))),
         (cronoline.ID, lambda: cronoline.leer(bajar(cronoline.URL))),
-        (holaislascanarias.ID, lambda: holaislascanarias.leer(bajar(holaislascanarias.URL), descargar_ficha=lambda u: red.descargar(
+        (holaislascanarias.ID, lambda: holaislascanarias.leer(holaislascanarias.bajar_listado(lambda u: red.descargar(
+            u, usar_cache=False)), descargar_ficha=lambda u: red.descargar(
             u, usar_cache=usar_cache, recortar=holaislascanarias.recortar_ficha), desde=desde, hasta=hasta)),
         (canaryrun.ID, lambda: canaryrun.leer(bajar(canaryrun.url(desde)))),
         (timinglap.ID, lambda: timinglap.leer(bajar(timinglap.URL))),
