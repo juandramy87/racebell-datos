@@ -73,8 +73,12 @@
    "en_plazo": 21
   },
   "aytos_madrid": {
-   "leidas": 7,
-   "en_plazo": 7
+   "leidas": 8,
+   "en_plazo": 8
+  },
+  "olarivers": {
+   "leidas": 23,
+   "en_plazo": 23
   },
   "montur": {
    "leidas": 6,
@@ -189,8 +193,8 @@
    "en_plazo": 2
   },
   "holaislascanarias": {
-   "leidas": 0,
-   "en_plazo": 0
+   "leidas": 12,
+   "en_plazo": 12
   },
   "canaryrun": {
    "leidas": 7,
@@ -223,10 +227,6 @@
   "kirolprobak": {
    "leidas": 13,
    "en_plazo": 13
-  },
-  "kirolbide": {
-   "leidas": 0,
-   "en_plazo": 0
   },
   "buscametas": {
    "leidas": 10,
@@ -391,9 +391,11 @@
    "no es a pie: IX San Silvestre Ciudad de Arevalo Mtb (BTT, MTB)"
   ],
   "aytos_madrid": [
-   "Manzanares el Real: agenda no disponible (No se pudo descargar https://manzanareselreal.es/wp-json/tribe/events/v1/events?)",
    "Brea de Tajo: agenda no disponible (No se pudo descargar https://breadetajo.es/wp-json/tribe/events/v1/events?per_pa)",
    "Coslada: agenda no disponible (No se pudo descargar https://coslada.es/wp-json/wp/v2/mec-events?per_page=20&sea)"
+  ],
+  "olarivers": [
+   "no es a pie: Bokeron Bike 2026 (MTB)"
   ],
   "montur": [
    "no es una carrera a pie: I Marcha Solidaria Camino de Esperanza",
@@ -524,8 +526,8 @@
   ],
   "cronorunner": [],
   "chiplevante": [
-   "no es a pie: Marcha BTT la Nucía",
    "no es a pie: Marcha BTT Hellin",
+   "no es a pie: Marcha BTT la Nucía",
    "no es a pie: Hyrace Crevillente",
    "no es a pie: Marcha BTT Quematurrones",
    "no es a pie: Tnc Hybrid Challenge",
@@ -560,7 +562,68 @@
   "cronoline": [
    "circuito, no una carrera: Copa Carreras Populares Tinajo"
   ],
-  "holaislascanarias": [],
+  "holaislascanarias": [
+   "sin día exacto (Noviembre 2026): Trail Arico",
+   "no es a pie (natación según la descripción): The Blue Challenge",
+   "sin día exacto (Enero 2027): Descubriendo Fasnia: Carrera Solidaria",
+   "sin día exacto (Febrero 2027): Trail Ruta del Gofio Mencey",
+   "sin día exacto (Enero 2027): Carrera de montaña Guía de Isora",
+   "sin día exacto (Noviembre 2026): Nocturna Güímarera",
+   "sin día exacto (Diciembre 2026): Trail El Pinalete",
+   "sin día exacto (Diciembre 2026): San Silvestre Realejera",
+   "sin día exacto (Febrero 2027): Carrera del color",
+   "sin día exacto (Diciembre 2026): Cross Navideño",
+   "sin día exacto (Diciembre 2026): Carrera Popular Llano del Camello",
+   "no es a pie: Travesía a nado San Salitre",
+   "no es a pie: Travesía a Nado Murallas del Infierno",
+   "sin día exacto (Enero 2027): Carrera Nocturna de Santiago del Teide",
+   "sin día exacto (Enero 2027): Tenerguera Trail",
+   "sin día exacto (Diciembre 2026): Media Maratón Tacoronte",
+   "sin día exacto (Marzo 2027): Carrera Infierno",
+   "sin día exacto (? ): Trail Fuentealta Vilaflor",
+   "sin día exacto (Noviembre 2026): Tamadaba Trail",
+   "sin día exacto (Marzo 2027): Lagartrail",
+   "sin día exacto (Diciembre 2026): Gran Canaria Bestial Race",
+   "no es a pie: Travesía La Aldea",
+   "sin día exacto (Marzo 2027): LPA Trail",
+   "no es a pie: Anfi Mogán Open Water",
+   "no es a pie: Cronoescalada Villa de Moya",
+   "sin día exacto (Enero 2027): Pilancones Tunte Trail",
+   "sin día exacto (Marzo 2027): The North Face Transgrancanaria",
+   "sin día exacto (Noviembre 2026): Carrera Los Alfares La Atalaya",
+   "sin día exacto (Diciembre 2026): Trail Pino Santo",
+   "sin día exacto (Noviembre 2026): Trail Santa Lucía El Puertillo",
+   "sin día exacto (Enero 2027): Cronotrail Almendro en flor",
+   "sin día exacto (Noviembre 2026): Carrera Popular Paco Artiles",
+   "sin día exacto (Noviembre 2026): Playa Blanca Music Run Night",
+   "sin día exacto (Noviembre 2026): Yaiza Extremo Sur",
+   "no es a pie: Swim Silvestre Ciudad de Arrecife",
+   "no es a pie: Cronoescalada Ciclista al Valle de Malpaso",
+   "sin día exacto (Enero 2027): Diabletes Race",
+   "sin día exacto (Noviembre 2026): Trail Las Calderas",
+   "sin día exacto (Diciembre 2026): San Silvestre Corralejo",
+   "no es a pie: Triatlón ciudad de Puerto del Rosario",
+   "sin día exacto (Diciembre 2026): Carrera de Navidad de Morro Jable",
+   "no es a pie: Swim Silvestre: Bajamar - Breña Alta",
+   "sin día exacto (Diciembre 2026): Milla Urbana Light Night",
+   "sin día exacto (Enero 2027): Breña Baja Survive Trail",
+   "no es a pie: Duatlón Los Cancajos",
+   "sin día exacto (Marzo 2027): Milla Breña Baja Mágica",
+   "sin día exacto (Enero 2027): San Antonio Trail",
+   "sin día exacto (Diciembre 2026): Garafía Navidad Trail",
+   "sin día exacto (Noviembre 2026): Milla Urbana",
+   "no es a pie: ViñaThlon",
+   "sin día exacto (Diciembre 2026): Cross Popular de Navidad",
+   "sin día exacto (Noviembre 2026): Paris Chiquito Trail",
+   "sin día exacto (Enero 2027): Vertical Calzadas de Mazo",
+   "no es a pie: Critérium Lodero",
+   "no es a pie: Travesía a Nado de Navidad",
+   "sin día exacto (Diciembre 2026): Trail Subida a la Mérica",
+   "sin día exacto (Diciembre 2026): Cross Popular de Navidad",
+   "sin día exacto (Febrero 2027): Maratón del Meridiano",
+   "sin día exacto (Febrero 2027): Junior meridiano",
+   "no es a pie: Magma Bikids"
+  ],
   "canaryrun": [],
   "timinglap": [],
   "fetacyl": [
@@ -642,7 +705,6 @@
   "kirolprobak": [
    "no es a pie: Mugaz Muga 2026 - 09:15 Triatlón (TRIATHLON-SPRINT)"
   ],
-  "kirolbide": [],
   "buscametas": [
    "no es a pie: Lezamako Mendi Martxa"
   ],
@@ -1067,33 +1129,31 @@
   ]
  },
  "avisos": [
-  "olarivers: ERROR No se pudo descargar https://olarivers.com/proximas-pruebas/: <urlopen error [Errno 101] Network is unreachable> (se mantienen 23 de la pasada anterior)",
   "9hsports: ERROR No se pudo descargar https://www.9hsports.cat/ca/inscripcions: HTTP Error 403: Forbidden (se mantienen 0 de la pasada anterior)",
   "plaestany: ERROR No se pudo descargar https://cursesplaestany.cat/: <urlopen error [Errno 111] Connection refused> (se mantienen 6 de la pasada anterior)",
-  "holaislascanarias: 0 carreras. ¿Ha cambiado la web? (se mantienen 0 de la pasada anterior)",
   "fam: ERROR No se pudo descargar https://www.atletismomadrid.com/calendario/carreras-populares?cal_year=2026: HTTP Error 403: Forbidden (se mantienen 0 de la pasada anterior)",
   "dipualba: ERROR No se pudo descargar https://deportes.dipualba.es/deportes/pruebas-carreras-populares: <urlopen error timed out> (se mantienen 0 de la pasada anterior)",
-  "kirolbide: 0 carreras. ¿Ha cambiado la web? (se mantienen 0 de la pasada anterior)"
+  "kirolbide: ERROR la agenda pide un captcha antirobots (no se salta) (se mantienen 0 de la pasada anterior)"
  ],
  "carteles_aplicados": 17,
- "municipios_completados": 779,
+ "municipios_completados": 802,
  "uniones": [
-  "2026-11-22 · III Carrera El Cerebro no es Gris [dorsalchip] = III Carrera El Cerebro no es Gris [olarivers]",
+  "2026-11-22 · III Carrera El Cerebro no es Gris [dorsalchip] = III Carrera el Cerebro No Es Gris [olarivers]",
   "2026-12-05 · VI Solidaria de Guaro UCS [dorsalchip] = VI Solidaria de Guaro UCS [olarivers]",
   "2026-12-06 · XIII CxM Faraján [dorsalchip] = XIII CxM Faraján [olarivers]",
-  "2026-12-13 · CxM Alhaurín El Grande Homenaje al Mori [dorsalchip] = CxM Alhaurín El Grande Homenaje al Mori [olarivers]",
+  "2026-12-13 · CxM Alhaurín El Grande Homenaje al Mori [dorsalchip] = CxM Alhaurín el Grande Homenaje Al Mori [olarivers]",
   "2026-12-19 · CxM Corrillón Trail [dorsalchip] = CxM Corrillón Trail [olarivers]",
   "2026-12-20 · XIII Carrera Solidaria de Navidad de Algeciras [dorsalchip] = XIII Carrera Solidaria de Navidad de Algeciras [olarivers]",
-  "2026-12-26 · II San Silvestre De Ojén [dorsalchip] = II San Silvestre De Ojén [olarivers]",
+  "2026-12-26 · II San Silvestre De Ojén [dorsalchip] = II San Silvestre de Ojén [olarivers]",
   "2026-12-30 · VIII San Silvestre Real Club Mediterraneo 2026 [dorsalchip] = VIII San Silvestre Real Club Mediterraneo 2026 [olarivers]",
   "2027-01-03 · I Carrera San Silvestre de Écija [dorsalchip] = I Carrera San Silvestre de Écija [olarivers]",
-  "2027-01-10 · XIII CxM Alhaurín de la Torre La Conquista del Paraíso [dorsalchip] = XIII CxM Alhaurín de la Torre La Conquista del Paraíso [olarivers]",
+  "2027-01-10 · XIII CxM Alhaurín de la Torre La Conquista del Paraíso [dorsalchip] = XIII CxM Alhaurín de la Torre la Conquista del Paraíso [olarivers]",
   "2027-01-16 · VIII Trail Manilva [dorsalchip] = VIII Trail Manilva [olarivers]",
   "2027-01-17 · XXXIV Carrera Popular Ruta Carlos III [dorsalchip] = XXXIV Carrera Popular Ruta Carlos III [olarivers]",
   "2027-01-30 · XI Trail Álora Monte Hacho [dorsalchip] = XI Trail Álora Monte Hacho [olarivers]",
-  "2027-01-31 · VIII CxM La Pólvora [dorsalchip] = VIII CxM La Pólvora [olarivers]",
-  "2027-02-07 · XXXVII Media Maratón Torremolinos [dorsalchip] = 37ª Media Maraton Torremolinos [tecnocrono] = XXXVII Media Maraton de Torremolinos [rockthesport] = XXXVII Media Maratón Torremolinos [olarivers]",
-  "2027-04-24 · XII Trail Los Alcornocales [dorsalchip] = XII Trail Los Alcornocales [olarivers]",
+  "2027-01-31 · VIII CxM La Pólvora [dorsalchip] = VIII CxM la Pólvora [olarivers]",
+  "2027-02-07 · XXXVII Media Maratón Torremolinos [dorsalchip] = 37ª Media Maraton Torremolinos [tecnocrono] = XXXVII Media Maraton de Torremolinos [rockthesport] = XXXVII Media Maratón Torremolinos 2027 [olarivers]",
+  "2027-04-24 · XII Trail Los Alcornocales [dorsalchip] = XII Trail los Alcornocales [olarivers]",
   "2027-04-24 · XII Cross Trail Villa de Teba [dorsalchip] = XII Cross Trail Villa de Teba [olarivers]",
   "2026-12-06 · XIV Carrera Popular Villa de Villaverde [tecnocrono] = XIV Carrera Popular Villa de Villaverde [corredorespopulares]",
   "2026-12-20 · XIII Carrera la Cordobaria Navidad 2026 [tecnocrono] = 13 Carrera la Cordobaria en Navidad [corredorespopulares] = XIII Carrera la Cordobaria Navidad 2026 [olarivers]",
@@ -1102,7 +1162,7 @@
   "2026-12-27 · Carrera Navideña de Bellavista [tecnocrono] = Carrera Navideña de Bellavista [corredorespopulares]",
   "2026-12-27 · X San Silvestre Lebrijana [tecnocrono] = San Silvestre Lebrijana [corredorespopulares]",
   "2027-01-16 · III Carrera Infantil Trail Villa de el Bosque [tecnocrono] = III Carrera Infantil Trail Villa de el Bosque [olarivers]",
-  "2027-01-17 · Trail de el Bosque 2027 [tecnocrono] = Trail de el Bosque 2027 [olarivers]",
+  "2027-01-17 · Trail de el Bosque 2027 [tecnocrono] = III Trail Villa de el Bosque 2027 [olarivers]",
   "2027-01-24 · VIII Media Maratón Entreparques la Rinconada [tecnocrono] = VIII Media Maratón Entreparques la Rinconada [corredorespopulares]",
   "2027-03-07 · X Muro de Filípides [tecnocrono] = X Muro de Filípides [corredorespopulares]",
   "2027-04-11 · IV Viamed Media Maratón Ciudad de Chiclana [gesconchip] = IV Viamed Media Maratón Ciudad de Chiclana [rockthesport] = IV Media Maratón Ciudad de Chiclana [anunciadas]",
@@ -1213,6 +1273,8 @@
   "2026-12-13 · Pas Ras al Port de València 2026 [fdmvalencia] = 38º Pas Ras al Port de València [facv]",
   "2026-12-31 · XL San Silvestre Internacional Crevillentina 2026 [facv] = San Silvestre Internacional Crevillentina [chiplevante]",
   "2026-12-20 · Cursa de Nadal Colldejou [runatica] = Cursa de Nadal Xaló [somesport]",
+  "2026-12-12 · Maratón Dany Sport Corralejo Grandes Playas [cronoline] = Maratón Dany Sport Corralejo [holaislascanarias]",
+  "2026-12-31 · San Silvestre Golden Mile [holaislascanarias] = X San Silvestre Golden Mile Playa de las Américas [gesport]",
   "2026-12-31 · X San Sin Vilviestre Royana [fetacyl] = X San Vilviestre Royana [soriatletismo]",
   "2026-12-26 · XXXI Carrera Popular de Navidad Ciudad de Soria [fetacyl] = XXXI Carrera Popular de Navidad-ciudad de Soria [soriatletismo]",
   "2026-12-24 · XIV Legua y Media Navideña [fetacyl] = XIV Legua y Media Navideña [soriatletismo]",

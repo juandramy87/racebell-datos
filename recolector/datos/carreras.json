@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generado": "2026-11-22T14:24",
+ "generado": "2026-11-22T17:04",
  "zona": "Europe/Madrid",
  "desde": "2026-11-22",
  "hasta": "2027-12-27",
@@ -1793,37 +1793,6 @@
    ]
   },
   {
-   "id": "2026-11-22-puente-genil-cross-de-puente-genil",
-   "nombre": "Cross de Puente Genil",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Puente Genil",
-   "provincia": "Córdoba",
-   "comunidad": "andalucia",
-   "coords": [
-    37.3874,
-    -4.7716
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-16T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.corredorespopulares.es/inscripcion/circuito_cross_miguel_rios/index.php",
-   "cartel": "https://www.corredorespopulares.es/inscripcion/circuito_cross_miguel_rios/imagenes/cartel_mini_puente_genil.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "olarivers",
-     "url": "https://olarivers.com/eventos/xvi-circuito-cross-epa-miguel-rios/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-22-parets-del-valles-cursa-de-parets-del-valles",
    "nombre": "Cursa de Parets del Vallès",
    "fecha": "2026-11-22",
@@ -2701,6 +2670,37 @@
     {
      "id": "gesconchip",
      "url": "https://gesconchip.es/prueba/informacion/xliv-carrera-urbana-ciudad-de-chiclana"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22-puente-genil-xvi-circuito-cross-epa-miguel-rios",
+   "nombre": "XVI Circuito Cross Epa Miguel Ríos",
+   "fecha": "2026-11-22",
+   "hora": null,
+   "poblacion": "Puente Genil",
+   "provincia": "Córdoba",
+   "comunidad": "andalucia",
+   "coords": [
+    37.3874,
+    -4.7716
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": "2026-11-19T14:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://olarivers.com/eventos/xvi-circuito-cross-epa-miguel-rios/",
+   "cartel": "https://olarivers.com/wp-content/uploads/2026/11/cartel_puente_genil_26-213x300.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "cerrada",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "olarivers",
+     "url": "https://olarivers.com/eventos/xvi-circuito-cross-epa-miguel-rios/"
     }
    ]
   },
@@ -4089,6 +4089,37 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/la-cursa-del-tractor-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-el-rosario-nocturna-el-rosario",
+   "nombre": "Nocturna el Rosario",
+   "fecha": "2026-11-28",
+   "hora": null,
+   "poblacion": "El Rosario",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.451887,
+    -16.366555
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/tenerife/nocturna-el-rosario/"
     }
    ]
   },
@@ -8752,7 +8783,7 @@
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": null,
+   "url_inscripcion": "https://www.maratoncorralejo.com/",
    "cartel": null,
    "precios": [],
    "previos": [],
@@ -8768,6 +8799,10 @@
     {
      "id": "cronoline",
      "url": "https://www.cronolinecanarias.com/evento/maraton-dany-soport-corralejo-grandes-playas/"
+    },
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/fuerteventura/maraton-dany-sport-corralejo/"
     }
    ]
   },
@@ -22139,6 +22174,42 @@
    ]
   },
   {
+   "id": "2026-12-31-manzanares-el-real-san-silvestre-2026",
+   "nombre": "San Silvestre 2026",
+   "fecha": "2026-12-31",
+   "hora": "08:00",
+   "poblacion": "Manzanares el Real",
+   "provincia": "Madrid",
+   "comunidad": "madrid",
+   "coords": [
+    40.7268,
+    -3.8649
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-scaled.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Agenda municipal: el cierre de inscripción y las distancias están en el cartel o la normativa"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "aytos_madrid",
+     "url": "https://manzanareselreal.es/agenda-municipal/san-silvestre-2026/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-crevillent-xl-san-silvestre-internacional-crevillentina-2026",
    "nombre": "XL San Silvestre Internacional Crevillentina 2026",
    "fecha": "2026-12-31",
@@ -22348,6 +22419,10 @@
     {
      "id": "gesport",
      "url": "https://inscripciones.chronotrackcanarias.com/inscripcion/x-san-silvestre-golden-mile-playa-de-las-americas/"
+    },
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/tenerife/san-silvestre-golden-mile/"
     }
    ]
   },
@@ -24111,6 +24186,37 @@
    ]
   },
   {
+   "id": "2026-12-31-garachico-la-san-silvestre-garachiquense",
+   "nombre": "La San Silvestre Garachiquense",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Garachico",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.372676,
+    -16.764069
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/tenerife/la-san-silvestre-garachiquense/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-telde-liga-ocr-canaria-2026",
    "nombre": "Liga OCR Canaria 2026",
    "fecha": "2026-12-31",
@@ -24265,6 +24371,37 @@
    ]
   },
   {
+   "id": "2026-12-31-arrecife-san-silvestre-ciudad-de-arrecife",
+   "nombre": "San Silvestre Ciudad de Arrecife",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Arrecife",
+   "provincia": "Las Palmas",
+   "comunidad": "canarias",
+   "coords": [
+    28.965231,
+    -13.554431
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/lanzarote/san-silvestre-ciudad-de-arrecife/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-31-alcala-de-henares-san-silvestre-complutense-2026",
    "nombre": "San Silvestre Complutense 2026",
    "fecha": "2026-12-31",
@@ -24375,6 +24512,130 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/san-silvestre-gilet-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-la-aldea-de-san-nicolas-san-silvestre-la-aldea",
+   "nombre": "San Silvestre La Aldea",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "La Aldea de San Nicolás",
+   "provincia": "Las Palmas",
+   "comunidad": "canarias",
+   "coords": [
+    27.978271,
+    -15.781302
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/san-silvestre-la-aldea/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-la-frontera-san-silvestre-la-frontera",
+   "nombre": "San Silvestre La Frontera",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "La Frontera",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    27.754318,
+    -18.009313
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/el-hierro/san-silvestre-la-frontera/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-san-cristobal-de-la-laguna-san-silvestre-lagunera",
+   "nombre": "San Silvestre Lagunera",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "San Cristóbal de La Laguna",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.486829,
+    -16.318947
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/tenerife/san-silvestre-lagunera/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-vallehermoso-san-silvestre-pantanera",
+   "nombre": "San Silvestre Pantanera",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Vallehermoso",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.180199,
+    -17.2659
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/la-gomera/san-silvestre-pantanera/"
     }
    ]
   },
@@ -24519,6 +24780,37 @@
     {
      "id": "fga",
      "url": "https://atletismo.gal/competicions/san-silvestre-vigo-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-agaete-san-silvestre-del-noroeste",
+   "nombre": "San Silvestre del Noroeste",
+   "fecha": "2026-12-31",
+   "hora": null,
+   "poblacion": "Agaete",
+   "provincia": "Las Palmas",
+   "comunidad": "canarias",
+   "coords": [
+    28.100259,
+    -15.699673
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/gran-canaria/san-silvestre-del-noroeste/"
     }
    ]
   },
@@ -38296,6 +38588,68 @@
     {
      "id": "cursescat",
      "url": "https://www.curses.cat/calendari/"
+    }
+   ]
+  },
+  {
+   "id": "2027-04-03-el-paso-reventon-el-paso",
+   "nombre": "Reventón El Paso",
+   "fecha": "2027-04-03",
+   "hora": null,
+   "poblacion": "El Paso",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.647223,
+    -17.884049
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://reventonelpaso.com/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/la-palma/reventon-el-paso/"
+    }
+   ]
+  },
+  {
+   "id": "2027-04-03-el-paso-reventon-kids",
+   "nombre": "Reventón kids",
+   "fecha": "2027-04-03",
+   "hora": null,
+   "poblacion": "El Paso",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.651916,
+    -17.879958
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://reventonelpaso.com/modalidad/kids/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "holaislascanarias",
+     "url": "https://www.holaislascanarias.com/eventos/la-palma/reventon-kids/"
     }
    ]
   },
