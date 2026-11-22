@@ -17,6 +17,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from nucleo import red
+from nucleo.normalizar import municipio_espana
 from nucleo.duplicados import misma_carrera
 from nucleo.modelo import Carrera, Fuente
 from nucleo.normalizar import clave, nombre as limpiar_nombre
@@ -76,12 +77,15 @@ def eventos_rango(desde: date, hasta: date, max_paginas: int = 15, comunidad: st
     return encontrados
 
 
-def medir(sabado: date, hasta: date | None = None, comunidad: str = "andalucia") -> str:
+def medir(sabado: date, hasta: date | None = None, comunidad: str = "andalucia", provincia: str | None = None) -> str:
     domingo = hasta or sabado + timedelta(days=1)
     nuestras_json = json.loads((DATOS / "carreras.json").read_text())["carreras"]
     nuestras = [c for c in nuestras_json if sabado.isoformat() <= c["fecha"] <= domingo.isoformat()
                 and c.get("comunidad") == comunidad]
     suyas = eventos_rango(sabado, domingo, 15 if hasta is None else 120, comunidad)
+    if provincia:  # la nuestra por su provincia; la de running.life por el municipio (tabla del INE)
+        nuestras = [c for c in nuestras if c.get("provincia") == provincia]
+        suyas = [s for s in suyas if (m := municipio_espana(s.get("poblacion") or "")) and m[1] == provincia]
 
     def como_carrera(d: dict, fuente: str) -> Carrera:
         return Carrera(nombre=limpiar_nombre(d["nombre"]), fecha=date.fromisoformat(str(d["fecha"])),
@@ -115,7 +119,9 @@ def medir(sabado: date, hasta: date | None = None, comunidad: str = "andalucia")
         por_mes.append(f"| {m} | {a} | {f} | {a / (a + f):.0%} |")
     largas = re.compile(r"marat|media|medio|\b21|ultra|42", re.I)
     lineas = [
-        f"# Cobertura del {sabado:%d/%m/%Y} al {domingo:%d/%m/%Y}" if hasta else f"# Cobertura del finde {sabado:%d/%m} – {domingo:%d/%m/%Y}",
+        (f"# Cobertura de {provincia} " if provincia else "# Cobertura ") + (f"del {sabado:%d/%m/%Y} al {domingo:%d/%m/%Y}" if hasta else f"del finde {sabado:%d/%m} – {domingo:%d/%m/%Y}"),
+        "",
+        *([f"_Solo cuentan las de running.life cuyo pueblo reconoce la tabla del INE en {provincia}._"] if provincia else []),
         "",
         f"- Nuestras: **{len(nuestras)}** · running.life: **{len(suyas)}** · en común: **{len(coinciden)}**",
         f"- Solo nuestras: **{len(solo_nuestras)}** · nos faltan: **{len(solo_suyas)}** · total entre las dos: **{union}**",
@@ -135,7 +141,7 @@ def medir(sabado: date, hasta: date | None = None, comunidad: str = "andalucia")
         *[f"- {c['nombre']} = {s['nombre']}" for c, s in coinciden],
     ]
     texto = "\n".join(lineas) + "\n"
-    nombre = f"cobertura-{comunidad}-{sabado.isoformat()}" + (f"-a-{domingo.isoformat()}" if hasta else "")
+    nombre = f"cobertura-{(provincia or comunidad).lower()}-{sabado.isoformat()}" + (f"-a-{domingo.isoformat()}" if hasta else "")
     (DATOS / f"{nombre}.md").write_text(texto)
     return texto
 
@@ -145,7 +151,8 @@ if __name__ == "__main__":
     p.add_argument("sabado", type=date.fromisoformat, help="sábado del finde, o inicio del periodo con --hasta")
     p.add_argument("--hasta", type=date.fromisoformat, help="mide todo el periodo, mes a mes")
     p.add_argument("--comunidad", default="andalucia", choices=sorted(COMUNIDADES), help="comunidad a medir")
+    p.add_argument("--provincia", help="solo esta provincia de la comunidad (p. ej. Sevilla)")
     args = p.parse_args()
     if args.hasta is None and args.sabado.weekday() != 5:
         sys.exit("La fecha tiene que ser un sábado (o usa --hasta).")
-    print(medir(args.sabado, args.hasta, args.comunidad))
+    print(medir(args.sabado, args.hasta, args.comunidad, args.provincia))

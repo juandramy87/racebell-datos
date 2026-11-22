@@ -1,0 +1,31 @@
+# Medir la cobertura frente a running.life desde GitHub (a mano). Solo imprime el informe en el registro: no guarda
+# nada de running.life en el repositorio. Útil cuando running.life no responde desde el Mac.
+name: medir
+on:
+  workflow_dispatch:
+    inputs:
+      desde: { description: "Inicio (AAAA-MM-DD)", required: true }
+      hasta: { description: "Fin (AAAA-MM-DD)", required: true }
+      comunidad: { description: "Comunidad (andalucia, madrid…)", required: true, default: andalucia }
+      provincia: { description: "Provincia (opcional, p. ej. Sevilla)", required: false, default: "" }
+permissions:
+  contents: read
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Medir
+        working-directory: recolector
+        env:
+          DESDE: ${{ inputs.desde }}
+          HASTA: ${{ inputs.hasta }}
+          COMUNIDAD: ${{ inputs.comunidad }}
+          PROVINCIA: ${{ inputs.provincia }}
+        run: |
+          pip install -q -r requirements.txt
+          if [ -n "$PROVINCIA" ]; then python cobertura.py "$DESDE" --hasta "$HASTA" --comunidad "$COMUNIDAD" --provincia "$PROVINCIA"
+          else python cobertura.py "$DESDE" --hasta "$HASTA" --comunidad "$COMUNIDAD"; fi
