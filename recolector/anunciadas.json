@@ -581,6 +581,54 @@
    "estado_inscripcion": "abierta",
    "nota": "25.ª edición, según la nota de prensa del Ayuntamiento (13/11/2026): popular de 6 km a las 17:00 y 5K antes. Hasta 10.000 corredores.",
    "comprobado": "2026-11-17"
+  },
+  {
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 3ª jornada (Dos Hermanas)",
+   "fecha": "2026-11-28",
+   "poblacion": "Dos Hermanas",
+   "provincia": "Sevilla",
+   "distancias_km": [],
+   "modalidad": "cross",
+   "url_oficial": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Circuito Provincial de Campo a Través 2026-27 de la Diputación de Sevilla: circuitos de unos 2 km en entornos naturales, abierto desde los 8 años. Calendario y enlace de inscripción en la web de la Diputación.",
+   "comprobado": "2026-11-22"
+  },
+  {
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 4ª jornada (Las Cabezas de San Juan)",
+   "fecha": "2026-12-12",
+   "poblacion": "Las Cabezas de San Juan",
+   "provincia": "Sevilla",
+   "distancias_km": [],
+   "modalidad": "cross",
+   "url_oficial": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Circuito Provincial de Campo a Través 2026-27 de la Diputación de Sevilla: circuitos de unos 2 km en entornos naturales, abierto desde los 8 años. Calendario y enlace de inscripción en la web de la Diputación. Incluye la Copa Diputación de CT por Relevos-Parejas.",
+   "comprobado": "2026-11-22"
+  },
+  {
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 2ª jornada (El Cuervo de Sevilla)",
+   "fecha": "2026-12-27",
+   "poblacion": "El Cuervo de Sevilla",
+   "provincia": "Sevilla",
+   "distancias_km": [],
+   "modalidad": "cross",
+   "url_oficial": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Circuito Provincial de Campo a Través 2026-27 de la Diputación de Sevilla: circuitos de unos 2 km en entornos naturales, abierto desde los 8 años. Calendario y enlace de inscripción en la web de la Diputación. Nueva fecha (se aplazó).",
+   "comprobado": "2026-11-22"
+  },
+  {
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 5ª jornada (Alcalá de Guadaíra)",
+   "fecha": "2027-01-16",
+   "poblacion": "Alcalá de Guadaíra",
+   "provincia": "Sevilla",
+   "distancias_km": [],
+   "modalidad": "cross",
+   "url_oficial": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/",
+   "estado_inscripcion": "desconocido",
+   "nota": "Circuito Provincial de Campo a Través 2026-27 de la Diputación de Sevilla: circuitos de unos 2 km en entornos naturales, abierto desde los 8 años. Calendario y enlace de inscripción en la web de la Diputación. Incluye la Copa Diputación de CT por Equipos Mixtos y la entrega de trofeos del circuito.",
+   "comprobado": "2026-11-22"
   }
  ],
  "sin_fecha": [
