@@ -90,6 +90,11 @@
   "lat": 40.0038,
   "lon": -4.3688
  },
+ "alcala de guadaira|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.3398,
+  "lon": -5.8408
+ },
  "alcala de henares|madrid": {
   "provincia": "Madrid",
   "lat": 40.482,
@@ -401,6 +406,11 @@
   "lat": 37.6173,
   "lon": -4.3244
  },
+ "baeza|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.9945,
+  "lon": -3.4708
+ },
  "bailen|jaen": {
   "provincia": "Jaén",
   "lat": 38.0968,
@@ -533,6 +543,11 @@
   "lat": 38.5406,
   "lon": -0.1291
  },
+ "beniel|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0468,
+  "lon": -1.0014
+ },
  "benifla|valencia": {
   "provincia": "Valencia",
   "lat": 38.9283,
@@ -626,6 +641,11 @@
   "lat": 40.9953,
   "lon": -3.6351
  },
+ "bullas|murcia": {
+  "provincia": "Murcia",
+  "lat": 38.0497,
+  "lon": -1.6706
+ },
  "burguillos del cerro|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.3799,
@@ -645,6 +665,11 @@
   "provincia": "Cáceres",
   "lat": 39.4745,
   "lon": -6.3717
+ },
+ "cadalso|caceres": {
+  "provincia": "Cáceres",
+  "lat": 40.2375,
+  "lon": -6.5398
  },
  "cadaques|girona": {
   "provincia": "Girona",
@@ -964,6 +989,11 @@
   "lat": 36.8215,
   "lon": -2.8702
  },
+ "denia|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.8408,
+  "lon": 0.1061
+ },
  "dolores|alicante": {
   "provincia": "Alicante",
   "lat": 38.1392,
@@ -978,6 +1008,11 @@
   "provincia": "Gipuzkoa",
   "lat": 43.3224,
   "lon": -1.9839
+ },
+ "dos hermanas|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.2837,
+  "lon": -5.9227
  },
  "duenas|palencia": {
   "provincia": "Palencia",
@@ -1025,6 +1060,11 @@
   "lon": -5.5067
  },
  "el casar|guadalajara": null,
+ "el cuervo de sevilla|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 36.8535,
+  "lon": -6.0388
+ },
  "el ejido|almeria": {
   "provincia": "Almería",
   "lat": 36.7744,
@@ -1596,6 +1636,11 @@
   "lat": 43.3258,
   "lon": -3.0144
  },
+ "las cabezas de san juan|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 36.9807,
+  "lon": -5.9407
+ },
  "las gabias|granada": {
   "provincia": "Granada",
   "lat": 37.1326,
@@ -1686,6 +1731,11 @@
   "provincia": "Barcelona",
   "lat": 41.6086,
   "lon": 2.2395
+ },
+ "lloseta|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.7183,
+  "lon": 2.8666
  },
  "llubi|baleares": {
   "provincia": "Baleares",
@@ -1810,6 +1860,11 @@
   "lat": 43.1262,
   "lon": -2.6633
  },
+ "mancor de la vall|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.7501,
+  "lon": 2.871
+ },
  "manga del mar menor la|murcia": {
   "provincia": "Murcia",
   "lat": 37.6537,
@@ -1870,6 +1925,11 @@
   "lat": 35.2919,
   "lon": -2.9409
  },
+ "membrilla|ciudad real": {
+  "provincia": "Ciudad Real",
+  "lat": 38.9725,
+  "lon": -3.3465
+ },
  "mendavia|navarra": null,
  "merida|badajoz": {
   "provincia": "Badajoz",
@@ -1886,6 +1946,11 @@
   "provincia": "Málaga",
   "lat": 36.5558,
   "lon": -4.695
+ },
+ "miramar|valencia": {
+  "provincia": "Valencia",
+  "lat": 38.9505,
+  "lon": -0.1415
  },
  "moana|pontevedra": {
   "provincia": "Pontevedra",
@@ -2111,6 +2176,11 @@
   "lat": 36.7684,
   "lon": -2.613
  },
+ "pacs del penedes|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3615,
+  "lon": 1.6699
+ },
  "paderne de allariz|ourense": {
   "provincia": "Ourense",
   "lat": 42.2737,
@@ -2240,6 +2310,11 @@
   "provincia": "Baleares",
   "lat": 39.8792,
   "lon": 3.0157
+ },
+ "polop|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.6227,
+  "lon": -0.1275
  },
  "pontevedra|pontevedra": {
   "provincia": "Pontevedra",
@@ -2539,6 +2614,11 @@
   "provincia": "Baleares",
   "lat": 39.8491,
   "lon": 4.258
+ },
+ "sant miquel de campmajor|girona": {
+  "provincia": "Girona",
+  "lat": 42.1359,
+  "lon": 2.6791
  },
  "sant sadurna d 039 anoia|barcelona": null,
  "sant vicenc de castellet|barcelona": {

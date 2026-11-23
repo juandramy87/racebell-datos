@@ -1,2851 +1,10 @@
 {
  "version": 1,
- "generado": "2026-11-22T17:04",
+ "generado": "2026-11-23T17:02",
  "zona": "Europe/Madrid",
- "desde": "2026-11-22",
- "hasta": "2027-12-27",
+ "desde": "2026-11-23",
+ "hasta": "2027-12-28",
  "carreras": [
-  {
-   "id": "2026-11-22-lloret-de-mar-corriols-de-l-avia-2026",
-   "nombre": "Corriols de l'Avia 2026",
-   "fecha": "2026-11-22",
-   "hora": "08:00",
-   "poblacion": "Lloret de Mar",
-   "provincia": "Girona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.7087352,
-    2.8312938
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-09-28T08:00",
-   "inscripcion_hasta": "2026-11-16T20:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/-corriols-de-lavia-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2506/library/root/25511e30-d769-4acb-81f1-aca89ea53586.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/-corriols-de-lavia-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-palma-isla-race-estadi-mallorca-son-moix-2026",
-   "nombre": "Isla Race Estadi Mallorca Son Moix 2026",
-   "fecha": "2026-11-22",
-   "hora": "08:00",
-   "poblacion": "Palma",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.589952,
-    2.63005
-   ],
-   "modalidad": "obstáculos",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-08-05T18:00",
-   "inscripcion_hasta": "2026-11-19T18:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/1785915050",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/14468/library/root/1226ff71-1cd3-4098-9a45-538b6f14ddb8.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/1785915050"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-san-sebastian-10k-zmss26",
-   "nombre": "10K Zmss26",
-   "fecha": "2026-11-22",
-   "hora": "08:15",
-   "poblacion": "San Sebastián",
-   "provincia": "Gipuzkoa",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3206678892912,
-    -1.98422464526062
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": "2026-01-29T10:00",
-   "inscripcion_hasta": "2026-11-17T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/10k-zmss26",
-   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/10k-zmss26"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-valencia-valencia-contra-el-cancer-2026",
-   "nombre": "Valencia Contra el Cáncer 2026",
-   "fecha": "2026-11-22",
-   "hora": "08:30",
-   "poblacion": "Valencia",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    39.47284741874017,
-    -0.3641850272918745
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    6.0
-   ],
-   "inscripcion_desde": "2026-10-27T12:00",
-   "inscripcion_hasta": "2026-11-18T14:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/valencia-contra-el-cancer-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10084/library/root/d049a2f1-fe9e-4906-a0af-1b6561a9397b.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Plazo de inscripción en la web de la carrera (FDM València)"
-    }
-   ],
-   "estado": "cerrada",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/valencia-contra-el-cancer-2026"
-    },
-    {
-     "id": "fdmvalencia",
-     "url": "https://www.fdmvalencia.es/es/eventos/valencia-contra-el-cancer-2026/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-montbrio-del-camp-10k-montbrio-del-camp-2026",
-   "nombre": "10K Montbrio del Camp 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Montbrió del Camp",
-   "provincia": "Tarragona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.1200884,
-    1.000158
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": "2026-08-12T00:00",
-   "inscripcion_hasta": "2026-11-09T15:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/10k-montbrio-del-camp-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/40393cae-c7d6-4172-bfc4-8e2779052076.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/10k-montbrio-del-camp-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-alcobendas-barbie-run-alcobendas-madrid-2026",
-   "nombre": "Barbie Run Alcobendas Madrid 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Alcobendas",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.54,
-    -3.6358
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    3.0,
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://barbierun.es/inscripcion",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Fecha anunciada en la web oficial (comprobada el 2026-11-17)"
-   ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "anunciadas",
-     "url": "https://barbierun.es/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-lujar-carreras-de-obstaculos-circuito-provincial-de-granada-playa-cambriles-rac",
-   "nombre": "Carreras de Obstaculos - Circuito Provincial de Granada - Playa Cambriles Race",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Lújar",
-   "provincia": "Granada",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7755,
-    -3.3959
-   ],
-   "modalidad": "obstáculos",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.global-tempo.com/carreras.php?id=3202",
-   "cartel": "https://www.global-tempo.com/portadas_carreras/3202CARTEL NUEVA FECHA LUJAR.png",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la normativa (PDF) de la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "globaltempo",
-     "url": "https://www.global-tempo.com/carreras.php?id=3202"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-tarragona-tarraco-health-race-2026",
-   "nombre": "Tarraco Health Race 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Tarragona",
-   "provincia": "Tarragona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.1188827,
-    1.2444909
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-06-30T00:00",
-   "inscripcion_hasta": "2026-11-20T14:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/tarraco-health-race-2026",
-   "cartel": "https://rockthesportv2.blob.core.windows.net/manager/1785/library/root/8feea688-e229-468f-b3d9-5efac98b54f9.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/tarraco-health-race-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-albunol-vi-cxm-albunol-trail-la-contraviesa-circuito-cxm-diputacion-de-granada",
-   "nombre": "VI CxM Albuñol Trail la Contraviesa - Circuito CxM Diputación de Granada",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Albuñol",
-   "provincia": "Granada",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7895,
-    -3.1883
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.global-tempo.com/carreras.php?id=3204",
-   "cartel": "https://www.global-tempo.com/portadas_carreras/3204cartel albunol nueva fecha.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la normativa (PDF) de la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "globaltempo",
-     "url": "https://www.global-tempo.com/carreras.php?id=3204"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-sant-sadurni-d-anoia-vilarnau-correcava-2026",
-   "nombre": "Vilarnau Correcava 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Sant Sadurní d'Anoia",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.445213,
-    1.8033174
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-06-22T00:00",
-   "inscripcion_hasta": "2026-11-22T13:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/vilarnau-correcava-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/48832b5c-df3d-49a8-ab54-5f41d8de75aa.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/vilarnau-correcava-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-gualba-xii-gualba-trail",
-   "nombre": "XII Gualba Trail",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Gualba",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.7337268,
-    2.4995907
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-08-03T00:00",
-   "inscripcion_hasta": "2026-11-15T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xii-gualba-trail",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/9d8ee853-3828-4ab1-8958-4abd21b0e2af.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/xii-gualba-trail"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-la-almunia-de-dona-godina-xx-trail-mularroya",
-   "nombre": "XX Trail Mularroya",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "La Almunia de Doña Godina",
-   "provincia": "Zaragoza",
-   "comunidad": "aragon",
-   "coords": [
-    41.474351,
-    -1.3777542
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-09T00:00",
-   "inscripcion_hasta": "2026-11-19T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xx-trail-mularroya",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/292bd506-7f21-4acf-af15-93b270c6af51.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/xx-trail-mularroya"
-    },
-    {
-     "id": "atletismoaragon",
-     "url": "https://www.federacionaragonesadeatletismo.com/xx-mularroya-trail-auton/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-donostia-san-sebastian-zurich-maraton-donostia-san-sebastian-2026",
-   "nombre": "Zurich Maraton Donostia San Sebastian 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:00",
-   "poblacion": "Donostia San Sebastián",
-   "provincia": "Gipuzkoa",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3206913057864,
-    -1.98427828944092
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    42.195
-   ],
-   "inscripcion_desde": "2026-01-22T10:00",
-   "inscripcion_hasta": "2026-11-15T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/zurich-maraton-donostia-san-sebastian-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2352/library/root/0ad44e4d-d7bf-4610-98d1-cb462ab7b90c.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/zurich-maraton-donostia-san-sebastian-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-madrid-corre-por-un-mundo-sostenible-2026",
-   "nombre": "Corre por un Mundo Sostenible 2026",
-   "fecha": "2026-11-22",
-   "hora": "09:30",
-   "poblacion": "Madrid",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.4237,
-    -3.6899
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    3.0,
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Fecha anunciada en la web oficial (comprobada el 2026-11-17)"
-   ],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "anunciadas",
-     "url": "https://correporunmundosostenible.es/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-benifla-xi-volta-a-peu-benifla",
-   "nombre": "XI Volta a peu Beniflà",
-   "fecha": "2026-11-22",
-   "hora": "09:30",
-   "poblacion": "Beniflà",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    38.9283,
-    -0.1885
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    8.5
-   ],
-   "inscripcion_desde": "2026-10-17T00:00",
-   "inscripcion_hasta": "2026-11-21T14:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://crono4sports.com/evento/xi-volta-a-peu-benifla",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "crono4sports",
-     "url": "https://crono4sports.com/evento/xi-volta-a-peu-benifla"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-fonelas-ii-gtf-geoparque-trail-fonelas",
-   "nombre": "II Gtf / Geoparque Trail Fonelas",
-   "fecha": "2026-11-22",
-   "hora": "09:45",
-   "poblacion": "Fonelas",
-   "provincia": "Granada",
-   "comunidad": "andalucia",
-   "coords": [
-    37.4141693,
-    -3.1731718
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-09-08T00:00",
-   "inscripcion_hasta": "2026-11-20T09:44",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2765/library/root/1f1fc325-1e9a-4d80-a275-ce42b93133e0.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-pozuelo-corre-sin-resistencias-26",
-   "nombre": "Corre sin resistencias 26",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Pozuelo",
-   "provincia": "Albacete",
-   "comunidad": "castilla-la-mancha",
-   "coords": [
-    40.416725,
-    -3.703659
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-01T00:00",
-   "inscripcion_hasta": "2026-11-18T22:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/corre-sin-resistencias-26",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1160/custom/root/b23325c7-231a-4521-a69d-3a4b564bbab9_custom1.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/corre-sin-resistencias-26"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-olot-cursa-entrepobles-la-garrotxa-2026",
-   "nombre": "Cursa Entrepobles La Garrotxa 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Olot",
-   "provincia": "Girona",
-   "comunidad": "cataluna",
-   "coords": [
-    42.18086700000001,
-    2.4891623
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-07-01T00:00",
-   "inscripcion_hasta": "2026-11-29T23:58",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/cursa-entrepobles-la-garrotxa-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/11687/library/root/e2fa4aeb-7a75-4eea-94f3-7c58c5b12a60.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/cursa-entrepobles-la-garrotxa-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-montblanc-cursa-de-la-dona-montblanc-2026",
-   "nombre": "Cursa de la Dona_montblanc 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Montblanc",
-   "provincia": "Tarragona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.3746218,
-    1.1559607
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-22T00:00",
-   "inscripcion_hasta": "2026-11-17T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/cursa-de-la-dona_montblanc-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/93bc8e93-313d-435c-81c7-ddac92da764c.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/cursa-de-la-dona_montblanc-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-redovan-desafio-vega-baja-redovan-by-medieval",
-   "nombre": "Desafio Vega Baja Redován By Medieval",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Redovan",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.1152,
-    -0.9069
-   ],
-   "modalidad": null,
-   "distancias_km": [
-    5.0,
-    8.0
-   ],
-   "inscripcion_desde": "2026-08-19T00:01",
-   "inscripcion_hasta": "2026-11-17T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://crono4sports.com/evento/desafio-vega-baja-redovan-by-medieval",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "crono4sports",
-     "url": "https://crono4sports.com/evento/desafio-vega-baja-redovan-by-medieval"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-palma-i-cursa-festa-de-l-esport-son-fusteret-2026",
-   "nombre": "I Cursa Festa de l'Esport Son Fusteret 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Palma",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.5696,
-    2.6501
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en Elitechip"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento de la FAIB"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/i-cursa-festa-de-l-esport-son-fusteret-2026"
-    },
-    {
-     "id": "faib",
-     "url": "https://www.faib.es/competicions/28669/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-aznalcollar-ix-trail-sierra-de-aznalcollar",
-   "nombre": "IX Trail Sierra de Aznalcóllar",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Aznalcóllar",
-   "provincia": "Sevilla",
-   "comunidad": "andalucia",
-   "coords": [
-    37.5193,
-    -6.2717
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-09-30T20:00",
-   "inscripcion_hasta": "2026-11-13T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.croniussport.es/inscripcion/ix-trail-sierra-de-aznalcollar/",
-   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31207_cartel.jpg&type=public&v=1790326955",
-   "precios": [
-    {
-     "nombre": "General Absoluta 15km",
-     "euros": 15.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "cronius",
-     "url": "https://inscripciones.croniussport.es/inscripcion/ix-trail-sierra-de-aznalcollar/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-sant-lluis-v-cursa-contra-la-violencia-de-genere-10-km-2026",
-   "nombre": "V Cursa Contra la Violència de Gènere + 10 km 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Sant Lluís",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.8491,
-    4.258
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en Elitechip"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Municipio no indicado en la FAIB (isla: Menorca)"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento de la FAIB"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/v-cursa-contra-la-violencia-de-genere-10-km-2026"
-    },
-    {
-     "id": "faib",
-     "url": "https://www.faib.es/competicions/29117/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-alicante-xii-carrera-contra-el-cancer-de-pancreas-alicante-2026",
-   "nombre": "XII Carrera Contra el Cáncer de Páncreas Alicante 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Alicante",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.3556736647841,
-    -0.494105817674262
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-07-27T09:00",
-   "inscripcion_hasta": "2026-11-19T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xii-carrera-contra-el-cancer-de-pancreas-alicante-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1458/custom/root/2007c38f-5454-4d2c-b221-759e49f5cd57_custom2.jpg",
-   "precios": [],
-   "previos": [
-    "Carrera solidaria: lo recaudado va a becas de investigación del cáncer de páncreas"
-   ],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/xii-carrera-contra-el-cancer-de-pancreas-alicante-2026"
-    },
-    {
-     "id": "cancerpancreas",
-     "url": "https://carreracancerpancreas.es/carrera-alicante/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-porreres-xiv-mitja-marato-de-porreres-2026",
-   "nombre": "XIV Mitja Marató de Porreres 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Porreres",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.5169,
-    3.0228
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    21.097
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en Elitechip"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento de la FAIB"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/xiv-mitja-marato-de-porreres-2026"
-    },
-    {
-     "id": "faib",
-     "url": "https://www.faib.es/competicions/28670/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-algemesi-xxiv-mitja-marato-samaruc-2026-algemesi",
-   "nombre": "XXIV MITJA MARATÓ SAMARUC, 2026, Algemesí",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Algemesí",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    39.195279303976,
-    -0.422632322228984
-   ],
-   "modalidad": null,
-   "distancias_km": [
-    21.097
-   ],
-   "inscripcion_desde": "2026-10-05T14:00",
-   "inscripcion_hasta": "2026-11-20T13:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xxv-mitja-marato-samaruc-2026-algemesi",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/c1901fc6-4ce1-4715-a003-0d4d98e4af3b_custom1.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/xxv-mitja-marato-samaruc-2026-algemesi"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-el-puerto-de-santa-maria-xxx-carrera-popular-puerto-menesteo",
-   "nombre": "XXX Carrera Popular Puerto Menesteo",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "El Puerto de Santa María",
-   "provincia": "Cádiz",
-   "comunidad": "andalucia",
-   "coords": [
-    36.6004,
-    -6.2253
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.runnink.com/evento/xxx-carrera-popular-puerto-menesteo/121",
-   "cartel": "https://www.runnink.com/assets/cartel/cartel-menesteo-2026.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Precio y cierre de inscripción en la ficha de Runnink"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "runnink",
-     "url": "https://www.runnink.com/evento/xxx-carrera-popular-puerto-menesteo/121"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-cartaya-xxxix-cross-pinares-cartaya",
-   "nombre": "XXXIX Cross Pinares Cartaya",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Cartaya",
-   "provincia": "Huelva",
-   "comunidad": "andalucia",
-   "coords": [
-    37.2829,
-    -7.1546
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.faalive.com/inscriptions/308",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/cartayapinares262.webp",
-   "precios": [
-    {
-     "nombre": "General",
-     "euros": 0
-    }
-   ],
-   "previos": [
-    "Inscripción gratuita",
-    "Salida en la Pradera San Isidro"
-   ],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "faa",
-     "url": "https://web.faalive.com/inscriptions/308"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-villarrubia-xxxvi-carrera-popular-canada-real-soriana",
-   "nombre": "XXXVI Carrera Popular Cañada Real Soriana",
-   "fecha": "2026-11-22",
-   "hora": "10:00",
-   "poblacion": "Villarrubia",
-   "provincia": "Córdoba",
-   "comunidad": "andalucia",
-   "coords": [
-    37.848,
-    -4.9138
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.global-tempo.com/carreras.php?id=3317",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la normativa (PDF) de la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "globaltempo",
-     "url": "https://www.global-tempo.com/carreras.php?id=3317"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-atzeneta-d-albaida-atzeneta-d-albaida-contra-el-cancer-2026",
-   "nombre": "Atzeneta D´Albaida Contra el Cáncer 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:30",
-   "poblacion": "Atzeneta d'Albaida",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    38.8315936,
-    -0.4983924
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-04-07T11:00",
-   "inscripcion_hasta": "2026-11-19T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/atzeneta-dalbaida-contra-el-cancer-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10084/library/root/c09cd9cc-6ddb-40dd-aafc-2fb0a533e735.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/atzeneta-dalbaida-contra-el-cancer-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-vilafranca-del-penedes-mitja-espirall-vilafranca-2026",
-   "nombre": "Mitja Espirall Vilafranca 2026",
-   "fecha": "2026-11-22",
-   "hora": "10:30",
-   "poblacion": "Vilafranca del Penedès",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.3541272,
-    1.7027904
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    21.097
-   ],
-   "inscripcion_desde": "2026-09-10T10:00",
-   "inscripcion_hasta": "2026-11-21T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/mitja-espirall-vilafranca-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10765/library/root/7283454b-83d9-4b31-a114-25493a38351e.png",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    }
-   ],
-   "estado": "cerrada",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/mitja-espirall-vilafranca-2026"
-    },
-    {
-     "id": "fca",
-     "url": "https://fcatletisme.cat/event/47a-mitja-marato-espirall-vilafranca/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-archidona-xxxi-campo-a-traves-de-archidona",
-   "nombre": "XXXI Campo a Través de Archidona",
-   "fecha": "2026-11-22",
-   "hora": "10:30",
-   "poblacion": "Archidona",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    37.0946,
-    -4.3907
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.faalive.com/inscriptions/289",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/10/archidonacross26-scaled.webp",
-   "precios": [],
-   "previos": [
-    "Inscripción en el calendario de atletismofaa.es"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en el cartel"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "faa",
-     "url": "https://web.faalive.com/inscriptions/289"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-durango-ix-emakumeen-lasterketa-5km",
-   "nombre": "IX. Emakumeen Lasterketa 5km",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Durango",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.1736706,
-    -2.6299338
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0
-   ],
-   "inscripcion_desde": "2026-09-10T20:00",
-   "inscripcion_hasta": "2026-11-20T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/ix-emakumeen-lasterketa-5km",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/214294d8-a5c3-4b3a-b9da-2833545a4217.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/ix-emakumeen-lasterketa-5km"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-bobadilla-del-campo-x-carrera-popular-bobadilla-del-campo",
-   "nombre": "X Carrera Popular Bobadilla del Campo",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Bobadilla del Campo",
-   "provincia": "Valladolid",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.204819,
-    -5.022797
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-21T09:00",
-   "inscripcion_hasta": "2026-11-20T15:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/x-carrera-popular-bobadilla-del-campo",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/16064/library/root/35cb2ad6-4227-4d39-bb77-92a76c2d6757.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/x-carrera-popular-bobadilla-del-campo"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-peligros-x-carrera-de-fondo-peligros-suena",
-   "nombre": "X Carrera de Fondo - Peligros Suena",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Peligros",
-   "provincia": "Granada",
-   "comunidad": "andalucia",
-   "coords": [
-    37.2307,
-    -3.628
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.global-tempo.com/carreras.php?id=3299",
-   "cartel": "https://www.global-tempo.com/portadas_carreras/3299peligros 22 octubre.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la normativa (PDF) de la ficha"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "globaltempo",
-     "url": "https://www.global-tempo.com/carreras.php?id=3299"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-alqueria-de-la-comtessa-xii-cursa-mascota-running",
-   "nombre": "XII Cursa-Mascota Running",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Alqueria de la Comtessa",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    38.9354,
-    -0.1533
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-05T23:59",
-   "inscripcion_hasta": "2026-11-22T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://crono4sports.com/evento/xii-cursa-mascota-running",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "crono4sports",
-     "url": "https://crono4sports.com/evento/xii-cursa-mascota-running"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-madrid-xxiii-cross-popular-salvar-el-pinar-de-la-elipa",
-   "nombre": "XXIII Cross Popular Salvar el Pinar de la Elipa",
-   "fecha": "2026-11-22",
-   "hora": "11:00",
-   "poblacion": "Madrid",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.4201404637593,
-    -3.65582427619628
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-15T00:00",
-   "inscripcion_hasta": "2026-11-21T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/xxiii-cross-popular-salvar-el-pinar-de-la-elipa",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1264/library/root/6bf2d0c2-279f-4f24-b609-757ac1f08d0b.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rtsmadrid",
-     "url": "https://web.rockthesport.com/es/event/xxiii-cross-popular-salvar-el-pinar-de-la-elipa"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-velez-malaga-xliii-carrera-urbana-de-velez-malaga",
-   "nombre": "XLIII Carrera Urbana de Vélez-Málaga",
-   "fecha": "2026-11-22",
-   "hora": "11:15",
-   "poblacion": "Vélez-Málaga",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7818,
-    -4.0988
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.atletismovelez.es",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/09/velezesperanza26-1200x2097.webp",
-   "precios": [
-    {
-     "nombre": "5K",
-     "euros": 8
-    },
-    {
-     "nombre": "10K",
-     "euros": 10
-    },
-    {
-     "nombre": "Hasta Sub16",
-     "euros": 6
-    }
-   ],
-   "previos": [
-    "Camiseta solo para inscritos hasta el 10/11",
-    "Categorías inferiores desde las 10:30",
-    "Salida: Paseo de Andalucía"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "dudoso",
-     "texto": "El cartel pone «10 de noviembre de 2025» para la camiseta: probablemente es 2026"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en el cartel"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "dudoso",
-   "fuentes": [
-    {
-     "id": "faa",
-     "url": "https://web.faalive.com/inscriptions/273"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-girona-27e-cros-ciutat-de-girona",
-   "nombre": "27è Cros Ciutat de Girona",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Girona",
-   "provincia": "Girona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.9793,
-    2.8199
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.selvaesports.cat/activitats.php?nom_activitat=Circuit-Gironi-Cros-2026&id_act=1368&nom_jornada=27e-Cros-Ciutat-Girona&id_jornada=659",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fca",
-     "url": "https://fcatletisme.cat/event/27e-cros-ciutat-de-girona/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-san-gines-3-carrera-y-marcha-solidaria-adamur",
-   "nombre": "3º Carrera y Marcha Solidaria ADAMUR",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "San Ginés",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.9535,
-    -1.1763
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.babelsport.com/evento/adamur-2026/",
-   "cartel": "https://www.dorsal21.com/carteles/WhatsApp%20Image%202026-11-10%20at%2017.39.59.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de BabelSport/Dorsal21"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "dorsal21",
-     "url": "https://www.babelsport.com/evento/adamur-2026/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-40a-pujada-i-baixada-a-guanta",
-   "nombre": "40a Pujada i Baixada a Guanta",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": null,
-   "provincia": null,
-   "comunidad": "cataluna",
-   "coords": null,
-   "modalidad": "trail",
-   "distancias_km": [
-    6.0,
-    12.3
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Población no indicada en Championchip (solo el nombre de la carrera)"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "xipgroc",
-     "url": "https://www.lasansi.com/ca/pujada-guanta"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-santa-coloma-de-gramenet-53e-cros-antoni-amoros",
-   "nombre": "53è Cros Antoni Amorós",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Santa Coloma de Gramenet",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.4519,
-    2.2081
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fca",
-     "url": "https://fcatletisme.cat/event/53e-cros-antoni-amoros/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-benalmadena-5km-y-10km-xi-carrera-holiday-world",
-   "nombre": "5Km y 10Km XI Carrera Holiday World",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Benalmádena",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.5945,
-    -4.5723
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": "2026-05-05T00:00",
-   "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": "cerrada",
-   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/5K_y_10K_IX_Carrera_Holiday_World.aspx",
-   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14031/cartel_thumbnail_X200.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "dorsalchip",
-     "url": "https://www.dorsalchip.es/carrera/2026/11/22/5K_y_10K_IX_Carrera_Holiday_World.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-alboraia-7k-rotary-port-saplaya",
-   "nombre": "7k Rotary Port Saplaya",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Alboraia",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    39.501,
-    -0.35
-   ],
-   "modalidad": null,
-   "distancias_km": [
-    7.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.cronorunner.com/evento/7k-rotary-port-saplaya",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en la ficha de Cronorunner"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "cronorunner",
-     "url": "https://inscripciones.cronorunner.com/evento/7k-rotary-port-saplaya"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-sodupe-carrera-martxa-izarlokak-25n",
-   "nombre": "Carrera Martxa Izarlokak 25N",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Sodupe",
-   "provincia": "Bizkaia",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.2017,
-    -3.0507
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395",
-   "cartel": "https://www.buscametas.com/datos/ticket/1395_cartel_20261022103811.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "buscametas",
-     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1395"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-alcaraz-carrera-popular-y-trail-alcaraz",
-   "nombre": "Carrera Popular y Trail Alcaraz",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Alcaraz",
-   "provincia": "Albacete",
-   "comunidad": "castilla-la-mancha",
-   "coords": null,
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.chiplevante.com/es/prueba/carrera-popular-y-trail-alcaraz-173-2026",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en la ficha de Championchip Levante"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "chiplevante",
-     "url": "https://www.chiplevante.com/es/prueba/carrera-popular-y-trail-alcaraz-173-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-madrid-carrera-de-las-ciudades-contra-el-cancer-de-pancreas-madrid",
-   "nombre": "Carrera de las Ciudades contra el Cáncer de Páncreas - Madrid",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Madrid",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.4237,
-    -3.6899
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://carreracancerpancreas.es/carrera-madrid/",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Carrera solidaria: lo recaudado va a becas de investigación del cáncer de páncreas"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, distancias y cierre de inscripción en la página de la ciudad"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "cancerpancreas",
-     "url": "https://carreracancerpancreas.es/carrera-madrid/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-santiago-de-compostela-carrera-de-las-ciudades-contra-el-cancer-de-pancreas-san",
-   "nombre": "Carrera de las Ciudades contra el Cáncer de Páncreas - Santiago de Compostela",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Santiago de Compostela",
-   "provincia": "A Coruña",
-   "comunidad": "galicia",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://carreracancerpancreas.es/carrera-de-santiago-de-compostela/",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Carrera solidaria: lo recaudado va a becas de investigación del cáncer de páncreas"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, distancias y cierre de inscripción en la página de la ciudad"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "cancerpancreas",
-     "url": "https://carreracancerpancreas.es/carrera-de-santiago-de-compostela/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-elche-carrera-y-marcha-contra-el-cancer-de-mama",
-   "nombre": "Carrera y Marcha Contra el Cáncer de Mama",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Elche",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.2653,
-    -0.6988
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.chiplevante.com/es/prueba/carrera-y-marcha-contra-el-cancer-de-mama-1051-2026",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en la ficha de Championchip Levante"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "chiplevante",
-     "url": "https://www.chiplevante.com/es/prueba/carrera-y-marcha-contra-el-cancer-de-mama-1051-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-albatera-cross-de-montana-subida-al-cabezo-negro-albatera",
-   "nombre": "Cross de Montaña Subida al Cabezo Negro Albatera",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Albatera",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.1786,
-    -0.8696
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.chiplevante.com/es/prueba/cross-de-montana-subida-al-cabezo-negro-albatera-1101-2026",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en la ficha de Championchip Levante"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "chiplevante",
-     "url": "https://www.chiplevante.com/es/prueba/cross-de-montana-subida-al-cabezo-negro-albatera-1101-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-parets-del-valles-cursa-de-parets-del-valles",
-   "nombre": "Cursa de Parets del Vallès",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Parets del Vallès",
-   "provincia": "Barcelona",
-   "comunidad": "cataluna",
-   "coords": [
-    41.5729,
-    2.2338
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.caparets.com/la-cursa",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la web de la carrera"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Inscripción y cierre en la web de la carrera"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "xipgroc",
-     "url": "https://caparets.com/"
-    },
-    {
-     "id": "fca",
-     "url": "https://fcatletisme.cat/event/20a-cursa-de-parets-5-i-10-km-circuits-no-homologats/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-santiago-de-compostela-i-carreira-das-cidades-contra-o-cancro-de-pancreas",
-   "nombre": "I Carreira das Cidades contra o Cancro de Páncreas",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Santiago de Compostela",
-   "provincia": "A Coruña",
-   "comunidad": "galicia",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fga",
-     "url": "https://atletismo.gal/competicions/i-carreira-das-cidades-contra-o-cancro-de-pancreas/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-villanueva-del-ariscal-i-carrera-popular-cruz-de-velasco",
-   "nombre": "I Carrera Popular Cruz de Velasco",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Villanueva del Ariscal",
-   "provincia": "Sevilla",
-   "comunidad": "andalucia",
-   "coords": [
-    37.3966,
-    -6.1445
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "no_abierta",
-   "url_inscripcion": "https://web.faalive.com/inscriptions/309",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/Cartel-I-Carrera-Cruz-de-Velasco.webp",
-   "precios": [],
-   "previos": [
-    "Inscripciones «próximamente» según el cartel",
-    "Adultos y categorías inferiores"
-   ],
-   "avisos_calidad": [],
-   "estado": "no_abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "faa",
-     "url": "https://web.faalive.com/inscriptions/309"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-cordoba-iii-carrera-el-cerebro-no-es-gris",
-   "nombre": "III Carrera El Cerebro no es Gris",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Córdoba",
-   "provincia": "Córdoba",
-   "comunidad": "andalucia",
-   "coords": [
-    37.8846,
-    -4.776
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-06-10T00:00",
-   "inscripcion_hasta": "2026-11-18T23:55",
-   "estado_fuente": "cerrada",
-   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/III_Carrera_El_Cerebro_no_es_Gris.aspx",
-   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14027/cartel_thumbnail_X200.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "dorsalchip",
-     "url": "https://www.dorsalchip.es/carrera/2026/11/22/III_Carrera_El_Cerebro_no_es_Gris.aspx"
-    },
-    {
-     "id": "olarivers",
-     "url": "https://olarivers.com/eventos/iii-carrera-el-cerebro-no-es-gris/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-benidoleig-iii-cursa-solidaria-benidoleig-a-favor-de-la-investigacio-del-cancer",
-   "nombre": "IIi Cursa solidària Benidoleig a favor de la investigació del càncer",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Benidoleig",
-   "provincia": "Alicante",
-   "comunidad": "valenciana",
-   "coords": [
-    38.7918,
-    -0.0319
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    7.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "cerrada",
-   "url_inscripcion": "https://www.somesport.com/solidariabenidoleig/caminar-26.php",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en el reglamento de Som Esport"
-    }
-   ],
-   "estado": "cerrada",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "somesport",
-     "url": "https://www.somesport.com/solidariabenidoleig/caminar-26.php"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-benalmadena-media-maraton-xi-carrera-holiday-world",
-   "nombre": "Media Maratón XI Carrera Holiday World",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Benalmádena",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.5945,
-    -4.5723
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    21.097
-   ],
-   "inscripcion_desde": "2026-05-05T00:00",
-   "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": "cerrada",
-   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/Media_Maraton_IX_Carrera_Holiday_World.aspx",
-   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14030/cartel_thumbnail_X200.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "dorsalchip",
-     "url": "https://www.dorsalchip.es/carrera/2026/11/22/Media_Maraton_IX_Carrera_Holiday_World.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-on-deu-va-perdre-l-espardenya",
-   "nombre": "On Deu Va Perdre L'espardenya",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Lleida",
-   "comunidad": "cataluna",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://www.iter5.cat/inscripcions/formCursa.php?id=2296",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Web oficial: https://xtsportevents.com/reglament-ca-marxa-jocart-bovera/"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Población no indicada en Iter5: se supone provincia de Lleida"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el formulario de Iter5"
-    }
-   ],
-   "estado": "abierta",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "iter5",
-     "url": "https://www.iter5.cat/inscripcions/formCursa.php?id=2296"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-on-deu-va-perdre-l-espardenya-trail",
-   "nombre": "On Deu Va Perdre L'espardenya - Trail",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": null,
-   "provincia": "Lleida",
-   "comunidad": "cataluna",
-   "coords": null,
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
-   "url_inscripcion": "https://iter5.cat/inscripcions/formCursa.php?id=2303",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Web oficial: https://xtsportevents.com/reglament-ca-marxa-jocart-bovera/"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Población no indicada en Iter5: se supone provincia de Lleida"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el formulario de Iter5"
-    }
-   ],
-   "estado": "abierta",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "iter5",
-     "url": "https://iter5.cat/inscripcions/formCursa.php?id=2303"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-la-union-roller-masters-cxm-2026",
-   "nombre": "Roller Masters CxM 2026",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "La Unión",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.6096,
-    -0.8736
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.lineadesalida.net/carreras/roller-masters-cxm-2026",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "lineadesalida",
-     "url": "https://www.lineadesalida.net/carreras/roller-masters-cxm-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-palencia-trail-tres-cerros-palentinos",
-   "nombre": "Trail Tres Cerros Palentinos",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Palencia",
-   "provincia": "Palencia",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.9952,
-    -4.5443
-   ],
-   "modalidad": "trail",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento (la FETACYL no lo da)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fetacyl",
-     "url": "https://www.fetacyl.org/trail-tres-cerros-palentinos-5/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-molina-de-segura-v-carrera-solidaria-auxiliar-conservera",
-   "nombre": "V Carrera Solidaria Auxiliar Conservera",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Molina de Segura",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    38.0572,
-    -1.2095
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.lineadesalida.net/carreras/v-carrera-solidaria-auxiliar-conservera",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "lineadesalida",
-     "url": "https://www.lineadesalida.net/carreras/v-carrera-solidaria-auxiliar-conservera"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-ferrol-vii-carreira-e-caminada-contra-a-violencia-machista",
-   "nombre": "VII Carreira e Camiñada contra a Violencia Machista",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Ferrol",
-   "provincia": "A Coruña",
-   "comunidad": "galicia",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fga",
-     "url": "https://atletismo.gal/competicions/vii-carreira-e-caminada-contra-a-violencia-machista/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-san-roque-vii-cross-pinar-del-rey",
-   "nombre": "VII Cross Pinar del Rey",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "San Roque",
-   "provincia": "Cádiz",
-   "comunidad": "andalucia",
-   "coords": [
-    36.2101,
-    -5.3868
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://gesconchip.es/prueba/informacion/vii-cross-pinar-del-rey",
-   "cartel": "https://gesconchip.es/app/files/campusvirtual/pruebas/00000000000000000489/cartel/CARTEL OFICIAL 2026.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la ficha de Gesconchip"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "gesconchip",
-     "url": "https://gesconchip.es/prueba/informacion/vii-cross-pinar-del-rey"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-el-algar-viii-carrera-y-marcha-urbana-mueve-la-vida",
-   "nombre": "VIII Carrera y Marcha Urbana Mueve La Vida",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "El Algar",
-   "provincia": "Murcia",
-   "comunidad": "murcia",
-   "coords": [
-    37.6549,
-    -0.8635
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.lineadesalida.net/carreras/viii-carrera-y-marcha-urbana-mueve-la-vida",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción en la ficha de Línea de Salida"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "lineadesalida",
-     "url": "https://www.lineadesalida.net/carreras/viii-carrera-y-marcha-urbana-mueve-la-vida"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-malaga-we-run-uma",
-   "nombre": "We Run UMA",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Málaga",
-   "provincia": "Málaga",
-   "comunidad": "andalucia",
-   "coords": [
-    36.7648,
-    -4.4422
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-26T00:00",
-   "inscripcion_hasta": "2026-11-20T11:00",
-   "estado_fuente": "cerrada",
-   "url_inscripcion": "https://www.dorsalchip.es/carrera/2026/11/22/WE_RUN_UMA.aspx",
-   "cartel": "https://www.dorsalchip.es/cmsfiles/2026/11/14125/cartel_thumbnail_X200.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "dorsalchip",
-     "url": "https://www.dorsalchip.es/carrera/2026/11/22/WE_RUN_UMA.aspx"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-garray-x-cerco-a-numancia",
-   "nombre": "X Cerco a Numancia",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Garray",
-   "provincia": "Soria",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.8151,
-    -2.4461
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento de la prueba"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "soriatletismo",
-     "url": "https://soriatletismo.com/competiciones/ver/572/x-cerco-a-numancia"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-moncada-xi-10k-y-5k-dinosauris-moncadak",
-   "nombre": "XI 10K y 5K Dinosauris Moncadak",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Moncada",
-   "provincia": "Valencia",
-   "comunidad": "valenciana",
-   "coords": [
-    39.545,
-    -0.3941
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripciones.cronorunner.com/evento/xi-10k-y-5k-dinosauris-moncada",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en la ficha de Cronorunner"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "cronorunner",
-     "url": "https://inscripciones.cronorunner.com/evento/xi-10k-y-5k-dinosauris-moncada"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-dalias-xi-alpina-sierra-de-gador-dalias",
-   "nombre": "XI Alpina Sierra de Gador Dalias",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Dalías",
-   "provincia": "Almería",
-   "comunidad": "andalucia",
-   "coords": [
-    36.8215,
-    -2.8702
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "http://cxmdalias.tucarrera.es/",
-   "cartel": "https://www.tucarrera.es/assets/carteles/20260706_180704_xi-alpina-sierra-de-gador-dalias_19bf5b_1200.webp",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y plazo de inscripción no indicados en el directorio (ver la web oficial)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "tucarrera",
-     "url": "http://cxmdalias.tucarrera.es/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-ribadavia-xi-carreira-pedestre-de-ribadavia",
-   "nombre": "XI Carreira Pedestre de Ribadavia",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Ribadavia",
-   "provincia": "Ourense",
-   "comunidad": "galicia",
-   "coords": [
-    42.2876,
-    -8.1427
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fga",
-     "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-de-ribadavia/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-petra-xi-cursa-sant-juniper-sant-juniper-kids-2026",
-   "nombre": "XI Cursa Sant Juniper & Sant Juniper Kids 2026",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Petra",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.6135,
-    3.1128
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en Elitechip"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/xi-cursa-sant-juniper-sant-juniper-kids-2026"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-villanueva-de-gallego-xii-carrera-contra-la-violencia-de-genero-de-villanueva-d",
-   "nombre": "XII Carrera Contra la Violencia de Género de Villanueva de Gállego 5K y 10K",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Villanueva de Gállego",
-   "provincia": "Zaragoza",
-   "comunidad": "aragon",
-   "coords": [
-    41.786,
-    -0.8565
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0,
-    10.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en el reglamento de la FAA"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "atletismoaragon",
-     "url": "https://www.federacionaragonesadeatletismo.com/xii-carrera-contra-la-violencia-de-genero-de-villanueva-de-gallego-5k-y-10k-no-homologada-auton/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-a-coruna-xiv-carreira-popular-novo-mesoiro",
-   "nombre": "XIV Carreira Popular Novo Mesoiro",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "A Coruña",
-   "provincia": "A Coruña",
-   "comunidad": "galicia",
-   "coords": [
-    43.3455,
-    -8.4139
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fga",
-     "url": "https://atletismo.gal/competicions/xiv-carreira-popular-novo-mesoiro/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-banyoles-xix-marxa-popular-de-banyoles-6-600",
-   "nombre": "XIX Marxa Popular de Banyoles – 6.600",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Banyoles",
-   "provincia": "Girona",
-   "comunidad": "cataluna",
-   "coords": [
-    42.118,
-    2.7654
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    6.6
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://cursesplaestany.cat/marxa-popular-ciutat-banyoles/",
-   "cartel": null,
-   "precios": [],
-   "previos": [
-    "Puntúa en: Circuit de Curses Populars del Pla de l'Estany"
-   ],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la página de la carrera (AvaiBook Sports)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "plaestany",
-     "url": "https://cursesplaestany.cat/marxa-popular-ciutat-banyoles/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-chiclana-de-la-frontera-xliv-carrera-urbana-ciudad-de-chiclana",
-   "nombre": "XLIV Carrera Urbana Ciudad de Chiclana",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Chiclana de la Frontera",
-   "provincia": "Cádiz",
-   "comunidad": "andalucia",
-   "coords": [
-    36.4191,
-    -6.1461
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": "https://gesconchip.es/prueba/informacion/xliv-carrera-urbana-ciudad-de-chiclana",
-   "cartel": "https://gesconchip.es/app/files/campusvirtual/pruebas/00000000000000000526/cartel/CARTEL URBANA 26.png",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la ficha de Gesconchip"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "gesconchip",
-     "url": "https://gesconchip.es/prueba/informacion/xliv-carrera-urbana-ciudad-de-chiclana"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-puente-genil-xvi-circuito-cross-epa-miguel-rios",
-   "nombre": "XVI Circuito Cross Epa Miguel Ríos",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Puente Genil",
-   "provincia": "Córdoba",
-   "comunidad": "andalucia",
-   "coords": [
-    37.3874,
-    -4.7716
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": "2026-11-19T14:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://olarivers.com/eventos/xvi-circuito-cross-epa-miguel-rios/",
-   "cartel": "https://olarivers.com/wp-content/uploads/2026/11/cartel_puente_genil_26-213x300.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "olarivers",
-     "url": "https://olarivers.com/eventos/xvi-circuito-cross-epa-miguel-rios/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-o-barco-de-valdeorras-xviii-carreira-popular-dos-santinos",
-   "nombre": "XVIII Carreira Popular dos Santiños",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "O Barco de Valdeorras",
-   "provincia": "Ourense",
-   "comunidad": "galicia",
-   "coords": [
-    42.4301,
-    -6.9801
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora, precio y cierre de inscripción en Carreiras Galegas (enlazada en la ficha de la FGA)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fga",
-     "url": "https://atletismo.gal/competicions/xviii-carreira-popular-dos-santinos/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-atapuerca-xxii-cross-internacional-de-atapuerca",
-   "nombre": "XXII Cross Internacional de Atapuerca",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Atapuerca",
-   "provincia": "Burgos",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    42.3768,
-    -3.5074
-   ],
-   "modalidad": "cross",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento (la FETACYL no lo da)"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "fetacyl",
-     "url": "https://www.fetacyl.org/xxii-cross-internacional-de-atapuerca/"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-getafe-xxvi-carrera-san-jose-de-calasanz",
-   "nombre": "XXVI Carrera San José de Calasanz",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Getafe",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.3071,
-    -3.7332
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-16T00:00",
-   "inscripcion_hasta": "2026-11-19T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8972",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "cerrada",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "youevent",
-     "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8972"
-    }
-   ]
-  },
-  {
-   "id": "2026-11-22-jarandilla-de-la-vera-xxviii-media-maraton-y-vii-10k-jarandilla-de-la-vera",
-   "nombre": "XXVIII Media Maratón y VII 10K Jarandilla de la Vera",
-   "fecha": "2026-11-22",
-   "hora": null,
-   "poblacion": "Jarandilla de la Vera",
-   "provincia": "Cáceres",
-   "comunidad": "extremadura",
-   "coords": [
-    40.1283,
-    -5.6587
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0,
-    21.097
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Hora y cierre de inscripción en el reglamento de la FAEX"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "faex",
-     "url": "https://www.atletismo-ext.com/es/actividad-1134/xxviii-media-maraton-y-vii-10k-jarandilla-de-la-vera"
-    }
-   ]
-  },
   {
    "id": "2026-11-26-girona-cims-de-girona-rocacorba",
    "nombre": "Cims de Girona Rocacorba",
@@ -2974,7 +133,7 @@
     "Inscripciones agotadas"
    ],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3009,7 +168,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3066,7 +225,7 @@
     15.0
    ],
    "inscripcion_desde": "2026-10-01T10:00",
-   "inscripcion_hasta": "2026-11-25T23:59",
+   "inscripcion_hasta": "2026-11-27T13:00",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
    "cartel": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/15b459f6-1b53-4b4f-aa0f-fd83d26bc334_custom1.jpeg",
@@ -3386,37 +545,6 @@
    ]
   },
   {
-   "id": "2026-11-28-montealegre-de-campos-paisajes-por-la-provincia-montealegre-de-campos",
-   "nombre": "Paisajes por la Provincia - Montealegre de Campos",
-   "fecha": "2026-11-28",
-   "hora": "11:00",
-   "poblacion": "Montealegre de Campos",
-   "provincia": "Valladolid",
-   "comunidad": "castilla-y-leon",
-   "coords": [
-    41.9015654,
-    -4.8981036
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-10-04T00:00",
-   "inscripcion_hasta": "2026-11-26T15:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/paisajes-por-la-provincia-montealegre-de-campos/",
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "runvasport",
-     "url": "https://www.avaibooksports.com/inscripcion/paisajes-por-la-provincia-montealegre-de-campos/"
-    }
-   ]
-  },
-  {
    "id": "2026-11-28-lucillos-vii-carrera-contra-la-violencia-de-genero-de-lucillos",
    "nombre": "VII Carrera Contra la Violencia de Género de Lucillos",
    "fecha": "2026-11-28",
@@ -3561,6 +689,37 @@
    ]
   },
   {
+   "id": "2026-11-28-montealegre-de-campos-paisajes-por-la-provincia-montealegre-de-campos",
+   "nombre": "Paisajes por la Provincia - Montealegre de Campos",
+   "fecha": "2026-11-28",
+   "hora": "16:30",
+   "poblacion": "Montealegre de Campos",
+   "provincia": "Valladolid",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.9015654,
+    -4.8981036
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-10-04T00:00",
+   "inscripcion_hasta": "2026-11-26T15:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.avaibooksports.com/inscripcion/paisajes-por-la-provincia-montealegre-de-campos/",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runvasport",
+     "url": "https://www.avaibooksports.com/inscripcion/paisajes-por-la-provincia-montealegre-de-campos/"
+    }
+   ]
+  },
+  {
    "id": "2026-11-28-lorca-40-subida-al-castillo-de-lorca-2026",
    "nombre": "40 Subida al Castillo de Lorca 2026",
    "fecha": "2026-11-28",
@@ -3643,7 +802,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -3669,7 +828,7 @@
     5.0
    ],
    "inscripcion_desde": "2026-04-27T12:00",
-   "inscripcion_hasta": "2026-11-22T23:59",
+   "inscripcion_hasta": "2026-11-23T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://www.avaibooksports.com/inscripcion/iv-5km-nocturna-el-rosario-tenerife-2026/",
    "cartel": null,
@@ -3713,6 +872,37 @@
     {
      "id": "alcanzatumeta",
      "url": "https://alcanzatumeta.es/xxiv-carrera-popular-ayuntamiento-fuente-alamo-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-valladolid-rocodromo-alvaro-paredes-izquierdo-semana-23-11-al-28-11",
+   "nombre": "Rocódromo Álvaro Paredes Izquierdo-Semana 23/11 al 28/11",
+   "fecha": "2026-11-28",
+   "hora": "19:30",
+   "poblacion": "Valladolid",
+   "provincia": "Valladolid",
+   "comunidad": "castilla-y-leon",
+   "coords": [
+    41.6335113,
+    -4.7340372
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-20T21:30",
+   "inscripcion_hasta": "2026-11-28T13:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-2311-al-2811",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-2311-al-2811"
     }
    ]
   },
@@ -3966,6 +1156,39 @@
    ]
   },
   {
+   "id": "2026-11-28-dos-hermanas-circuito-provincial-de-campo-a-traves-diputacion-de-sevilla-3-jorn",
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 3ª jornada (Dos Hermanas)",
+   "fecha": "2026-11-28",
+   "hora": null,
+   "poblacion": "Dos Hermanas",
+   "provincia": "Sevilla",
+   "comunidad": "andalucia",
+   "coords": [
+    37.2837,
+    -5.9227
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-22)"
+   ],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "anunciadas",
+     "url": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/"
+    }
+   ]
+  },
+  {
    "id": "2026-11-28-tarancon-ix-circuito-popular-de-cross-cuenca-camping-caravaning-cuenca",
    "nombre": "IX Circuito Popular de Cross Cuenca - Camping Caravaning Cuenca.",
    "fecha": "2026-11-28",
@@ -4036,6 +1259,42 @@
     {
      "id": "atletismoaragon",
      "url": "https://www.federacionaragonesadeatletismo.com/lvi-cross-de-la-montana-auton/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-beniel-la-carrera-pujante",
+   "nombre": "La Carrera Pujante",
+   "fecha": "2026-11-28",
+   "hora": null,
+   "poblacion": "Beniel",
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": [
+    38.0468,
+    -1.0014
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "no_abierta",
+   "url_inscripcion": null,
+   "cartel": "https://www.dorsal21.com/carteles/1000259658.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora y plazo de inscripción en la ficha de BabelSport/Dorsal21"
+    }
+   ],
+   "estado": "no_abierta",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "dorsal21",
+     "url": "https://www.dorsal21.com/"
     }
    ]
   },
@@ -4358,7 +1617,7 @@
    "inscripcion_hasta": "2026-11-24T23:59",
    "estado_fuente": "abierta",
    "url_inscripcion": "https://www.cronofinisher.com/evento/xiii-barbano-corre-8-km/",
-   "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/758/cartel-barbano.jpg",
+   "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/758/whatsapp-image-2026-11-23-at-11-49-47-jpeg.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -4928,8 +2187,49 @@
    ]
   },
   {
-   "id": "2026-11-29-vidreres-35e-cros-de-vidreres-campionat-gironi",
-   "nombre": "35è Cros de Vidreres (Campionat Gironí)",
+   "id": "2026-11-29-pacs-del-penedes-15a-pujada-a-sant-pau",
+   "nombre": "15a Pujada a Sant Pau",
+   "fecha": "2026-11-29",
+   "hora": null,
+   "poblacion": "Pacs del Penedès",
+   "provincia": "Barcelona",
+   "comunidad": "cataluna",
+   "coords": [
+    41.3615,
+    1.6699
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/15a-pujada-a-sant-pau",
+   "cartel": null,
+   "precios": [
+    {
+     "nombre": "Cursa Pujada a Sant Pau 10km",
+     "euros": 0.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/15a-pujada-a-sant-pau"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-29-vidreres-35e-cros-de-vidreres-campionat-gironi-per-equips",
+   "nombre": "35è Cros de Vidreres (Campionat Gironí per equips)",
    "fecha": "2026-11-29",
    "hora": null,
    "poblacion": "Vidreres",
@@ -5981,7 +3281,7 @@
    "precios": [
     {
      "nombre": "Absoluta",
-     "euros": 18.6
+     "euros": 20.6
     },
     {
      "nombre": "Carreras Infantiles",
@@ -6548,13 +3848,13 @@
    ],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "abierta",
+   "estado_fuente": "cerrada",
    "url_inscripcion": "https://alcanzatumeta.es/xx-media-maraton-xiii-11k-villa-de-torre-pacheco-y-iii-5k-saludables",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/2c61e63e4ea4ac7daffe37e4caa06ed3.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "abierta",
+   "estado": "cerrada",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -6871,6 +4171,47 @@
     {
      "id": "fca",
      "url": "https://fcatletisme.cat/event/47a-cursa-de-sant-andreu-5-km/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-06-cadalso-gymkana-deportiva-infantil-cadalso-2026",
+   "nombre": "Gymkana Deportiva Infantil – CADALSO 2026",
+   "fecha": "2026-12-06",
+   "hora": null,
+   "poblacion": "Cadalso",
+   "provincia": "Cáceres",
+   "comunidad": "extremadura",
+   "coords": [
+    40.2375,
+    -6.5398
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://sportmaniacs.com/es/races/gymkana-deportiva-infantil-ndash-cadalso-2026",
+   "cartel": null,
+   "precios": [
+    {
+     "nombre": "Gymkana Deportiva Infantil – CADALSO 2026",
+     "euros": 0.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en la ficha"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "sportmaniacs",
+     "url": "https://sportmaniacs.com/es/races/gymkana-deportiva-infantil-ndash-cadalso-2026"
     }
    ]
   },
@@ -8653,6 +5994,39 @@
     {
      "id": "todofondo",
      "url": "https://www.todofondo.net/prueba/ver/cv-benahadux---719/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-12-las-cabezas-de-san-juan-circuito-provincial-de-campo-a-traves-diputacion-de-sev",
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 4ª jornada (Las Cabezas de San Juan)",
+   "fecha": "2026-12-12",
+   "hora": null,
+   "poblacion": "Las Cabezas de San Juan",
+   "provincia": "Sevilla",
+   "comunidad": "andalucia",
+   "coords": [
+    36.9807,
+    -5.9407
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-22)"
+   ],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "anunciadas",
+     "url": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/"
     }
    ]
   },
@@ -10608,26 +7982,35 @@
    "nombre": "VII Carrera Popular de Albanchez",
    "fecha": "2026-12-13",
    "hora": "12:00",
-   "poblacion": "Albanchez",
+   "poblacion": "Albánchez",
    "provincia": "Almería",
    "comunidad": "andalucia",
    "coords": [
     37.2869,
     -2.1814
    ],
-   "modalidad": "asfalto",
+   "modalidad": "montaña",
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
    "estado_fuente": null,
-   "url_inscripcion": "https://montureventos.com/eventos/__trashed-3/",
-   "cartel": "https://montureventos.com/wp-content/uploads/2026/09/PHOTO-2026-10-05-13-04-57-731x1024.jpg",
+   "url_inscripcion": "https://www.todofondo.net/prueba/ver/vii-carrera-popular-de-albanchez---400/",
+   "cartel": "https://www.todofondo.net/media/competiciones/Cartel_2026_-_copia_TI2PA5K.jpeg",
    "precios": [],
    "previos": [],
-   "avisos_calidad": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora, precio y cierre en la ficha de Todofondo"
+    }
+   ],
    "estado": "desconocido",
-   "calidad": "fuente",
+   "calidad": "pendiente_cartel",
    "fuentes": [
+    {
+     "id": "todofondo",
+     "url": "https://www.todofondo.net/prueba/ver/vii-carrera-popular-de-albanchez---400/"
+    },
     {
      "id": "montur",
      "url": "https://montureventos.com/eventos/__trashed-3/"
@@ -12162,7 +9545,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://www.todofondo.net/prueba/ver/xiv-carrera-popular-cortijo-del-fraile---696/",
-   "cartel": "https://www.todofondo.net/media/competiciones/CARTEL_-_copia_5cnNQRg.jpeg",
+   "cartel": "https://www.todofondo.net/media/competiciones/CARTEL_NUEVO_-_copia_qMUeECO.jpeg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [
@@ -13175,7 +10558,7 @@
    "inscripcion_hasta": "2026-12-15T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://inscripciones.croniussport.es/inscripcion/ii-carrera-solidaria-san-silvestre-aljaraque/",
-   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31615_cartel.jpg&type=public&v=1795177668",
+   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31615_cartel.jpg&type=public&v=1795431601",
    "precios": [
     {
      "nombre": "Carrera Absoluta",
@@ -13841,6 +11224,42 @@
    ]
   },
   {
+   "id": "2026-12-19-baeza-carrera-navidena-ciudad-de-baeza-2026",
+   "nombre": "Carrera Navideña Ciudad de Baeza 2026",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": "Baeza",
+   "provincia": "Jaén",
+   "comunidad": "andalucia",
+   "coords": [
+    37.9945,
+    -3.4708
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.cronofinisher.com/evento/carrera-navidena-ciudad-de-baeza-2026/",
+   "cartel": "https://www.cronofinisher.com/images/biblioteca_eventos/776/cartel-jpeg.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en el calendario"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "cronofinisher",
+     "url": "https://www.cronofinisher.com/evento/carrera-navidena-ciudad-de-baeza-2026/"
+    }
+   ]
+  },
+  {
    "id": "2026-12-19-soto-del-real-carrera-popular-de-navidad-de-soto-del-real-2026",
    "nombre": "Carrera Popular de Navidad de Soto del Real 2026",
    "fecha": "2026-12-19",
@@ -13870,6 +11289,42 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8923"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-19-garrucha-carrera-solidaria-navidena-de-garrucha-2026",
+   "nombre": "Carrera Solidaria Navideña de Garrucha 2026",
+   "fecha": "2026-12-19",
+   "hora": null,
+   "poblacion": "Garrucha",
+   "provincia": "Almería",
+   "comunidad": "andalucia",
+   "coords": [
+    37.1854,
+    -1.8203
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.todofondo.net/prueba/ver/carrera-solidaria-navidena-de-garrucha-2026---722/",
+   "cartel": "https://www.todofondo.net/media/competiciones/CARTEL_CARREA_DE_NAVIDAD_2026_-_copia.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Hora, precio y cierre en la ficha de Todofondo"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "todofondo",
+     "url": "https://www.todofondo.net/prueba/ver/carrera-solidaria-navidena-de-garrucha-2026---722/"
     }
    ]
   },
@@ -13965,7 +11420,7 @@
    "inscripcion_hasta": null,
    "estado_fuente": null,
    "url_inscripcion": "https://web.faalive.com/inscriptions/324",
-   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/puertorealcross26-scaled.webp",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/puertorealcross262-scaled.webp",
    "precios": [],
    "previos": [],
    "avisos_calidad": [
@@ -14791,7 +12246,7 @@
    "inscripcion_hasta": "2026-12-18T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/cursa-del-gall-riudecanyes-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/7c43664c-7feb-451e-a811-8b697692f3bb.jpg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/8cc9af98-e0a8-430e-ace9-bad5472ac03a.png",
    "precios": [],
    "previos": [],
    "avisos_calidad": [
@@ -17205,7 +14660,7 @@
    "id": "2026-12-24-polanco-viii-carrera-popular-de-nochebuena-ayuntamiento-de-polanco-memorial-ber",
    "nombre": "VIII Carrera Popular de Nochebuena Ayuntamiento de Polanco – Memorial Bernardo Ayllón ‘Nardo’",
    "fecha": "2026-12-24",
-   "hora": "10:15",
+   "hora": "10:00",
    "poblacion": "Polanco",
    "provincia": "Cantabria",
    "comunidad": "cantabria",
@@ -17249,14 +14704,14 @@
    "modalidad": "asfalto",
    "distancias_km": [],
    "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": "cerrada",
+   "inscripcion_hasta": "2026-12-20T23:59",
+   "estado_fuente": "abierta",
    "url_inscripcion": "https://www.321go.es/Carrera/Detail/604-39carrerapopulardenochebuenaporfundacingijnrural",
    "cartel": "https://www.321go.es/Uploads/Image/Carrera/a3f38ae766484c20bfec0c3d78de39ed.jpeg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "cerrada",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -18258,13 +15713,13 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": null,
+   "estado_fuente": "abierta",
    "url_inscripcion": "https://alcanzatumeta.es/san-silvestre-popular-ceheginera",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/ea1d6dffbf8df732357447a22bf4e7573784b36707083e45.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -19421,13 +16876,13 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": null,
+   "estado_fuente": "abierta",
    "url_inscripcion": "https://alcanzatumeta.es/san-silvestre-de-pulpi-2026",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/a0943040843fca14bb0e92a1a7daaa64e33cb9bc5548e5bf.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -20311,6 +17766,37 @@
    ]
   },
   {
+   "id": "2026-12-27-riosa-san-silvestre-riosa-2026",
+   "nombre": "San Silvestre Riosa 2026",
+   "fecha": "2026-12-27",
+   "hora": "17:00",
+   "poblacion": "Riosa",
+   "provincia": "Asturias",
+   "comunidad": "asturias",
+   "coords": [
+    43.2300321,
+    -5.881472899999999
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-12-01T00:00",
+   "inscripcion_hasta": "2026-12-25T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/san-silvestre-riosa-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/san-silvestre-riosa-2026"
+    }
+   ]
+  },
+  {
    "id": "2026-12-27-iv-san-silvestre-2026-segura-de-la-sierra",
    "nombre": "IV San Silvestre 2026 Segura de la Sierra",
    "fecha": "2026-12-27",
@@ -20615,6 +18101,39 @@
     {
      "id": "faa",
      "url": "https://web.faalive.com/inscriptions/319"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27-el-cuervo-de-sevilla-circuito-provincial-de-campo-a-traves-diputacion-de-sevill",
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 2ª jornada (El Cuervo de Sevilla)",
+   "fecha": "2026-12-27",
+   "hora": null,
+   "poblacion": "El Cuervo de Sevilla",
+   "provincia": "Sevilla",
+   "comunidad": "andalucia",
+   "coords": [
+    36.8535,
+    -6.0388
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-22)"
+   ],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "anunciadas",
+     "url": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/"
     }
    ]
   },
@@ -22174,42 +19693,6 @@
    ]
   },
   {
-   "id": "2026-12-31-manzanares-el-real-san-silvestre-2026",
-   "nombre": "San Silvestre 2026",
-   "fecha": "2026-12-31",
-   "hora": "08:00",
-   "poblacion": "Manzanares el Real",
-   "provincia": "Madrid",
-   "comunidad": "madrid",
-   "coords": [
-    40.7268,
-    -3.8649
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": "https://manzanareselreal.es/wp-content/uploads/2026/10/CARTEL-SAN-SILVESTRE-2026-scaled.jpg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Agenda municipal: el cierre de inscripción y las distancias están en el cartel o la normativa"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "aytos_madrid",
-     "url": "https://manzanareselreal.es/agenda-municipal/san-silvestre-2026/"
-    }
-   ]
-  },
-  {
    "id": "2026-12-31-crevillent-xl-san-silvestre-internacional-crevillentina-2026",
    "nombre": "XL San Silvestre Internacional Crevillentina 2026",
    "fecha": "2026-12-31",
@@ -22404,7 +19887,7 @@
    "precios": [
     {
      "nombre": "San Silvestre 5km",
-     "euros": 5.0
+     "euros": 10.0
     },
     {
      "nombre": "Carreras Infantiles (5 a 15 Años)",
@@ -22473,13 +19956,13 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": null,
+   "estado_fuente": "abierta",
    "url_inscripcion": "https://alcanzatumeta.es/san-silvestre-ciudad-de-lorca-2026-1291516",
    "cartel": "https://alcanzatumeta.es/uploads/Cartel/8b0ca682b2331fa416da6432c9c9cce51ca6ea548113af62.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "desconocido",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -22510,12 +19993,43 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8930"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-siguenza-xvi-san-silvestre-seguntina",
+   "nombre": "XVI San Silvestre Seguntina",
+   "fecha": "2026-12-31",
+   "hora": "10:30",
+   "poblacion": "Sigüenza",
+   "provincia": "Guadalajara",
+   "comunidad": "castilla-la-mancha",
+   "coords": [
+    41.0702828,
+    -2.6425908
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-23T12:00",
+   "inscripcion_hasta": "2026-12-29T16:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/san-silvestre-seguntina-2026",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/4b30648c-944e-4041-a464-382d49956c8a.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/san-silvestre-seguntina-2026"
     }
    ]
   },
@@ -22872,6 +20386,81 @@
     {
      "id": "321go",
      "url": "https://www.321go.es/Carrera/Detail/588-xxxixtotalenergiessansilvestreavilesina"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-membrilla-53-san-silvestre-de-membrilla-2026",
+   "nombre": "53º San Silvestre de Membrilla 2026",
+   "fecha": "2026-12-31",
+   "hora": "16:00",
+   "poblacion": "Membrilla",
+   "provincia": "Ciudad Real",
+   "comunidad": "castilla-la-mancha",
+   "coords": [
+    38.9725,
+    -3.3465
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": "2026-12-29T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://timingsys.com/event/810",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "timingsys",
+     "url": "https://timingsys.com/event/810"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-sant-llorenc-des-cardassar-sant-silvestre-llorencina-2026",
+   "nombre": "Sant Silvestre LLorencina 2026",
+   "fecha": "2026-12-31",
+   "hora": "16:00",
+   "poblacion": "Sant Llorenç des Cardassar",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.6107,
+    3.2855
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    },
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción en el reglamento de la FAIB"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/sant-silvestre-llorencina-2026"
+    },
+    {
+     "id": "faib",
+     "url": "https://www.faib.es/competicions/29231/"
     }
    ]
   },
@@ -23254,7 +20843,7 @@
    "inscripcion_hasta": "2026-12-29T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/-san-silvestre-de-lerin-2026",
-   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1339/custom/root/de0c692e-f636-417d-aa6f-30fc340163f7_custom1.png",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -23264,6 +20853,34 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/-san-silvestre-de-lerin-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31-san-silvestre-de-murcia-2026",
+   "nombre": "San Silvestre de Murcia 2026",
+   "fecha": "2026-12-31",
+   "hora": "17:00",
+   "poblacion": null,
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": null,
+   "modalidad": "asfalto",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://alcanzatumeta.es/san-silvestre-de-murcia-2026",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/62c56c1cfeae150b134b64180b452a9f01d5ee584a8a3159.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "alcanzatumeta",
+     "url": "https://alcanzatumeta.es/san-silvestre-de-murcia-2026"
     }
    ]
   },
@@ -24696,18 +22313,18 @@
    "distancias_km": [],
    "inscripcion_desde": null,
    "inscripcion_hasta": null,
-   "estado_fuente": "no_abierta",
-   "url_inscripcion": null,
-   "cartel": "https://www.buscametas.com/modulos/calendario/img/generic-bg-card.png",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1398",
+   "cartel": "https://www.buscametas.com/datos/ticket/1398_cartel_20261123171542.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
      "id": "buscametas",
-     "url": "https://www.buscametas.com/inscripciones/"
+     "url": "https://www.buscametas.com/modulos/ticket/evento.php?codigo=1398"
     }
    ]
   },
@@ -24891,42 +22508,6 @@
     {
      "id": "iter5",
      "url": "https://iter5.cat/inscripcions/formCursa.php?id=2309"
-    }
-   ]
-  },
-  {
-   "id": "2026-12-31-sant-llorenc-des-cardassar-sant-silvestre-llorencina",
-   "nombre": "Sant Silvestre LLorencina",
-   "fecha": "2026-12-31",
-   "hora": null,
-   "poblacion": "Sant Llorenç des Cardassar",
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": [
-    39.6107,
-    3.2855
-   ],
-   "modalidad": null,
-   "distancias_km": [],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción no indicado en Elitechip"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "elitechip",
-     "url": "https://www.elitechip.net/es/competiciones/sant-silvestre-llorencina-"
     }
    ]
   },
@@ -25774,6 +23355,39 @@
    ]
   },
   {
+   "id": "2027-01-03-denia-xiii-carrera-roscon-de-reyes-denia",
+   "nombre": "XIII Carrera Roscón de Reyes Denia",
+   "fecha": "2027-01-03",
+   "hora": "11:00",
+   "poblacion": "Dénia",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.8408,
+    0.1061
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    5.0
+   ],
+   "inscripcion_desde": "2026-11-22T10:00",
+   "inscripcion_hasta": "2027-01-02T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://www.runatica.com/event/xiii-carrera-roscon-reyes-denia-2027",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "runatica",
+     "url": "https://www.runatica.com/event/xiii-carrera-roscon-reyes-denia-2027"
+    }
+   ]
+  },
+  {
    "id": "2027-01-03-paradinas-de-san-juan-xiv-carrera-del-roscon",
    "nombre": "XIV Carrera del Roscón",
    "fecha": "2027-01-03",
@@ -26082,6 +23696,39 @@
     {
      "id": "faex",
      "url": "https://www.atletismo-ext.com/es/actividad-1210/ix-san-silvestre-talaverana"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-03-villanueva-de-los-castillejos",
+   "nombre": "Villanueva de los Castillejos",
+   "fecha": "2027-01-03",
+   "hora": null,
+   "poblacion": null,
+   "provincia": null,
+   "comunidad": null,
+   "coords": null,
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.faalive.com/inscriptions/326",
+   "cartel": "https://atletismofaa.es/wp-content/uploads/2026/11/castillejos27.webp",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Población, precio, cierre y previos solo en el cartel"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "faa",
+     "url": "https://web.faalive.com/inscriptions/326"
     }
    ]
   },
@@ -26565,8 +24212,47 @@
    ]
   },
   {
-   "id": "2027-01-10-ct-ib-campo-a-traves-2027-absoluto-sub23-sub20-sub14-final-escolar-campo-a-trav",
-   "nombre": "CT IB Campo a Través 2027 Absoluto-Sub23-Sub20-Sub14 / Final Escolar Campo a Través 2027 Sub18-Sub16",
+   "id": "2027-01-10-valencia-10k-valencia-ibercaja-by-kiprun-2027-5k-valencia-ibercaja",
+   "nombre": "10K Valencia Ibercaja by Kiprun 2027 + 5K Valencia Ibercaja",
+   "fecha": "2027-01-10",
+   "hora": "09:30",
+   "poblacion": "Valencia",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    39.4697,
+    -0.3763
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    5.0,
+    10.0
+   ],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": "https://carreras.fdmvalencia.es/wp-content/uploads/10k_valencia_ibercaja_2026_04.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Plazo de inscripción en la web de la carrera (FDM València)"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "fdmvalencia",
+     "url": "https://www.fdmvalencia.es/es/eventos/10k-valencia-ibercaja-by-kiprun-2027-5k-valencia-ibercaja-2027/"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-10-campeonato-ib-absoluto-individual-clubs-campo-a-traves-2027-final-federada-depo",
+   "nombre": "Campeonato IB absoluto individual-clubs campo a través 2027 – Final federada deporte en edad escolar 2027",
    "fecha": "2027-01-10",
    "hora": "09:30",
    "poblacion": null,
@@ -26683,7 +24369,7 @@
    "inscripcion_hasta": "2027-01-07T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://inscripciones.croniussport.es/inscripcion/i-medio-maraton-vega-del-guadalquivir/",
-   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31608_cartel.jpg&type=public&v=1795091676",
+   "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31608_cartel.jpg&type=public&v=1795435560",
    "precios": [
     {
      "nombre": "General Absoluta",
@@ -26969,6 +24655,42 @@
     {
      "id": "atletismoaragon",
      "url": "https://www.federacionaragonesadeatletismo.com/cross-san-sebastian-la-almunia-auton-3/"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-10-mancor-de-la-vall-cxm-mancor-xtrem-mancor-xtrem-xs-2027",
+   "nombre": "CxM Mancor Xtrem - Mancor Xtrem XS 2027",
+   "fecha": "2027-01-10",
+   "hora": null,
+   "poblacion": "Mancor de la Vall",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.7501,
+    2.871
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/cxm-mancor-xtrem-mancor-xtrem-xs-2027"
     }
    ]
   },
@@ -27771,6 +25493,39 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/arrigorriagako-ausartak-mendi-lasterketa-2027"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-16-alcala-de-guadaira-circuito-provincial-de-campo-a-traves-diputacion-de-sevilla-",
+   "nombre": "Circuito Provincial de Campo a Través Diputación de Sevilla · 5ª jornada (Alcalá de Guadaíra)",
+   "fecha": "2027-01-16",
+   "hora": null,
+   "poblacion": "Alcalá de Guadaíra",
+   "provincia": "Sevilla",
+   "comunidad": "andalucia",
+   "coords": [
+    37.3398,
+    -5.8408
+   ],
+   "modalidad": "cross",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [
+    "Fecha anunciada en la web oficial (comprobada el 2026-11-22)"
+   ],
+   "avisos_calidad": [],
+   "estado": "desconocido",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "anunciadas",
+     "url": "https://www.dipusevilla.es/temas/deportes/circuitos-deportivos-provinciales/campo-a-traves/"
     }
    ]
   },
@@ -28994,8 +26749,16 @@
    "cartel": "https://inscripciones.croniussport.es/fileserver.php?name=/images/eventos/rol/9153_evento_31479_cartel.jpg&type=public&v=1793548077",
    "precios": [
     {
+     "nombre": "Ruta Larga",
+     "euros": 25.0
+    },
+    {
      "nombre": "Ruta Corta",
      "euros": 25.0
+    },
+    {
+     "nombre": "Senderismo",
+     "euros": 10.0
     },
     {
      "nombre": "Cadebas Menores",
@@ -29090,10 +26853,45 @@
    ]
   },
   {
+   "id": "2027-01-24-guia-de-isora-carrera-de-montana-guia-de-isora-2027",
+   "nombre": "Carrera de Montaña Guía de Isora 2027",
+   "fecha": "2027-01-24",
+   "hora": "08:30",
+   "poblacion": "Guía de Isora",
+   "provincia": "Santa Cruz de Tenerife",
+   "comunidad": "canarias",
+   "coords": [
+    28.2095328,
+    -16.7781708
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-06-05T12:00",
+   "inscripcion_hasta": "2027-01-17T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/dcfe3203-ccbf-48d9-b101-a8ab67a94302.jpeg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027"
+    },
+    {
+     "id": "canaryrun",
+     "url": "https://www.canaryrun.com/carrera/carrera-de-montana-guia-de-isora-2027/"
+    }
+   ]
+  },
+  {
    "id": "2027-01-24-xiv-trail-dels-fars-2027",
    "nombre": "XIV Trail dels Fars 2027",
    "fecha": "2027-01-24",
-   "hora": "08:00",
+   "hora": "08:30",
    "poblacion": null,
    "provincia": "Baleares",
    "comunidad": "baleares",
@@ -29126,42 +26924,7 @@
     },
     {
      "id": "faib",
-     "url": "https://www.faib.es/competicions/29177/"
-    }
-   ]
-  },
-  {
-   "id": "2027-01-24-guia-de-isora-carrera-de-montana-guia-de-isora-2027",
-   "nombre": "Carrera de Montaña Guía de Isora 2027",
-   "fecha": "2027-01-24",
-   "hora": "08:30",
-   "poblacion": "Guía de Isora",
-   "provincia": "Santa Cruz de Tenerife",
-   "comunidad": "canarias",
-   "coords": [
-    28.2095328,
-    -16.7781708
-   ],
-   "modalidad": "montaña",
-   "distancias_km": [],
-   "inscripcion_desde": "2026-06-05T12:00",
-   "inscripcion_hasta": "2027-01-17T23:59",
-   "estado_fuente": null,
-   "url_inscripcion": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/dcfe3203-ccbf-48d9-b101-a8ab67a94302.jpeg",
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "rockthesport",
-     "url": "https://web.rockthesport.com/es/event/carrera-de-montana-guia-de-isora-2027"
-    },
-    {
-     "id": "canaryrun",
-     "url": "https://www.canaryrun.com/carrera/carrera-de-montana-guia-de-isora-2027/"
+     "url": "https://www.faib.es/competicions/29127/"
     }
    ]
   },
@@ -29420,7 +27183,7 @@
    ],
    "modalidad": "montaña",
    "distancias_km": [],
-   "inscripcion_desde": "2026-11-23T10:00",
+   "inscripcion_desde": "2026-11-30T10:00",
    "inscripcion_hasta": "2027-01-20T23:59",
    "estado_fuente": "no_abierta",
    "url_inscripcion": "https://inscripciones.mychip.es/es/evento/1a-prova-de-lliga-cxm-femecv-club-ultratrail-muntanyes-de-lalcoia-i-el-comtat",
@@ -30098,21 +27861,16 @@
     5.0,
     10.0
    ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
+   "inscripcion_desde": "2026-12-01T00:00",
+   "inscripcion_hasta": "2027-01-29T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8635",
    "cartel": null,
    "precios": [],
    "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en la ficha de YouEvent"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
    "fuentes": [
     {
      "id": "youevent",
@@ -30507,6 +28265,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/xi-cross-solidario-dos-bosco-salesianos-el-campello-2027"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-31-bullas-xii-trail-del-romero-2027",
+   "nombre": "XII Trail del Romero 2027",
+   "fecha": "2027-01-31",
+   "hora": "09:00",
+   "poblacion": "Bullas",
+   "provincia": "Murcia",
+   "comunidad": "murcia",
+   "coords": [
+    38.0497,
+    -1.6706
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://alcanzatumeta.es/xii-trail-del-romero-2027",
+   "cartel": "https://alcanzatumeta.es/uploads/Cartel/b85378879be4c0bafd0455e69739f86a0026a5d52eed15b8.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "alcanzatumeta",
+     "url": "https://alcanzatumeta.es/xii-trail-del-romero-2027"
     }
    ]
   },
@@ -31357,6 +29146,37 @@
     {
      "id": "rockthesport",
      "url": "https://web.rockthesport.com/es/event/shimano-super-cup-massi-la-nucia-2027-c1-"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-06-ariza-ariza-trail",
+   "nombre": "Ariza Trail",
+   "fecha": "2027-02-06",
+   "hora": "09:30",
+   "poblacion": "Ariza",
+   "provincia": "Zaragoza",
+   "comunidad": "aragon",
+   "coords": [
+    41.310398643335354,
+    -2.055389425915488
+   ],
+   "modalidad": "trail",
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-23T18:00",
+   "inscripcion_hasta": "2027-02-02T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://web.rockthesport.com/es/event/ariza-trail",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/16150/library/root/b4529937-856f-4191-9b86-7612b5deaa73.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "no_abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "rockthesport",
+     "url": "https://web.rockthesport.com/es/event/ariza-trail"
     }
    ]
   },
@@ -33550,7 +31370,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -34037,14 +31857,14 @@
    "modalidad": "trail",
    "distancias_km": [],
    "inscripcion_desde": "2026-11-23T00:00",
-   "inscripcion_hasta": "2027-02-18T23:59",
+   "inscripcion_hasta": "2027-01-31T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://www.avaibooksports.com/listado-tecnocrono.php",
    "cartel": null,
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -34116,6 +31936,40 @@
    ]
   },
   {
+   "id": "2027-02-21-polop-ix-medieval-xtrem-race-polop",
+   "nombre": "IX Medieval Xtrem Race Polop",
+   "fecha": "2027-02-21",
+   "hora": "10:00",
+   "poblacion": "Polop",
+   "provincia": "Alicante",
+   "comunidad": "valenciana",
+   "coords": [
+    38.6227,
+    -0.1275
+   ],
+   "modalidad": "obstáculos",
+   "distancias_km": [
+    5.0,
+    9.0
+   ],
+   "inscripcion_desde": "2026-10-13T23:01",
+   "inscripcion_hasta": "2027-02-17T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://crono4sports.com/evento/ix-medieval-xtrem-race-polop",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "crono4sports",
+     "url": "https://crono4sports.com/evento/ix-medieval-xtrem-race-polop"
+    }
+   ]
+  },
+  {
    "id": "2027-02-21-ordizia-ordiziako-mendi-lasterketa-2027",
    "nombre": "Ordiziako Mendi Lasterketa 2027",
    "fecha": "2027-02-21",
@@ -34170,7 +32024,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -34533,6 +32387,42 @@
     {
      "id": "sportmaniacs",
      "url": "https://sportmaniacs.com/es/races/ctt-trail-2026"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-21-lloseta-cxm-lloseta-xtrem-2027",
+   "nombre": "CxM Lloseta Xtrem 2027",
+   "fecha": "2027-02-21",
+   "hora": null,
+   "poblacion": "Lloseta",
+   "provincia": "Baleares",
+   "comunidad": "baleares",
+   "coords": [
+    39.7183,
+    2.8666
+   ],
+   "modalidad": "montaña",
+   "distancias_km": [],
+   "inscripcion_desde": null,
+   "inscripcion_hasta": null,
+   "estado_fuente": null,
+   "url_inscripcion": null,
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [
+    {
+     "tipo": "pendiente_cartel",
+     "texto": "Cierre de inscripción no indicado en Elitechip"
+    }
+   ],
+   "estado": "desconocido",
+   "calidad": "pendiente_cartel",
+   "fuentes": [
+    {
+     "id": "elitechip",
+     "url": "https://www.elitechip.net/es/competiciones/cxm-lloseta-xtrem-2027"
     }
    ]
   },
@@ -35043,6 +32933,40 @@
    ]
   },
   {
+   "id": "2027-02-28-miramar-i-mitja-marato-i-5k-de-les-platges-del-sud",
+   "nombre": "I Mitja Marató i 5K de les platges del sud",
+   "fecha": "2027-02-28",
+   "hora": "09:00",
+   "poblacion": "Miramar",
+   "provincia": "Valencia",
+   "comunidad": "valenciana",
+   "coords": [
+    38.9505,
+    -0.1415
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    5.0,
+    21.0
+   ],
+   "inscripcion_desde": "2026-07-15T17:00",
+   "inscripcion_hasta": "2027-02-15T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://crono4sports.com/evento/i-mitja-marato-i-5k-de-les-platges-del-sud",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "crono4sports",
+     "url": "https://crono4sports.com/evento/i-mitja-marato-i-5k-de-les-platges-del-sud"
+    }
+   ]
+  },
+  {
    "id": "2027-02-28-alcoi-sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027",
    "nombre": "SPRINT TRAIL& ECO MARCHA COLEGIO SANTA ANA SR Sport & Training, 2027",
    "fecha": "2027-02-28",
@@ -35148,49 +33072,6 @@
     {
      "id": "faib",
      "url": "https://www.faib.es/competicions/29186/"
-    }
-   ]
-  },
-  {
-   "id": "2027-02-28-irun-iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k",
-   "nombre": "IV. Lomeña Fachadas + Rhenus Logistics Media Maratón del Bidasoa + 10K",
-   "fecha": "2027-02-28",
-   "hora": "09:50",
-   "poblacion": "Irun",
-   "provincia": "Gipuzkoa",
-   "comunidad": "pais-vasco",
-   "coords": [
-    43.3383,
-    -1.7888
-   ],
-   "modalidad": "asfalto",
-   "distancias_km": [
-    10.0,
-    21.097
-   ],
-   "inscripcion_desde": "2026-04-30T11:00",
-   "inscripcion_hasta": "2027-02-26T13:00",
-   "estado_fuente": null,
-   "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k/",
-   "cartel": "https://inscripcion.kirolprobak.com/fileserver.php?name=/images/eventos/rol/9008_evento_29714_cartel.jpg&type=public&v=1777371224",
-   "precios": [
-    {
-     "nombre": "Cuota General Media Maraton",
-     "euros": 39.0
-    },
-    {
-     "nombre": "Cuota General 10K",
-     "euros": 23.0
-    }
-   ],
-   "previos": [],
-   "avisos_calidad": [],
-   "estado": "abierta",
-   "calidad": "fuente",
-   "fuentes": [
-    {
-     "id": "kirolprobak",
-     "url": "https://inscripcion.kirolprobak.com/inscripcion/iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k/"
     }
    ]
   },
@@ -35485,6 +33366,49 @@
     {
      "id": "iter5",
      "url": "https://iter5.cat/inscripcions/formCursa.php?id=1960"
+    }
+   ]
+  },
+  {
+   "id": "2027-02-28-irun-iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k",
+   "nombre": "IV. Lomeña Fachadas + Rhenus Logistics Media Maratón del Bidasoa + 10K",
+   "fecha": "2027-02-28",
+   "hora": null,
+   "poblacion": "Irun",
+   "provincia": "Gipuzkoa",
+   "comunidad": "pais-vasco",
+   "coords": [
+    43.3383,
+    -1.7888
+   ],
+   "modalidad": "asfalto",
+   "distancias_km": [
+    10.0,
+    21.097
+   ],
+   "inscripcion_desde": "2026-04-30T11:00",
+   "inscripcion_hasta": "2027-02-26T13:00",
+   "estado_fuente": null,
+   "url_inscripcion": "https://inscripcion.kirolprobak.com/inscripcion/iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k/",
+   "cartel": "https://inscripcion.kirolprobak.com/fileserver.php?name=/images/eventos/rol/9008_evento_29714_cartel.jpg&type=public&v=1777371224",
+   "precios": [
+    {
+     "nombre": "Cuota General Media Maraton",
+     "euros": 39.0
+    },
+    {
+     "nombre": "Cuota General 10K",
+     "euros": 23.0
+    }
+   ],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "kirolprobak",
+     "url": "https://inscripcion.kirolprobak.com/inscripcion/iv-lomena-fachadas-rhenus-logistics-media-maraton-del-bidasoa-10k/"
     }
    ]
   },
@@ -36869,11 +34793,11 @@
    "inscripcion_hasta": "2027-03-09T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/xlii-zumaiako-herri-lasterketa",
-   "cartel": "https://rtsfiles.blob.core.windows.net/athlete/app/default/card/maraton.jpeg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/42a824fc-9d9d-4f1a-a341-200a7a476a53.jpg",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -37168,45 +35092,6 @@
    ]
   },
   {
-   "id": "2027-03-14-cursa-de-la-dona-ct-baleares-5k-ruta",
-   "nombre": "Cursa de la dona ct baleares 5k ruta",
-   "fecha": "2027-03-14",
-   "hora": "08:30",
-   "poblacion": null,
-   "provincia": "Baleares",
-   "comunidad": "baleares",
-   "coords": null,
-   "modalidad": "asfalto",
-   "distancias_km": [
-    5.0
-   ],
-   "inscripcion_desde": null,
-   "inscripcion_hasta": null,
-   "estado_fuente": null,
-   "url_inscripcion": null,
-   "cartel": null,
-   "precios": [],
-   "previos": [],
-   "avisos_calidad": [
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Municipio no indicado en la FAIB (isla: Mallorca)"
-    },
-    {
-     "tipo": "pendiente_cartel",
-     "texto": "Cierre de inscripción en el reglamento de la FAIB"
-    }
-   ],
-   "estado": "desconocido",
-   "calidad": "pendiente_cartel",
-   "fuentes": [
-    {
-     "id": "faib",
-     "url": "https://www.faib.es/competicions/28980/"
-    }
-   ]
-  },
-  {
    "id": "2027-03-14-barcelona-zurich-marato-barcelona-2027",
    "nombre": "Zurich Marató Barcelona 2027",
    "fecha": "2027-03-14",
@@ -37398,6 +35283,40 @@
     {
      "id": "alcanzatumeta",
      "url": "https://alcanzatumeta.es/media-maraton-molina-de-segura-2026"
+    }
+   ]
+  },
+  {
+   "id": "2027-03-14-sant-miquel-de-campmajor-monster-race-6-0",
+   "nombre": "Monster Race 6.0",
+   "fecha": "2027-03-14",
+   "hora": "09:30",
+   "poblacion": "Sant Miquel de Campmajor",
+   "provincia": "Girona",
+   "comunidad": "cataluna",
+   "coords": [
+    42.1359,
+    2.6791
+   ],
+   "modalidad": "obstáculos",
+   "distancias_km": [
+    7.0,
+    11.0
+   ],
+   "inscripcion_desde": "2026-11-22T21:00",
+   "inscripcion_hasta": "2027-03-07T23:59",
+   "estado_fuente": null,
+   "url_inscripcion": "https://crono4sports.com/evento/monster-race-60",
+   "cartel": null,
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "crono4sports",
+     "url": "https://crono4sports.com/evento/monster-race-60"
     }
    ]
   },
@@ -38480,7 +36399,7 @@
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
-   "estado": "no_abierta",
+   "estado": "abierta",
    "calidad": "fuente",
    "fuentes": [
     {
@@ -39663,7 +37582,7 @@
    "inscripcion_hasta": "2027-04-08T23:59",
    "estado_fuente": null,
    "url_inscripcion": "https://web.rockthesport.com/es/event/vi-alma-guerrera",
-   "cartel": "https://rtsfiles.blob.core.windows.net/manager/13948/library/root/cf549411-83d8-49d3-bfe4-18705cf38716.jpg",
+   "cartel": "https://rtsfiles.blob.core.windows.net/manager/13948/library/root/e65c098e-a1d8-49c8-b427-e98705e82025.png",
    "precios": [],
    "previos": [],
    "avisos_calidad": [],
@@ -46220,6 +44139,37 @@
     {
      "id": "youevent",
      "url": "https://www.youevent.es/sport/Tabla_FichaEventoDeportivo.asp?id_competicion=8954"
+    }
+   ]
+  },
+  {
+   "id": "2027-12-01-malaga-inscripcion-federados-c-d-tecnoaire",
+   "nombre": "Inscripción Federados C.D. Tecnoaire",
+   "fecha": "2027-12-01",
+   "hora": null,
+   "poblacion": "Málaga",
+   "provincia": "Málaga",
+   "comunidad": "andalucia",
+   "coords": [
+    36.7648,
+    -4.4422
+   ],
+   "modalidad": null,
+   "distancias_km": [],
+   "inscripcion_desde": "2026-11-23T00:00",
+   "inscripcion_hasta": "2026-12-31T23:55",
+   "estado_fuente": "abierta",
+   "url_inscripcion": "https://www.dorsalchip.es/carrera/2027/12/1/Inscripcion_Socios_CD_Tecnoaire.aspx",
+   "cartel": "https://www.dorsalchip.es/cmsfiles/2027/12/14212/cartel_thumbnail_X200.jpg",
+   "precios": [],
+   "previos": [],
+   "avisos_calidad": [],
+   "estado": "abierta",
+   "calidad": "fuente",
+   "fuentes": [
+    {
+     "id": "dorsalchip",
+     "url": "https://www.dorsalchip.es/carrera/2027/12/1/Inscripcion_Socios_CD_Tecnoaire.aspx"
     }
    ]
   },
