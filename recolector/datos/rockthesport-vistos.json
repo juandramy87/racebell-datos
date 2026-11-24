@@ -665,10 +665,20 @@
   "espana": false,
   "motivo": "no es a pie: Moralzarzal en Marcha Contra el Cáncer"
  },
+ "1795449569": {
+  "espana": true,
+  "provincia": "Valencia",
+  "fecha": "2026-12-22"
+ },
  "17narrillos": {
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: 17ª Carrera Popular Narrillos de San Leonardo (None)"
+ },
+ "19a-sant-silvestre-montblanquina-per-la-marato-3cat": {
+  "espana": true,
+  "provincia": "Tarragona",
+  "fecha": "2026-12-31"
  },
  "1a-caminada-contra-el-cancer-a-polinya": {
   "espana": true,
@@ -7343,6 +7353,11 @@
   "provincia": "Gipuzkoa",
   "fecha": "2025-12-31"
  },
+ "palestinaren-aldeko-san-silbestrea-2026": {
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-12-31"
+ },
  "palma-de-gandia-contra-el-cancer-2026": {
   "espana": true,
   "provincia": "Valencia",
@@ -8195,6 +8210,11 @@
   "provincia": "Guadalajara",
   "fecha": "2025-12-31"
  },
+ "san-silvestre-solidaria-plasencia-2026": {
+  "espana": true,
+  "provincia": "Cáceres",
+  "fecha": "2026-12-31"
+ },
  "san-silvestre-trail-agreda-2026": {
   "espana": true,
   "provincia": "Soria",
@@ -9000,6 +9020,11 @@
   "provincia": "Tarragona",
   "fecha": "2026-01-25"
  },
+ "trail-alforja-2027": {
+  "espana": true,
+  "provincia": "Tarragona",
+  "fecha": "2027-01-24"
+ },
  "trail-almendros-y-volcanes-2026": {
   "espana": false,
   "v3": true,
@@ -9506,6 +9531,11 @@
   "espana": true,
   "provincia": "Huesca",
   "fecha": "2026-06-26"
+ },
+ "ultra-trail-torla-ordesa-2027": {
+  "espana": true,
+  "provincia": "Huesca",
+  "fecha": "2027-07-02"
  },
  "ultra-vimar-2027": {
   "espana": false,

@@ -1394,6 +1394,11 @@
   "lat": 38.9285,
   "lon": -6.6906
  },
+ "guajares|granada": {
+  "provincia": "Granada",
+  "lat": 36.8493,
+  "lon": -3.5989
+ },
  "gualba|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.7321,
@@ -1499,6 +1504,11 @@
   "provincia": "Bizkaia",
   "lat": 43.1767,
   "lon": -2.6339
+ },
+ "jaca|huesca": {
+  "provincia": "Huesca",
+  "lat": 42.5693,
+  "lon": -0.5494
  },
  "jaen|jaen": {
   "provincia": "Jaén",
@@ -1732,6 +1742,11 @@
   "lat": 41.6086,
   "lon": 2.2395
  },
+ "llosa de ranes la|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.0214,
+  "lon": -0.5244
+ },
  "lloseta|baleares": {
   "provincia": "Baleares",
   "lat": 39.7183,
@@ -1956,6 +1971,11 @@
   "provincia": "Pontevedra",
   "lat": 42.2979,
   "lon": -8.7096
+ },
+ "mohedas de granadilla|caceres": {
+  "provincia": "Cáceres",
+  "lat": 40.2686,
+  "lon": -6.2013
  },
  "molina de segura|murcia": {
   "provincia": "Murcia",
@@ -2234,6 +2254,11 @@
   "lat": 38.093,
   "lon": -3.7807
  },
+ "pedreguer|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.7938,
+  "lon": 0.0343
+ },
  "pedrezuela|madrid": {
   "provincia": "Madrid",
   "lat": 40.7451,
@@ -2284,6 +2309,11 @@
   "provincia": "Málaga",
   "lat": 36.7668,
   "lon": -4.7077
+ },
+ "plasencia|caceres": {
+  "provincia": "Cáceres",
+  "lat": 40.0299,
+  "lon": -6.0902
  },
  "plaza de guajar fondon|granada": {
   "provincia": "Granada",
@@ -2749,6 +2779,11 @@
   "lat": 43.2017,
   "lon": -3.0507
  },
+ "son servera|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.6223,
+  "lon": 3.3606
+ },
  "sonseca|toledo": {
   "provincia": "Toledo",
   "lat": 39.6798,
@@ -2842,6 +2877,11 @@
   "provincia": "Las Palmas",
   "lat": 28.9623,
   "lon": -13.6638
+ },
+ "toledo|toledo": {
+  "provincia": "Toledo",
+  "lat": 39.8559,
+  "lon": -4.0243
  },
  "tomelloso|ciudad real": {
   "provincia": "Ciudad Real",
