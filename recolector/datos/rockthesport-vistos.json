@@ -39,6 +39,11 @@
   "provincia": "Navarra",
   "fecha": "2026-01-06"
  },
+ "-cross-de-reyes-puente-la-reinagaresko-errege-krosa-2027": {
+  "espana": true,
+  "provincia": "Navarra",
+  "fecha": "2027-01-06"
+ },
  "-cursarroca-2026": {
   "espana": true,
   "provincia": "Barcelona",
@@ -651,6 +656,11 @@
  "1791312637": {
   "espana": false,
   "motivo": "no es a pie: Cte25. Duatlón Cros Escolar Triatlón Valdebebas"
+ },
+ "1793190041": {
+  "espana": true,
+  "provincia": "Alicante",
+  "fecha": "2027-01-30"
  },
  "1793551324": {
   "espana": false,
@@ -2384,6 +2394,11 @@
   "provincia": "Barcelona",
   "fecha": "2026-03-08"
  },
+ "canivac-xtreme-2027": {
+  "espana": true,
+  "provincia": "Barcelona",
+  "fecha": "2027-01-24"
+ },
  "caparroso-fitness-fest": {
   "espana": true,
   "provincia": "Navarra",
@@ -2576,6 +2591,11 @@
   "espana": true,
   "provincia": "Madrid",
   "fecha": "2026-05-24"
+ },
+ "carrera-sariegu-anu-nuevu": {
+  "espana": true,
+  "provincia": "Asturias",
+  "fecha": "2027-01-03"
  },
  "carrera-solidaria-contra-la-ela-fundacion-eurocaja-rural-2026": {
   "espana": true,
@@ -3162,6 +3182,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: Crematorrons 2026 (None)"
  },
+ "crematorrons-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: Crematorrons 2027 (None)"
+ },
  "cronoescalada-del-valle-del-malpaso": {
   "espana": false,
   "v3": true,
@@ -3201,6 +3226,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-08-14"
+ },
+ "cross-san-silvestre-2026": {
+  "espana": true,
+  "provincia": "Navarra",
+  "fecha": "2026-12-31"
  },
  "cross-tres-playas-2026": {
   "espana": true,
@@ -3244,6 +3274,11 @@
  "cte26-duatlon-escolar-perlas-colmenar-viejo": {
   "andaluza": false,
   "fecha": "2026-04-25"
+ },
+ "cto-de-espana-individual-y-ssaa-ultra-ix-trail-orixes": {
+  "espana": true,
+  "provincia": "Pontevedra",
+  "fecha": "2027-03-06"
  },
  "ctok22-de-castilla-y-leon-de-carreras-por-montana-en-linea-individual-y-2-prueba-de-copa-en-line": {
   "espana": true,
@@ -3886,6 +3921,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: Escuelas Deportivas Federación Navarra Deportes Adaptados (oct26 -may27) (None)"
+ },
+ "eskolarteko-10-eskalada-topaketa-26": {
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-12-13"
  },
  "eskolarteko-9-eskalada-topaketa-25": {
   "espana": true,
@@ -4547,6 +4587,16 @@
   "espana": true,
   "provincia": "Málaga",
   "fecha": "2027-01-17"
+ },
+ "i-carrera-solidaria-para-el-arreglo-del-tejado-de-la-ermita-de-san-blas": {
+  "espana": true,
+  "provincia": "Toledo",
+  "fecha": "2027-01-30"
+ },
+ "i-carrera-solidaria-san-marcos-sostenible": {
+  "espana": true,
+  "provincia": "Santa Cruz de Tenerife",
+  "fecha": "2026-12-17"
  },
  "i-casti-trail-bailadera-el-baile-de-la-bailadera": {
   "espana": true,
@@ -5394,6 +5444,11 @@
   "provincia": "Navarra",
   "fecha": "2026-10-24"
  },
+ "iv-san-silvestre-montearaguena": {
+  "espana": true,
+  "provincia": "Toledo",
+  "fecha": "2026-12-27"
+ },
  "iv-san-silvestre-solidaria-san-leonardo-": {
   "espana": true,
   "provincia": "Soria",
@@ -5610,6 +5665,11 @@
   "espana": true,
   "provincia": "Alicante",
   "fecha": "2026-01-25"
+ },
+ "ix-trail-orixes-de-mondariz-2027": {
+  "espana": true,
+  "provincia": "Pontevedra",
+  "fecha": "2027-03-06"
  },
  "ix-trail-solidario-chimillas": {
   "espana": true,
@@ -5999,6 +6059,11 @@
   "espana": true,
   "provincia": "Gipuzkoa",
   "fecha": "2025-12-31"
+ },
+ "la-batalla-de-las-sardinas-2027": {
+  "espana": true,
+  "provincia": "Asturias",
+  "fecha": "2027-04-04"
  },
  "la-bescanonina-2026": {
   "espana": true,
@@ -6738,6 +6803,11 @@
   "espana": true,
   "provincia": "Las Palmas",
   "fecha": "2026-01-25"
+ },
+ "media-maraton-fundacion-puertos-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: Media Maratón Fundación Puertos 2027 (None)"
  },
  "media-maraton-pamplona-iruna-2026": {
   "espana": true,
@@ -8061,6 +8131,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: Ruta Día Internacional de las Montañas 2025 - Valporquero (None)"
+ },
+ "ruta-dia-internacional-de-las-montanas-2026-villamanin": {
+  "espana": true,
+  "provincia": "León",
+  "fecha": "2026-12-13"
  },
  "rutagcjaen": {
   "espana": false,
@@ -9619,6 +9694,11 @@
   "espana": false,
   "motivo": "no es a pie: Usansoloko Bikotekako III. Duatloia - Euskadiko Txapelketa"
  },
+ "utbcn-2027": {
+  "espana": true,
+  "provincia": "Barcelona",
+  "fecha": "2027-05-09"
+ },
  "utds-edp-desafio-somiedo-2026": {
   "espana": true,
   "provincia": "Asturias",
@@ -9987,6 +10067,11 @@
  "vi-carrera-y-marcha-conquista-del-castillo-mejorada": {
   "espana": false,
   "motivo": "coordenadas fuera del municipio del nombre"
+ },
+ "vi-circuito-brinksport": {
+  "espana": true,
+  "provincia": "Albacete",
+  "fecha": "2027-01-01"
  },
  "vi-cursa-km-contra-el-cancer-castellbell-i-el-vilar": {
   "espana": true,
@@ -10544,6 +10629,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: X San Silvestre de Hortaleza - 2025 (None)"
  },
+ "x-san-silvestre-herenciana": {
+  "espana": true,
+  "provincia": "Toledo",
+  "fecha": "2026-12-26"
+ },
  "x-san-silvestre-lasarte-oria-2026": {
   "espana": true,
   "provincia": "Gipuzkoa",
@@ -10976,6 +11066,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: XIII San Silvestre Estella-lizarra (None)"
  },
+ "xiii-santxibiri-lasterketa": {
+  "espana": true,
+  "provincia": "Bizkaia",
+  "fecha": "2026-12-27"
+ },
  "xiii-swim-100x100-villanueva-de-la-canada-26": {
   "espana": true,
   "provincia": "Madrid",
@@ -11187,6 +11282,11 @@
   "espana": true,
   "provincia": "Madrid",
   "fecha": "2026-07-26"
+ },
+ "xlix-san-silbestre-ordizia": {
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2026-12-31"
  },
  "xlsd": {
   "espana": true,
@@ -11637,6 +11737,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: XXII la Guzman el Bueno 2027 (None)"
+ },
+ "xxii-subida-al-picu-pienzu-2027": {
+  "espana": true,
+  "provincia": "Asturias",
+  "fecha": "2027-03-21"
  },
  "xxii-triatlo-de-betera": {
   "espana": true,

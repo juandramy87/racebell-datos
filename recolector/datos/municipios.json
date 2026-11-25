@@ -14,6 +14,11 @@
   "lat": 28.1394,
   "lon": -16.7395
  },
+ "adra|almeria": {
+  "provincia": "Almería",
+  "lat": 36.7488,
+  "lon": -3.0204
+ },
  "agaete|las palmas": {
   "provincia": "Las Palmas",
   "lat": 28.1008,
@@ -166,6 +171,11 @@
   "lat": 36.8797,
   "lon": -5.4048
  },
+ "alguaire|lleida": {
+  "provincia": "Lleida",
+  "lat": 41.7361,
+  "lon": 0.5859
+ },
  "alhaurin de la torre|malaga": {
   "provincia": "Málaga",
   "lat": 36.6628,
@@ -282,6 +292,11 @@
   "provincia": "Huelva",
   "lat": 37.8949,
   "lon": -6.5624
+ },
+ "aranda de duero|burgos": {
+  "provincia": "Burgos",
+  "lat": 41.6715,
+  "lon": -3.6851
  },
  "aranjuez|madrid": {
   "provincia": "Madrid",
@@ -919,6 +934,11 @@
   "lat": 40.6621,
   "lon": -3.7492
  },
+ "comares|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.8494,
+  "lon": -4.2481
+ },
  "competa|malaga": {
   "provincia": "Málaga",
   "lat": 36.8328,
@@ -1136,6 +1156,11 @@
   "lat": 38.2653,
   "lon": -0.6988
  },
+ "elda|alicante": {
+  "provincia": "Alicante",
+  "lat": 38.479,
+  "lon": -0.7957
+ },
  "epila|zaragoza": {
   "provincia": "Zaragoza",
   "lat": 41.5985,
@@ -1261,6 +1286,11 @@
   "provincia": "Zaragoza",
   "lat": 41.8743,
   "lon": -1.4495
+ },
+ "frigiliana|malaga": {
+  "provincia": "Málaga",
+  "lat": 36.7909,
+  "lon": -3.8954
  },
  "fuengirola|malaga": {
   "provincia": "Málaga",
@@ -1454,6 +1484,11 @@
   "provincia": "Madrid",
   "lat": 40.6227,
   "lon": -3.9072
+ },
+ "huelma|jaen": {
+  "provincia": "Jaén",
+  "lat": 37.6473,
+  "lon": -3.4552
  },
  "huelva|huelva": {
   "provincia": "Huelva",
@@ -1687,6 +1722,7 @@
   "lat": 43.412,
   "lon": -2.9026
  },
+ "lena|asturias": null,
  "leon|leon": {
   "provincia": "León",
   "lat": 42.5935,
@@ -2033,6 +2069,11 @@
   "lat": 38.9099,
   "lon": -6.6152
  },
+ "montmelo|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5515,
+  "lon": 2.2481
+ },
  "montuiri|baleares": {
   "provincia": "Baleares",
   "lat": 39.5672,
@@ -2104,6 +2145,11 @@
   "lat": 41.7532,
   "lon": 1.9034
  },
+ "navas de jorquera|albacete": {
+  "provincia": "Albacete",
+  "lat": 39.2799,
+  "lon": -1.7184
+ },
  "nerja|malaga": {
   "provincia": "Málaga",
   "lat": 36.7469,
@@ -2167,6 +2213,7 @@
   "lat": 43.3221,
   "lon": -2.4222
  },
+ "onda|castellon": null,
  "ordes|a coruna": null,
  "orduna|bizkaia": {
   "provincia": "Bizkaia",
@@ -2253,6 +2300,11 @@
   "provincia": "Jaén",
   "lat": 38.093,
   "lon": -3.7807
+ },
+ "paterna de rivera|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.523,
+  "lon": -5.8647
  },
  "pedreguer|alicante": {
   "provincia": "Alicante",
@@ -2615,6 +2667,11 @@
   "lat": 41.3241,
   "lon": 2.0511
  },
+ "sant climent de llobregat|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.3367,
+  "lon": 1.9971
+ },
  "sant cugat del valles|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.4708,
@@ -2753,6 +2810,11 @@
   "provincia": "Bizkaia",
   "lat": 43.3093,
   "lon": -3.0075
+ },
+ "setenil de las bodegas|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.8622,
+  "lon": -5.1787
  },
  "sevilla|sevilla": {
   "provincia": "Sevilla",
@@ -2898,6 +2960,11 @@
   "provincia": "Murcia",
   "lat": 37.8869,
   "lon": -1.2163
+ },
+ "torrejoncillo|caceres": {
+  "provincia": "Cáceres",
+  "lat": 39.8965,
+  "lon": -6.4663
  },
  "torrelaguna|madrid": {
   "provincia": "Madrid",
@@ -3172,6 +3239,11 @@
   "provincia": "Valencia",
   "lat": 39.0332,
   "lon": -0.2152
+ },
+ "xirivella|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.4656,
+  "lon": -0.4308
  },
  "yebenes los|toledo": {
   "provincia": "Toledo",
