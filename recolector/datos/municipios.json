@@ -166,6 +166,11 @@
   "lat": 40.5961,
   "lon": -3.4974
  },
+ "alginet|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.2651,
+  "lon": -0.4717
+ },
  "algodonales|cadiz": {
   "provincia": "Cádiz",
   "lat": 36.8797,
@@ -741,6 +746,11 @@
   "provincia": "Murcia",
   "lat": 38.1047,
   "lon": -1.8611
+ },
+ "carboneras|almeria": {
+  "provincia": "Almería",
+  "lat": 36.9969,
+  "lon": -1.8947
  },
  "cardedeu|barcelona": {
   "provincia": "Barcelona",
@@ -1738,6 +1748,11 @@
   "lat": 41.6476,
   "lon": 2.3092
  },
+ "les rodanes|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.534,
+  "lon": -0.6183
+ },
  "libreria luces alameda principal|malaga": {
   "provincia": "Málaga",
   "lat": 36.7169,
@@ -2284,6 +2299,11 @@
   "lat": 39.5696,
   "lon": 2.6501
  },
+ "paradas|sevilla": {
+  "provincia": "Sevilla",
+  "lat": 37.2932,
+  "lon": -5.5049
+ },
  "paradinas de san juan|salamanca": null,
  "parets del valles|barcelona": {
   "provincia": "Barcelona",
@@ -2366,6 +2386,11 @@
   "provincia": "Cáceres",
   "lat": 40.0299,
   "lon": -6.0902
+ },
+ "plaza de espana santa fe|granada": {
+  "provincia": "Granada",
+  "lat": 37.1896,
+  "lon": -3.7185
  },
  "plaza de guajar fondon|granada": {
   "provincia": "Granada",
@@ -2652,6 +2677,11 @@
   "lat": 37.3864,
   "lon": -6.2024
  },
+ "sant adria de besos|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.4305,
+  "lon": 2.2183
+ },
  "sant andreu de la barca|barcelona": {
   "provincia": "Barcelona",
   "lat": 41.45,
@@ -2737,6 +2767,11 @@
   "provincia": "Murcia",
   "lat": 38.0211,
   "lon": -1.054
+ },
+ "santa fe|granada": {
+  "provincia": "Granada",
+  "lat": 37.1895,
+  "lon": -3.7184
  },
  "santa maraa de cayon|cantabria": null,
  "santa margarida de montbui|barcelona": {
@@ -3219,6 +3254,11 @@
   "lat": 41.114,
   "lon": 1.0387
  },
+ "viso de san juan el|toledo": {
+  "provincia": "Toledo",
+  "lat": 40.1494,
+  "lon": -3.9106
+ },
  "vista alegre|murcia": {
   "provincia": "Murcia",
   "lat": 37.6093,
@@ -3244,6 +3284,11 @@
   "provincia": "Valencia",
   "lat": 39.4656,
   "lon": -0.4308
+ },
+ "yaiza|las palmas": {
+  "provincia": "Las Palmas",
+  "lat": 28.938,
+  "lon": -13.7683
  },
  "yebenes los|toledo": {
   "provincia": "Toledo",

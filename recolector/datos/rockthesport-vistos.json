@@ -308,6 +308,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: 10K Camargo 2027 (None)"
  },
+ "10k-dulantzi-2027": {
+  "espana": true,
+  "provincia": "Álava",
+  "fecha": "2027-03-07"
+ },
  "10k-gimastica-ulia": {
   "espana": true,
   "provincia": "Gipuzkoa",
@@ -1711,6 +1716,11 @@
   "provincia": "Navarra",
   "fecha": "2026-10-10"
  },
+ "asomadero-trail-2027": {
+  "espana": true,
+  "provincia": "Santa Cruz de Tenerife",
+  "fecha": "2027-04-24"
+ },
  "asteasuko-ii-mendi-duatloia": {
   "espana": false,
   "motivo": "no es a pie: Asteasuko II. Mendi Duatloia"
@@ -2065,6 +2075,11 @@
   "espana": true,
   "provincia": "Málaga",
   "fecha": "2026-11-07"
+ },
+ "brunch-y-taller-de-centros-navidenos": {
+  "espana": true,
+  "provincia": "Cantabria",
+  "fecha": "2026-12-13"
  },
  "bugarra-contra-el-cancer-2026": {
   "espana": true,
@@ -4307,6 +4322,11 @@
   "provincia": "Albacete",
   "fecha": "2026-06-06"
  },
+ "gran-fondo-la-indomable-2027": {
+  "espana": true,
+  "provincia": "Almería",
+  "fecha": "2027-06-05"
+ },
  "gran-fondo-lloret-costa-brava-2026": {
   "espana": true,
   "provincia": "Girona",
@@ -5038,6 +5058,11 @@
   "espana": true,
   "provincia": "Toledo",
   "fecha": "2026-12-26"
+ },
+ "iii-carrera-solidaria-por-la-inclusion": {
+  "espana": true,
+  "provincia": "Madrid",
+  "fecha": "2026-12-13"
  },
  "iii-carrera-vertical-subida-a-las-antenas": {
   "espana": true,
@@ -6978,6 +7003,11 @@
   "provincia": "Lleida",
   "fecha": "2026-08-08"
  },
+ "montlude-skyrace-2027": {
+  "espana": true,
+  "provincia": "Lleida",
+  "fecha": "2027-08-07"
+ },
  "montsec-montsec-2026": {
   "espana": false,
   "motivo": "no es a pie: XVI Marcha Cicloturista Montsec Montsec 2026"
@@ -7328,6 +7358,11 @@
   "espana": true,
   "provincia": "Madrid",
   "fecha": "2026-12-20"
+ },
+ "openwater-nadarbien26": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: I OPEN WATER Nadar Bien (None)"
  },
  "openwaterswimmingcoach6": {
   "espana": false,
@@ -8077,6 +8112,11 @@
   "provincia": "Valladolid",
   "fecha": "2026-04-01"
  },
+ "rocodromo-alvaro-paredes-izquierdo-semana-3011-al-0512": {
+  "espana": true,
+  "provincia": "Valladolid",
+  "fecha": "2026-12-05"
+ },
  "romeria-2026": {
   "espana": true,
   "provincia": "Bizkaia",
@@ -8344,6 +8384,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-12-19"
+ },
+ "sant-esteve-salou-2026": {
+  "espana": true,
+  "provincia": "Tarragona",
+  "fecha": "2026-12-26"
  },
  "sant-esteve-salou-25": {
   "espana": true,
@@ -9920,6 +9965,11 @@
   "provincia": "La Rioja",
   "fecha": "2026-05-09"
  },
+ "v-trail-pena-cabarga-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: V Trail Peña Cabarga 2027 (None)"
+ },
  "v-trail-sastago": {
   "espana": true,
   "provincia": "Zaragoza",
@@ -10217,6 +10267,11 @@
   "provincia": "Barcelona",
   "fecha": "2026-09-20"
  },
+ "vii-cursa-sant-silvestre-gregoriana": {
+  "espana": true,
+  "provincia": "Girona",
+  "fecha": "2026-12-27"
+ },
  "vii-edelweiss-race": {
   "espana": true,
   "provincia": "Huesca",
@@ -10331,6 +10386,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: VIII Rodanas Trail Race – Villa de Epila (None)"
+ },
+ "viii-san-ripense": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: VIII San Ripense (None)"
  },
  "viii-trail-urrea-de-gaen": {
   "espana": true,
@@ -11124,6 +11184,11 @@
   "espana": true,
   "provincia": "Toledo",
   "fecha": "2026-10-17"
+ },
+ "xiv-carrera-popular-stop-sanfilippo": {
+  "espana": true,
+  "provincia": "Madrid",
+  "fecha": "2027-04-18"
  },
  "xiv-carrera-por_montana-sierra-de-chiva": {
   "espana": true,
@@ -12061,6 +12126,11 @@
   "espana": true,
   "provincia": "Gipuzkoa",
   "fecha": "2026-05-10"
+ },
+ "zazpibide-trail-2027": {
+  "espana": true,
+  "provincia": "Gipuzkoa",
+  "fecha": "2027-05-09"
  },
  "zegama-aizkorri2026": {
   "espana": true,
