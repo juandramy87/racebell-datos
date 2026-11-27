@@ -1,8 +1,8 @@
 {
  "fuentes": {
   "dorsalchip": {
-   "leidas": 49,
-   "en_plazo": 49
+   "leidas": 48,
+   "en_plazo": 48
   },
   "tecnocrono": {
    "leidas": 20,
@@ -13,28 +13,28 @@
    "en_plazo": 6
   },
   "globaltempo": {
-   "leidas": 15,
-   "en_plazo": 15
+   "leidas": 16,
+   "en_plazo": 16
   },
   "faa": {
-   "leidas": 30,
-   "en_plazo": 30
+   "leidas": 0,
+   "en_plazo": 0
   },
   "gesconchip": {
    "leidas": 23,
    "en_plazo": 23
   },
   "corredorespopulares": {
-   "leidas": 14,
-   "en_plazo": 14
+   "leidas": 15,
+   "en_plazo": 15
   },
   "cronius": {
    "leidas": 12,
    "en_plazo": 10
   },
   "inscrik": {
-   "leidas": 19,
-   "en_plazo": 13
+   "leidas": 20,
+   "en_plazo": 14
   },
   "deportime": {
    "leidas": 11,
@@ -49,20 +49,20 @@
    "en_plazo": 10
   },
   "alcanzatumeta": {
-   "leidas": 48,
-   "en_plazo": 48
+   "leidas": 49,
+   "en_plazo": 49
   },
   "rockthesport": {
-   "leidas": 355,
-   "en_plazo": 355
+   "leidas": 361,
+   "en_plazo": 361
   },
   "rtsmadrid": {
    "leidas": 2,
    "en_plazo": 2
   },
   "mychip": {
-   "leidas": 40,
-   "en_plazo": 40
+   "leidas": 41,
+   "en_plazo": 41
   },
   "cancerpancreas": {
    "leidas": 7,
@@ -85,16 +85,16 @@
    "en_plazo": 8
   },
   "cruzandolameta": {
-   "leidas": 19,
-   "en_plazo": 19
+   "leidas": 20,
+   "en_plazo": 20
   },
   "tucarrera": {
    "leidas": 8,
    "en_plazo": 2
   },
   "ruta091": {
-   "leidas": 1,
-   "en_plazo": 1
+   "leidas": 2,
+   "en_plazo": 2
   },
   "cronofinisher": {
    "leidas": 22,
@@ -105,8 +105,8 @@
    "en_plazo": 4
   },
   "sportmaniacs": {
-   "leidas": 113,
-   "en_plazo": 113
+   "leidas": 115,
+   "en_plazo": 115
   },
   "xipgroc": {
    "leidas": 45,
@@ -133,8 +133,8 @@
    "en_plazo": 3
   },
   "gesportcat": {
-   "leidas": 10,
-   "en_plazo": 5
+   "leidas": 11,
+   "en_plazo": 6
   },
   "plaestany": {
    "leidas": 6,
@@ -161,15 +161,15 @@
    "en_plazo": 19
   },
   "dorsal21": {
-   "leidas": 16,
-   "en_plazo": 16
+   "leidas": 17,
+   "en_plazo": 17
   },
   "cronorunner": {
    "leidas": 18,
    "en_plazo": 18
   },
   "chiplevante": {
-   "leidas": 19,
+   "leidas": 20,
    "en_plazo": 12
   },
   "runatica": {
@@ -193,8 +193,8 @@
    "en_plazo": 3
   },
   "cronoline": {
-   "leidas": 2,
-   "en_plazo": 2
+   "leidas": 3,
+   "en_plazo": 3
   },
   "holaislascanarias": {
    "leidas": 12,
@@ -217,32 +217,32 @@
    "en_plazo": 3
   },
   "youevent": {
-   "leidas": 46,
-   "en_plazo": 46
+   "leidas": 50,
+   "en_plazo": 50
   },
   "orycronsport": {
-   "leidas": 8,
-   "en_plazo": 7
+   "leidas": 9,
+   "en_plazo": 8
   },
   "timingsys": {
    "leidas": 6,
    "en_plazo": 6
   },
   "kirolprobak": {
-   "leidas": 13,
-   "en_plazo": 13
+   "leidas": 15,
+   "en_plazo": 15
   },
   "buscametas": {
-   "leidas": 11,
-   "en_plazo": 10
+   "leidas": 12,
+   "en_plazo": 11
   },
   "fga": {
    "leidas": 42,
    "en_plazo": 24
   },
   "321go": {
-   "leidas": 8,
-   "en_plazo": 8
+   "leidas": 9,
+   "en_plazo": 9
   },
   "fcatle": {
    "leidas": 122,
@@ -261,8 +261,8 @@
    "en_plazo": 44
   },
   "faib": {
-   "leidas": 937,
-   "en_plazo": 33
+   "leidas": 940,
+   "en_plazo": 36
   },
   "atletismoaragon": {
    "leidas": 26,
@@ -369,9 +369,11 @@
    "no es a pie: Carrera Popular LA PARROQUIA EN MARCHA 2026"
   ],
   "rockthesport": [
-   "fuera de España o sin provincia: I OPEN WATER Nadar Bien (None)",
-   "fuera de España o sin provincia: V Trail Peña Cabarga 2027 (None)",
-   "fuera de España o sin provincia: VIII San Ripense (None)"
+   "fuera de España o sin provincia: Vielha Cycling Tour Val d´Aran 2027 (None)",
+   "fuera de España o sin provincia: Unda-armikelo Mendi Lasterketa 2027 (None)",
+   "no es a pie: X. OGIBERRI SARIA-X TROFEO OGIBERRI / Txakurkrossa 2027",
+   "fuera de España o sin provincia: 13. Garin Mendi-lasterketa (None)",
+   "fuera de España o sin provincia: VIII San Silvestre Rivas (None)"
   ],
   "rtsmadrid": [
    "no es de Madrid o no se ubica: 1-prueba-de-xx-copa-de-castilla-y-leon-de-carreras-en-linea-trail-del-tornicho",
@@ -423,7 +425,7 @@
   "ruta091": [],
   "cronofinisher": [],
   "time2run": [
-   "no es a pie: The Hybrid Run (fitness)",
+   "no es a pie: The Hybrid Run – Antequera (fitness)",
    "no es a pie: Road to Hybrid Manchego – Jornada 1 – Torreón (fitness)",
    "no es a pie: Road to Hybrid Manchego – Jornada 2 – Toledo (fitness)",
    "no es a pie: L.H.A. Sevilla (fitness)",
@@ -435,6 +437,7 @@
   ],
   "sportmaniacs": [
    "no es a pie: Campeonato Nacional de Triatlón Gran Jaguar 70.3 2026",
+   "no es a pie: IV Duatlón Escolar Castellón",
    "no es a pie: X Carrera Amafi Run, IX Canicross Amafi y V Marcha Senderista Amafi de Yepes.",
    "no es a pie: Garmin Duatlón Series 2026",
    "no es a pie: BTT Volcanolimits Olot 2026",
@@ -484,6 +487,7 @@
    "no es a pie (marcha): Caminada d'Artesa de Lleida",
    "no es a pie (duatlón): Duatló Cross Hivernal Memorial Xavier Gorgues - INDIVIDUAL",
    "no es a pie (duatlón): Duatló Cross Hivernal Memorial Xavier Gorgues - PARELLES",
+   "no es a pie (no es una carrera): Upground Relays",
    "no es a pie (marcha): CAMINADA - Pujada a la Seu Vella",
    "no es a pie (infantil): 43a Cursa de l'Indiot (Curses Infantils)",
    "no es a pie (no es una carrera): COMPRA IMPERMEABLE - Cursa de l'Indiot",
@@ -491,8 +495,7 @@
    "no es a pie (no es una carrera): OBSEQUI - Trail Sagrat Cor - Alguaire",
    "no es a pie (marcha): CAMINADA - Cursa de l'orelleta de Castellnou de Seana",
    "no es a pie (infantil): CURSES INFANTILS - Cursa de l'orelleta de Castellnou de Seana",
-   "no es a pie (no es una carrera): 4a Guissona Backyard Ultra",
-   "no es a pie (marcha): Guissona Backyard Ultra - MARXA"
+   "no es a pie (no es una carrera): 4a Guissona Backyard Ultra"
   ],
   "cursescat": [
    "no es a pie o infantil: II Caminada Recuperació TCA (caminada)",
@@ -514,6 +517,7 @@
    "no es a pie: Aguas Abiertas Arapo 2026",
    "no es a pie: Trofeu Múixing El Perelló 2027",
    "no es a pie: 42 Concentración invernal Villa de Rota",
+   "sin municipio: La Cursa dels Llebrers 2027",
    "sin municipio: Usansoloko X. Herri Lasterketa",
    "sin municipio: I Carrera Popular Las Breñas",
    "sin municipio: I Carrera Popular Las Breñas"
@@ -546,15 +550,15 @@
   "chiplevante": [
    "no es a pie: Hyrace Crevillente",
    "no es a pie: Marcha BTT Albacete",
+   "no es a pie: Choco-marcha Navideña Torrellano",
    "no es a pie: Marcha BTT Quematurrones",
    "no es a pie: Tnc Hybrid Challenge",
    "no es a pie: Hyrace Benidorm",
    "no es a pie: Caminata por la Salud Elche",
-   "no es a pie: Marcha BTT Hellin",
    "no es a pie: Marcha BTT la Nucía",
+   "no es a pie: Marcha BTT Hellin",
    "no es a pie: Marcha BTT Chinchilla",
-   "no es a pie: Ruta Ermites del Camp D'elx",
-   "no es a pie: Marcha BTT Elche de la Sierra"
+   "no es a pie: Ruta Ermites del Camp D'elx"
   ],
   "runatica": [
    "no es a pie: Circuito Gudar Javalambre",
@@ -648,6 +652,7 @@
   "canaryrun": [],
   "timinglap": [],
   "fetacyl": [
+   "no es carrera popular: Control Autonomico de Pruebas Combinadas",
    "no es carrera popular: Cto. España de Clubes Pista Cubierta Sub 20",
    "no es carrera popular: Cto. España 10 km marcha en ruta Máster",
    "no es carrera popular: Cto. España Marcha de Invierno de Promoción",
@@ -666,6 +671,7 @@
   "youevent": [
    "no es carrera a pie: Sobria y Serena: Té de Construyo ( / )",
    "no es carrera a pie: Rider Ruta de los Omeyas (MOTOCICLISMO / RUTA MOTO-TURÍSTICA)",
+   "no es carrera a pie: El Techo de Cuenca y el Nacimiento del Júcar (MONTAÑA / SENDERISMO)",
    "no es a pie: XV Marcha Popular Solidaria Cerro Marmota (ATLETISMO - CARRERA POPULAR)",
    "no es carrera a pie: XV Dorsal Solidario Cerro Marmota - Dorsal 0 (ATLETISMO / ATLETISMO - CARRERA POPULAR)",
    "no es carrera a pie: XV Zumba Popular Solidaria Cerro Marmota (ATLETISMO / ATLETISMO - CARRERA POPULAR)",
@@ -720,7 +726,9 @@
    "no es a pie: ADULTOS RUNNING CUENCA TEMPORADA 2026 - 2027 (ESCUELAS)",
    "no es a pie: IV TOUR CYCLING SERRANÍA CONQUENSE 2027 (CICLISMO CARRETERA)"
   ],
-  "kirolprobak": [],
+  "kirolprobak": [
+   "sin datos de evento: https://inscripcion.kirolprobak.com/inscripcion/aiako-xvi-mendi-lasterketa-pagoeta-parke-naturalean/"
+  ],
   "buscametas": [],
   "fga": [
    "no es carrera popular: XOGADE – Cros Carballo 2026",
@@ -758,6 +766,7 @@
    "no es carrera popular a pie: Campionato Xunta de Galicia de Probas Combinadas Clubs en Pista Curta – Criterium de Combinadas de Inverno 2026 (Pista Curta)",
    "no es carrera popular a pie: Control de Marcas de Inverno CAR 2026 (Pista Curta)",
    "no es carrera popular a pie: Trofeo Solidario do Nadal 2026 (Pista Aire Libre)",
+   "no es carrera popular a pie: Trofeo EDUSPORTIA 2026 (Pista Curta)",
    "no es carrera popular a pie: Circuíto Galego de Marcha Atlética 2026 – Xornada Ames (Marcha)",
    "no es carrera popular a pie: VIII Trofeo + Deporte La Región en Pista Curta (Pista Curta)",
    "no es carrera popular a pie: III Circuíto Galego de Lanzamentos Longos (Pista Aire Libre)",
@@ -781,7 +790,6 @@
    "no es carrera popular a pie: XI Campionato Xunta de Galicia de Lanzamentos Longos Máster (Pista Aire Libre)"
   ],
   "321go": [
-   "competición escolar: 2º Campo a Través Escolar Zonal de Mieres",
    "no es a pie: III Gala Solidaria Pola Salu Mental (Otro)",
    "no es a pie: Andaina Solidaria de Cuntis (Andaina)",
    "sin provincia: San Silvestre Praviana 2026 (Pravia, España)"
@@ -1136,7 +1144,7 @@
    "no es a pie: II Marcha Atlética Ciudad de Llerena y II 5k en Ruta Ciudad de Llerena",
    "competición federada, no popular: Campeonato de España de Campo a Través por clubes",
    "competición federada, no popular: I Control de Marcas Judex de Invierno Diputación de Cáceres",
-   "competición federada, no popular: I Control de Marcas Diputación de Cáceres",
+   "competición federada, no popular: I Control de Marcas Diputación de Cáceres y NII",
    "competición federada, no popular: Cross Cantimpalos - Selección Diputación Cáceres",
    "competición federada, no popular: III Jornada Judex de Campo a Través",
    "competición federada, no popular: Campeonato de España de Marcha de Invierno de Promoción",
@@ -1165,13 +1173,14 @@
   ]
  },
  "avisos": [
+  "faa: 0 carreras. ¿Ha cambiado la web? (se mantienen 30 de la pasada anterior)",
   "9hsports: ERROR No se pudo descargar https://www.9hsports.cat/ca/inscripcions: HTTP Error 403: Forbidden (se mantienen 0 de la pasada anterior)",
   "fam: ERROR No se pudo descargar https://www.atletismomadrid.com/calendario/carreras-populares?cal_year=2026: HTTP Error 403: Forbidden (se mantienen 0 de la pasada anterior)",
   "dipualba: ERROR No se pudo descargar https://deportes.dipualba.es/deportes/pruebas-carreras-populares: <urlopen error timed out> (se mantienen 0 de la pasada anterior)",
-  "kirolbide: ERROR la agenda pide un captcha antirobots (no se salta) (se mantienen 0 de la pasada anterior)"
+  "kirolbide: ERROR No se pudo descargar https://www.bizkaia.eus/es/kirolbidepro/agenda?p_p_id=net_bizkaia_iybiwkgc_AgendaNuevaPortlet_INSTANCE_PXa6ElTd6cKR&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_net_bizkaia_iybiwkgc_AgendaNuevaPortlet_INSTANCE_PXa6ElTd6cKR_busquedaManual=1&_net_bizkaia_iybiwkgc_AgendaNuevaPortlet_INSTANCE_PXa6ElTd6cKR_deporte=13532638%2C13943699&_net_bizkaia_iybiwkgc_AgendaNuevaPortlet_INSTANCE_PXa6ElTd6cKR_fecha_busqueda=27%2F11%2F2026: <urlopen error timed out> (se mantienen 0 de la pasada anterior)"
  ],
- "carteles_aplicados": 13,
- "municipios_completados": 815,
+ "carteles_aplicados": 0,
+ "municipios_completados": 817,
  "uniones": [
   "2026-12-05 · VI Solidaria de Guaro UCS [dorsalchip] = VI Solidaria de Guaro UCS [olarivers]",
   "2026-12-06 · XIII CxM Faraján [dorsalchip] = XIII CxM Faraján [olarivers]",
@@ -1203,12 +1212,13 @@
   "2026-12-20 · 3ª Carrera Popular de Navidad el Rubio [corredorespopulares] = Carrera Popular de Navidad de El Rubio 2026 [sportmaniacs]",
   "2026-12-12 · IV CxM el Vergel Bérchules-alcútar 2026 [inscrik] = IV CxM el Vergel Bérchules-alcútar 2026 [cruzandolameta]",
   "2026-12-13 · VII Extreme Iberus CxM [inscrik] = VII Extreme Iberus CxM [cruzandolameta]",
+  "2026-12-18 · San Silvestre Ciudad de Motril [inscrik] = San Silvestre Ciudad de Motril [cruzandolameta]",
   "2026-12-19 · XVI San Silvestre Subida Al Castillejo [inscrik] = XVI San Silvestre Subida Al Castillejo [cruzandolameta]",
   "2026-12-19 · Carrera Nocturna San Silvestre Santa Fe 2026 [inscrik] = Carrera Nocturna San Silvestre Santa Fe 2026 [cruzandolameta]",
   "2026-12-20 · XXVII Subida Pedestre Al Conjuro [inscrik] = XXVII Subida Pedestre Al Conjuro [cruzandolameta]",
   "2026-12-20 · IV Carrera San Silvestre Atarfe 2026 [inscrik] = IV Carrera San Silvestre Atarfe 2026 [cruzandolameta]",
-  "2026-12-26 · San Silvestre Roquetas de Mar 2026 [inscrik] = San Silvestre Roquetas de Mar 2026 [cruzandolameta]",
   "2026-12-26 · XXX San Silvestre Bailén [inscrik] = XXX San Silvestre Bailén [cruzandolameta]",
+  "2026-12-26 · San Silvestre Roquetas de Mar 2026 [inscrik] = San Silvestre Roquetas de Mar 2026 [cruzandolameta]",
   "2026-12-27 · XXXIX San Silvestre el Ejido 2026 [inscrik] = XXXIX San Silvestre el Ejido 2026 [cruzandolameta]",
   "2026-12-30 · San Silvestre Vegas del Genil 2026 [inscrik] = San Silvestre Vegas del Genil 2026 [cruzandolameta]",
   "2027-01-10 · Relevos por Equipos ''la Alquería 2027'' [inscrik] = Relevos por Equipos ''la Alquería 2027'' [cruzandolameta]",
@@ -1222,6 +1232,7 @@
   "2026-12-19 · San Silvestre Bruja Alcantarilla 2026 [alcanzatumeta] = San Silvestre Bruja Alcantarilla 2026 [dorsal21]",
   "2026-12-20 · XXXVII Media Maratón Ciudad de Cieza y XVII 11.3K Solidarios 2026 [alcanzatumeta] = XXXVII Media Maratón Ciudad de Cieza y XVII 11.3K Solidarios 2026 [dorsal21]",
   "2026-12-26 · San Silvestre Trail de Pliego 2026 [alcanzatumeta] = San Silvestre Trail de Pliego 2026 [dorsal21]",
+  "2027-03-07 · 34 Edición Media Maratón y 10K Ciudad de Cartagena 2027 [alcanzatumeta] = Media Maratón y 10K ‐ Ciudad de Cartagena 2027 [lineadesalida]",
   "2027-10-16 · Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx [rockthesport] = Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx [mychip]",
   "2027-10-10 · Maratón de Estepona Jardin de la Costa del Sol [rockthesport] = Maratón Costa del Sol Estepona 2027 [anunciadas]",
   "2027-05-30 · TRES TOSSALS ‐ GATA GORGOS, 9e. Circuit Trail Marina 26/27 [rockthesport] = TRES TOSSALS ‐ GATA GORGOS, 9e. Circuit Trail Marina 26/27 [mychip]",
@@ -1311,6 +1322,7 @@
   "2026-12-12 · Maratón Dany Sport Corralejo Grandes Playas [cronoline] = Maratón Dany Sport Corralejo [holaislascanarias]",
   "2026-12-31 · San Silvestre Golden Mile [holaislascanarias] = X San Silvestre Golden Mile Playa de las Américas [gesport]",
   "2026-12-31 · X San Sin Vilviestre Royana [fetacyl] = X San Vilviestre Royana [soriatletismo]",
+  "2026-12-31 · XXXVI San Silvestre Segoviana [fetacyl] = XXXVI San Silvestre Segoviana - Adultos (cajón 1) [youevent] = XXXVI San Silvestre Segoviana - Adultos (cajón 2) [youevent] = XXXVI San Silvestre Segoviana - Adultos (cajón 3) [youevent] = XXXVI San Silvestre Segoviana - Menores [youevent]",
   "2026-12-26 · XXXI Carrera Popular de Navidad Ciudad de Soria [fetacyl] = XXXI Carrera Popular de Navidad-ciudad de Soria [soriatletismo]",
   "2026-12-24 · XIV Legua y Media Navideña [fetacyl] = XIV Legua y Media Navideña [soriatletismo]",
   "2026-12-08 · LIV Cross Nacional Ayuntamiento de Cantimpalos [fetacyl] = LIV Cross Nacional Ayuntamiento de Cantimpalos [youevent]",

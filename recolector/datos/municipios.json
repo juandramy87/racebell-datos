@@ -40,6 +40,11 @@
   "lat": 42.3938,
   "lon": 2.8469
  },
+ "alaior|baleares": {
+  "provincia": "Baleares",
+  "lat": 39.9337,
+  "lon": 4.1398
+ },
  "alaro|baleares": {
   "provincia": "Baleares",
   "lat": 39.7062,
@@ -49,6 +54,11 @@
   "provincia": "Valencia",
   "lat": 39.2013,
   "lon": -0.3866
+ },
+ "albalat dels tarongers|valencia": {
+  "provincia": "Valencia",
+  "lat": 39.7029,
+  "lon": -0.3372
  },
  "albanchez|almeria": {
   "provincia": "Almería",
@@ -1393,6 +1403,11 @@
   "lat": 41.9793,
   "lon": 2.8199
  },
+ "gran tarajal|las palmas": {
+  "provincia": "Las Palmas",
+  "lat": 28.2128,
+  "lon": -14.0217
+ },
  "granada|granada": {
   "provincia": "Granada",
   "lat": 37.1735,
@@ -1793,6 +1808,11 @@
   "lat": 41.6086,
   "lon": 2.2395
  },
+ "llica de vall|barcelona": {
+  "provincia": "Barcelona",
+  "lat": 41.5863,
+  "lon": 2.2391
+ },
  "llosa de ranes la|valencia": {
   "provincia": "Valencia",
   "lat": 39.0214,
@@ -1839,6 +1859,7 @@
   "lat": 43.4613,
   "lon": -3.7196
  },
+ "los balbases|salamanca": null,
  "los canarios|santa cruz de tenerife": {
   "provincia": "Santa Cruz de Tenerife",
   "lat": 28.4925,
@@ -2788,6 +2809,11 @@
   "provincia": "Barcelona",
   "lat": 41.6357,
   "lon": 2.7066
+ },
+ "santaella|cordoba": {
+  "provincia": "Córdoba",
+  "lat": 37.5613,
+  "lon": -4.8426
  },
  "santander|cantabria": {
   "provincia": "Cantabria",

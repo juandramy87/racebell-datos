@@ -468,6 +468,11 @@
   "provincia": "Madrid",
   "fecha": "2026-10-25"
  },
+ "13-garin-mendi-lasterketa-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: 13. Garin Mendi-lasterketa (None)"
+ },
  "13-nit-solidaria-barcelona-contra-el-cancer": {
   "espana": true,
   "provincia": "Barcelona",
@@ -822,6 +827,11 @@
   "espana": true,
   "provincia": "Tarragona",
   "fecha": "2026-07-04"
+ },
+ "27-cursa-sant-silvestre-vilanova-del-cami": {
+  "espana": true,
+  "provincia": "Barcelona",
+  "fecha": "2026-12-31"
  },
  "27-extreme-bardenas-2026": {
   "espana": true,
@@ -1826,6 +1836,11 @@
   "espana": true,
   "provincia": "Alicante",
   "fecha": "2026-10-04"
+ },
+ "baila-contra-el-cancer-olivenza": {
+  "espana": true,
+  "provincia": "Badajoz",
+  "fecha": "2026-12-26"
  },
  "baila-merida-contra-el-cancer-de-mama": {
   "espana": true,
@@ -4758,6 +4773,11 @@
   "provincia": "Navarra",
   "fecha": "2026-09-19"
  },
+ "iberus-race-ocr-milagro-2027": {
+  "espana": true,
+  "provincia": "Navarra",
+  "fecha": "2027-05-28"
+ },
  "ibiza-media-maraton-2027": {
   "espana": false,
   "v3": true,
@@ -6104,6 +6124,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-09-26"
+ },
+ "la-cerratada-road": {
+  "espana": true,
+  "provincia": "Palencia",
+  "fecha": "2027-06-06"
  },
  "la-conquista-del-castillo-2026": {
   "espana": false,
@@ -8265,6 +8290,11 @@
   "provincia": "Huesca",
   "fecha": "2026-12-31"
  },
+ "san-silvestre-de-llanes-2026": {
+  "espana": true,
+  "provincia": "Asturias",
+  "fecha": "2026-12-31"
+ },
  "san-silvestre-ejeana-solidaria-2025": {
   "espana": true,
   "provincia": "Zaragoza",
@@ -8434,6 +8464,11 @@
   "espana": true,
   "provincia": "Tarragona",
   "fecha": "2025-12-28"
+ },
+ "sant-silvestre-les-borges-del-camp-2026": {
+  "espana": true,
+  "provincia": "Tarragona",
+  "fecha": "2026-12-27"
  },
  "sant-silvestre-montblanquina-2025": {
   "espana": true,
@@ -9692,6 +9727,11 @@
   "provincia": "Tarragona",
   "fecha": "2026-04-26"
  },
+ "unda-armikelo-mendi-lasterketa-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: Unda-armikelo Mendi Lasterketa 2027 (None)"
+ },
  "unicaja-ultra-sierra-nevada-2026": {
   "andaluza": true,
   "fecha": "2026-04-10"
@@ -10212,6 +10252,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: Vielha Cycling Tour Val d´Aran 2026 (None)"
  },
+ "vielha-cycling-tour-val-daran-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: Vielha Cycling Tour Val d´Aran 2027 (None)"
+ },
  "vientos-mineros-trail-2026": {
   "espana": true,
   "provincia": "Teruel",
@@ -10391,6 +10436,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: VIII San Ripense (None)"
+ },
+ "viii-san-silvestre-rivas": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: VIII San Silvestre Rivas (None)"
  },
  "viii-trail-urrea-de-gaen": {
   "espana": true,
@@ -10673,6 +10723,11 @@
   "espana": true,
   "provincia": "Navarra",
   "fecha": "2026-01-25"
+ },
+ "x-ogiberri-saria-x-trofeo-ogiberri-txakurkrossa-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: X. OGIBERRI SARIA-X TROFEO OGIBERRI / Txakurkrossa 2027"
  },
  "x-perimetrail-rett-serra-vernissa-lliga-de-muntanya-valencia-sud-2526": {
   "espana": true,
