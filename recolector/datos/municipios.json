@@ -1322,6 +1322,11 @@
   "lat": 37.7225,
   "lon": -1.1616
  },
+ "fuente de cantos|badajoz": {
+  "provincia": "Badajoz",
+  "lat": 38.2461,
+  "lon": -6.3074
+ },
  "fuente del maestre|badajoz": {
   "provincia": "Badajoz",
   "lat": 38.5269,
@@ -1625,6 +1630,11 @@
   "lat": 36.7788,
   "lon": -3.0049
  },
+ "la barca de la florida jerez|cadiz": {
+  "provincia": "Cádiz",
+  "lat": 36.6476,
+  "lon": -5.9349
+ },
  "la cabrera|madrid": {
   "provincia": "Madrid",
   "lat": 40.8652,
@@ -1812,6 +1822,11 @@
   "provincia": "Barcelona",
   "lat": 41.5863,
   "lon": 2.2391
+ },
+ "llobera|lleida": {
+  "provincia": "Lleida",
+  "lat": 41.9509,
+  "lon": 1.4724
  },
  "llosa de ranes la|valencia": {
   "provincia": "Valencia",
@@ -2549,6 +2564,11 @@
   "lat": 38.1541,
   "lon": -1.3668
  },
+ "riera de gaia la|tarragona": {
+  "provincia": "Tarragona",
+  "lat": 41.1686,
+  "lon": 1.3583
+ },
  "rincon de la victoria|malaga": {
   "provincia": "Málaga",
   "lat": 36.7162,
@@ -3151,6 +3171,11 @@
   "provincia": "Las Palmas",
   "lat": 28.0452,
   "lon": -15.5826
+ },
+ "valleseco|santa cruz de tenerife": {
+  "provincia": "Santa Cruz de Tenerife",
+  "lat": 28.4883,
+  "lon": -16.2387
  },
  "vallirana|barcelona": {
   "provincia": "Barcelona",

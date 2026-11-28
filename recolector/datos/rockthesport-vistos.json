@@ -3822,6 +3822,11 @@
   "provincia": "Barcelona",
   "fecha": "2026-10-17"
  },
+ "el-tratado": {
+  "espana": false,
+  "v3": true,
+  "motivo": "no es a pie: El Tratado Gravel"
+ },
  "eltxo-trail-2026": {
   "espana": true,
   "provincia": "Gipuzkoa",
@@ -5826,6 +5831,11 @@
   "provincia": "Málaga",
   "fecha": "2026-02-21"
  },
+ "jimera-tres-trails-2027": {
+  "espana": true,
+  "provincia": "Málaga",
+  "fecha": "2027-02-20"
+ },
  "jinglegirls": {
   "espana": true,
   "provincia": "Barcelona",
@@ -6393,6 +6403,11 @@
   "v3": true,
   "motivo": "fuera de España o sin provincia: La Vaqueira 2026 (None)"
  },
+ "lavaqueira2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: La Vaqueira 2027 (None)"
+ },
  "legazpi-san-silbestrea-2025": {
   "espana": true,
   "provincia": "Gipuzkoa",
@@ -6713,6 +6728,11 @@
   "espana": true,
   "provincia": "Castellón",
   "fecha": "2026-02-21"
+ },
+ "maraton-infantil-salera-27": {
+  "espana": true,
+  "provincia": "Castellón",
+  "fecha": "2027-02-13"
  },
  "maraton-sierra-de-mijas": {
   "andaluza": true,
@@ -7537,6 +7557,11 @@
   "espana": false,
   "v3": true,
   "motivo": "fuera de España o sin provincia: Pedals de Foc Non Stop 2026 (None)"
+ },
+ "pedals-de-foc-non-stop-2027": {
+  "espana": false,
+  "v3": true,
+  "motivo": "fuera de España o sin provincia: Pedals de Foc Non Stop 2027 (None)"
  },
  "pedralba-contra-el-cancer-2026": {
   "espana": true,
